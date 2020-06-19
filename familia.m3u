@@ -1,355 +1,199 @@
 #EXTM3U
-#EXTINF:-1,A&E HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2507
-#EXTINF:-1,AMC HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2509
-#EXTINF:-1,ANIMAL PLANET HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2551
-#EXTINF:-1,ANIMAL PLANET SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6652
-#EXTINF:-1,AXN HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2550
-#EXTINF:-1,AXN SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6649
-#EXTINF:-1,BABY TV SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6615
-#EXTINF:-1,Band BSB HD
-http://apptv.mine.nu:37001/leo2020/leo2020/9507
-#EXTINF:-1,BAND NEWS SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6648
-#EXTINF:-1,BAND RS HD
-http://apptv.mine.nu:37001/leo2020/leo2020/7000
-#EXTINF:-1,Band Sergipe HD
-http://apptv.mine.nu:37001/leo2020/leo2020/9509
-#EXTINF:-1,BAND SP HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2549
-#EXTINF:-1,BAND SPORTS HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2548
-#EXTINF:-1,BIS HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2547
-#EXTINF:-1,BOOMERANG SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6606
-#EXTINF:-1,CANAL DO BOI SD
-http://apptv.mine.nu:37001/leo2020/leo2020/4243
-#EXTINF:-1,CANAL SONY HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2545
-#EXTINF:-1,CANCAO NOVA
-http://apptv.mine.nu:37001/leo2020/leo2020/2546
-#EXTINF:-1,CARTOON NETWORK HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2497
-#EXTINF:-1,CINEMAX HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2491
-#EXTINF:-1,CINEMAX SD
-http://apptv.mine.nu:37001/leo2020/leo2020/2490
-#EXTINF:-1,COMBATE HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2544
-#EXTINF:-1,COMBATE SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6630
-#EXTINF:-1,COMEDY CENTRAL HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2488
-#EXTINF:-1,DAZN 01 HD
-http://apptv.mine.nu:37001/leo2020/leo2020/7880
-#EXTINF:-1,DAZN 02 HD
-http://apptv.mine.nu:37001/leo2020/leo2020/9510
-#EXTINF:-1,DAZN 03 HD
-http://apptv.mine.nu:37001/leo2020/leo2020/9511
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2543
-#EXTINF:-1,DISCOVERY CHANNEL SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6605
-#EXTINF:-1,DISCOVERY CIVILIZATION HD
-http://apptv.mine.nu:37001/leo2020/leo2020/4248
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2542
-#EXTINF:-1,DISCOVERY KIDS HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2484
-#EXTINF:-1,DISCOVERY KIDS SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6604
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://apptv.mine.nu:37001/leo2020/leo2020/4249
-#EXTINF:-1,DISCOVERY THEATER HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2541
-#EXTINF:-1,DISCOVERY TURBO HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2540
-#EXTINF:-1,DISCOVERY WORLD  HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2482
-#EXTINF:-1,DISNEY CHANNEL HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2481
-#EXTINF:-1,DISNEY CHANNEL SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6601
-#EXTINF:-1,DISNEY JUNIOR HD
-http://apptv.mine.nu:37001/leo2020/leo2020/4252
-#EXTINF:-1,DISNEY Junior SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6628
-#EXTINF:-1,DISNEY XD SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6627
-#EXTINF:-1,E! HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2478
-#EXTINF:-1,EPTV Campinas SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/4269
-#EXTINF:-1,ESPN 2 HD
-http://apptv.mine.nu:37001/leo2020/leo2020/9499
-#EXTINF:-1,ESPN BRASIL HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2537
-#EXTINF:-1,ESPN BRASIL SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6642
-#EXTINF:-1,ESPN EXTRA HD
-http://apptv.mine.nu:37001/leo2020/leo2020/4254
-#EXTINF:-1,ESPN HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2473
-#EXTINF:-1,FISH TV SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/8708
-#EXTINF:-1,FOOD NETWORK HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2468
-#EXTINF:-1,FOX HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2535
-#EXTINF:-1,FOX LIFE HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2534
-#EXTINF:-1,FOX PREMIUM 1 HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2467
-#EXTINF:-1,FOX PREMIUM 2 HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2466
-#EXTINF:-1,FOX SPORTS 2 HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2533
-#EXTINF:-1,FOX SPORTS HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2463
-#EXTINF:-1,FOX SPORTS SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6611
-#EXTINF:-1,FX HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2531
-#EXTINF:-1,GLOBO EPTV RIBERAO PRETO SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/4273
-#EXTINF:-1,GLOBO GAZETA SUL ES
-http://apptv.mine.nu:37001/leo2020/leo2020/9519
-#EXTINF:-1,GLOBO GAZETA SUL ES. HD
-http://apptv.mine.nu:37001/leo2020/leo2020/9521
-#EXTINF:-1,Globo Internacional HD
-http://apptv.mine.nu:37001/leo2020/leo2020/9522
-#EXTINF:-1,GLOBO MINAS HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2456
-#EXTINF:-1,GLOBO NEWS HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2454
-#EXTINF:-1,GLOBO NEWS SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6598
-#EXTINF:-1,GLOBO NORDESTE SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/2302
-#EXTINF:-1,GLOBO RJ HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2530
-#EXTINF:-1,Globo RJ SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6639
-#EXTINF:-1,GLOBO SP HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2450
-#EXTINF:-1,GLOBO SP SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6625
-#EXTINF:-1,GLOBOSAT HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2447
-#EXTINF:-1,GLOOB  HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2446
-#EXTINF:-1,GLOOB SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6596
-#EXTINF:-1,GNT HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2529
-#EXTINF:-1,HBO 2 HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2527
-#EXTINF:-1,HBO 2 SD
-http://apptv.mine.nu:37001/leo2020/leo2020/2445
-#EXTINF:-1,HBO FAMILY HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2526
-#EXTINF:-1,HBO HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2525
-#EXTINF:-1,HBO PLUS HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2524
-#EXTINF:-1,HBO SIGNATURE HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2523
-#EXTINF:-1,History 2 HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2528
-#EXTINF:-1,INVESTIGATION DISCOVERY HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2438
-#EXTINF:-1,LIFETIME HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2437
-#EXTINF:-1,MAX HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2436
-#EXTINF:-1,MAX PRIME HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2434
-#EXTINF:-1,MAX UP HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2433
-#EXTINF:-1,MEGAPIX HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2522
-#EXTINF:-1,MEGAPIX SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6587
-#EXTINF:-1,MTV HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2432
-#EXTINF:-1,MULTISHOW HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2521
-#EXTINF:-1,MUSIC BOX BRASIL SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6585
-#EXTINF:-1,NAT GEO HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2427
-#EXTINF:-1,NAT GEO KIDS HD
-http://apptv.mine.nu:37001/leo2020/leo2020/4282
-#EXTINF:-1,NatGeo HD
-http://apptv.mine.nu:37001/leo2020/leo2020/9500
-#EXTINF:-1,NATGEO WILD HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2425
-#EXTINF:-1,NICK JR HD
-http://apptv.mine.nu:37001/leo2020/leo2020/4284
-#EXTINF:-1,NICK JR SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6583
-#EXTINF:-1,NICKELODEN HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2422
-#EXTINF:-1,NICKELONDEON SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6636
-#EXTINF:-1,OFF HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2520
-#EXTINF:-1,PARAMOUNT CHANNEL HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2420
-#EXTINF:-1,PREMIERE 2 HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2414
-#EXTINF:-1,PREMIER 2 SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6558
-#EXTINF:-1,PREMIERE 3 HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2413
-#EXTINF:-1,PREMIER 3 SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6557
-#EXTINF:-1,PREMIERE 4 HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2412
-#EXTINF:-1,PREMIER 4 SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6556
-#EXTINF:-1,PREMIERE 5 HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2411
-#EXTINF:-1,PREMIER 5 SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6555
-#EXTINF:-1,PREMIERE 6 HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2410
-#EXTINF:-1,PREMIER 6 SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6554
-#EXTINF:-1,PREMIERE 7 HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2409
-#EXTINF:-1,PREMIER 7 SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6553
-#EXTINF:-1,PREMIER 8 SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6552
-#EXTINF:-1,PREMIER CLUBES SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6559
-#EXTINF:-1,Premiere Clubes HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2416
-#EXTINF:-1,RBS TV SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6635
-#EXTINF:-1,RECORD NEWS ES HD
-http://apptv.mine.nu:37001/leo2020/leo2020/9528
-#EXTINF:-1,RECORD RS HD
-http://apptv.mine.nu:37001/leo2020/leo2020/6930
-#EXTINF:-1,Record SP HD
-http://apptv.mine.nu:37001/leo2020/leo2020/9531
-#EXTINF:-1,RECORD SP SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/2400
-#EXTINF:-1,RECORD TV GOIANIA HD
-http://apptv.mine.nu:37001/leo2020/leo2020/9501
-#EXTINF:-1,RECORD TV LITORAL HD Santos
-http://apptv.mine.nu:37001/leo2020/leo2020/9533
-#EXTINF:-1,Rede Amazonica Manaus SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/9561
-#EXTINF:-1,REDE RECORD HD SP
-http://apptv.mine.nu:37001/leo2020/leo2020/2395
-#EXTINF:-1,REDE TV HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2519
-#EXTINF:-1,REDE VIDA HD
-http://apptv.mine.nu:37001/leo2020/leo2020/7878
-#EXTINF:-1,RPC
-http://apptv.mine.nu:37001/leo2020/leo2020/2747
-#EXTINF:-1,RPC PG HD
-http://apptv.mine.nu:37001/leo2020/leo2020/6916
-#EXTINF:-1,Rádio 98 FM 98.3 BH
-http://apptv.mine.nu:37001/leo2020/leo2020/6465
-#EXTINF:-1,Rádio Antena 1 FM 94.7 SP
-http://apptv.mine.nu:37001/leo2020/leo2020/6478
-#EXTINF:-1,Rádio Atlantida FM 102.1
-http://apptv.mine.nu:37001/leo2020/leo2020/6464
-#EXTINF:-1,Rádio Atlântida POA FM 94.3
-http://apptv.mine.nu:37001/leo2020/leo2020/6539
-#EXTINF:-1,Rádio Capão FM 90.7
-http://apptv.mine.nu:37001/leo2020/leo2020/6534
-#EXTINF:-1,Rádio Energia 97 FM 97.7 SP
-http://apptv.mine.nu:37001/leo2020/leo2020/6469
-#EXTINF:-1,Rádio Gaúcha AM
-http://apptv.mine.nu:37001/leo2020/leo2020/6530
-#EXTINF:-1,Rádio Guaíba Am 740
-http://apptv.mine.nu:37001/leo2020/leo2020/6538
-#EXTINF:-1,Rádio POP FM 90.9
-http://apptv.mine.nu:37001/leo2020/leo2020/6459
-#EXTINF:-1,Rádio Tropical Sat FM 102.5  Juazeiro-BA
-http://apptv.mine.nu:37001/leo2020/leo2020/6721
-#EXTINF:-1,SBT RS HD
-http://apptv.mine.nu:37001/leo2020/leo2020/7197
-#EXTINF:-1,SBT Sergipe HD
-http://apptv.mine.nu:37001/leo2020/leo2020/9535
-#EXTINF:-1,SBT SP HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2518
-#EXTINF:-1,SPACE HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2516
-#EXTINF:-1,SPORTV 2 HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2388
-#EXTINF:-1,SPORTV 3 HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2386
-#EXTINF:-1,SPORTV HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2384
-#EXTINF:-1,STUDIO UNIVERSAL HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2378
-#EXTINF:-1,SYFY HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2377
-#EXTINF:-1,TBS HD
-http://apptv.mine.nu:37001/leo2020/leo2020/4302
-#EXTINF:-1,TCM SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6616
-#EXTINF:-1,TELECINE ACTION HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2375
-#EXTINF:-1,TELECINE CULT HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2373
-#EXTINF:-1,TELECINE FUN HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2371
-#EXTINF:-1,TELECINE PIPOCA HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2369
-#EXTINF:-1,TELECINE PIPOCA SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6571
-#EXTINF:-1,TELECINE PREMIUM HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2367
-#EXTINF:-1,TELECINE TOUCH HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2365
-#EXTINF:-1,THE HISTORY CHANNEL HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2362
-#EXTINF:-1,TLC HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2361
-#EXTINF:-1,TLC SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6622
-#EXTINF:-1,TNT HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2515
-#EXTINF:-1,TNT SERIES HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2359
-#EXTINF:-1,TOONCAST SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6567
-#EXTINF:-1,Transamérica Pop 100.1 FM SP
-http://apptv.mine.nu:37001/leo2020/leo2020/6479
-#EXTINF:-1,TV Aparecida HD
-http://apptv.mine.nu:37001/leo2020/leo2020/7877
-#EXTINF:-1,TV Bahia SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/9562
-#EXTINF:-1,TV Centro America Cuiaba SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/9564
-#EXTINF:-1,TV GLOBO AMAZONAS HD
-http://apptv.mine.nu:37001/leo2020/leo2020/4266
-#EXTINF:-1,Tv Serra Dourada HD (Sbt)
-http://apptv.mine.nu:37001/leo2020/leo2020/9502
-#EXTINF:-1,TV Subae (globo bahia HD)
-http://apptv.mine.nu:37001/leo2020/leo2020/9541
-#EXTINF:-1,TVB Record Campinas HD
-http://apptv.mine.nu:37001/leo2020/leo2020/9548
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2343
-#EXTINF:-1,VH1 MEGAHITS SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6563
-#EXTINF:-1,VIVA HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2512
-#EXTINF:-1,VIVA SD H264
-http://apptv.mine.nu:37001/leo2020/leo2020/6565
-#EXTINF:-1,WARNER CHANNEL HD
-http://apptv.mine.nu:37001/leo2020/leo2020/2511
+#EXTINF:-1,BR:A&E HD
+http://uruguayiptv.com:25461/Enrique/enrique/11309
+#EXTINF:-1,BR:ANIMAL PLANET HD
+http://uruguayiptv.com:25461/Enrique/enrique/11310
+#EXTINF:-1,BR:ARTE 1 HD
+http://uruguayiptv.com:25461/Enrique/enrique/11311
+#EXTINF:-1,BR:AXN HD
+http://uruguayiptv.com:25461/Enrique/enrique/11312
+#EXTINF:-1,BR:BAND HD
+http://uruguayiptv.com:25461/Enrique/enrique/11313
+#EXTINF:-1,BR:BAND NEWS HD
+http://uruguayiptv.com:25461/Enrique/enrique/11314
+#EXTINF:-1,BR:BAND SPORTS HD
+http://uruguayiptv.com:25461/Enrique/enrique/11315
+#EXTINF:-1,BR:BIS HD
+http://uruguayiptv.com:25461/Enrique/enrique/11316
+#EXTINF:-1,BR:BOOMERANG HD
+http://uruguayiptv.com:25461/Enrique/enrique/11317
+#EXTINF:-1,BR:CANAL BRASIL HD
+http://uruguayiptv.com:25461/Enrique/enrique/11318
+#EXTINF:-1,BR:NOVO TEMPO
+http://uruguayiptv.com:25461/Enrique/enrique/11319
+#EXTINF:-1,BR:CARTOON NETWORK HD
+http://uruguayiptv.com:25461/Enrique/enrique/11320
+#EXTINF:-1,BR:CINEMAX HD
+http://uruguayiptv.com:25461/Enrique/enrique/11321
+#EXTINF:-1,BR:COMEDY CENTRAL HD
+http://uruguayiptv.com:25461/Enrique/enrique/11322
+#EXTINF:-1,BR:CURTA! HD
+http://uruguayiptv.com:25461/Enrique/enrique/11323
+#EXTINF:-1,BR:DISCOVERY CH. HD
+http://uruguayiptv.com:25461/Enrique/enrique/11324
+#EXTINF:-1,BR:DISCOVERY CIVILIZATION HD
+http://uruguayiptv.com:25461/Enrique/enrique/11325
+#EXTINF:-1,BR:DISCOVERY H&H HD
+http://uruguayiptv.com:25461/Enrique/enrique/11326
+#EXTINF:-1,BR:DISCOVERY ID HD
+http://uruguayiptv.com:25461/Enrique/enrique/11327
+#EXTINF:-1,BR:DISCOVERY KIDS HD
+http://uruguayiptv.com:25461/Enrique/enrique/11328
+#EXTINF:-1,BR:DISCOVERY SCIENCE HD
+http://uruguayiptv.com:25461/Enrique/enrique/11329
+#EXTINF:-1,BR:DISCOVERY THEATHER HD
+http://uruguayiptv.com:25461/Enrique/enrique/11330
+#EXTINF:-1,BR:DISCOVERY TURBO HD
+http://uruguayiptv.com:25461/Enrique/enrique/11331
+#EXTINF:-1,BR:DISCOVERY WORLD HD
+http://uruguayiptv.com:25461/Enrique/enrique/11332
+#EXTINF:-1,BR:DISNEY CHANNEL HD
+http://uruguayiptv.com:25461/Enrique/enrique/11333
+#EXTINF:-1,BR:DISNEY JUNIOR HD
+http://uruguayiptv.com:25461/Enrique/enrique/11334
+#EXTINF:-1,BR:DISNEY XD HD
+http://uruguayiptv.com:25461/Enrique/enrique/11335
+#EXTINF:-1,BR:E! HD
+http://uruguayiptv.com:25461/Enrique/enrique/11336
+#EXTINF:-1,BR:ESPN 2 HD
+http://uruguayiptv.com:25461/Enrique/enrique/11337
+#EXTINF:-1,BR:ESPN HD
+http://uruguayiptv.com:25461/Enrique/enrique/11338
+#EXTINF:-1,BR:FISH TV HD
+http://uruguayiptv.com:25461/Enrique/enrique/11339
+#EXTINF:-1,BR:FOX HD
+http://uruguayiptv.com:25461/Enrique/enrique/11340
+#EXTINF:-1,BR:FOX LIFE HD
+http://uruguayiptv.com:25461/Enrique/enrique/11341
+#EXTINF:-1,BR:FOX PREMIUM 1 HD
+http://uruguayiptv.com:25461/Enrique/enrique/11342
+#EXTINF:-1,BR:FOX PREMIUM 2 HD
+http://uruguayiptv.com:25461/Enrique/enrique/11343
+#EXTINF:-1,BR:FOX SPORTS 2 HD
+http://uruguayiptv.com:25461/Enrique/enrique/11344
+#EXTINF:-1,BR:FUTURA HD
+http://uruguayiptv.com:25461/Enrique/enrique/11345
+#EXTINF:-1,BR:FX HD
+http://uruguayiptv.com:25461/Enrique/enrique/11346
+#EXTINF:-1,BR: RIO  FHD
+http://uruguayiptv.com:25461/Enrique/enrique/11347
+#EXTINF:-1,BR:GLOOB HD
+http://uruguayiptv.com:25461/Enrique/enrique/11348
+#EXTINF:-1,BR:GNT HD
+http://uruguayiptv.com:25461/Enrique/enrique/11349
+#EXTINF:-1,BR:HBO 2 HD
+http://uruguayiptv.com:25461/Enrique/enrique/11350
+#EXTINF:-1,BR:HBO FAMILY HD
+http://uruguayiptv.com:25461/Enrique/enrique/11351
+#EXTINF:-1,BR:HBO HD
+http://uruguayiptv.com:25461/Enrique/enrique/11352
+#EXTINF:-1,BR:HBO PLUS HD
+http://uruguayiptv.com:25461/Enrique/enrique/11353
+#EXTINF:-1,BR:HBO SIGNATURE HD
+http://uruguayiptv.com:25461/Enrique/enrique/11354
+#EXTINF:-1,BR:HISTORY 2 HD
+http://uruguayiptv.com:25461/Enrique/enrique/11355
+#EXTINF:-1,BR:HISTORY HD
+http://uruguayiptv.com:25461/Enrique/enrique/11356
+#EXTINF:-1,BR:LIFETIME HD
+http://uruguayiptv.com:25461/Enrique/enrique/11357
+#EXTINF:-1,BR:MAIS GLOBOSAT HD
+http://uruguayiptv.com:25461/Enrique/enrique/11358
+#EXTINF:-1,BR:MAX HD
+http://uruguayiptv.com:25461/Enrique/enrique/11359
+#EXTINF:-1,BR:MAX PRIME HD
+http://uruguayiptv.com:25461/Enrique/enrique/11360
+#EXTINF:-1,BR:MAX UP HD
+http://uruguayiptv.com:25461/Enrique/enrique/11361
+#EXTINF:-1,BR:MEGAPIX HD
+http://uruguayiptv.com:25461/Enrique/enrique/11362
+#EXTINF:-1,BR:MULTISHOW HD
+http://uruguayiptv.com:25461/Enrique/enrique/11364
+#EXTINF:-1,BR:NAT GEO KIDS HD
+http://uruguayiptv.com:25461/Enrique/enrique/11365
+#EXTINF:-1,BR:NAT GEO WILD HD
+http://uruguayiptv.com:25461/Enrique/enrique/11366
+#EXTINF:-1,BR:NATIONAL GEOGRAPHIC HD
+http://uruguayiptv.com:25461/Enrique/enrique/11367
+#EXTINF:-1,BR:NICK JR HD
+http://uruguayiptv.com:25461/Enrique/enrique/11368
+#EXTINF:-1,BR:NICKELODEON HD
+http://uruguayiptv.com:25461/Enrique/enrique/11369
+#EXTINF:-1,BR:OFF HD
+http://uruguayiptv.com:25461/Enrique/enrique/11370
+#EXTINF:-1,BR:PARAMOUNT HD
+http://uruguayiptv.com:25461/Enrique/enrique/11371
+#EXTINF:-1,BR:PREMIERE 1 HD
+http://uruguayiptv.com:25461/Enrique/enrique/11373
+#EXTINF:-1,BR:PREMIERE 3 HD
+http://uruguayiptv.com:25461/Enrique/enrique/11374
+#EXTINF:-1,BR:PREMIERE 6 HD
+http://uruguayiptv.com:25461/Enrique/enrique/11375
+#EXTINF:-1,BR:PREMIERE 7 HD
+http://uruguayiptv.com:25461/Enrique/enrique/11376
+#EXTINF:-1,BR:PREMIERE 8 HD
+http://uruguayiptv.com:25461/Enrique/enrique/11377
+#EXTINF:-1,BR:RECORD HD
+http://uruguayiptv.com:25461/Enrique/enrique/11379
+#EXTINF:-1,BR:RECORD NEWS HD
+http://uruguayiptv.com:25461/Enrique/enrique/11380
+#EXTINF:-1,BR:REDE TV HD
+http://uruguayiptv.com:25461/Enrique/enrique/11382
+#EXTINF:-1,BR:REDE VIDA HD
+http://uruguayiptv.com:25461/Enrique/enrique/11383
+#EXTINF:-1,BR:SBT HD
+http://uruguayiptv.com:25461/Enrique/enrique/11384
+#EXTINF:-1,BR:SONY HD
+http://uruguayiptv.com:25461/Enrique/enrique/11385
+#EXTINF:-1,BR:SPACE HD
+http://uruguayiptv.com:25461/Enrique/enrique/11386
+#EXTINF:-1,BR:SPORTV 3 HD
+http://uruguayiptv.com:25461/Enrique/enrique/11387
+#EXTINF:-1,BR:SPORTV HD
+http://uruguayiptv.com:25461/Enrique/enrique/11388
+#EXTINF:-1,BR:STUDIO UNIVERSAL HD
+http://uruguayiptv.com:25461/Enrique/enrique/11389
+#EXTINF:-1,BR:SYFY HD
+http://uruguayiptv.com:25461/Enrique/enrique/11390
+#EXTINF:-1,BR:TBS HD
+http://uruguayiptv.com:25461/Enrique/enrique/11391
+#EXTINF:-1,BR:TCM HD
+http://uruguayiptv.com:25461/Enrique/enrique/11392
+#EXTINF:-1,BR:TELECINE ACTION HD
+http://uruguayiptv.com:25461/Enrique/enrique/11393
+#EXTINF:-1,BR:TELECINE CULT HD
+http://uruguayiptv.com:25461/Enrique/enrique/11394
+#EXTINF:-1,BR:TELECINE FUN HD
+http://uruguayiptv.com:25461/Enrique/enrique/11395
+#EXTINF:-1,BR:TELECINE PIPOCA HD
+http://uruguayiptv.com:25461/Enrique/enrique/11396
+#EXTINF:-1,BR:TELECINE PREMIUM HD
+http://uruguayiptv.com:25461/Enrique/enrique/11397
+#EXTINF:-1,BR:TELECINE TOUCH HD
+http://uruguayiptv.com:25461/Enrique/enrique/11398
+#EXTINF:-1,BR:TLC HD
+http://uruguayiptv.com:25461/Enrique/enrique/11399
+#EXTINF:-1,BR:TNT HD
+http://uruguayiptv.com:25461/Enrique/enrique/11400
+#EXTINF:-1,BR:TNT SERIES HD
+http://uruguayiptv.com:25461/Enrique/enrique/11401
+#EXTINF:-1,BR:TOONCAST HD
+http://uruguayiptv.com:25461/Enrique/enrique/11402
+#EXTINF:-1,BR:TRAVEL BOX HD
+http://uruguayiptv.com:25461/Enrique/enrique/11403
+#EXTINF:-1,BR:TV CÂMARA HD
+http://uruguayiptv.com:25461/Enrique/enrique/11405
+#EXTINF:-1,BR:TV ESCOLA HD
+http://uruguayiptv.com:25461/Enrique/enrique/11407
+#EXTINF:-1,BR:TV GAZETA HD
+http://uruguayiptv.com:25461/Enrique/enrique/11408
+#EXTINF:-1,BR:UNIVERSAL CHANNEL HD
+http://uruguayiptv.com:25461/Enrique/enrique/11409
+#EXTINF:-1,BR:VH1
+http://uruguayiptv.com:25461/Enrique/enrique/11410
+#EXTINF:-1,BR:VIVA HD
+http://uruguayiptv.com:25461/Enrique/enrique/11411
+#EXTINF:-1,BR:WARNER HD
+http://uruguayiptv.com:25461/Enrique/enrique/11412
+#EXTINF:-1,BR:WOOHOO HD
+http://uruguayiptv.com:25461/Enrique/enrique/11413
