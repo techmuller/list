@@ -1,587 +1,969 @@
 #EXTM3U
+#EXTINF:-1,A&E FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/2
 #EXTINF:-1,A&E HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8724
+http://eyplay.io:80/vJQItm/YCLZin/3
 #EXTINF:-1,A&E SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8725
+http://eyplay.io:80/vJQItm/YCLZin/4
+#EXTINF:-1,AMC FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/474
 #EXTINF:-1,AMC HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8726
+http://eyplay.io:80/vJQItm/YCLZin/475
 #EXTINF:-1,AMC SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8727
+http://eyplay.io:80/vJQItm/YCLZin/476
+#EXTINF:-1,Animal Planet FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/5
 #EXTINF:-1,Animal Planet HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8728
+http://eyplay.io:80/vJQItm/YCLZin/6
 #EXTINF:-1,Animal Planet SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8729
+http://eyplay.io:80/vJQItm/YCLZin/7
+#EXTINF:-1,Arte 1 FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/8
 #EXTINF:-1,Arte 1 HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8730
+http://eyplay.io:80/vJQItm/YCLZin/9
 #EXTINF:-1,Arte 1 SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8731
+http://eyplay.io:80/vJQItm/YCLZin/10
+#EXTINF:-1,AXN FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/11
 #EXTINF:-1,AXN HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8732
+http://eyplay.io:80/vJQItm/YCLZin/12
+#EXTINF:-1,AXN HD (Legendado)
+http://eyplay.io:80/vJQItm/YCLZin/27131
 #EXTINF:-1,AXN SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8733
+http://eyplay.io:80/vJQItm/YCLZin/13
+#EXTINF:-1,BabyTV FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/14
 #EXTINF:-1,BabyTV HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8734
-#EXTINF:-1,BabyTV SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8735
-#EXTINF:-1,Banda Campinas SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8736
-#EXTINF:-1,Band News HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8737
-#EXTINF:-1,Banda Notícias SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8738
-#EXTINF:-1,Banda Nordeste SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8739
-#EXTINF:-1,Banda SP HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8740
-#EXTINF:-1,Banda SP SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8741
-#EXTINF:-1,Band Sports HD https://iptv.live
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8742
-#EXTINF:-1,Band Sports SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8743
-#EXTINF:-1,Bis HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8755
-#EXTINF:-1,Bis SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8756
+http://eyplay.io:80/vJQItm/YCLZin/15
+#EXTINF:-1,BabyTV SD https://iptv.live
+http://eyplay.io:80/vJQItm/YCLZin/16
+#EXTINF:-1,Band FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/17
+#EXTINF:-1,Band HD
+http://eyplay.io:80/vJQItm/YCLZin/18
+#EXTINF:-1,Band SD
+http://eyplay.io:80/vJQItm/YCLZin/19
+#EXTINF:-1,BandNews FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/20
+#EXTINF:-1,BandNews HD
+http://eyplay.io:80/vJQItm/YCLZin/21
+#EXTINF:-1,BandNews SD
+http://eyplay.io:80/vJQItm/YCLZin/22
+#EXTINF:-1,BandSports FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/23
+#EXTINF:-1,BandSports HD
+http://eyplay.io:80/vJQItm/YCLZin/24
+#EXTINF:-1,BandSports SD
+http://eyplay.io:80/vJQItm/YCLZin/25
+#EXTINF:-1,BIS FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/48
+#EXTINF:-1,BIS HD
+http://eyplay.io:80/vJQItm/YCLZin/49
+#EXTINF:-1,BIS SD
+http://eyplay.io:80/vJQItm/YCLZin/50
+#EXTINF:-1,Boa Vontade TV SD
+http://eyplay.io:80/vJQItm/YCLZin/14063
+#EXTINF:-1,Boomerang FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/51
 #EXTINF:-1,Boomerang HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8757
+http://eyplay.io:80/vJQItm/YCLZin/52
 #EXTINF:-1,Boomerang SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8758
+http://eyplay.io:80/vJQItm/YCLZin/53
 #EXTINF:-1,Satellite TV
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8759
+http://eyplay.io:80/vJQItm/YCLZin/54
+#EXTINF:-1,Satellite TV
+http://eyplay.io:80/vJQItm/YCLZin/56
+#EXTINF:-1,Satellite TV
+http://eyplay.io:80/vJQItm/YCLZin/57
+#EXTINF:-1,Satellite TV
+http://eyplay.io:80/vJQItm/YCLZin/58
+#EXTINF:-1,Satellite TV
+http://eyplay.io:80/vJQItm/YCLZin/59
+#EXTINF:-1,Cancao Nova SD
+http://eyplay.io:80/vJQItm/YCLZin/14064
+#EXTINF:-1,Cartoon Network FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/60
 #EXTINF:-1,Cartoon Network HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8760
+http://eyplay.io:80/vJQItm/YCLZin/61
 #EXTINF:-1,Cartoon Network SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8761
+http://eyplay.io:80/vJQItm/YCLZin/62
+#EXTINF:-1,Chef TV FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/63
 #EXTINF:-1,Chef TV HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8762
+http://eyplay.io:80/vJQItm/YCLZin/64
+#EXTINF:-1,Chef TV SD
+http://eyplay.io:80/vJQItm/YCLZin/65
+#EXTINF:-1,Cinemax FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/67
 #EXTINF:-1,Cinemax HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8763
+http://eyplay.io:80/vJQItm/YCLZin/68
 #EXTINF:-1,Cinemax SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8764
+http://eyplay.io:80/vJQItm/YCLZin/69
+#EXTINF:-1,CNN Brasil FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/14076
 #EXTINF:-1,CNN Brasil HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8765
-#EXTINF:-1,CNN Brasil SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8766
+http://eyplay.io:80/vJQItm/YCLZin/14075
+#EXTINF:-1,CNN Espanhol FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/70
+#EXTINF:-1,CNN Espanhol HD
+http://eyplay.io:80/vJQItm/YCLZin/71
+#EXTINF:-1,CNN Espanhol SD https://iptv.live
+http://eyplay.io:80/vJQItm/YCLZin/72
+#EXTINF:-1,CNN Internacional FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/73
+#EXTINF:-1,CNN Internacional HD
+http://eyplay.io:80/vJQItm/YCLZin/74
+#EXTINF:-1,CNN Internacional SD
+http://eyplay.io:80/vJQItm/YCLZin/75
+#EXTINF:-1,Combate FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/76
 #EXTINF:-1,Combate HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8767
+http://eyplay.io:80/vJQItm/YCLZin/77
 #EXTINF:-1,Combate SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8768
-#EXTINF:-1,Comédia Central HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8769
-#EXTINF:-1,Comédia Central SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8770
-#EXTINF:-1,Cultura SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8775
-#EXTINF:-1,Curta! HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8776
-#EXTINF:-1,Curta! SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8777
+http://eyplay.io:80/vJQItm/YCLZin/78
+#EXTINF:-1,Comedy Central FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/79
+#EXTINF:-1,Comedy Central HD
+http://eyplay.io:80/vJQItm/YCLZin/80
+#EXTINF:-1,Comedy Central SD
+http://eyplay.io:80/vJQItm/YCLZin/81
+#EXTINF:-1,Copa Catarinense 1 HD
+http://eyplay.io:80/vJQItm/YCLZin/82
+#EXTINF:-1,Copa Catarinense 1 SD
+http://eyplay.io:80/vJQItm/YCLZin/83
+#EXTINF:-1,Copa Catarinense 2 HD
+http://eyplay.io:80/vJQItm/YCLZin/84
+#EXTINF:-1,Copa Catarinense 2 SD
+http://eyplay.io:80/vJQItm/YCLZin/85
+#EXTINF:-1,Copa do Nordeste 1 HD
+http://eyplay.io:80/vJQItm/YCLZin/86
+#EXTINF:-1,Copa do Nordeste 1 SD
+http://eyplay.io:80/vJQItm/YCLZin/87
+#EXTINF:-1,Copa do Nordeste 2 HD
+http://eyplay.io:80/vJQItm/YCLZin/88
+#EXTINF:-1,Copa do Nordeste 2 SD
+http://eyplay.io:80/vJQItm/YCLZin/89
+#EXTINF:-1,Copa Libertadores HD
+http://eyplay.io:80/vJQItm/YCLZin/14074
+#EXTINF:-1,Curta FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/90
+#EXTINF:-1,Curta HD
+http://eyplay.io:80/vJQItm/YCLZin/91
+#EXTINF:-1,Curta SD
+http://eyplay.io:80/vJQItm/YCLZin/92
+#EXTINF:-1,DAZN 1 FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/93
+#EXTINF:-1,DAZN 1 HD
+http://eyplay.io:80/vJQItm/YCLZin/94
+#EXTINF:-1,Discovery Channel FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/95
 #EXTINF:-1,Discovery Channel HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8780
+http://eyplay.io:80/vJQItm/YCLZin/96
 #EXTINF:-1,Discovery Channel SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8781
+http://eyplay.io:80/vJQItm/YCLZin/97
+#EXTINF:-1,Discovery Home & Health FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/101
 #EXTINF:-1,Discovery Home & Health HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8782
-#EXTINF:-1,Descoberta Casa e Saúde SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8783
+http://eyplay.io:80/vJQItm/YCLZin/102
+#EXTINF:-1,Discovery Home & Health SD
+http://eyplay.io:80/vJQItm/YCLZin/103
+#EXTINF:-1,Discovery ID FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/294
+#EXTINF:-1,Discovery ID HD
+http://eyplay.io:80/vJQItm/YCLZin/295
+#EXTINF:-1,Discovery ID SD
+http://eyplay.io:80/vJQItm/YCLZin/296
+#EXTINF:-1,Discovery Kids FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/104
 #EXTINF:-1,Discovery Kids HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8784
+http://eyplay.io:80/vJQItm/YCLZin/105
 #EXTINF:-1,Discovery Kids SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8785
+http://eyplay.io:80/vJQItm/YCLZin/106
+#EXTINF:-1,Discovery Science FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/107
 #EXTINF:-1,Discovery Science HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8786
+http://eyplay.io:80/vJQItm/YCLZin/108
 #EXTINF:-1,Discovery Science SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8787
+http://eyplay.io:80/vJQItm/YCLZin/109
+#EXTINF:-1,Discovery Theater FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/110
 #EXTINF:-1,Discovery Theater HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8788
+http://eyplay.io:80/vJQItm/YCLZin/111
 #EXTINF:-1,Discovery Theater SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8789
-#EXTINF:-1,Discovery TLC HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8790
-#EXTINF:-1,Discovery TLC SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8791
+http://eyplay.io:80/vJQItm/YCLZin/112
+#EXTINF:-1,Discovery Turbo FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/113
 #EXTINF:-1,Discovery Turbo HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8792
+http://eyplay.io:80/vJQItm/YCLZin/114
 #EXTINF:-1,Discovery Turbo SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8793
+http://eyplay.io:80/vJQItm/YCLZin/115
+#EXTINF:-1,Discovery World FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/116
 #EXTINF:-1,Discovery World HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8794
-#EXTINF:-1,Discovery World SD https://iptv.live
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8795
+http://eyplay.io:80/vJQItm/YCLZin/117
+#EXTINF:-1,Discovery World SD
+http://eyplay.io:80/vJQItm/YCLZin/118
+#EXTINF:-1,Disney Channel FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/119
 #EXTINF:-1,Disney Channel HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8796
+http://eyplay.io:80/vJQItm/YCLZin/120
 #EXTINF:-1,Disney Channel SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8797
-#EXTINF:-1,Disney Junior HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8798
-#EXTINF:-1,Disney Junior SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8799
+http://eyplay.io:80/vJQItm/YCLZin/121
+#EXTINF:-1,Disney Jr FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/122
+#EXTINF:-1,Disney Jr HD
+http://eyplay.io:80/vJQItm/YCLZin/123
+#EXTINF:-1,Disney Jr SD
+http://eyplay.io:80/vJQItm/YCLZin/124
+#EXTINF:-1,Disney XD FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/125
 #EXTINF:-1,Disney XD HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8800
+http://eyplay.io:80/vJQItm/YCLZin/126
 #EXTINF:-1,Disney XD SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8801
+http://eyplay.io:80/vJQItm/YCLZin/127
+#EXTINF:-1,E FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/128
+#EXTINF:-1,E SD
+http://eyplay.io:80/vJQItm/YCLZin/130
 #EXTINF:-1,E! HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8802
-#EXTINF:-1,E! SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8803
-#EXTINF:-1,Ei Plus 1*
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8804
-#EXTINF:-1,Ei Plus 2*
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8805
+http://eyplay.io:80/vJQItm/YCLZin/129
+#EXTINF:-1,Ei Plus 1 HD
+http://eyplay.io:80/vJQItm/YCLZin/131
+#EXTINF:-1,Ei Plus 1 SD
+http://eyplay.io:80/vJQItm/YCLZin/132
+#EXTINF:-1,Ei Plus 2 HD
+http://eyplay.io:80/vJQItm/YCLZin/133
+#EXTINF:-1,Ei Plus 2 SD
+http://eyplay.io:80/vJQItm/YCLZin/134
+#EXTINF:-1,Ei Plus 3 HD
+http://eyplay.io:80/vJQItm/YCLZin/135
+#EXTINF:-1,Ei Plus 3 SD
+http://eyplay.io:80/vJQItm/YCLZin/136
+#EXTINF:-1,Ei Plus 4 HD
+http://eyplay.io:80/vJQItm/YCLZin/137
+#EXTINF:-1,Ei Plus 4 SD
+http://eyplay.io:80/vJQItm/YCLZin/138
+#EXTINF:-1,Ei Plus 5 HD
+http://eyplay.io:80/vJQItm/YCLZin/139
+#EXTINF:-1,Ei Plus 5 SD
+http://eyplay.io:80/vJQItm/YCLZin/140
+#EXTINF:-1,Ei Plus 6 HD
+http://eyplay.io:80/vJQItm/YCLZin/142
+#EXTINF:-1,Ei Plus 6 SD
+http://eyplay.io:80/vJQItm/YCLZin/141
+#EXTINF:-1,EPTV Ribeirao Preto FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/30781
+#EXTINF:-1,EPTV Ribeirao Preto HD
+http://eyplay.io:80/vJQItm/YCLZin/30782
+#EXTINF:-1,ESPN 2 FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/144
 #EXTINF:-1,ESPN 2 HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8806
+http://eyplay.io:80/vJQItm/YCLZin/145
 #EXTINF:-1,ESPN 2 SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8807
+http://eyplay.io:80/vJQItm/YCLZin/146
+#EXTINF:-1,ESPN Brasil FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/147
 #EXTINF:-1,ESPN Brasil HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8808
+http://eyplay.io:80/vJQItm/YCLZin/148
 #EXTINF:-1,ESPN Brasil SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8809
+http://eyplay.io:80/vJQItm/YCLZin/149
 #EXTINF:-1,ESPN Extra HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8810
+http://eyplay.io:80/vJQItm/YCLZin/150
 #EXTINF:-1,ESPN Extra SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8811
+http://eyplay.io:80/vJQItm/YCLZin/151
+#EXTINF:-1,ESPN FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/152
 #EXTINF:-1,ESPN HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8812
+http://eyplay.io:80/vJQItm/YCLZin/153
 #EXTINF:-1,ESPN SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8813
+http://eyplay.io:80/vJQItm/YCLZin/154
+#EXTINF:-1,Fish TV FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/155
 #EXTINF:-1,Fish TV HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8814
+http://eyplay.io:80/vJQItm/YCLZin/156
 #EXTINF:-1,Fish TV SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8815
+http://eyplay.io:80/vJQItm/YCLZin/157
+#EXTINF:-1,Food Network FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/158
 #EXTINF:-1,Food Network HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8816
+http://eyplay.io:80/vJQItm/YCLZin/159
 #EXTINF:-1,Food Network SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8817
+http://eyplay.io:80/vJQItm/YCLZin/160
+#EXTINF:-1,Fox FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/161
 #EXTINF:-1,Fox HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8818
+http://eyplay.io:80/vJQItm/YCLZin/162
+#EXTINF:-1,Fox HD (Legendado)
+http://eyplay.io:80/vJQItm/YCLZin/27130
+#EXTINF:-1,Fox Life FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/163
 #EXTINF:-1,Fox Life HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8819
+http://eyplay.io:80/vJQItm/YCLZin/164
 #EXTINF:-1,Fox Life SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8820
+http://eyplay.io:80/vJQItm/YCLZin/165
+#EXTINF:-1,Fox News FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/166
+#EXTINF:-1,Fox News HD
+http://eyplay.io:80/vJQItm/YCLZin/167
+#EXTINF:-1,Fox News SD
+http://eyplay.io:80/vJQItm/YCLZin/168
+#EXTINF:-1,Fox Premium 1 FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/169
 #EXTINF:-1,Fox Premium 1 HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8821
+http://eyplay.io:80/vJQItm/YCLZin/170
 #EXTINF:-1,Fox Premium 1 SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8822
+http://eyplay.io:80/vJQItm/YCLZin/171
+#EXTINF:-1,Fox Premium 2 FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/172
 #EXTINF:-1,Fox Premium 2 HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8823
+http://eyplay.io:80/vJQItm/YCLZin/173
+#EXTINF:-1,Fox Premium 2 HD (Legendado)
+http://eyplay.io:80/vJQItm/YCLZin/27133
 #EXTINF:-1,Fox Premium 2 SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8824
+http://eyplay.io:80/vJQItm/YCLZin/174
+#EXTINF:-1,Fox Premium HD 1 (Legendado)
+http://eyplay.io:80/vJQItm/YCLZin/27132
 #EXTINF:-1,Fox SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8825
+http://eyplay.io:80/vJQItm/YCLZin/175
+#EXTINF:-1,Fox Sports 2 FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/176
 #EXTINF:-1,Fox Sports 2 HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8826
+http://eyplay.io:80/vJQItm/YCLZin/177
 #EXTINF:-1,Fox Sports 2 SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8827
+http://eyplay.io:80/vJQItm/YCLZin/178
+#EXTINF:-1,Fox Sports FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/179
 #EXTINF:-1,Fox Sports HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8828
+http://eyplay.io:80/vJQItm/YCLZin/180
 #EXTINF:-1,Fox Sports SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8829
-#EXTINF:-1,Futura HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8830
-#EXTINF:-1,Futura SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8831
+http://eyplay.io:80/vJQItm/YCLZin/181
+#EXTINF:-1,FX FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/182
 #EXTINF:-1,FX HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8832
+http://eyplay.io:80/vJQItm/YCLZin/183
 #EXTINF:-1,FX SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8833
-#EXTINF:-1,Globo Anhanguera Goiania SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8834
-#EXTINF:-1,Globo Asa Branca SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8835
+http://eyplay.io:80/vJQItm/YCLZin/184
+#EXTINF:-1,Globo Brasilia HD
+http://eyplay.io:80/vJQItm/YCLZin/185
 #EXTINF:-1,Globo Brasilia SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8836
-#EXTINF:-1,Globo Centro Am
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8837
+http://eyplay.io:80/vJQItm/YCLZin/186
+#EXTINF:-1,Globo EPTV Campinas FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/189
 #EXTINF:-1,Globo EPTV Campinas HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8838
+http://eyplay.io:80/vJQItm/YCLZin/190
 #EXTINF:-1,Globo EPTV Campinas SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8839
-#EXTINF:-1,Globo EPTV São Carlos SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8840
-#EXTINF:-1,Globo INTER TV Cabugi RN SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8841
-#EXTINF:-1,Globo Internacional SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8842
-#EXTINF:-1,Globo InterTV Alto Litoral HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8843
-#EXTINF:-1,Globo InterTV Serra Mar SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8844
-#EXTINF:-1,Globo Itapetininga SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8845
+http://eyplay.io:80/vJQItm/YCLZin/191
+#EXTINF:-1,Globo EPTV Ribeirao Preto SD
+http://eyplay.io:80/vJQItm/YCLZin/192
+#EXTINF:-1,Globo EPTV Sao Carlos SD
+http://eyplay.io:80/vJQItm/YCLZin/18269
+#EXTINF:-1,Globo EPTV Sul de Minas FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/193
+#EXTINF:-1,Globo EPTV Sul de Minas HD
+http://eyplay.io:80/vJQItm/YCLZin/194
+#EXTINF:-1,Globo Gazeta Sul ES HD
+http://eyplay.io:80/vJQItm/YCLZin/18266
+#EXTINF:-1,Globo Inter TV Cabugi SD
+http://eyplay.io:80/vJQItm/YCLZin/195
+#EXTINF:-1,Globo Inter TV dos Vales FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/196
+#EXTINF:-1,Globo Inter TV Grande Minas FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/197
+#EXTINF:-1,Globo Inter TV Grande Minas HD
+http://eyplay.io:80/vJQItm/YCLZin/198
+#EXTINF:-1,Globo Minas FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/199
 #EXTINF:-1,Globo Minas HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8846
+http://eyplay.io:80/vJQItm/YCLZin/200
 #EXTINF:-1,Globo Minas SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8847
-#EXTINF:-1,Globo Mirante SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8848
+http://eyplay.io:80/vJQItm/YCLZin/201
+#EXTINF:-1,Globo News FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/202
 #EXTINF:-1,Globo News HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8849
+http://eyplay.io:80/vJQItm/YCLZin/203
 #EXTINF:-1,Globo News SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8850
+http://eyplay.io:80/vJQItm/YCLZin/204
+#EXTINF:-1,Globo Nordeste FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/205
 #EXTINF:-1,Globo Nordeste HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8851
+http://eyplay.io:80/vJQItm/YCLZin/206
 #EXTINF:-1,Globo Nordeste SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8852
-#EXTINF:-1,Globo NSC Blumenau SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8853
+http://eyplay.io:80/vJQItm/YCLZin/207
+#EXTINF:-1,Globo NSC Florianopolis FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/208
+#EXTINF:-1,Globo NSC Florianopolis HD
+http://eyplay.io:80/vJQItm/YCLZin/209
 #EXTINF:-1,Globo NSC Florianopolis SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8854
-#EXTINF:-1,Globo RBS Porto Alegre SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8855
-#EXTINF:-1,Globo RBS TV Pelotas HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8856
-#EXTINF:-1,Globo RBS TV Poa SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8857
-#EXTINF:-1,Globo Ribeirao Preto SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8858
+http://eyplay.io:80/vJQItm/YCLZin/210
+#EXTINF:-1,Globo NSC TV Blumenau FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/211
+#EXTINF:-1,Globo RBS TV Porto Alegre SD
+http://eyplay.io:80/vJQItm/YCLZin/214
+#EXTINF:-1,Globo Rede Amazonica SD
+http://eyplay.io:80/vJQItm/YCLZin/215
+#EXTINF:-1,Globo RJ FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/216
 #EXTINF:-1,Globo RJ HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8859
-#EXTINF:-1,Globo RJ SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8860
-#EXTINF:-1,Globo RPC Curitiba HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8861
+http://eyplay.io:80/vJQItm/YCLZin/217
 #EXTINF:-1,Globo RPC Curitiba SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8862
-#EXTINF:-1,Globo RPC Paranava
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8863
-#EXTINF:-1,Globo Sergipe SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8864
+http://eyplay.io:80/vJQItm/YCLZin/221
+#EXTINF:-1,Globo RPC Paranavaí FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/218
+#EXTINF:-1,Globo RPC Paranavaí HD
+http://eyplay.io:80/vJQItm/YCLZin/219
+#EXTINF:-1,Globo RPC Paranavaí SD
+http://eyplay.io:80/vJQItm/YCLZin/220
+#EXTINF:-1,Globo SP FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/222
 #EXTINF:-1,Globo SP HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8865
+http://eyplay.io:80/vJQItm/YCLZin/223
 #EXTINF:-1,Globo SP SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8866
-#EXTINF:-1,Globo TV Bahia Full HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8867
+http://eyplay.io:80/vJQItm/YCLZin/224
+#EXTINF:-1,Globo TV Anhanguera FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/225
+#EXTINF:-1,Globo TV Anhanguera HD
+http://eyplay.io:80/vJQItm/YCLZin/226
+#EXTINF:-1,Globo TV Anhanguera SD
+http://eyplay.io:80/vJQItm/YCLZin/227
+#EXTINF:-1,Globo TV Bahia FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/228
 #EXTINF:-1,Globo TV Bahia HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8868
+http://eyplay.io:80/vJQItm/YCLZin/229
 #EXTINF:-1,Globo TV Bahia SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8869
+http://eyplay.io:80/vJQItm/YCLZin/230
+#EXTINF:-1,Globo TV Centro America FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/187
+#EXTINF:-1,Globo TV Centro America HD
+http://eyplay.io:80/vJQItm/YCLZin/188
+#EXTINF:-1,Globo TV Diario FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/234
 #EXTINF:-1,Globo TV Diario HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8870
-#EXTINF:-1,Globo TV Gazeta Sul ES HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8871
+http://eyplay.io:80/vJQItm/YCLZin/235
+#EXTINF:-1,Globo TV Gazeta Alagoas FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/236
+#EXTINF:-1,Globo TV Liberal Belem FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/231
+#EXTINF:-1,Globo TV Liberal Belem HD
+http://eyplay.io:80/vJQItm/YCLZin/232
 #EXTINF:-1,Globo TV Liberal Belem SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8872
+http://eyplay.io:80/vJQItm/YCLZin/233
+#EXTINF:-1,Globo TV Mirante FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/238
+#EXTINF:-1,Globo TV Mirante HD
+http://eyplay.io:80/vJQItm/YCLZin/239
+#EXTINF:-1,Globo TV Mirante SD
+http://eyplay.io:80/vJQItm/YCLZin/240
+#EXTINF:-1,Globo TV Morena FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/241
+#EXTINF:-1,Globo TV Morena HD
+http://eyplay.io:80/vJQItm/YCLZin/242
 #EXTINF:-1,Globo TV Morena SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8873
-#EXTINF:-1,Globo TV Tem Bauru SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8874
-#EXTINF:-1,Globo TV Tem Sorocaba SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8875
-#EXTINF:-1,Globo TV Tem S
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8876
+http://eyplay.io:80/vJQItm/YCLZin/243
+#EXTINF:-1,Globo TV Paraiba HD
+http://eyplay.io:80/vJQItm/YCLZin/18265
+#EXTINF:-1,Globo TV Rio Sul HD
+http://eyplay.io:80/vJQItm/YCLZin/18268
+#EXTINF:-1,Globo TV Santa Cruz FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/450
+#EXTINF:-1,Globo TV Sergipe FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/244
+#EXTINF:-1,Globo TV TEM Bauru SD
+http://eyplay.io:80/vJQItm/YCLZin/245
+#EXTINF:-1,Globo TV Tem S. J do Rio Preto SD
+http://eyplay.io:80/vJQItm/YCLZin/27195
+#EXTINF:-1,Globo TV TEM Sorocaba SD
+http://eyplay.io:80/vJQItm/YCLZin/246
 #EXTINF:-1,Globo TV Tribuna Santos SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8877
-#EXTINF:-1,Globo TV Vanguarda S
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8878
-#EXTINF:-1,Globo TV Verdes Mares Fortaleza SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8879
+http://eyplay.io:80/vJQItm/YCLZin/247
+#EXTINF:-1,Globo TV Vanguarda S.J.C SD
+http://eyplay.io:80/vJQItm/YCLZin/248
+#EXTINF:-1,Globo TV Verdes Mares FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/249
+#EXTINF:-1,Globo TV Verdes Mares HD
+http://eyplay.io:80/vJQItm/YCLZin/250
+#EXTINF:-1,Globo TV Verdes Mares SD
+http://eyplay.io:80/vJQItm/YCLZin/251
+#EXTINF:-1,Gloob FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/252
 #EXTINF:-1,Gloob HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8880
+http://eyplay.io:80/vJQItm/YCLZin/253
 #EXTINF:-1,Gloob SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8881
+http://eyplay.io:80/vJQItm/YCLZin/254
+#EXTINF:-1,Gloobinho FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/255
+#EXTINF:-1,Gloobinho HD
+http://eyplay.io:80/vJQItm/YCLZin/256
 #EXTINF:-1,Gloobinho SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8882
+http://eyplay.io:80/vJQItm/YCLZin/257
+#EXTINF:-1,GNT FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/258
 #EXTINF:-1,GNT HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8883
+http://eyplay.io:80/vJQItm/YCLZin/259
 #EXTINF:-1,GNT SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8884
+http://eyplay.io:80/vJQItm/YCLZin/260
+#EXTINF:-1,H2 FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/261
 #EXTINF:-1,H2 HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8885
+http://eyplay.io:80/vJQItm/YCLZin/262
 #EXTINF:-1,H2 SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8886
+http://eyplay.io:80/vJQItm/YCLZin/263
+#EXTINF:-1,HBO 2 FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/264
 #EXTINF:-1,HBO 2 HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8887
+http://eyplay.io:80/vJQItm/YCLZin/265
 #EXTINF:-1,HBO 2 SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8888
+http://eyplay.io:80/vJQItm/YCLZin/266
+#EXTINF:-1,HBO Family FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/267
 #EXTINF:-1,HBO Family HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8889
+http://eyplay.io:80/vJQItm/YCLZin/268
 #EXTINF:-1,HBO Family SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8890
+http://eyplay.io:80/vJQItm/YCLZin/269
+#EXTINF:-1,HBO FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/270
 #EXTINF:-1,HBO HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8891
+http://eyplay.io:80/vJQItm/YCLZin/271
+#EXTINF:-1,HBO HD (Legendado)
+http://eyplay.io:80/vJQItm/YCLZin/27125
+#EXTINF:-1,HBO Mundi FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/272
 #EXTINF:-1,HBO Mundi HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8892
+http://eyplay.io:80/vJQItm/YCLZin/273
+#EXTINF:-1,HBO Mundi HD (Legendado)
+http://eyplay.io:80/vJQItm/YCLZin/27128
 #EXTINF:-1,HBO Mundi SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8893
+http://eyplay.io:80/vJQItm/YCLZin/274
+#EXTINF:-1,HBO Plus FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/275
 #EXTINF:-1,HBO Plus HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8894
+http://eyplay.io:80/vJQItm/YCLZin/276
+#EXTINF:-1,HBO Plus HD (Legendado)
+http://eyplay.io:80/vJQItm/YCLZin/27126
 #EXTINF:-1,HBO Plus SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8895
-#EXTINF:-1,HBO Plus*e HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8896
-#EXTINF:-1,HBO Plus*e SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8897
+http://eyplay.io:80/vJQItm/YCLZin/277
+#EXTINF:-1,HBO Pop FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/278
 #EXTINF:-1,HBO Pop HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8898
+http://eyplay.io:80/vJQItm/YCLZin/279
+#EXTINF:-1,HBO Pop HD (Legendado)
+http://eyplay.io:80/vJQItm/YCLZin/27129
 #EXTINF:-1,HBO Pop SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8899
+http://eyplay.io:80/vJQItm/YCLZin/280
 #EXTINF:-1,HBO SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8900
+http://eyplay.io:80/vJQItm/YCLZin/281
+#EXTINF:-1,HBO Signature FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/282
 #EXTINF:-1,HBO Signature HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8901
+http://eyplay.io:80/vJQItm/YCLZin/283
+#EXTINF:-1,HBO Signature HD (Legendado)
+http://eyplay.io:80/vJQItm/YCLZin/27127
 #EXTINF:-1,HBO Signature SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8902
+http://eyplay.io:80/vJQItm/YCLZin/284
+#EXTINF:-1,HBO Xtreme FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/285
 #EXTINF:-1,HBO Xtreme HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8903
+http://eyplay.io:80/vJQItm/YCLZin/286
 #EXTINF:-1,HBO Xtreme SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8904
+http://eyplay.io:80/vJQItm/YCLZin/287
+#EXTINF:-1,HGTV FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/98
 #EXTINF:-1,HGTV HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8905
+http://eyplay.io:80/vJQItm/YCLZin/99
 #EXTINF:-1,HGTV SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8906
-#EXTINF:-1,History Channel HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8907
-#EXTINF:-1,History Channel SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8908
-#EXTINF:-1,ID Investiga
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8909
-#EXTINF:-1,ID Investiga
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8910
+http://eyplay.io:80/vJQItm/YCLZin/100
+#EXTINF:-1,History FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/288
+#EXTINF:-1,History HD
+http://eyplay.io:80/vJQItm/YCLZin/289
+#EXTINF:-1,History SD
+http://eyplay.io:80/vJQItm/YCLZin/290
+#EXTINF:-1,i Sat FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/291
+#EXTINF:-1,i Sat HD
+http://eyplay.io:80/vJQItm/YCLZin/292
+#EXTINF:-1,I Sat SD
+http://eyplay.io:80/vJQItm/YCLZin/293
+#EXTINF:-1,Lifetime FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/297
 #EXTINF:-1,Lifetime HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8911
+http://eyplay.io:80/vJQItm/YCLZin/298
 #EXTINF:-1,Lifetime SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8912
+http://eyplay.io:80/vJQItm/YCLZin/299
+#EXTINF:-1,Love Nature FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/2551
+#EXTINF:-1,Mais Globosat FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/300
 #EXTINF:-1,Mais Globosat HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8913
+http://eyplay.io:80/vJQItm/YCLZin/301
 #EXTINF:-1,Mais Globosat SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8914
+http://eyplay.io:80/vJQItm/YCLZin/302
+#EXTINF:-1,Megapix FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/303
 #EXTINF:-1,Megapix HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8915
+http://eyplay.io:80/vJQItm/YCLZin/304
 #EXTINF:-1,Megapix SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8916
+http://eyplay.io:80/vJQItm/YCLZin/305
+#EXTINF:-1,MTV FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/306
 #EXTINF:-1,MTV HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8917
-#EXTINF:-1,MTV Live HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8918
+http://eyplay.io:80/vJQItm/YCLZin/307
 #EXTINF:-1,MTV SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8919
+http://eyplay.io:80/vJQItm/YCLZin/308
+#EXTINF:-1,Multishow FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/309
 #EXTINF:-1,Multishow HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8920
+http://eyplay.io:80/vJQItm/YCLZin/310
 #EXTINF:-1,Multishow SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8921
-#EXTINF:-1,Music Box Brazil SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8922
-#EXTINF:-1,Nat Geo Kids HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8923
-#EXTINF:-1,Nat Geo Kids SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8924
-#EXTINF:-1,Nat Geo Wild HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8925
-#EXTINF:-1,Nat Geo Wild SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8926
+http://eyplay.io:80/vJQItm/YCLZin/311
+#EXTINF:-1,Music Box Brasil FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/312
+#EXTINF:-1,Music Box Brasil HD
+http://eyplay.io:80/vJQItm/YCLZin/313
+#EXTINF:-1,Music Box Brasil SD
+http://eyplay.io:80/vJQItm/YCLZin/314
+#EXTINF:-1,Natgeo Kids FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/317
+#EXTINF:-1,Natgeo Kids HD
+http://eyplay.io:80/vJQItm/YCLZin/318
+#EXTINF:-1,Natgeo Kids SD
+http://eyplay.io:80/vJQItm/YCLZin/319
+#EXTINF:-1,Natgeo Wild FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/321
+#EXTINF:-1,Natgeo Wild HD
+http://eyplay.io:80/vJQItm/YCLZin/322
+#EXTINF:-1,Natgeo Wild SD
+http://eyplay.io:80/vJQItm/YCLZin/323
+#EXTINF:-1,National Geographic FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/315
 #EXTINF:-1,National Geographic HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8927
+http://eyplay.io:80/vJQItm/YCLZin/316
 #EXTINF:-1,National Geographic SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8928
+http://eyplay.io:80/vJQItm/YCLZin/320
+#EXTINF:-1,Nick Jr FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/324
 #EXTINF:-1,Nick Jr HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8929
+http://eyplay.io:80/vJQItm/YCLZin/325
 #EXTINF:-1,Nick Jr SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8930
+http://eyplay.io:80/vJQItm/YCLZin/326
+#EXTINF:-1,Nickelodeon FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/328
 #EXTINF:-1,Nickelodeon HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8931
+http://eyplay.io:80/vJQItm/YCLZin/329
 #EXTINF:-1,Nickelodeon SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8932
-#EXTINF:-1,Novo Tempo SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8933
-#EXTINF:-1,Off HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8934
-#EXTINF:-1,Off SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8935
+http://eyplay.io:80/vJQItm/YCLZin/327
+#EXTINF:-1,OFF FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/330
+#EXTINF:-1,OFF HD
+http://eyplay.io:80/vJQItm/YCLZin/331
+#EXTINF:-1,OFF SD
+http://eyplay.io:80/vJQItm/YCLZin/332
+#EXTINF:-1,Paramount Channel FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/333
 #EXTINF:-1,Paramount Channel HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8936
+http://eyplay.io:80/vJQItm/YCLZin/334
 #EXTINF:-1,Paramount Channel SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8937
-#EXTINF:-1,PlayTV SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8938
-#EXTINF:-1,Premiere 1 SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8939
+http://eyplay.io:80/vJQItm/YCLZin/335
+#EXTINF:-1,Play TV FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/336
+#EXTINF:-1,Play TV HD
+http://eyplay.io:80/vJQItm/YCLZin/337
+#EXTINF:-1,Play TV SD
+http://eyplay.io:80/vJQItm/YCLZin/338
+#EXTINF:-1,Premiere 2 FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/339
 #EXTINF:-1,Premiere 2 HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8940
+http://eyplay.io:80/vJQItm/YCLZin/340
 #EXTINF:-1,Premiere 2 SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8941
+http://eyplay.io:80/vJQItm/YCLZin/341
+#EXTINF:-1,Premiere 3 FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/342
 #EXTINF:-1,Premiere 3 HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8942
+http://eyplay.io:80/vJQItm/YCLZin/343
 #EXTINF:-1,Premiere 3 SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8943
+http://eyplay.io:80/vJQItm/YCLZin/344
+#EXTINF:-1,Premiere 4 FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/345
 #EXTINF:-1,Premiere 4 HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8944
+http://eyplay.io:80/vJQItm/YCLZin/346
 #EXTINF:-1,Premiere 4 SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8945
+http://eyplay.io:80/vJQItm/YCLZin/347
+#EXTINF:-1,Premiere 5 FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/348
 #EXTINF:-1,Premiere 5 HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8946
+http://eyplay.io:80/vJQItm/YCLZin/349
 #EXTINF:-1,Premiere 5 SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8947
+http://eyplay.io:80/vJQItm/YCLZin/350
+#EXTINF:-1,Premiere 6 FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/351
 #EXTINF:-1,Premiere 6 HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8948
+http://eyplay.io:80/vJQItm/YCLZin/352
 #EXTINF:-1,Premiere 6 SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8949
+http://eyplay.io:80/vJQItm/YCLZin/353
+#EXTINF:-1,Premiere 7 FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/354
+#EXTINF:-1,Premiere 7 HD
+http://eyplay.io:80/vJQItm/YCLZin/355
 #EXTINF:-1,Premiere 7 SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8950
-#EXTINF:-1,Premiere 8 SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8951
+http://eyplay.io:80/vJQItm/YCLZin/356
+#EXTINF:-1,Premiere Clubes FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/357
 #EXTINF:-1,Premiere Clubes HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8952
+http://eyplay.io:80/vJQItm/YCLZin/358
 #EXTINF:-1,Premiere Clubes SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8953
-#EXTINF:-1,Prime Box Brazil SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8954
-#EXTINF:-1,Record Campinas HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8955
-#EXTINF:-1,Record Campinas SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8956
-#EXTINF:-1,Record DF SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8957
-#EXTINF:-1,Record Esp. Santo SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8958
-#EXTINF:-1,Record MG SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8959
+http://eyplay.io:80/vJQItm/YCLZin/359
+#EXTINF:-1,Prime Box Brasil FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/360
+#EXTINF:-1,Prime Box Brasil HD
+http://eyplay.io:80/vJQItm/YCLZin/361
+#EXTINF:-1,Prime Box Brasil SD
+http://eyplay.io:80/vJQItm/YCLZin/362
+#EXTINF:-1,Real Madrid SD
+http://eyplay.io:80/vJQItm/YCLZin/363
+#EXTINF:-1,Record News FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/364
 #EXTINF:-1,Record News HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8960
+http://eyplay.io:80/vJQItm/YCLZin/365
 #EXTINF:-1,Record News SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8961
-#EXTINF:-1,Record Nordeste HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8962
-#EXTINF:-1,Record RJ SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8963
-#EXTINF:-1,Record RS HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8964
-#EXTINF:-1,Record SP HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8965
-#EXTINF:-1,Record SP SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8966
-#EXTINF:-1,Record TV Vitoria SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8967
-#EXTINF:-1,Rede Familia SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8968
+http://eyplay.io:80/vJQItm/YCLZin/366
+#EXTINF:-1,RecordTV Bahia HD
+http://eyplay.io:80/vJQItm/YCLZin/367
+#EXTINF:-1,RecordTV Belem SD
+http://eyplay.io:80/vJQItm/YCLZin/368
+#EXTINF:-1,RecordTV Brasilia HD
+http://eyplay.io:80/vJQItm/YCLZin/369
+#EXTINF:-1,RecordTV FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/370
+#EXTINF:-1,RecordTV Goias SD
+http://eyplay.io:80/vJQItm/YCLZin/371
+#EXTINF:-1,RecordTV HD
+http://eyplay.io:80/vJQItm/YCLZin/372
+#EXTINF:-1,RecordTV Minas HD
+http://eyplay.io:80/vJQItm/YCLZin/373
+#EXTINF:-1,RecordTV Minas SD
+http://eyplay.io:80/vJQItm/YCLZin/374
+#EXTINF:-1,RecordTV Rio HD
+http://eyplay.io:80/vJQItm/YCLZin/375
+#EXTINF:-1,RecordTV RS HD
+http://eyplay.io:80/vJQItm/YCLZin/376
+#EXTINF:-1,RecordTV RS SD
+http://eyplay.io:80/vJQItm/YCLZin/377
+#EXTINF:-1,RecordTV S. J. do Rio Preto HD
+http://eyplay.io:80/vJQItm/YCLZin/27196
+#EXTINF:-1,Rede Gospel FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/14068
+#EXTINF:-1,Rede Gospel HD
+http://eyplay.io:80/vJQItm/YCLZin/14067
 #EXTINF:-1,Rede Gospel SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8969
-#EXTINF:-1,Rede Vida HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8970
+http://eyplay.io:80/vJQItm/YCLZin/14069
+#EXTINF:-1,Rede Super FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/378
 #EXTINF:-1,Rede Vida SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8971
-#EXTINF:-1,RedeTV! HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8972
-#EXTINF:-1,RedeTV! SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8973
-#EXTINF:-1,RIT TV SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8974
-#EXTINF:-1,SBT Goias HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8975
-#EXTINF:-1,SBT Nordeste HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8976
-#EXTINF:-1,SBT RJ HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8977
-#EXTINF:-1,SBT SP HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8978
-#EXTINF:-1,SBT SP SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8979
-#EXTINF:-1,SBT TV Cidade Verde Piaui SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8980
-#EXTINF:-1,SBT TV Jornal Pernambuco SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8981
+http://eyplay.io:80/vJQItm/YCLZin/14066
+#EXTINF:-1,RedeTV FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/379
+#EXTINF:-1,RedeTV HD
+http://eyplay.io:80/vJQItm/YCLZin/380
+#EXTINF:-1,RedeTV SD
+http://eyplay.io:80/vJQItm/YCLZin/381
+#EXTINF:-1,RiT TV SD
+http://eyplay.io:80/vJQItm/YCLZin/14070
+#EXTINF:-1,SBT Alterosa MG HD
+http://eyplay.io:80/vJQItm/YCLZin/13904
+#EXTINF:-1,SBT FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/382
+#EXTINF:-1,SBT HD
+http://eyplay.io:80/vJQItm/YCLZin/383
+#EXTINF:-1,SBT SD
+http://eyplay.io:80/vJQItm/YCLZin/384
+#EXTINF:-1,Shoptime FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/385
+#EXTINF:-1,Smithsonian Channel HD
+http://eyplay.io:80/vJQItm/YCLZin/27197
+#EXTINF:-1,Sony FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/386
 #EXTINF:-1,Sony HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8982
+http://eyplay.io:80/vJQItm/YCLZin/387
 #EXTINF:-1,Sony SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8983
+http://eyplay.io:80/vJQItm/YCLZin/388
+#EXTINF:-1,Space FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/389
 #EXTINF:-1,Space HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8984
+http://eyplay.io:80/vJQItm/YCLZin/390
 #EXTINF:-1,Space SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8985
+http://eyplay.io:80/vJQItm/YCLZin/391
+#EXTINF:-1,SporTV 2 FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/392
 #EXTINF:-1,SporTV 2 HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8986
+http://eyplay.io:80/vJQItm/YCLZin/393
 #EXTINF:-1,SporTV 2 SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8987
+http://eyplay.io:80/vJQItm/YCLZin/394
+#EXTINF:-1,SporTV 3 FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/395
 #EXTINF:-1,SporTV 3 HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8988
+http://eyplay.io:80/vJQItm/YCLZin/396
 #EXTINF:-1,SporTV 3 SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8989
+http://eyplay.io:80/vJQItm/YCLZin/397
+#EXTINF:-1,SporTV FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/398
 #EXTINF:-1,SporTV HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8990
+http://eyplay.io:80/vJQItm/YCLZin/399
 #EXTINF:-1,SporTV SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8991
+http://eyplay.io:80/vJQItm/YCLZin/400
+#EXTINF:-1,Studio Universal FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/401
 #EXTINF:-1,Studio Universal HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8992
+http://eyplay.io:80/vJQItm/YCLZin/402
 #EXTINF:-1,Studio Universal SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8993
-#EXTINF:-1,SyFy HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8994
-#EXTINF:-1,SyFy SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8995
+http://eyplay.io:80/vJQItm/YCLZin/403
+#EXTINF:-1,Syfy FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/404
+#EXTINF:-1,Syfy HD
+http://eyplay.io:80/vJQItm/YCLZin/405
+#EXTINF:-1,Syfy SD
+http://eyplay.io:80/vJQItm/YCLZin/406
+#EXTINF:-1,TBS FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/407
+#EXTINF:-1,TBS HD
+http://eyplay.io:80/vJQItm/YCLZin/408
 #EXTINF:-1,TBS SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8996
-#EXTINF:-1,Telecine Action HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8997
-#EXTINF:-1,Telecine Action SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8998
-#EXTINF:-1,Telecine Cult HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/8999
-#EXTINF:-1,Telecine Cult SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9000
-#EXTINF:-1,Telecine Fun HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9001
-#EXTINF:-1,Telecine Fun SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9002
-#EXTINF:-1,Telecine Pipoca HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9003
-#EXTINF:-1,Telecine Pipoca SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9004
-#EXTINF:-1,Telecine Premium HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9005
-#EXTINF:-1,Telecine Premium SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9006
-#EXTINF:-1,Telecine Touch HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9007
-#EXTINF:-1,Telecine Touch SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9008
-#EXTINF:-1,TNT HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9009
-#EXTINF:-1,TNT SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9010
-#EXTINF:-1,TNT S
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9011
-#EXTINF:-1,TNT S
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9012
-#EXTINF:-1,Tooncast HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9013
-#EXTINF:-1,Tooncast SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9014
-#EXTINF:-1,TruTV SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9015
-#EXTINF:-1,TV Aparecida SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9016
-#EXTINF:-1,TV Gazeta SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9017
-#EXTINF:-1,TV Playkids
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9018
-#EXTINF:-1,TV Ra Tim Bum SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9019
-#EXTINF:-1,TV S
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9020
-#EXTINF:-1,Universal Channel HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9021
-#EXTINF:-1,Universal Channel SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9022
-#EXTINF:-1,VH1 HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9023
-#EXTINF:-1,VH1 SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9024
-#EXTINF:-1,Viva HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9025
-#EXTINF:-1,Viva SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9026
-#EXTINF:-1,Warner Channel HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9027
-#EXTINF:-1,Warner Channel SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9028
-#EXTINF:-1,Woohoo HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9029
-#EXTINF:-1,Woohoo SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9030
-#EXTINF:-1,Zoomoo HD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9031
-#EXTINF:-1,Zoomoo SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9032
+http://eyplay.io:80/vJQItm/YCLZin/409
+#EXTINF:-1,TCM FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/410
+#EXTINF:-1,TCM HD
+http://eyplay.io:80/vJQItm/YCLZin/411
 #EXTINF:-1,TCM SD
-http://online.goldpremium.xyz:80/FutucaTv54/naoadiantaroubar05/9033
+http://eyplay.io:80/vJQItm/YCLZin/412
+#EXTINF:-1,Telecine Action FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/413
+#EXTINF:-1,Telecine Action HD
+http://eyplay.io:80/vJQItm/YCLZin/414
+#EXTINF:-1,Telecine Action HD (Legendado)
+http://eyplay.io:80/vJQItm/YCLZin/27121
+#EXTINF:-1,Telecine Action SD
+http://eyplay.io:80/vJQItm/YCLZin/415
+#EXTINF:-1,Telecine Cult FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/416
+#EXTINF:-1,Telecine Cult HD
+http://eyplay.io:80/vJQItm/YCLZin/417
+#EXTINF:-1,Telecine Cult HD (Legendado)
+http://eyplay.io:80/vJQItm/YCLZin/27124
+#EXTINF:-1,Telecine Cult SD
+http://eyplay.io:80/vJQItm/YCLZin/418
+#EXTINF:-1,Telecine Fun FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/419
+#EXTINF:-1,Telecine Fun HD
+http://eyplay.io:80/vJQItm/YCLZin/420
+#EXTINF:-1,Telecine Fun HD (Legendado)
+http://eyplay.io:80/vJQItm/YCLZin/27123
+#EXTINF:-1,Telecine Fun SD
+http://eyplay.io:80/vJQItm/YCLZin/421
+#EXTINF:-1,Telecine Pipoca FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/422
+#EXTINF:-1,Telecine Pipoca HD
+http://eyplay.io:80/vJQItm/YCLZin/423
+#EXTINF:-1,Telecine Pipoca HD (Legendado)
+http://eyplay.io:80/vJQItm/YCLZin/27119
+#EXTINF:-1,Telecine Pipoca SD
+http://eyplay.io:80/vJQItm/YCLZin/424
+#EXTINF:-1,Telecine Premium FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/425
+#EXTINF:-1,Telecine Premium HD
+http://eyplay.io:80/vJQItm/YCLZin/426
+#EXTINF:-1,Telecine Premium HD (Legendado)
+http://eyplay.io:80/vJQItm/YCLZin/27120
+#EXTINF:-1,Telecine Premium SD
+http://eyplay.io:80/vJQItm/YCLZin/427
+#EXTINF:-1,Telecine Touch FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/428
+#EXTINF:-1,Telecine Touch HD
+http://eyplay.io:80/vJQItm/YCLZin/429
+#EXTINF:-1,Telecine Touch HD (Legendado)
+http://eyplay.io:80/vJQItm/YCLZin/27122
+#EXTINF:-1,Telecine Touch SD
+http://eyplay.io:80/vJQItm/YCLZin/430
+#EXTINF:-1,TLC FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/431
+#EXTINF:-1,TLC HD
+http://eyplay.io:80/vJQItm/YCLZin/432
+#EXTINF:-1,TLC SD
+http://eyplay.io:80/vJQItm/YCLZin/433
+#EXTINF:-1,TNT FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/434
+#EXTINF:-1,TNT HD
+http://eyplay.io:80/vJQItm/YCLZin/435
+#EXTINF:-1,TNT SD
+http://eyplay.io:80/vJQItm/YCLZin/436
+#EXTINF:-1,TNT Series FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/437
+#EXTINF:-1,TNT Series HD
+http://eyplay.io:80/vJQItm/YCLZin/438
+#EXTINF:-1,TNT Series SD
+http://eyplay.io:80/vJQItm/YCLZin/439
+#EXTINF:-1,Tooncast FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/440
+#EXTINF:-1,Tooncast HD
+http://eyplay.io:80/vJQItm/YCLZin/441
+#EXTINF:-1,Tooncast SD
+http://eyplay.io:80/vJQItm/YCLZin/442
+#EXTINF:-1,Tru TV FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/443
+#EXTINF:-1,Tru TV HD
+http://eyplay.io:80/vJQItm/YCLZin/444
+#EXTINF:-1,Tru TV SD
+http://eyplay.io:80/vJQItm/YCLZin/445
+#EXTINF:-1,TV Aparecida SD
+http://eyplay.io:80/vJQItm/YCLZin/14065
+#EXTINF:-1,TV Camara HD
+http://eyplay.io:80/vJQItm/YCLZin/18068
+#EXTINF:-1,TV Cultura HD
+http://eyplay.io:80/vJQItm/YCLZin/18067
+#EXTINF:-1,TV Gazeta FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/446
+#EXTINF:-1,TV Novo Tempo FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/14071
+#EXTINF:-1,TV Novo Tempo HD
+http://eyplay.io:80/vJQItm/YCLZin/14072
+#EXTINF:-1,TV Novo Tempo SD
+http://eyplay.io:80/vJQItm/YCLZin/14073
+#EXTINF:-1,TV Ra Tim Bum FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/447
+#EXTINF:-1,TV Ra Tim Bum HD
+http://eyplay.io:80/vJQItm/YCLZin/448
+#EXTINF:-1,TV Ra Tim Bum SD
+http://eyplay.io:80/vJQItm/YCLZin/449
+#EXTINF:-1,TV Senado SD
+http://eyplay.io:80/vJQItm/YCLZin/18066
+#EXTINF:-1,TV TEM Sao Jose do Rio Preto SD
+http://eyplay.io:80/vJQItm/YCLZin/18267
+#EXTINF:-1,TV5 HD
+http://eyplay.io:80/vJQItm/YCLZin/451
+#EXTINF:-1,Universal Channel FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/452
+#EXTINF:-1,Universal Channel HD
+http://eyplay.io:80/vJQItm/YCLZin/453
+#EXTINF:-1,Universal Channel SD
+http://eyplay.io:80/vJQItm/YCLZin/454
+#EXTINF:-1,VH1 FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/477
+#EXTINF:-1,VH1 HD
+http://eyplay.io:80/vJQItm/YCLZin/14077
+#EXTINF:-1,VH1 Mega Hits FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/455
+#EXTINF:-1,VH1 Mega Hits HD
+http://eyplay.io:80/vJQItm/YCLZin/456
+#EXTINF:-1,VH1 Mega Hits SD
+http://eyplay.io:80/vJQItm/YCLZin/457
+#EXTINF:-1,Viva FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/458
+#EXTINF:-1,Viva HD
+http://eyplay.io:80/vJQItm/YCLZin/459
+#EXTINF:-1,Viva SD
+http://eyplay.io:80/vJQItm/YCLZin/460
+#EXTINF:-1,Warner Channel FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/461
+#EXTINF:-1,Warner Channel HD
+http://eyplay.io:80/vJQItm/YCLZin/462
+#EXTINF:-1,Warner Channel SD
+http://eyplay.io:80/vJQItm/YCLZin/463
+#EXTINF:-1,Woohoo FHD (H265)
+http://eyplay.io:80/vJQItm/YCLZin/464
