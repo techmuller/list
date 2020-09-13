@@ -1,451 +1,1667 @@
 #EXTM3U
-#EXTINF:-1,Arte 1
-http://179.174.39.238:2086/play/a024/index.m3u8
-#EXTINF:-1,Band
-http://179.174.39.238:2086/play/a00l/index.m3u8
-#EXTINF:-1,Band News
-http://179.174.39.238:2086/play/a026/index.m3u8
-#EXTINF:-1,Boomerang HD
-http://179.174.39.238:2086/play/a01c/index.m3u8
+#EXTINF:-1,AMC
+http://179.180.221.117:8000/play/a00m
+#EXTINF:-1,BIS
+http://179.180.221.117:8000/play/a011
+#EXTINF:-1,Baby TV
+http://179.180.221.117:8000/play/a00f
 #EXTINF:-1,CGTN
-http://179.174.39.238:2086/play/a017/index.m3u8
+http://179.180.221.117:8000/play/a00y
+#EXTINF:-1,CNN Brasil
+http://179.180.221.117:8000/play/a01h
+#EXTINF:-1,CNN Internacional
+http://179.180.221.117:8000/play/a01u
+#EXTINF:-1,CNT
+http://179.180.221.117:8000/play/a00k
+#EXTINF:-1,Satellite TV
+http://179.180.221.117:8000/play/a00c
+#EXTINF:-1,Satellite TV
+http://179.180.221.117:8000/play/a01g
 #EXTINF:-1,Cartoon Network
-http://179.174.39.238:2086/play/a00d/index.m3u8
-#EXTINF:-1,Combate
-http://179.174.39.238:2086/play/a009/index.m3u8
-#EXTINF:-1,Cultura
-http://179.174.39.238:2086/play/a00j/index.m3u8
-#EXTINF:-1,Curta! HD
-http://179.174.39.238:2086/play/a01a/index.m3u8
+http://179.180.221.117:8000/play/a01c
+#EXTINF:-1,Cinemax
+http://179.180.221.117:8000/play/a01k
 #EXTINF:-1,DW (Deutsch+)
-http://179.174.39.238:2086/play/a00h/index.m3u8
-#EXTINF:-1,Disc. Home & Health
-http://179.174.39.238:2086/play/a012/index.m3u8
+http://179.180.221.117:8000/play/a01w
+#EXTINF:-1,Discovery Channel
+http://179.180.221.117:8000/play/a00j
 #EXTINF:-1,Discovery Kids
-http://179.174.39.238:2086/play/a013/index.m3u8
-#EXTINF:-1,Disney Junior
-http://179.174.39.238:2086/play/a014/index.m3u8
-#EXTINF:-1,E!
-http://179.174.39.238:2086/play/a023/index.m3u8
-#EXTINF:-1,ESPN
-http://179.174.39.238:2086/play/a025/index.m3u8
-#EXTINF:-1,ESPN Extra HD
-http://179.174.39.238:2086/play/a01b/index.m3u8
+http://179.180.221.117:8000/play/a01o
+#EXTINF:-1,ESPN2
+http://179.180.221.117:8000/play/a00s
 #EXTINF:-1,FOX
-http://179.174.39.238:2086/play/a004/index.m3u8
+http://179.180.221.117:8000/play/a01a
+#EXTINF:-1,Film & Arts
+http://179.180.221.117:8000/play/a012
+#EXTINF:-1,Food Network
+http://179.180.221.117:8000/play/a006
+#EXTINF:-1,Fox Life https://iptv.live
+http://179.180.221.117:8000/play/a00r
+#EXTINF:-1,Fox Sports
+http://179.180.221.117:8000/play/a019
 #EXTINF:-1,Futura
-http://179.174.39.238:2086/play/a022/index.m3u8
-#EXTINF:-1,GNT https://iptv.live
-http://179.174.39.238:2086/play/a011/index.m3u8
-#EXTINF:-1,Globo
-http://179.174.39.238:2086/play/a00a/index.m3u8
-#EXTINF:-1,HBO Family
-http://179.174.39.238:2086/play/a006/index.m3u8
-#EXTINF:-1,HBO Signature
-http://179.174.39.238:2086/play/a007/index.m3u8
-#EXTINF:-1,MAX Prime
-http://179.174.39.238:2086/play/a008/index.m3u8
+http://179.180.221.117:8000/play/a021
+#EXTINF:-1,Globo TV Tribuna Santos
+http://179.180.221.117:8000/play/a01z
+#EXTINF:-1,Gloob
+http://179.180.221.117:8000/play/a00g
+#EXTINF:-1,HBO
+http://179.180.221.117:8000/play/a00d
+#EXTINF:-1,HBO POP
+http://179.180.221.117:8000/play/a00u
+#EXTINF:-1,HBO XTREME
+http://179.180.221.117:8000/play/a01m
+#EXTINF:-1,HBO+
+http://179.180.221.117:8000/play/a00t
+#EXTINF:-1,Ideal TV
+http://179.180.221.117:8000/play/a01d
+#EXTINF:-1,Lifetime
+http://179.180.221.117:8000/play/a00v
 #EXTINF:-1,MTV
-http://179.174.39.238:2086/play/a00n/index.m3u8
-#EXTINF:-1,Mega TV
-http://179.174.39.238:2086/play/a00b/index.m3u8
-#EXTINF:-1,Megapix
-http://179.174.39.238:2086/play/a005/index.m3u8
-#EXTINF:-1,Music Box Brazil HD
-http://179.174.39.238:2086/play/a01d/index.m3u8
+http://179.180.221.117:8000/play/a00p
+#EXTINF:-1,Mais Globosat
+http://179.180.221.117:8000/play/a010
+#EXTINF:-1,MegaPix
+http://179.180.221.117:8000/play/a01l
+#EXTINF:-1,Music Box Brazil
+http://179.180.221.117:8000/play/a01e
 #EXTINF:-1,OFF
-http://179.174.39.238:2086/play/a001/index.m3u8
-#EXTINF:-1,Paramount
-http://179.174.39.238:2086/play/a015/index.m3u8
-#EXTINF:-1,Polishop TV
-http://179.174.39.238:2086/play/a00m/index.m3u8
-#EXTINF:-1,Premiere 3
-http://179.174.39.238:2086/play/a018/index.m3u8
-#EXTINF:-1,Premiere 5
-http://179.174.39.238:2086/play/a019/index.m3u8
-#EXTINF:-1,Prime Box Brazil HD
-http://179.174.39.238:2086/play/a01e/index.m3u8
+http://179.180.221.117:8000/play/a009
+#EXTINF:-1,Pai Eterno
+http://179.180.221.117:8000/play/a00x
+#EXTINF:-1,Paramount Network
+http://179.180.221.117:8000/play/a008
+#EXTINF:-1,Premiere 6
+http://179.180.221.117:8000/play/a015
+#EXTINF:-1,Premiere 7
+http://179.180.221.117:8000/play/a01y
+#EXTINF:-1,Premiere 8
+http://179.180.221.117:8000/play/a00o
 #EXTINF:-1,RAI
-http://179.174.39.238:2086/play/a00p/index.m3u8
-#EXTINF:-1,Record
-http://179.174.39.238:2086/play/a00k/index.m3u8
-#EXTINF:-1,Rede 21
-http://179.174.39.238:2086/play/a00c/index.m3u8
-#EXTINF:-1,Sexy Hot
-http://179.174.39.238:2086/play/a028/index.m3u8
-#EXTINF:-1,Space
-http://179.174.39.238:2086/play/a00g/index.m3u8
-#EXTINF:-1,TNT
-http://179.174.39.238:2086/play/a00f/index.m3u8
+http://179.180.221.117:8000/play/a01t
+#EXTINF:-1,Record News
+http://179.180.221.117:8000/play/a00i
+#EXTINF:-1,Rede Brasil
+http://179.180.221.117:8000/play/a00z
+#EXTINF:-1,Rede TV
+http://179.180.221.117:8000/play/a01s
+#EXTINF:-1,SIC Internacional
+http://179.180.221.117:8000/play/a01v
+#EXTINF:-1,SporTV
+http://179.180.221.117:8000/play/a007
+#EXTINF:-1,SporTV 3
+http://179.180.221.117:8000/play/a01j
+#EXTINF:-1,Syfy
+http://179.180.221.117:8000/play/a01n
+#EXTINF:-1,TV Aparecida
+http://179.180.221.117:8000/play/a01r
+#EXTINF:-1,TV Brasil
+http://179.180.221.117:8000/play/a014
 #EXTINF:-1,TV Brasil 2
-http://179.174.39.238:2086/play/a020/index.m3u8
-#EXTINF:-1,TV JustiĿa
-http://179.174.39.238:2086/play/a00i/index.m3u8
-#EXTINF:-1,TV RÆ Tim Bum
-http://179.174.39.238:2086/play/a00e/index.m3u8
+http://179.180.221.117:8000/play/a01i
+#EXTINF:-1,TV Novo Tempo
+http://179.180.221.117:8000/play/a022
 #EXTINF:-1,TV Senado
-http://179.174.39.238:2086/play/a021/index.m3u8
+http://179.180.221.117:8000/play/a00n
+#EXTINF:-1,TV WA
+http://179.180.221.117:8000/play/a01q
+#EXTINF:-1,TVE
+http://179.180.221.117:8000/play/a01f
+#EXTINF:-1,Telecine Action https://iptv.live
+http://179.180.221.117:8000/play/a01b
 #EXTINF:-1,Telecine Fun
-http://179.174.39.238:2086/play/a016/index.m3u8
+http://179.180.221.117:8000/play/a018
 #EXTINF:-1,Telecine Premium
-http://179.174.39.238:2086/play/a00o/index.m3u8
-#EXTINF:-1,Universal TV
-http://179.174.39.238:2086/play/a003/index.m3u8
-#EXTINF:-1,Venus
-http://179.174.39.238:2086/play/a00q/index.m3u8
+http://179.180.221.117:8000/play/a00a
+#EXTINF:-1,Telecine Touch
+http://179.180.221.117:8000/play/a00b
+#EXTINF:-1,The History Channel
+http://179.180.221.117:8000/play/a01p
+#EXTINF:-1,Tooncast
+http://179.180.221.117:8000/play/a00h
+#EXTINF:-1,TruTV
+http://179.180.221.117:8000/play/a00e
 #EXTINF:-1,Viva
-http://179.174.39.238:2086/play/a002/index.m3u8
+http://179.180.221.117:8000/play/a00q
 #EXTINF:-1,Warner Channel
-http://179.174.39.238:2086/play/a027/index.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/0L5tCLH.png" group-title="Shop",1001 Noites
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Shop",1001 Noites
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist.m3u8&checkedby
-#EXTINF:0 tvg-country="BR" tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="Undefined",98 Live (Belo Horizonte)
-https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="Undefined",98 Live (Belo Horizonte)
-https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8&checkedby
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A & E
-http://randomserver.site:2086/live/crystal/12345/92727.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A & E
-http://randomserver.site:2086/crystal/12345/92727
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A & E
-http://randomserver.site:2086/live/Bria/Bria/92727.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E
-http://ingrid.ltd:25461/Melon3175/Melon7531/41359
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/5673
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD (h265)
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9477.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110276
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO TV
-http://tvpremiumhd.club/lista-gratuita/224502/on/live.php?id=177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMC
-http://ingrid.ltd:25461/Melon3175/Melon7531/41358
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMC Full HD (h265)
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9471.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMC HD
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9397.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMC HD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111071
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMC HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110277
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMC HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110278
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMC SD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111072
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ANIMAL PLANET
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/5674
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ANIMAL PLANET 4K
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111073
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111075
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110279
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ANIMAL PLANET SD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111076
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ARTE 1
-http://ingrid.ltd:25461/Melon3175/Melon7531/41356
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ARTE 1 FHD  dual audio
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111077
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ARTE 1 HD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111078
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ARTE 1 HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110280
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ASILIA
-http://ingrid.ltd:25461/Melon3175/Melon7531/41311
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AXN
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/5675
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AXN
-http://ingrid.ltd:25461/Melon3175/Melon7531/41355
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AXN
-http://randomserver.site:2086/live/crystal/12345/92724.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AXN
-http://randomserver.site:2086/live/Bria/Bria/92724.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AXN
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/5601.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AXN HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110281
-#EXTINF:0 tvg-country="BR" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Hobby",Agro Brasil TV
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Hobby",Agro Brasil TV
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8&checkedby
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Animal Planet
-http://ingrid.ltd:25461/Melon3175/Melon7531/41357
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Animal Planet Full HD
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9126.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Animal Planet HD
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9411.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BABY TV
-http://ingrid.ltd:25461/Melon3175/Melon7531/41354
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BABY TV HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110282
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BABY TV SD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111082
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND
-http://randomserver.site:2086/live/crystal/12345/92735.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND
-http://randomserver.site:2086/crystal/12345/92735
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND
-http://randomserver.site:2086/live/Bria/Bria/92735.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND CAMPINAS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41353
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND CAMPINAS SD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110283
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND NEWS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41352
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND NEWS
-http://randomserver.site:2086/live/crystal/12345/92723.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND NEWS
-http://randomserver.site:2086/crystal/12345/92723
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND NEWS
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/5677
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND NEWS
-http://randomserver.site:2086/live/Bria/Bria/92723.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND NEWS HD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111087
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND NEWS HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110284
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND RJ HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110285
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND SP HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110286
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41351
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS HD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111090
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110287
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BIS FHD dual audio
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111092
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BIS HD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111093
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BIS HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110288
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BIS SD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111094
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BOA VONTADE TV SD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111096
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BOOMBERANG FHD dual audio
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111097
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BOOMBERANG HD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111098
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BOOMERANG
-http://ingrid.ltd:25461/Melon3175/Melon7531/41349
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BOOMERANG
-http://randomserver.site:2086/live/crystal/12345/92720.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BOOMERANG
-http://randomserver.site:2086/crystal/12345/92720
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BOOMERANG HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110289
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Band 4K
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9232.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Band Hd
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111085
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Band News
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/5602.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Band Sports FHD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111089
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Boomerang
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/7368
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Boomerang Full HD
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9166.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Brasil IPTV_101
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTa59sGPQaTvjcnoo6VmIoc1UQTOc9ojERqip38TTmmKLf3tWis&checkedby&checkedby
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Brasil IPTV_101
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTa59sGPQaTvjcnoo6VmIoc1UQTOc9ojERqip38TTmmKLf3tWis&checkedby
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Brasil IPTV_110
-http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8&checkedby
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Brasil IPTV_110
-http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Brasil IPTV_123
-http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8&checkedby
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Brasil IPTV_123
-http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Brasil IPTV_17
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Brasil IPTV_17
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8&checkedby
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Brasil IPTV_18
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Brasil IPTV_18
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8&checkedby
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Brasil IPTV_20
-http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Brasil IPTV_20
-http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8&checkedby
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Brasil IPTV_27
-http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8&checkedby
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Brasil IPTV_27
-http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Brasil IPTV_29
-http://213.13.26.11:1935/live/portocanal/playlist.m3u8&checkedby
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Brasil IPTV_29
-http://213.13.26.11:1935/live/portocanal/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Brasil IPTV_47
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrJMPC83tMfZHkEZnIsTiv168M9ObOPjc4ERK3Q-nYMPgj5LvW&checkedby&checkedby
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Brasil IPTV_47
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrJMPC83tMfZHkEZnIsTiv168M9ObOPjc4ERK3Q-nYMPgj5LvW&checkedby
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Brasil IPTV_5
-http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Brasil IPTV_5
-http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8&checkedby
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY HOME & HEALTH
-http://ingrid.ltd:25461/Melon3175/Melon7531/41337
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY HOME & HEALTH HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110301
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY KIDS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41336
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY KIDS
-http://randomserver.site:2086/live/crystal/12345/92711.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY KIDS
-http://randomserver.site:2086/crystal/12345/92711
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY KIDS
-http://randomserver.site:2086/live/Bria/Bria/92711.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
-http://ingrid.ltd:25461/Melon3175/Melon7531/41335
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY THEATER
-http://ingrid.ltd:25461/Melon3175/Melon7531/41334
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY THEATER HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110304
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY TURBO HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110306
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY WORLD
-http://randomserver.site:2086/live/Bria/Bria/92707.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISNEY CHANNEL HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110308
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISNEY JR FHD dual audio
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111158
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISNEY JR HD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111159
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISNEY XD FHD  dual audio
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111162
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO CUIABA SD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110329
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO BRASILIA SD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111217
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO EPTV RIBEIR
-http://ingrid.ltd:25461/Melon3175/Melon7531/41308
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO INTER TV CABUGI SD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111225
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO MATO GROSSO HD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111227
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO MINAS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41305
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO MINAS HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110331
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO NEWS
-http://randomserver.site:2086/live/Bria/Bria/92691.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO NEWS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41304
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO NEWS
-http://randomserver.site:2086/live/crystal/12345/92691.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO NEWS
-http://randomserver.site:2086/crystal/12345/92691
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO NEWS HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110332
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO NORDESTE
-http://ingrid.ltd:25461/Melon3175/Melon7531/41303
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO NORDESTE SD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110333
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO NOW SD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110334
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO RBS PORTO ALEGRE
-http://ingrid.ltd:25461/Melon3175/Melon7531/41302
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO RIBEIR
-http://ingrid.ltd:25461/Melon3175/Melon7531/41301
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO SP
-http://ingrid.ltd:25461/Melon3175/Melon7531/41297
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO SP HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110336
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO TV BAHIA SD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110337
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBOSAT HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110338
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOOB HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110339
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GNT
-http://ingrid.ltd:25461/Melon3175/Melon7531/41289
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",INVESTIGACAO DISCOVERY
-http://randomserver.site:2086/live/crystal/12345/92676.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",LIFETIME HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110353
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Local",Luau TV
-https://hls.brasilstream.com.br/live/luautv/luautv/index.m3u8&checkedby
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MAX UP
-http://randomserver.site:2086/live/Bria/Bria/92672.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MTV HD
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9367.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MTV HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110355
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NICKELODEON
-http://ingrid.ltd:25461/Melon3175/Melon7531/41267
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Natgeo Wild HD
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9428.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Nick Jr HD
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9369.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Novo Tempo,Novo Tempo (Backup)
-http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Novo Tempo
-http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",OFF
-http://ingrid.ltd:25461/Melon3175/Melon7531/41266
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Off
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9309.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PARAMOUNT CHANNEL
-http://ingrid.ltd:25461/Melon3175/Melon7531/41265
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 3
-http://ingrid.ltd:25461/Melon3175/Melon7531/41262
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RECORD SP
-http://ingrid.ltd:25461/Melon3175/Melon7531/41248
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RECORD SP HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110375
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",REDE TV HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110376
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",REDE VIDA HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110377
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Record Full HD
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9163.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Rede Gospel
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9293.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Rede TV 4K
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9236.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="Undefined",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TELECINE TOUCH HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110397
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TLC
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9346.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT FHD  dual audio
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111479
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT SERIES
-http://randomserver.site:2086/live/crystal/12345/92634.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT SERIES HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110399
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TOONCAST HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110400
-#EXTINF:0 tvg-country="BR" tvg-logo="https://www.tvarapuan.com.br/2019/images/uploaded/grupo/9729ae26c38070d5febf2aa538a1a880.png" group-title="General",TV Arapuan
-https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TV CULTURA HD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111490
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/Yayrlnl.png" group-title="Local",TV Comunitária do Rio de Janeiro
-https://59f1cbe63db89.streamlock.net:1443/tvcrio/_definst_/tvcrio/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TV Diario
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/8078
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/b9q8rtn.jpg" group-title="Undefined",TV Faap
-http://bit.ly/2CyHmr0
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",tcm sd
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111449
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",tnt series sd
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111484
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",viva sd
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111517
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",woohoo sd
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111521
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",telecine cult sd
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111457
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",sportv alternativo sd
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111435
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",sportv sd
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111441
+http://179.180.221.117:8000/play/a00w
+#EXTINF:-1,XXX: Playboy TV
+http://179.180.221.117:8000/play/a016
+#EXTINF:-1,XXX: Sextreme
+http://179.180.221.117:8000/play/a013
+#EXTINF:-1,XXX: Sexy Hot
+http://179.180.221.117:8000/play/a017
+#EXTINF:-1,ZooMoo
+http://179.180.221.117:8000/play/a00l
+#EXTINF:-1,A Fazenda HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/27083
+#EXTINF:-1,A Fazenda
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/27084
+#EXTINF:-1,0 Globo RJ DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/7
+#EXTINF:-1,0 Globo RJ DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2958
+#EXTINF:-1,0 Globo RJ HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/28
+#EXTINF:-1,0 Globo RJ HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2959
+#EXTINF:-1,0 Globo SP DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/8
+#EXTINF:-1,0 Globo SP DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2954
+#EXTINF:-1,0 Globo SP HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/47
+#EXTINF:-1,0 Globo SP HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2955
+#EXTINF:-1,0 Premiere 1 Clubes DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/124
+#EXTINF:-1,3 Palavrinhas 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23614
+#EXTINF:-1,A Feiticeira 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23620
+#EXTINF:-1,A Grande Familia 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23615
+#EXTINF:-1,A&E DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/257
+#EXTINF:-1,A&E DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3114
+#EXTINF:-1,A&E HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/279
+#EXTINF:-1,A&E HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3115
+#EXTINF:-1,Aladdin 24HRS! https://iptv.live
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23537
+#EXTINF:-1,AMC DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/258
+#EXTINF:-1,AMC DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3116
+#EXTINF:-1,AMC HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/280
+#EXTINF:-1,AMC HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3117
+#EXTINF:-1,Animal Planet DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/334
+#EXTINF:-1,Animal Planet DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3174
+#EXTINF:-1,Animal Planet HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/340
+#EXTINF:-1,Animal Planet HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3177
+#EXTINF:-1,Arte DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3175
+#EXTINF:-1,Arte HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3176
+#EXTINF:-1,As Meninas Superpoderosas 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23538
+#EXTINF:-1,AXN DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/259
+#EXTINF:-1,AXN DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3118
+#EXTINF:-1,AXN HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/281
+#EXTINF:-1,AXN HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3119
+#EXTINF:-1,Baby TV DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/228
+#EXTINF:-1,Baby TV DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3055
+#EXTINF:-1,Baby TV HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3056
+#EXTINF:-1,Band Bahia DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/56
+#EXTINF:-1,Band BSB HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/61
+#EXTINF:-1,Band Campeinas DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2985
+#EXTINF:-1,Band Campinas HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/62
+#EXTINF:-1,Band DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/57
+#EXTINF:-1,Band Goiania HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/68
+#EXTINF:-1,Band News DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/351
+#EXTINF:-1,Band News DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2986
+#EXTINF:-1,Band News HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2987
+#EXTINF:-1,Band Nordeste DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2984
+#EXTINF:-1,Band Parana Taroba HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/67
+#EXTINF:-1,Band RJ DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23142
+#EXTINF:-1,Band RJ HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/63
+#EXTINF:-1,Band RJ HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23141
+#EXTINF:-1,Band RS HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/64
+#EXTINF:-1,Band Sergipe HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/65
+#EXTINF:-1,Band SP Digital
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/121
+#EXTINF:-1,Band SP DIGITAL* https://iptv.live
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2981
+#EXTINF:-1,Band SP HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/66
+#EXTINF:-1,Band SP HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2982
+#EXTINF:-1,Band Sports DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/147
+#EXTINF:-1,Band Sports DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3028
+#EXTINF:-1,Band Sports HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/163
+#EXTINF:-1,Band Sports HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3029
+#EXTINF:-1,Ben 10 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23539
+#EXTINF:-1,BIS DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/365
+#EXTINF:-1,BIS DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3193
+#EXTINF:-1,BIS HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/383
+#EXTINF:-1,BIS HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3194
+#EXTINF:-1,Bita e os Animais 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23616
+#EXTINF:-1,Bob Esponja 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23540
+#EXTINF:-1,Boomerang DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/229
+#EXTINF:-1,Boomerang DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3057
+#EXTINF:-1,Boomerang HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3058
+#EXTINF:-1,Breaking Bad 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23541
+#EXTINF:-1,Satellite TV
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/113
+#EXTINF:-1,Satellite TV
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3001
+#EXTINF:-1,Satellite TV
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/114
+#EXTINF:-1,Satellite TV
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/260
+#EXTINF:-1,Satellite TV
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3121
+#EXTINF:-1,Satellite TV
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/282
+#EXTINF:-1,Satellite TV
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3122
+#EXTINF:-1,Cancao Nova DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/362
+#EXTINF:-1,Cao Coragem 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23542
+#EXTINF:-1,Cartoon Network DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/230
+#EXTINF:-1,Cartoon Network DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3059
+#EXTINF:-1,Cartoon Network HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/243
+#EXTINF:-1,Cartoon Network HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3060
+#EXTINF:-1,Caverna do Dragao 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23543
+#EXTINF:-1,Chapolin Colorado 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23544
+#EXTINF:-1,Chaves 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23545
+#EXTINF:-1,Chaves Desenho 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23546
+#EXTINF:-1,Cinemax DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/261
+#EXTINF:-1,Cinemax DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3123
+#EXTINF:-1,Cinemax HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/283
+#EXTINF:-1,Cinemax HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3124
+#EXTINF:-1,CNN Brasil Digital
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2426
+#EXTINF:-1,CNN Brasil HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2427
+#EXTINF:-1,CNN Brasil HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23532
+#EXTINF:-1,CNN Brasil DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23531
+#EXTINF:-1,Combate DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/148
+#EXTINF:-1,Combate DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3030
+#EXTINF:-1,Combate HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/164
+#EXTINF:-1,Combate HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3031
+#EXTINF:-1,Comedy Central DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/262
+#EXTINF:-1,Comedy Central DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3125
+#EXTINF:-1,Comedy Central HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/284
+#EXTINF:-1,Comedy Central HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3126
+#EXTINF:-1,Corrida Maluca 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23621
+#EXTINF:-1,Cultura HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3009
+#EXTINF:-1,Curta DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/366
+#EXTINF:-1,CURTA HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3196
+#EXTINF:-1,CURTA! DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3195
+#EXTINF:-1,Denis o Pimentinha 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23547
+#EXTINF:-1,Desenhos Biblicos 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23548
+#EXTINF:-1,Desenhos Disney 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23549
+#EXTINF:-1,Digimon 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23550
+#EXTINF:-1,Discovery Channel DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/316
+#EXTINF:-1,Discovery Channel DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3165
+#EXTINF:-1,Discovery Channel HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/320
+#EXTINF:-1,Discovery Channel HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3166
+#EXTINF:-1,Discovery Civilization HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3169
+#EXTINF:-1,Discovery HeH DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/317
+#EXTINF:-1,Discovery HeH DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3163
+#EXTINF:-1,Discovery HeH HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/321
+#EXTINF:-1,Discovery HeH HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3164
+#EXTINF:-1,Discovery Investigation DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/319
+#EXTINF:-1,Discovery Investigation DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3167
+#EXTINF:-1,Discovery Investigation HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/326
+#EXTINF:-1,Discovery Investigation HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3168
+#EXTINF:-1,Discovery Kids DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/231
+#EXTINF:-1,Discovery Kids DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3063
+#EXTINF:-1,Discovery Kids HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/244
+#EXTINF:-1,Discovery Kids HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3064
+#EXTINF:-1,Discovery Science DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3161
+#EXTINF:-1,Discovery Science HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/322
+#EXTINF:-1,Discovery Science HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3162
+#EXTINF:-1,Discovery Theater HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/323
+#EXTINF:-1,Discovery Theater HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3160
+#EXTINF:-1,Discovery Turbo DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/318
+#EXTINF:-1,Discovery Turbo HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/324
+#EXTINF:-1,Discovery Turbo HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3159
+#EXTINF:-1,Discovery World DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3157
+#EXTINF:-1,Discovery World HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/325
+#EXTINF:-1,Discovery World HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3158
+#EXTINF:-1,Disney Channel DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/234
+#EXTINF:-1,Disney Channel DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3070
+#EXTINF:-1,Disney channel HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/246
+#EXTINF:-1,Disney Channel HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3071
+#EXTINF:-1,Disney JR DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3068
+#EXTINF:-1,Disney JR HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3069
+#EXTINF:-1,Disney Junior DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/235
+#EXTINF:-1,Disney Junior HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/247
+#EXTINF:-1,Disney XD DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/236
+#EXTINF:-1,Disney XD DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3066
+#EXTINF:-1,Disney XD HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3067
+#EXTINF:-1,Dois Homens e Meio 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23551
+#EXTINF:-1,Doug 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23552
+#EXTINF:-1,Dragon Ball 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23553
+#EXTINF:-1,Dragon Ball Super 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23554
+#EXTINF:-1,Dragon Ball Z 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23555
+#EXTINF:-1,E DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/335
+#EXTINF:-1,E DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3197
+#EXTINF:-1,E HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/341
+#EXTINF:-1,E HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3198
+#EXTINF:-1,ESPN 1 DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/149
+#EXTINF:-1,ESPN 1 HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/172
+#EXTINF:-1,ESPN 2 DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/150
+#EXTINF:-1,ESPN 2 HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/170
+#EXTINF:-1,ESPN Brasil DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/151
+#EXTINF:-1,ESPN Brasil HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/171
+#EXTINF:-1,ESPN Extra HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/173
+#EXTINF:-1,Eu a Patroa e as Criancas 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23556
+#EXTINF:-1,Film e Arts DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/367
+#EXTINF:-1,Fish TV DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/152
+#EXTINF:-1,Fish TV DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3041
+#EXTINF:-1,Food Network DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/368
+#EXTINF:-1,Food Network DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3199
+#EXTINF:-1,Food Network HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/384
+#EXTINF:-1,Food Network HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3200
+#EXTINF:-1,Formiga Atomica 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23557
+#EXTINF:-1,Fox DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/263
+#EXTINF:-1,Fox DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3127
+#EXTINF:-1,Fox HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/285
+#EXTINF:-1,Fox HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3128
+#EXTINF:-1,Fox Life DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/264
+#EXTINF:-1,Fox Life HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/286
+#EXTINF:-1,Fox Life HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3129
+#EXTINF:-1,Fox Premium 1 DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3130
+#EXTINF:-1,Fox Premium 1 HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/287
+#EXTINF:-1,Fox Premium 1 HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3131
+#EXTINF:-1,Fox Premium 2 DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3132
+#EXTINF:-1,Fox Premium 2 HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/288
+#EXTINF:-1,Fox Premium 2 HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3133
+#EXTINF:-1,Fox Sports 1 DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/153
+#EXTINF:-1,Fox Sports 1 DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3042
+#EXTINF:-1,Fox Sports 1 HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/175
+#EXTINF:-1,Fox Sports 1 HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3043
+#EXTINF:-1,Fox Sports 2 DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/154
+#EXTINF:-1,Fox Sports 2 DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3044
+#EXTINF:-1,Fox Sports 2 HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/174
+#EXTINF:-1,Fox Sports 2 HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3045
+#EXTINF:-1,Futura DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/116
+#EXTINF:-1,Futura HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3000
+#EXTINF:-1,FX DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/265
+#EXTINF:-1,FX DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3134
+#EXTINF:-1,FX HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/289
+#EXTINF:-1,FX HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3135
+#EXTINF:-1,Galinha Pintadinha 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23558
+#EXTINF:-1,Gazeta SP HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/73
+#EXTINF:-1,Globo Alagoas HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23534
+#EXTINF:-1,Globo Amazonas DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2979
+#EXTINF:-1,Globo Anhanguera Goiana DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2978
+#EXTINF:-1,Globo Brasilia DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/1
+#EXTINF:-1,Globo Brasilia DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2977
+#EXTINF:-1,Globo Brasilia HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/34
+#EXTINF:-1,Globo BSB HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/21
+#EXTINF:-1,Globo Cuiaba DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2976
+#EXTINF:-1,Globo EPTV Campinas Digital
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/32
+#EXTINF:-1,Globo EPTV Campinas DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2973
+#EXTINF:-1,Globo EPTV Campinas HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/22
+#EXTINF:-1,Globo EPTV Campinas HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2974
+#EXTINF:-1,Globo EPTV Ribeirao Preto DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3
+#EXTINF:-1,Globo EPTV Sao Carlos DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2
+#EXTINF:-1,Globo EPTV Sao Carlos DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2972
+#EXTINF:-1,Globo Gazeta Sul ES DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23
+#EXTINF:-1,Globo Gazeta Sul ES HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/25
+#EXTINF:-1,Globo Inter TV Cabugi DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/4
+#EXTINF:-1,Globo Internacional DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2971
+#EXTINF:-1,Globo Internacional HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/26
+#EXTINF:-1,Globo InterTv Cabo Frio HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/38
+#EXTINF:-1,Globo Intertv Cabugi RN DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2970
+#EXTINF:-1,Globo Minas DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/5
+#EXTINF:-1,Globo Minas DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2968
+#EXTINF:-1,Globo Minas HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/51
+#EXTINF:-1,Globo Minas HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2969
+#EXTINF:-1,Globo News DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/354
+#EXTINF:-1,Globo News DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2966
+#EXTINF:-1,Globo News HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/357
+#EXTINF:-1,Globo News HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2967
+#EXTINF:-1,Globo Nordeste DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/6
+#EXTINF:-1,Globo Nordeste DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2964
+#EXTINF:-1,Globo Nordeste HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2965
+#EXTINF:-1,Globo NSC TV Santa Catarina HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/27
+#EXTINF:-1,Globo NSCTV Florianopolis HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/37
+#EXTINF:-1,Globo Paraiba HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/39
+#EXTINF:-1,Globo Portugal Digital
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/33
+#EXTINF:-1,Globo RBS TV Caxias HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/27145
+#EXTINF:-1,Globo RBS TV Pelotas HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/27147
+#EXTINF:-1,Globo RBS TV Porto Alegre DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/53
+#EXTINF:-1,Globo RBS TV Porto Alegre DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2963
+#EXTINF:-1,Globo RBS TV Porto Alegre HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/54
+#EXTINF:-1,Globo RBS TV Santa Maria HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/27142
+#EXTINF:-1,Globo Rede Amazonica Manaus DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/9
+#EXTINF:-1,Globo Ribeirao Preto DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2962
+#EXTINF:-1,Globo Rio Grande Norte DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2961
+#EXTINF:-1,Globo RJ Rio Sul HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/36
+#EXTINF:-1,Globo RPC Parana HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/29
+#EXTINF:-1,Globo RPC TV Curitiba DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/10
+#EXTINF:-1,Globo RPC TV DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2956
+#EXTINF:-1,Globo RPC TV HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2957
+#EXTINF:-1,Globo Santa Cruz Bahia HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/49
+#EXTINF:-1,Globo Sergipe HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/45
+#EXTINF:-1,Globo Subae Bahia HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/50
+#EXTINF:-1,Globo Tv Anhaguera HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/31
+#EXTINF:-1,Globo TV Anhanguera Goiania DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/11
+#EXTINF:-1,Globo TV Asa Branca PE HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/43
+#EXTINF:-1,Globo TV Bahia DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/12
+#EXTINF:-1,Globo TV Bahia DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2953
+#EXTINF:-1,Globo TV Belem DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2952
+#EXTINF:-1,Globo TV Cabo Branco DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23145
+#EXTINF:-1,Globo TV Centro America Cuiaba DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/13
+#EXTINF:-1,Globo TV Clube Piaui HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/42
+#EXTINF:-1,Globo TV Libera Belem HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/40
+#EXTINF:-1,Globo TV Liberal Belem DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/14
+#EXTINF:-1,Globo TV Mirante Maranhao HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/35
+#EXTINF:-1,Globo TV Morena Ponta Pora HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/30
+#EXTINF:-1,Globo TV Sao Jose Rio Preto DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2960
+#EXTINF:-1,Globo TV Sergipe HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23146
+#EXTINF:-1,Globo TV Tem Bauru DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/15
+#EXTINF:-1,Globo TV TEM Bauru DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2951
+#EXTINF:-1,Globo TV Tem Sao Jose do Rio Preto DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/16
+#EXTINF:-1,Globo TV Tem Sorocaba DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/17
+#EXTINF:-1,Globo TV TEM Sorocaba DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2950
+#EXTINF:-1,Globo TV Tribuna Santos DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/18
+#EXTINF:-1,Globo TV Tribuna Santos DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2949
+#EXTINF:-1,Globo TV Vanguarda dos Campos DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/19
+#EXTINF:-1,Globo TV Vanguarda S.J Dos Campos DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2948
+#EXTINF:-1,Globo TV Verdes Mares CE HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/41
+#EXTINF:-1,Globo TV Verdes Mares Fortaleza DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/20
+#EXTINF:-1,Globo Tv Verdes Mares Fortaleza DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2947
+#EXTINF:-1,Globo Vitoria HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23535
+#EXTINF:-1,Globosat DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/369
+#EXTINF:-1,GloboSat DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2945
+#EXTINF:-1,Globosat HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/385
+#EXTINF:-1,GloboSat HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2946
+#EXTINF:-1,Gloob DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/237
+#EXTINF:-1,Gloob HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/248
+#EXTINF:-1,Gloob HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2980
+#EXTINF:-1,GNT DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/370
+#EXTINF:-1,GNT DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3201
+#EXTINF:-1,GNT HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/386
+#EXTINF:-1,GNT HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3202
+#EXTINF:-1,Guardioes da Galaxia 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23559
+#EXTINF:-1,HBO 1 DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/208
+#EXTINF:-1,HBO 1 DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3094
+#EXTINF:-1,HBO 1 HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/215
+#EXTINF:-1,HBO 1 HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3095
+#EXTINF:-1,HBO 1 HD¹*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3104
+#EXTINF:-1,HBO 2 DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/212
+#EXTINF:-1,HBO 2 DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3097
+#EXTINF:-1,HBO 2 HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/213
+#EXTINF:-1,HBO 2 HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3098
+#EXTINF:-1,HBO Family DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/209
+#EXTINF:-1,HBO Family DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3100
+#EXTINF:-1,HBO Family HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/214
+#EXTINF:-1,HBO Family HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3101
+#EXTINF:-1,HBO Mundi DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/221
+#EXTINF:-1,HBO Mundi HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/224
+#EXTINF:-1,HBO Mundi HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3108
+#EXTINF:-1,HBO Pop DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/223
+#EXTINF:-1,HBO Pop DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3112
+#EXTINF:-1,HBO Pop HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/226
+#EXTINF:-1,HBO Pop HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3113
+#EXTINF:-1,HBO Signature DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/211
+#EXTINF:-1,HBO Signature DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3105
+#EXTINF:-1,HBO Signature HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/217
+#EXTINF:-1,HBO Signature HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3106
+#EXTINF:-1,HBO Xtreme DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/222
+#EXTINF:-1,HBO Xtreme DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3109
+#EXTINF:-1,HBO Xtreme HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/225
+#EXTINF:-1,HBO Xtreme HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3110
+#EXTINF:-1,HBO Xtreme HD¹*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3111
+#EXTINF:-1,HBO+ DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/210
+#EXTINF:-1,HBO+ DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3102
+#EXTINF:-1,HBO+ HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3103
+#EXTINF:-1,HBO+ Plus HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/216
+#EXTINF:-1,He-Man 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23560
+#EXTINF:-1,Hercules 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23561
+#EXTINF:-1,HGTV HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/387
+#EXTINF:-1,Historias Disney 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23562
+#EXTINF:-1,History 1 DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3179
+#EXTINF:-1,History 1 HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/342
+#EXTINF:-1,History 1 HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3180
+#EXTINF:-1,History 2 DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/337
+#EXTINF:-1,History 2 DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3182
+#EXTINF:-1,History 2 HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/343
+#EXTINF:-1,History 2 HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3183
+#EXTINF:-1,History DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/336
+#EXTINF:-1,Homem de Ferro 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23564
+#EXTINF:-1,Homem-Aranha 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23563
+#EXTINF:-1,Homens de Preto 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23565
+#EXTINF:-1,Igreja Universal Digital*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23123
+#EXTINF:-1,Incrivel Hulk 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23566
+#EXTINF:-1,Jack-Chan 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23567
+#EXTINF:-1,Jaspion 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23568
+#EXTINF:-1,Jiraya: O Incrivel Ninja 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23569
+#EXTINF:-1,Kenan e Kel 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23570
+#EXTINF:-1,Lifetime DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/371
+#EXTINF:-1,Lifetime DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3203
+#EXTINF:-1,Lifetime HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/388
+#EXTINF:-1,Lifetime HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3204
+#EXTINF:-1,Liga da Justica 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23617
+#EXTINF:-1,Liga Futsal Digital
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/27143
+#EXTINF:-1,Luluzinha 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23571
+#EXTINF:-1,Max Mundi HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3107
+#EXTINF:-1,Medabots 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23572
+#EXTINF:-1,MegaMan 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23573
+#EXTINF:-1,MegaPix DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/266
+#EXTINF:-1,Megapix DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3136
+#EXTINF:-1,MegaPix HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/290
+#EXTINF:-1,Megapix HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3137
+#EXTINF:-1,Mortal Kombat 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23574
+#EXTINF:-1,24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23575
+#EXTINF:-1,MTV DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/372
+#EXTINF:-1,MTV DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3205
+#EXTINF:-1,MTV HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/389
+#EXTINF:-1,MTV HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3207
+#EXTINF:-1,MTV Live HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3206
+#EXTINF:-1,Multishow DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/373
+#EXTINF:-1,MultiShow DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3208
+#EXTINF:-1,Multishow HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/390
+#EXTINF:-1,MultiShow HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3209
+#EXTINF:-1,Music Box Brazil DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/374
+#EXTINF:-1,Music Box Brazil DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3210
+#EXTINF:-1,Music Box Brazil HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/391
+#EXTINF:-1,Naruto 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23576
+#EXTINF:-1,Naruto Shippuden 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23577
+#EXTINF:-1,NatGeo DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/338
+#EXTINF:-1,NatGeo DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3185
+#EXTINF:-1,NatGeo HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/344
+#EXTINF:-1,NatGeo HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3186
+#EXTINF:-1,NatGeo Kids DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/232
+#EXTINF:-1,NatGeo Kids DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3061
+#EXTINF:-1,NatGeo Kids HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/245
+#EXTINF:-1,NatGeo Kids HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3062
+#EXTINF:-1,NatGeo Wild DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/339
+#EXTINF:-1,NatGeo Wild DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3187
+#EXTINF:-1,NatGeo Wild HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/345
+#EXTINF:-1,NatGeo Wild HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3188
+#EXTINF:-1,NHK DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/375
+#EXTINF:-1,Nick JR DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/238
+#EXTINF:-1,Nick JR DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3074
+#EXTINF:-1,Nick JR HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/250
+#EXTINF:-1,Nick JR HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3075
+#EXTINF:-1,Nickelodeon DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/239
+#EXTINF:-1,Nickelodeon DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3072
+#EXTINF:-1,Nickelodeon HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/249
+#EXTINF:-1,Nickelodeon HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3073
+#EXTINF:-1,Novo Tempo DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/24678
+#EXTINF:-1,Novo Tempo DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3189
+#EXTINF:-1,O Fantastico Mundo de Bobby 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23578
+#EXTINF:-1,O Inspetor 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23579
+#EXTINF:-1,O Maskara 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23580
+#EXTINF:-1,OFF DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/155
+#EXTINF:-1,OFF DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3046
+#EXTINF:-1,OFF HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/176
+#EXTINF:-1,OFF HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3047
+#EXTINF:-1,Os Anjinhos: Rugrats 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23581
+#EXTINF:-1,Os Cavaleiros do Zodiaco 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23582
+#EXTINF:-1,Os Flintstones 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23583
+#EXTINF:-1,Os Simpsons 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23584
+#EXTINF:-1,Os Vingadores 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23585
+#EXTINF:-1,Papa-Leguas24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23586
+#EXTINF:-1,Paramount Channel DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3138
+#EXTINF:-1,Paramount Channel HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3139
+#EXTINF:-1,Paramount Channel DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/267
+#EXTINF:-1,Paramount Channel HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/291
+#EXTINF:-1,Peppa Pig 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23587
+#EXTINF:-1,Pernalonga 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23588
+#EXTINF:-1,Phineas e Ferb 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23589
+#EXTINF:-1,Pica-Pau 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23590
+#EXTINF:-1,Pink e Cerebro 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23591
+#EXTINF:-1,Play kids DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/233
+#EXTINF:-1,Play TV DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/376
+#EXTINF:-1,Pokemon 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23592
+#EXTINF:-1,Polishop TV DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/378
+#EXTINF:-1,Popeye O Marinheiro 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23593
+#EXTINF:-1,Premiere 1 Clubes DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3010
+#EXTINF:-1,Premiere 1 Clubes DIGITAL2*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3011
+#EXTINF:-1,Premiere 1 Clubes HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/133
+#EXTINF:-1,Premiere 1 Clubes HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3012
+#EXTINF:-1,Premiere 2 DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/125
+#EXTINF:-1,Premiere 2 DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3014
+#EXTINF:-1,Premiere 2 HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/134
+#EXTINF:-1,Premiere 2 HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3015
+#EXTINF:-1,Premiere 3 DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/126
+#EXTINF:-1,Premiere 3 DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3017
+#EXTINF:-1,Premiere 3 HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/135
+#EXTINF:-1,Premiere 3 HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3018
+#EXTINF:-1,Premiere 4 DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/127
+#EXTINF:-1,Premiere 4 DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3020
+#EXTINF:-1,Premiere 4 HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/136
+#EXTINF:-1,Premiere 4 HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3021
+#EXTINF:-1,Premiere 5 DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/128
+#EXTINF:-1,Premiere 5 DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3023
+#EXTINF:-1,Premiere 5 HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/137
+#EXTINF:-1,Premiere 5 HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3024
+#EXTINF:-1,Premiere 6 DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/129
+#EXTINF:-1,Premiere 6 DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3025
+#EXTINF:-1,Premiere 6 HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/138
+#EXTINF:-1,Premiere 7 DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/130
+#EXTINF:-1,Premiere 7 DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3026
+#EXTINF:-1,Premiere 7 HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/139
+#EXTINF:-1,Premiere 8 DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/131
+#EXTINF:-1,Premiere 8 DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3027
+#EXTINF:-1,Premiere 9 DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/132
+#EXTINF:-1,Prime Box Brazil DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/377
+#EXTINF:-1,Rambo 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23594
+#EXTINF:-1,Record Amazonas DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2999
+#EXTINF:-1,Record Bahia Cabralia HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/86
+#EXTINF:-1,Record Belem HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/82
+#EXTINF:-1,Record Brasilia HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/122
+#EXTINF:-1,Record BSB HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/76
+#EXTINF:-1,Record Campinas DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2996
+#EXTINF:-1,Record Campinas HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2997
+#EXTINF:-1,Record Campinas TVB HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/88
+#EXTINF:-1,Record DF DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2995
+#EXTINF:-1,Record DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/74
+#EXTINF:-1,Record ES DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2994
+#EXTINF:-1,Record Goiania HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/91
+#EXTINF:-1,Record Litoral Santos HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/83
+#EXTINF:-1,Record MG DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2998
+#EXTINF:-1,Record Minas HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/84
+#EXTINF:-1,Record News DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/352
+#EXTINF:-1,Record News DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2992
+#EXTINF:-1,Record News ES DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/353
+#EXTINF:-1,Record News ES HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/355
+#EXTINF:-1,Record News HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2993
+#EXTINF:-1,Record News SC HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/356
+#EXTINF:-1,Record Nordeste HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2991
+#EXTINF:-1,Record Parana HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/90
+#EXTINF:-1,Record RJ DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23143
+#EXTINF:-1,Record RJ HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/85
+#EXTINF:-1,Record RS DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23144
+#EXTINF:-1,Record RS HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/77
+#EXTINF:-1,Record Santa Catarina HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/89
+#EXTINF:-1,Record Sao Jose Rio Preto HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/78
+#EXTINF:-1,Record Sergipe HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/79
+#EXTINF:-1,Record SP DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2989
+#EXTINF:-1,Record SP HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/80
+#EXTINF:-1,Record SP HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2990
+#EXTINF:-1,Record TV Vitoria ES DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/75
+#EXTINF:-1,Record TV Vitoria ES HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/81
+#EXTINF:-1,Record Uberlandia MG HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/87
+#EXTINF:-1,Rede Brasil DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/117
+#EXTINF:-1,Rede TV DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/118
+#EXTINF:-1,Rede TV DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3002
+#EXTINF:-1,Rede TV HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/119
+#EXTINF:-1,Rede TV HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3003
+#EXTINF:-1,Rede Vida DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/363
+#EXTINF:-1,Rede Vida DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3191
+#EXTINF:-1,Rede Vida HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3192
+#EXTINF:-1,SBT Bahia Aratu HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/107
+#EXTINF:-1,SBT BSB HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/99
+#EXTINF:-1,SBT DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/97
+#EXTINF:-1,SBT DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3005
+#EXTINF:-1,SBT ES Digital
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/120
+#EXTINF:-1,SBT ES HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/123
+#EXTINF:-1,SBT GOIAS HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3008
+#EXTINF:-1,SBT HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3007
+#EXTINF:-1,SBT Minas Alterosa HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/109
+#EXTINF:-1,SBT Nordeste HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3006
+#EXTINF:-1,SBT Parana HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/110
+#EXTINF:-1,SBT RJ DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23140
+#EXTINF:-1,SBT RJ HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/100
+#EXTINF:-1,SBT RJ HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23139
+#EXTINF:-1,SBT RS HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/102
+#EXTINF:-1,SBT Santa Catarina HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/108
+#EXTINF:-1,SBT Sergipe HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/103
+#EXTINF:-1,SBT Serra Dourada HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/111
+#EXTINF:-1,SBT SP HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/104
+#EXTINF:-1,SBT TV Tribuna ES DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/98
+#EXTINF:-1,SBT TV Tribuna ES HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/106
+#EXTINF:-1,Scooby-Doo 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23595
+#EXTINF:-1,Show Bel Marques
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23837
+#EXTINF:-1,Show Cavaleiros do Forro
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23838
+#EXTINF:-1,Show Cidade Negra
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23839
+#EXTINF:-1,Show Da Luna
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23840
+#EXTINF:-1,Show de Talentos
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23841
+#EXTINF:-1,Show Djavan
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23842
+#EXTINF:-1,Show Edson Lima
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23843
+#EXTINF:-1,Show Fernandinho
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23844
+#EXTINF:-1,Show Gatinha Manhosa
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23845
+#EXTINF:-1,Show Kid Abelha
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23846
+#EXTINF:-1,Show Marcia Felipe
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23847
+#EXTINF:-1,Show Mastruz com Leite
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23848
+#EXTINF:-1,Show Roupa Nova
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23849
+#EXTINF:-1,Show Saulo
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23850
+#EXTINF:-1,Show Top Sertanejo
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23851
+#EXTINF:-1,Show Wesly Safadao
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23852
+#EXTINF:-1,Show Xande Avioes
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23853
+#EXTINF:-1,Show Zelezinho
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23854
+#EXTINF:-1,Smallville 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23596
+#EXTINF:-1,Sobrenatural 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23597
+#EXTINF:-1,South Park 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23598
+#EXTINF:-1,Space DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/268
+#EXTINF:-1,Space DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3140
+#EXTINF:-1,Space HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/292
+#EXTINF:-1,Space HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3141
+#EXTINF:-1,SporTV 1 DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/156
+#EXTINF:-1,SporTV 1 DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3048
+#EXTINF:-1,SporTV 1 HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/179
+#EXTINF:-1,SporTV 1 HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3049
+#EXTINF:-1,SporTV 2 DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/157
+#EXTINF:-1,SporTV 2 DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3051
+#EXTINF:-1,SporTV 2 HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/177
+#EXTINF:-1,SporTV 2 HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3052
+#EXTINF:-1,SporTV 3 DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/158
+#EXTINF:-1,SporTV 3 DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3053
+#EXTINF:-1,SporTV 3 HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/178
+#EXTINF:-1,SporTV 3 HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3054
+#EXTINF:-1,Steven Universe 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23599
+#EXTINF:-1,Studio Universal DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/269
+#EXTINF:-1,Studio Universal DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3142
+#EXTINF:-1,Studio Universal HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/293
+#EXTINF:-1,Studio Universal HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3143
+#EXTINF:-1,Super Choque 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23619
+#EXTINF:-1,Superman 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23600
+#EXTINF:-1,Syfy DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/270
+#EXTINF:-1,Syfy DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3144
+#EXTINF:-1,Syfy HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/294
+#EXTINF:-1,Tartarugas Ninjas 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23601
+#EXTINF:-1,TBS DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/271
+#EXTINF:-1,TBS DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3145
+#EXTINF:-1,TBS HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/295
+#EXTINF:-1,TCM DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/272
+#EXTINF:-1,TCM DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3146
+#EXTINF:-1,Telecine Action DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/193
+#EXTINF:-1,Telecine Action DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3084
+#EXTINF:-1,Telecine Action HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/199
+#EXTINF:-1,Telecine Action HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3085
+#EXTINF:-1,Telecine Cult DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/194
+#EXTINF:-1,Telecine Cult DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3092
+#EXTINF:-1,Telecine Cult HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/200
+#EXTINF:-1,Telecine Cult HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3093
+#EXTINF:-1,Telecine Fun DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/195
+#EXTINF:-1,Telecine Fun DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3087
+#EXTINF:-1,Telecine Fun HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/201
+#EXTINF:-1,Telecine Fun HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3088
+#EXTINF:-1,Telecine Pipoca DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/196
+#EXTINF:-1,Telecine Pipoca DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3081
+#EXTINF:-1,Telecine Pipoca HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/202
+#EXTINF:-1,Telecine Pipoca HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3082
+#EXTINF:-1,Telecine Premium DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/197
+#EXTINF:-1,Telecine Premium DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3078
+#EXTINF:-1,Telecine Premium HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/203
+#EXTINF:-1,Telecine Premium HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3079
+#EXTINF:-1,Telecine Touch DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/198
+#EXTINF:-1,Telecine Touch DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3090
+#EXTINF:-1,Telecine Touch HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/204
+#EXTINF:-1,Telecine Touch HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3091
+#EXTINF:-1,Terra Viva DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/379
+#EXTINF:-1,Thundercats 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23602
+#EXTINF:-1,Timao e Pumba 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23603
+#EXTINF:-1,TLC DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/273
+#EXTINF:-1,TLC HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/296
+#EXTINF:-1,TLC HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3147
+#EXTINF:-1,TNT DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/274
+#EXTINF:-1,TNT DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3148
+#EXTINF:-1,TNT HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/297
+#EXTINF:-1,TNT HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3149
+#EXTINF:-1,TNT Series DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/275
+#EXTINF:-1,TNT SERIES DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3151
+#EXTINF:-1,TNT Series HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/298
+#EXTINF:-1,TNT SERIES HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3152
+#EXTINF:-1,Todo Mundo Odeia o Chris24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23604
+#EXTINF:-1,Tom e Jerry 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23605
+#EXTINF:-1,Tooncast DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/240
+#EXTINF:-1,Tooncast HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3076
+#EXTINF:-1,Tres Espias Demais 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23606
+#EXTINF:-1,TruTV DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/276
+#EXTINF:-1,TruTV HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/299
+#EXTINF:-1,TV Aparecida DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/364
+#EXTINF:-1,TV Aparecida DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3190
+#EXTINF:-1,TV Camara DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/58
+#EXTINF:-1,TV Cultura DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/115
+#EXTINF:-1,TV Diário HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/2428
+#EXTINF:-1,TV Escola DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/24674
+#EXTINF:-1,TV Evangelizar ES DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/24679
+#EXTINF:-1,TV Globinho DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/24677
+#EXTINF:-1,TV Ideal DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/24675
+#EXTINF:-1,TV Justica DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/59
+#EXTINF:-1,TV Ra tim bum DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/241
+#EXTINF:-1,TV Ra Tim Bum HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/251
+#EXTINF:-1,TV Senado DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/60
+#EXTINF:-1,Um Maluco no Pedaco 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23607
+#EXTINF:-1,Uma Familia da Pesada 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23608
+#EXTINF:-1,Universal Channel DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/277
+#EXTINF:-1,Universal Channel DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3153
+#EXTINF:-1,Universal Channel HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/300
+#EXTINF:-1,Universal Channel HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3154
+#EXTINF:-1,Univesp TV DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/24676
+#EXTINF:-1,Ursinhos Carinhos 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23609
+#EXTINF:-1,Vai que Cola 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23618
+#EXTINF:-1,Venus DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3170
+#EXTINF:-1,VH1 DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/380
+#EXTINF:-1,VH1 DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3211
+#EXTINF:-1,VH1 HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/392
+#EXTINF:-1,VH1 HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3212
+#EXTINF:-1,Viva DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/381
+#EXTINF:-1,Viva DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3213
+#EXTINF:-1,Viva HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/393
+#EXTINF:-1,Viva HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3214
+#EXTINF:-1,Warner Channel DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/278
+#EXTINF:-1,Warner Channel DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3155
+#EXTINF:-1,Warner Channel HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/301
+#EXTINF:-1,Warner Channel HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3156
+#EXTINF:-1,Woohoo DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/382
+#EXTINF:-1,Woohoo DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3215
+#EXTINF:-1,Woohoo HD*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3216
+#EXTINF:-1,X-Men 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23610
+#EXTINF:-1,Xena 24HRS!
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23611
+#EXTINF:-1,XXX Blue Hustler DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/403
+#EXTINF:-1,XXX Brasileirinhas: Agora e a Hora das Poderosas
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23623
+#EXTINF:-1,XXX Brasileirinhas: Amigas da Minha Irma
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23624
+#EXTINF:-1,XXX Brasileirinhas: Assim Voce Me Mata
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23625
+#EXTINF:-1,XXX Brasileirinhas: Babando de Tesao
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23626
+#EXTINF:-1,XXX Brasileirinhas: Big Mack
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23627
+#EXTINF:-1,XXX Brasileirinhas: Campea do Anal
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23622
+#EXTINF:-1,XXX Brasileirinhas: Clube Prive
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23628
+#EXTINF:-1,XXX Brasileirinhas: Depois dos 40
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23629
+#EXTINF:-1,XXX Brasileirinhas: Estrelas em Busca do Prazer
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23630
+#EXTINF:-1,XXX Brasileirinhas: Fazendo Sacanagem
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/23631
+#EXTINF:-1,XXX Brazzers Europe DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/404
+#EXTINF:-1,XXX Candy DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/405
+#EXTINF:-1,XXX CentoXCento DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/406
+#EXTINF:-1,XXX Dorcel TV DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/407
+#EXTINF:-1,XXX Eroxx DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/408
+#EXTINF:-1,XXX Passion DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/409
+#EXTINF:-1,XXX PentHouse Black DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/410
+#EXTINF:-1,XXX PentHouse Quickies DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/411
+#EXTINF:-1,XXX Pink O DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/412
+#EXTINF:-1,XXX Playboy DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3173
+#EXTINF:-1,XXX Playboy TV DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/400
+#EXTINF:-1,XXX Playboy TV HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/420
+#EXTINF:-1,XXX Private HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/421
+#EXTINF:-1,XXX Redlight DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/413
+#EXTINF:-1,XXX Rusnoch DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/414
+#EXTINF:-1,XXX SCT DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/415
+#EXTINF:-1,XXX Sext6senso DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/416
+#EXTINF:-1,XXX Sextreme DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/401
+#EXTINF:-1,XXX Sextreme DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3172
+#EXTINF:-1,XXX Sextreme HD
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/422
+#EXTINF:-1,XXX Sexy Hot DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/402
+#EXTINF:-1,XXX Sexy Hot DIGITAL*
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/3171
+#EXTINF:-1,XXX Shalun TV DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/417
+#EXTINF:-1,XXX Venus DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/418
+#EXTINF:-1,XXX Vivid Red DIGITAL
+http://srvcliente.me:80/nivaldo2020/nivaldo2020/419
+#EXTINF:-1 tvg-id="6badc7be53c25ef56eb68c4b7639ab85",ARTE 1 SD
+http://187.19.167.131:9981/stream/channelid/1053273451?profile=pass
+#EXTINF:-1 tvg-id="38c4a3c2d72917b90ebad57bcd4aa87c",AXN SD
+http://187.19.167.131:9981/stream/channelid/1118028856?profile=pass
+#EXTINF:-1 tvg-id="fa41a250e11c30dfe85130edd8290cb2",BIS SD
+http://187.19.167.131:9981/stream/channelid/1352811002?profile=pass
+#EXTINF:-1 tvg-id="ea6c33a1e2950b286c5e491c9937785f",BOA VONTADE TV SD
+http://187.19.167.131:9981/stream/channelid/557018346?profile=pass
+#EXTINF:-1 tvg-id="aa3b135697d8fb42129542eafd0ad335",BOA VONTADE TV SD
+http://187.19.167.131:9981/stream/channelid/1444101034?profile=pass
+#EXTINF:-1 tvg-id="ca4ef4f533a7653d003836551f44db53",CANAL COMUNITARIO SD
+http://187.19.167.131:9981/stream/channelid/1978945226?profile=pass
+#EXTINF:-1 tvg-id="7cc908cc3e281d09da568018439d8f13",CANAL DO BOI SD
+http://187.19.167.131:9981/stream/channelid/1275644284?profile=pass
+#EXTINF:-1 tvg-id="80a9485528d0dc147a9b39150d516261",CARTOON NETWORK SD
+http://187.19.167.131:9981/stream/channelid/1430825344?profile=pass
+#EXTINF:-1 tvg-id="dfae2b9a02ad38666a3b5d79efb13abf",CGTN SD
+http://187.19.167.131:9981/stream/channelid/439070431?profile=pass
+#EXTINF:-1 tvg-id="c94dcf41f8f3784db7cc8153cd5b49b6",CNN BRASIL SD
+http://187.19.167.131:9981/stream/channelid/1104104905?profile=pass
+#EXTINF:-1 tvg-id="8b2b625bd73b6dc91d6eaf10ccf5df78",CNN ESPANHOL SD
+http://187.19.167.131:9981/stream/channelid/1533160331?profile=pass
+#EXTINF:-1 tvg-id="dcc4c1a35ed9ebeabe697bcc0cb541d7",ESPN SD
+http://187.19.167.131:9981/stream/channelid/599901404?profile=pass
+#EXTINF:-1 tvg-id="68067018db819e11879897e5ba033270",ESPN2 SD
+http://187.19.167.131:9981/stream/channelid/409994856?profile=pass
+#EXTINF:-1 tvg-id="44e1fb93652db57900dfdf854745f83c",FILM & ARTS SD
+http://187.19.167.131:9981/stream/channelid/335274308?profile=pass
+#EXTINF:-1 tvg-id="a8eba1f365195951923c3665e320fb4e",FOX LIFE SD
+http://187.19.167.131:9981/stream/channelid/1939991464?profile=pass
+#EXTINF:-1 tvg-id="5bca813a0a2e42c3294f024856f50492",FOX SD
+http://187.19.167.131:9981/stream/channelid/981584475?profile=pass
+#EXTINF:-1 tvg-id="9463cff92919f06b01f33474180e17a1",FOX SPORTS 2 SD
+http://187.19.167.131:9981/stream/channelid/2043634580?profile=pass
+#EXTINF:-1 tvg-id="b20df027845f8f631640ad383a7aa0bf",FOX SPPORTS SD 
+http://187.19.167.131:9981/stream/channelid/670043570?profile=pass
+#EXTINF:-1 tvg-id="8192f779dda6b0bd8cbdf580bfd9275b",GLOBO EPTV CAMPINAS SD
+http://187.19.167.131:9981/stream/channelid/2046268033?profile=pass
+#EXTINF:-1 tvg-id="af4fe33c89ee4b1ab86f76e840a24fd1",GLOBO EPTV RIBEIRAO PRETO SD
+http://187.19.167.131:9981/stream/channelid/1021530031?profile=pass
+#EXTINF:-1 tvg-id="1901cf5e07aa0e6497f311558c2f4511",GLOBO EPTV SAO CARLOS SD
+http://187.19.167.131:9981/stream/channelid/1590624537?profile=pass
+#EXTINF:-1 tvg-id="348f4d902be1517b970aad35f53d1f87",GLOBO INTER TV CABUGI SD
+http://187.19.167.131:9981/stream/channelid/273518388?profile=pass
+#EXTINF:-1 tvg-id="6aae315d7721b972a378fa98d77425be",GLOBO NORDESTE SD
+http://187.19.167.131:9981/stream/channelid/1563537002?profile=pass
+#EXTINF:-1 tvg-id="96d074f57b2eec612bec9aff4225213b",GLOBO REDE AMAZONICA MANAUS SD
+http://187.19.167.131:9981/stream/channelid/1970589846?profile=pass
+#EXTINF:-1 tvg-id="2e73c6e4b8f4df11ca7a8cdc0deda340",GLOBO RPC TV CURITIBA SD
+http://187.19.167.131:9981/stream/channelid/1690727214?profile=pass
+#EXTINF:-1 tvg-id="401378a1d26ea8fd5d5162b55adf3b76",GLOBO TV BAHIA SD
+http://187.19.167.131:9981/stream/channelid/561517376?profile=pass
+#EXTINF:-1 tvg-id="f1f0ba597af5e142a0901110ed833b3e",GLOBO TV CENTRO AMERICA CUIBA SD
+http://187.19.167.131:9981/stream/channelid/1505423601?profile=pass
+#EXTINF:-1 tvg-id="4f59b5b20f833688aa7183e7020a9126",GLOBO TV LIBERAL BELEM SD
+http://187.19.167.131:9981/stream/channelid/850745679?profile=pass
+#EXTINF:-1 tvg-id="9082acf4193ccfbe20f1c344a0891cc1",GLOBO TV TEM SAO JOSE DO RIO PRETO SD
+http://187.19.167.131:9981/stream/channelid/1957462672?profile=pass
+#EXTINF:-1 tvg-id="7e85a618f4808c8ec19c83e5ab17ac31",GLOBO TV VANGUARDA SAO JOSE DOS CAMPOS SD
+http://187.19.167.131:9981/stream/channelid/413566334?profile=pass
+#EXTINF:-1 tvg-id="f8e0c05ded5a1920046bf41cb5670e7d",GLOBO TV VERDES MARES FORTALEZA SD
+http://187.19.167.131:9981/stream/channelid/1572921592?profile=pass
+#EXTINF:-1 tvg-id="e0a36bc41985da35a655c41a5aa64369",GLOBONEWS SD
+http://187.19.167.131:9981/stream/channelid/1147904992?profile=pass
+#EXTINF:-1 tvg-id="cd990e2a8d93d8bbbd756bcec2590cc6",HBO POP SD
+http://187.19.167.131:9981/stream/channelid/705599949?profile=pass
+#EXTINF:-1 tvg-id="1e04c09c7db9c82bfd96def16d07241f",HBO SIGNATURE SD
+http://187.19.167.131:9981/stream/channelid/482346014?profile=pass
+#EXTINF:-1 tvg-id="9467e26233d732a7080aa3ecb46a2c3f",HBO+ SD
+http://187.19.167.131:9981/stream/channelid/1659004820?profile=pass
+#EXTINF:-1 tvg-id="81a02d751ca88b5ffbbee21bb1a2bee1",IDEAL TV SD
+http://187.19.167.131:9981/stream/channelid/1965924481?profile=pass
+#EXTINF:-1 tvg-id="417cf9454f06743040116531119b036f",LIFETIME SD
+http://187.19.167.131:9981/stream/channelid/1173978177?profile=pass
+#EXTINF:-1 tvg-id="8272f11a0b12cd4991bb67d97060aa19",MAIS GLOBOSAT SD
+http://187.19.167.131:9981/stream/channelid/452031106?profile=pass
+#EXTINF:-1 tvg-id="02477de0caba2c1828d5ed910f60c1a2",MTV SD
+http://187.19.167.131:9981/stream/channelid/1618822914?profile=pass
+#EXTINF:-1 tvg-id="41057a53832ba18b95648313ef0c20d4",MUSIC BOX BRAZIL SD
+http://187.19.167.131:9981/stream/channelid/1400505665?profile=pass
+#EXTINF:-1 tvg-id="832c5f12b8a953be082e564caf07decc",PREMIERE 5 SD
+http://187.19.167.131:9981/stream/channelid/308227203?profile=pass
+#EXTINF:-1 tvg-id="1171bd8a1e1b6fcf8edc94ae5e1def92",PREMIERE 6 SD
+http://187.19.167.131:9981/stream/channelid/180187409?profile=pass
+#EXTINF:-1 tvg-id="6b645712440a394e49ffc8c2b934a6ed",PRIME BOX BRAZIL SD
+http://187.19.167.131:9981/stream/channelid/307717227?profile=pass
+#EXTINF:-1 tvg-id="bab78b111dc06ed0a841d6406fe85871",RECORDTV SD
+http://187.19.167.131:9981/stream/channelid/294369210?profile=pass
+#EXTINF:-1 tvg-id="dfda0b29009097261ecce519b2c21d26",REDE BRASIL SD
+http://187.19.167.131:9981/stream/channelid/688642783?profile=pass
+#EXTINF:-1 tvg-id="4032804b38740659629d99d646c53a81",REDE VIDA SD
+http://187.19.167.131:9981/stream/channelid/1266692672?profile=pass
+#EXTINF:-1 tvg-id="b190e7ff995d3b4a22febb01307a76b3",SPORTV 2 SD
+http://187.19.167.131:9981/stream/channelid/2145882289?profile=pass
+#EXTINF:-1 tvg-id="3ee51879b67356e271f06a0ca1d45988",TELECINE ACTION SD
+http://187.19.167.131:9981/stream/channelid/2031674686?profile=pass
+#EXTINF:-1 tvg-id="53172c75cd61898bac12fe90673bf9de",TELECINE CULT SD
+http://187.19.167.131:9981/stream/channelid/1965823827?profile=pass
+#EXTINF:-1 tvg-id="08f1ed3921a0c519f3736d80d1d0d230",TELECINE FUN SD
+http://187.19.167.131:9981/stream/channelid/971895048?profile=pass
+#EXTINF:-1 tvg-id="40f4f3e048d505b2a3ca66c20d761866",TNT ALTERNATIVO SD
+http://187.19.167.131:9981/stream/channelid/1626600512?profile=pass
+#EXTINF:-1 tvg-id="97c35e4cb2fa807f2662febe143d9b32",TNT SD
+http://187.19.167.131:9981/stream/channelid/1281278871?profile=pass
+#EXTINF:-1 tvg-id="e9598a38ecc82f9bbe37b8713f1cf1f9",TV BRASIL 2 SD
+http://187.19.167.131:9981/stream/channelid/948591081?profile=pass
+#EXTINF:-1 tvg-id="efa506b318aa703fcdd38c45e4227146",TV BRASIL SD
+http://187.19.167.131:9981/stream/channelid/856073711?profile=pass
+#EXTINF:-1 tvg-id="6fc6cc60989bfe3f4d5f4e7c504f596a",TV CULTURA SD
+http://187.19.167.131:9981/stream/channelid/1624032879?profile=pass
+#EXTINF:-1 tvg-id="ffe34b62c10cfb59ff448e5a2388776b",TV5 MONDE SD
+http://187.19.167.131:9981/stream/channelid/1649140735?profile=pass
+#EXTINF:-1 tvg-id="c41ca642976c4cd0d5f42b9f032225da",TVE SD
+http://187.19.167.131:9981/stream/channelid/1118182596?profile=pass
+#EXTINF:-1 tvg-id="675f4746e423a7aa33e834f193d9a649",UNIVERSAL TV SD
+http://187.19.167.131:9981/stream/channelid/1179082599?profile=pass
+#EXTINF:-1 tvg-id="d6118c89f9c379b1ab3aec42ac68a860",VIVA SD
+http://187.19.167.131:9981/stream/channelid/160174550?profile=pass
+#EXTINF:-1 tvg-id="be995e785a081ed242aed426cfe3f0d3",WARNER CHANNEL SD
+http://187.19.167.131:9981/stream/channelid/2019465662?profile=pass
