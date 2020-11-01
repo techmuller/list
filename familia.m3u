@@ -1,3279 +1,513 @@
 #EXTM3U
 #EXTINF:-1,A&E
-http://lb.kstream.org/aovivo/SD_AE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,A&E FHD
-http://lb.kstream.org/aovivo/FHD_AE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,A&E HD
-http://lb.kstream.org/aovivo/HD_AE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,A&E HD [Alter]
-http://lb.kstream.org/aovivo/HD_AE_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a04e/index.m3u8
 #EXTINF:-1,AMC
-http://lb.kstream.org/aovivo/SD_AMC/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,AMC FHD
-http://lb.kstream.org/aovivo/FHD_AMC/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,AMC HD
-http://lb.kstream.org/aovivo/HD_AMC/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,AMC HD [Alter]
-http://lb.kstream.org/aovivo/HD_AMC_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,AXN
-http://lb.kstream.org/aovivo/SD_AXN/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,AXN FHD
-http://lb.kstream.org/aovivo/FHD_AXN/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,AXN HD https://iptv.live
-http://lb.kstream.org/aovivo/HD_AXN/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,AXN HD [Alter]
-http://lb.kstream.org/aovivo/HD_AXN_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Acampamento Lakebottom
-http://lb.kstream.org/aovivo/24_ACAMPAMENTO_LAKEBOTTOM/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Aladin (DESENHO)
-http://lb.kstream.org/aovivo/24_ALADIN/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Animal Planet
-http://lb.kstream.org/aovivo/SD_ANIMAL_PLANET/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Animal Planet FHD
-http://lb.kstream.org/aovivo/FHD_ANIMAL_PLANET/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Animal Planet HD
-http://lb.kstream.org/aovivo/HD_ANIMAL_PLANET/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Animal Planet HD [Alter]
-http://lb.kstream.org/aovivo/HD_ANIMAL_PLANET_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Arte 1
-http://lb.kstream.org/aovivo/SD_ARTE1/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Arte 1 FHD
-http://lb.kstream.org/aovivo/FHD_ARTE_1/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Arte 1 HD
-http://lb.kstream.org/aovivo/HD_ARTE1/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Arte 1 HD [Alter]
-http://lb.kstream.org/aovivo/HD_ARTE1_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,As Aventuras de Jackie Chan
-http://lb.kstream.org/aovivo/24_AS_AVENTURAS_JACKIECHAN/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a05i/index.m3u8
 #EXTINF:-1,BIS
-http://lb.kstream.org/aovivo/SD_BIS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,BIS FHD
-http://lb.kstream.org/aovivo/FHD_BIS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,BIS HD
-http://lb.kstream.org/aovivo/HD_BIS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,BIS HD [Alter]
-http://lb.kstream.org/aovivo/HD_BIS_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Baby Shark
-http://lb.kstream.org/aovivo/24_BABY_SHARK/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a043/index.m3u8
 #EXTINF:-1,Baby TV
-http://lb.kstream.org/aovivo/SD_BABYTV/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Baby TV FHD
-http://lb.kstream.org/aovivo/FHD_BABY_TV/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Baby TV HD
-http://lb.kstream.org/aovivo/HD_BABY_TV/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Band
-http://lb.kstream.org/aovivo/SD_BAND/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Band Bahia
-http://lb.kstream.org/aovivo/SD_BAND_BA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Band Campinas
-http://lb.kstream.org/aovivo/SD_BAND_CAMPINAS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Band Campinas HD
-http://lb.kstream.org/aovivo/HD_BAND_CAMPINAS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Band FHD
-http://lb.kstream.org/aovivo/FHD_BAND/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Band HD
-http://lb.kstream.org/aovivo/HD_BAND/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Band HD [Alter]
-http://lb.kstream.org/aovivo/HD_BAND_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Band Natal HD
-http://lb.kstream.org/aovivo/HD_BAND_NATAL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a05a/index.m3u8
 #EXTINF:-1,Band News
-http://lb.kstream.org/aovivo/SD_BAND_NEWS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Band News FHD
-http://lb.kstream.org/aovivo/FHD_BAND_NEWS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Band News HD
-http://lb.kstream.org/aovivo/HD_BAND_NEWS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Band News HD [Alter]
-http://lb.kstream.org/aovivo/HD_BAND_NEWS_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Band Nordeste HD
-http://lb.kstream.org/aovivo/HD_BAND_NORDESTE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Band Parana HD
-http://lb.kstream.org/aovivo/HD_BAND_PA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Band RJ
-http://lb.kstream.org/aovivo/SD_BAND_RJ/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Band RJ FHD https://iptv.live
-http://lb.kstream.org/aovivo/FHD_BAND_RJ/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Band RJ HD
-http://lb.kstream.org/aovivo/HD_BAND_RJ/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Band SP
-http://lb.kstream.org/aovivo/SD_BAND_SP/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Band Sports
-http://lb.kstream.org/aovivo/SD_BAND_SPORTS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Band Sports FHD
-http://lb.kstream.org/aovivo/FHD_BAND_SPORTS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Band Sports HD
-http://lb.kstream.org/aovivo/HD_BAND_SPORTS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Band Sports HD [Alter]
-http://lb.kstream.org/aovivo/HD_BAND_SPORTS_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Ben 10
-http://lb.kstream.org/aovivo/24_BEN_10/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Big Mouth
-http://lb.kstream.org/aovivo/24_BIG_MOUTH/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Boa Vontade TV
-http://lb.kstream.org/aovivo/HD_BOA_VONTADE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Bob Esponja
-http://lb.kstream.org/aovivo/24_HORAS_BOB_ESPONJA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Boku no Hero Academia
-http://lb.kstream.org/aovivo/24_BOKU_ACADEMIA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a077/index.m3u8
+#EXTINF:-1,Bandeirantes
+http://179.100.59.105:2083/play/a03p/index.m3u8
 #EXTINF:-1,Boomerang
-http://lb.kstream.org/aovivo/SD_BOOMERANG/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Boomerang FHD
-http://lb.kstream.org/aovivo/FHD_BOOMERANG/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Boomerang HD
-http://lb.kstream.org/aovivo/HD_BOOMERANG/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Boomerang HD [Alter]
-http://lb.kstream.org/aovivo/HD_BOOMERANG_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,CNN Brasil
-http://lb.kstream.org/aovivo/SD_CNN_BRASIL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,CNN Brasil FHD
-http://lb.kstream.org/aovivo/FHD_CNN_BRASIL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,CNN Brasil HD
-http://lb.kstream.org/aovivo/HD_CNN_BR/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,CNN International FHD
-http://lb.kstream.org/aovivo/FHD_CNN_INTERNACIONAL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,CNN International HD
-http://lb.kstream.org/aovivo/SD_CNN_INTERNATIONAL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,CONMEBOL TV 01
-http://lb.kstream.org/aovivo/HD_CONMEBOL_01/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,CONMEBOL TV 02
-http://lb.kstream.org/aovivo/HD_CONMEBOL_02/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,CONMEBOL TV 03
-http://lb.kstream.org/aovivo/HD_CONMEBOL_03/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,CONMEBOL TV 04
-http://lb.kstream.org/aovivo/HD_CONMEBOL_04/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a04g/index.m3u8
+#EXTINF:-1,CNN Internacional
+http://179.100.59.105:2083/play/a03i/index.m3u8
 #EXTINF:-1,Satellite TV
-http://lb.kstream.org/aovivo/SD_CANAL_BRASIL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Satellite TV
-http://lb.kstream.org/aovivo/HD_CANAL_BRASIL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Satellite TV
-http://lb.kstream.org/aovivo/HD_CANAL_BRASIL_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Satellite TV
-http://lb.kstream.org/aovivo/SD_CANAL_DO_BOI/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Cancao Nova
-http://lb.kstream.org/aovivo/SD_CANCAO_NOVA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Cancao Nova HD
-http://lb.kstream.org/aovivo/HD_CANCAO_NOVA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Cartoon Network
-http://lb.kstream.org/aovivo/SD_CARTOON_NETWORK/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Cartoon Network FHD
-http://lb.kstream.org/aovivo/FHD_CARTOON_NETWORK/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Cartoon Network HD
-http://lb.kstream.org/aovivo/HD_CARTOON_NETWORK/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Cartoon Network HD [Alter]
-http://lb.kstream.org/aovivo/HD_CARTOON_NETWORK_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Cavaleiro do Zodiaco
-http://lb.kstream.org/aovivo/24_CAVALEIRO_ZODIACO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Caverna do Dragao
-http://lb.kstream.org/aovivo/24_CAVERNA_DRAGAO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Chef TV FHD
-http://lb.kstream.org/aovivo/FHD_CHEFTV/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Chef TV HD
-http://lb.kstream.org/aovivo/HD_CHEFTV/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_01/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_02/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_03/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_04/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_05/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_06/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_07/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_08/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_09/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_10/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Cinemax
-http://lb.kstream.org/aovivo/SD_CINEMAX/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Cinemax FHD
-http://lb.kstream.org/aovivo/FHD_CINEMAX/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Cinemax HD
-http://lb.kstream.org/aovivo/HD_CINEMAX/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Cinemax HD [Alter]
-http://lb.kstream.org/aovivo/HD_CINEMAX_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Combate
-http://lb.kstream.org/aovivo/SD_COMBATE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Combate FHD
-http://lb.kstream.org/aovivo/FHD_COMBATE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Combate HD
-http://lb.kstream.org/aovivo/HD_COMBATE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Combate HD [Alter]
-http://lb.kstream.org/aovivo/HD_COMBATE_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Comedy Central
-http://lb.kstream.org/aovivo/SD_COMEDY_CENTRAL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Comedy Central FHD
-http://lb.kstream.org/aovivo/FHD_COMEDY_CENTRAL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Comedy Central HD
-http://lb.kstream.org/aovivo/HD_COMEDY_CENTRAL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Comedy Central HD [Alter]
-http://lb.kstream.org/aovivo/HD_COMEDY_CENTRAL_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Cultura
-http://lb.kstream.org/aovivo/SD_TV_CULTURA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Cultura HD
-http://lb.kstream.org/aovivo/HD_CULTURA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Curta!
-http://lb.kstream.org/aovivo/SD_CURTA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Curta! HD
-http://lb.kstream.org/aovivo/HD_CURTA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Curta! HD [Alter]
-http://lb.kstream.org/aovivo/HD_CURTA_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,DAZN 1 HD
-http://lb.kstream.org/aovivo/HD_DAZN_1/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,DAZN 2 HD
-http://lb.kstream.org/aovivo/HD_DAZN_2/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Daniel Tigre
-http://lb.kstream.org/aovivo/24_DANIEL_TIGRE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Desenhos Biblicos
-http://lb.kstream.org/aovivo/24_DESENHOS_BIBLICOS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a057/index.m3u8
+#EXTINF:-1,CanĿªo Nova
+http://179.100.59.105:2083/play/a04t/index.m3u8
 #EXTINF:-1,Discovery Channel
-http://lb.kstream.org/aovivo/SD_DISCOVERY/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Discovery Channel FHD
-http://lb.kstream.org/aovivo/FHD_DISCOVERY/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Discovery Channel HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Discovery Channel HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Discovery Home & Health
-http://lb.kstream.org/aovivo/SD_DISCOVERY_HOMEHEALTH/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Discovery Home & Health FHD
-http://lb.kstream.org/aovivo/FHD_DISCOVERY_HOMEHEALTH/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Discovery Home & Health HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY_HOMEHEALTH/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Discovery Home & Health HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_HOMEHEALTH_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a05e/index.m3u8
 #EXTINF:-1,Discovery Kids
-http://lb.kstream.org/aovivo/SD_DISCOVERY_KIDS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Discovery Kids FHD
-http://lb.kstream.org/aovivo/FHD_DISCOVERY_KIDS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Discovery Kids HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY_KIDS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Discovery Kids HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_KIDS_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Discovery Science
-http://lb.kstream.org/aovivo/SD_DISCOVERY_SCIENCE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Discovery Science FHD
-http://lb.kstream.org/aovivo/FHD_DISCOVERY_SCIENCE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Discovery Science HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY_SCIENCE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Discovery Science HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_SCIENCE_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Discovery Theater
-http://lb.kstream.org/aovivo/SD_DISCOVERY_THEATER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Discovery Theater FHD
-http://lb.kstream.org/aovivo/FHD_DISCOVERY_THEATER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Discovery Theater HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY_THEATER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Discovery Theater HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_THEATER_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Discovery Turbo
-http://lb.kstream.org/aovivo/SD_DISCOVERY_TURBO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Discovery Turbo FHD
-http://lb.kstream.org/aovivo/FHD_DISCOVERY_TURBO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Discovery Turbo HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY_TURBO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Discovery Turbo HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_TURBO_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Discovery World
-http://lb.kstream.org/aovivo/SD_DISCOVERY_WORLD/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Discovery World FHD
-http://lb.kstream.org/aovivo/FHD_DISCOVERY_WORLD/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Discovery World HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY_WORLD/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Discovery World HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_WORLD_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Disney Channel
-http://lb.kstream.org/aovivo/SD_DISNEY/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Disney Channel FHD
-http://lb.kstream.org/aovivo/FHD_DISNEY/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Disney Channel HD
-http://lb.kstream.org/aovivo/HD_DISNEY/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Disney Channel HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISNEY_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Disney JR
-http://lb.kstream.org/aovivo/SD_DISNEY_JR/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Disney JR FHD
-http://lb.kstream.org/aovivo/FHD_DISNEY_JUNIOR/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Disney JR HD
-http://lb.kstream.org/aovivo/HD_DISNEY_JUNIOR/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Disney JR HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISNEY_JUNIOR_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Disney XD
-http://lb.kstream.org/aovivo/SD_DISNEY_XD/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Disney XD HD
-http://lb.kstream.org/aovivo/HD_DISNEY_XD/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Disney XD HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISNEY_XD_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,E!
-http://lb.kstream.org/aovivo/SD_E/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,E! FHD
-http://lb.kstream.org/aovivo/FHD_E/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,E! HD
-http://lb.kstream.org/aovivo/HD_E/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,E! HD [Alter]
-http://lb.kstream.org/aovivo/HD_E_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,ESPN
-http://lb.kstream.org/aovivo/SD_ESPN/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,ESPN 2
-http://lb.kstream.org/aovivo/SD_EEEE_2/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,ESPN 2 FHD
-http://lb.kstream.org/aovivo/FHD_EEEE_2/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,ESPN 2 HD
-http://lb.kstream.org/aovivo/HD_EEEE_2/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,ESPN 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_EEEE_2_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,ESPN Brasil
-http://lb.kstream.org/aovivo/SD_ESPN_BRASIL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,ESPN Brasil FHD
-http://lb.kstream.org/aovivo/FHD_ESPN_BRASIL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,ESPN Brasil HD
-http://lb.kstream.org/aovivo/HD_ESPN_BRASIL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,ESPN Brasil HD [Alter]
-http://lb.kstream.org/aovivo/HD_ESPN_BRASIL_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,ESPN Extra
-http://lb.kstream.org/aovivo/SD_ESPN_EXTRA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,ESPN Extra HD
-http://lb.kstream.org/aovivo/HD_ESPN_EXTRA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,ESPN FHD
-http://lb.kstream.org/aovivo/FHD_ESPN/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,ESPN HD
-http://lb.kstream.org/aovivo/HD_ESPN/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,ESPN HD [Alter]
-http://lb.kstream.org/aovivo/HD_ESPN_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Escolinha do Professor Raimundo
-http://lb.kstream.org/aovivo/24_ESCOLINHA_RAIMUNDO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Esporte Interativo
-http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_1/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Esporte Interativo HD
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_1/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,FX
-http://lb.kstream.org/aovivo/SD_FX/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,FX FHD
-http://lb.kstream.org/aovivo/FHD_FX/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,FX HD
-http://lb.kstream.org/aovivo/HD_FX/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,FX HD [Alter]
-http://lb.kstream.org/aovivo/HD_FX_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Faisca e Fumaca
-http://lb.kstream.org/aovivo/24_FAISCA_FUMACA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Fish TV
-http://lb.kstream.org/aovivo/SD_FISH_TV/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Fish TV HD
-http://lb.kstream.org/aovivo/HD_FISH_TV/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,FlaTV
-http://lb.kstream.org/aovivo/HD_FLATV/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Flu TV
-http://lb.kstream.org/aovivo/HD_FLUTV/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a03c/index.m3u8
+#EXTINF:-1,Disney
+http://179.100.59.105:2083/play/a04i/index.m3u8
+#EXTINF:-1,EPTV Campinas
+http://179.100.59.105:2083/play/a039/index.m3u8
+#EXTINF:-1,EPTV Ribeirao Preto
+http://179.100.59.105:2083/play/a038/index.m3u8
+#EXTINF:-1,EPTV Sao Carlos
+http://179.100.59.105:2083/play/a03a/index.m3u8
+#EXTINF:-1,ESPN2
+http://179.100.59.105:2083/play/a03v/index.m3u8
+#EXTINF:-1,Film & Arts
+http://179.100.59.105:2083/play/a045/index.m3u8
+#EXTINF:-1,Fish TV https://iptv.live
+http://179.100.59.105:2083/play/a04c/index.m3u8
 #EXTINF:-1,Food Network
-http://lb.kstream.org/aovivo/SD_FOOD_NETWORK/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Food Network FHD
-http://lb.kstream.org/aovivo/FHD_FOOD_NETWORK/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Food Network HD
-http://lb.kstream.org/aovivo/HD_FOOD_NETWORK/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Food Network HD [Alter]
-http://lb.kstream.org/aovivo/HD_FOOD_NETWORK_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Fox
-http://lb.kstream.org/aovivo/SD_FOX/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Fox FHD
-http://lb.kstream.org/aovivo/FHD_FOX/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Fox HD
-http://lb.kstream.org/aovivo/HD_FOX/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Fox HD [Alter]
-http://lb.kstream.org/aovivo/HD_FOX_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a051/index.m3u8
+#EXTINF:-1,Food Network
+http://179.100.59.105:2083/play/a07p/index.m3u8
 #EXTINF:-1,Fox Life
-http://lb.kstream.org/aovivo/SD_FOX_LIFE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Fox Life FHD
-http://lb.kstream.org/aovivo/FHD_FOX_LIFE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Fox Life HD
-http://lb.kstream.org/aovivo/HD_FOX_LIFE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Fox Life HD [Alter]
-http://lb.kstream.org/aovivo/HD_FOX_LIFE_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Fox Premium 1 HD
-http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Fox Premium 1 HD [Alter]
-http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Fox Premium 2 HD
-http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Fox Premium 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Fox Sports
-http://lb.kstream.org/aovivo/SD_FOX_SPORTS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Fox Sports 2
-http://lb.kstream.org/aovivo/SD_FOX_SPORTS_2/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Fox Sports 2 FHD
-http://lb.kstream.org/aovivo/FHD_FOX_SPORTS_2/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Fox Sports 2 HD
-http://lb.kstream.org/aovivo/HD_FOX_SPORTS_2/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Fox Sports 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_FOX_SPORTS_2_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Fox Sports FHD
-http://lb.kstream.org/aovivo/FHD_FOX_SPORTS_1/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Fox Sports HD
-http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Fox Sports HD [Alter]
-http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a03u/index.m3u8
 #EXTINF:-1,Futura
-http://lb.kstream.org/aovivo/SD_FUTURA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Futura HD
-http://lb.kstream.org/aovivo/HD_FUTURA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,GNT
-http://lb.kstream.org/aovivo/SD_GNT/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,GNT FHD
-http://lb.kstream.org/aovivo/FHD_GNT/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,GNT HD
-http://lb.kstream.org/aovivo/HD_GNT/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,GNT HD [Alter]
-http://lb.kstream.org/aovivo/HD_GNT_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Galinha Pintadinha
-http://lb.kstream.org/aovivo/24_GALINHA_PINTADA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo Brasilia
-http://lb.kstream.org/aovivo/SD_GLOBO_BRASILIA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo Brasilia HD
-http://lb.kstream.org/aovivo/HD_GLOBO_BRASILIA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo EPTV Campinas
-http://lb.kstream.org/aovivo/SD_GLOBO_EPTV_CAMPINAS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo EPTV Campinas HD
-http://lb.kstream.org/aovivo/HD_GLOBO_EPTV_CAMPINAS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo EPTV Central
-http://lb.kstream.org/aovivo/SD_GLOBO_SAO_CARLOS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo EPTV Ribeirao
-http://lb.kstream.org/aovivo/SD_GLOBO_RIBEIRAO_PRETO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo EPTV Ribeirao HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RIBEIRAO_PRETO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo EPTV Sul de Minas
-http://lb.kstream.org/aovivo/SD_GLOBO_EPTV_SUL_MINAS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo Inter TV Cabugi
-http://lb.kstream.org/aovivo/SD_GLOBO_RN/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo Inter TV Cabugi HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RN/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo Inter TV Grande Minas FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_GRANDE_MINAS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo Inter TV Grande Minas HD
-http://lb.kstream.org/aovivo/SD_GLOBO_INTERTV_GRANDE_MINAS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo Inter TV Serra Mar
-http://lb.kstream.org/aovivo/SD_GLOBO_INTERTV_SERRA_MAR/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a03q/index.m3u8
+#EXTINF:-1,Globo BrasŦlia
+http://179.100.59.105:2083/play/a066/index.m3u8
 #EXTINF:-1,Globo Minas
-http://lb.kstream.org/aovivo/SD_GLOBO_MINAS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo Minas FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_MG/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo Minas HD
-http://lb.kstream.org/aovivo/HD_GLOBO_MINAS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo NSC TV Florianopolis
-http://lb.kstream.org/aovivo/SD_GLOBO_SC/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo NSC TV Florianopolis HD
-http://lb.kstream.org/aovivo/HD_GLOBO_SC/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a062/index.m3u8
 #EXTINF:-1,Globo Nordeste
-http://lb.kstream.org/aovivo/SD_GLOBO_NORDESTE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo Nordeste FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_NORDESTE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo Nordeste HD
-http://lb.kstream.org/aovivo/HD_GLOBO_NORDESTE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo Nordeste HD [Alter]
-http://lb.kstream.org/aovivo/HD_GLOBO_NORDESTE_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo RBS POA
-http://lb.kstream.org/aovivo/SD_GLOBO_RBS_POA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo RBS POA FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_RBS_POA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo RBS POA HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RBS_POA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo RPC Curitiba
-http://lb.kstream.org/aovivo/SD_GLOBO_RPC_CURITIBA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo RPC Curitiba HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RPC_CURITIBA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo RPC Paranaense FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_RPC_PARANAENSE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo Rede Amazonica Acre HD
-http://lb.kstream.org/aovivo/HD_GLOBO_AMAZONICA_ACRE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo Rede Amazonica Manaus HD
-http://lb.kstream.org/aovivo/HD_GLOBO_AMAZONAS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo Rede Amazonica Rondonia HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RONDONIA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo Rede Amazonica Roraima HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RORAIMA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo Rio
-http://lb.kstream.org/aovivo/SD_GLOBO_RJ/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo Rio FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_RJ/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo Rio HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RJ/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo SP
-http://lb.kstream.org/aovivo/SD_GLOBO_SP/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo SP FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_SP/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo SP HD
-http://lb.kstream.org/aovivo/HD_GLOBO_SP/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo SP HD [Alter]
-http://lb.kstream.org/aovivo/HD_GLOBO_SP_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo TV Anhanguera Goiania
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_ANHANGUERA_GO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo TV Asa Branca
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_ASA_BRANCA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo TV Bahia
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_BAHIA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo TV Bahia HD
-http://lb.kstream.org/aovivo/HD_GLOBO_TV_BAHIA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo TV Centro America
-http://lb.kstream.org/aovivo/SD_TV_CENTRO_AMERICA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo TV Centro America FHD
-http://lb.kstream.org/aovivo/FHD_CENTRO_AMERICA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo TV Centro America HD
-http://lb.kstream.org/aovivo/HD_GLOBO_TV_CENTRO_AMERICA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo TV Gazeta ES
-http://lb.kstream.org/aovivo/SD_GAZETA_ES/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo TV Gazeta ES HD
-http://lb.kstream.org/aovivo/HD_GAZETA_ES/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo TV Integracao
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_INTEGRACAO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo TV Liberal Belem
-http://lb.kstream.org/aovivo/SD_GLOBO_LIBERAL_BELEM/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo TV Liberal Belem HD
-http://lb.kstream.org/aovivo/HD_GLOBO_PARA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo TV Mirante Cocais FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_MARANHAO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo TV Mirante Cocais HD
-http://lb.kstream.org/aovivo/HD_GLOBO_MARANHAO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo TV Santa Cruz
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_SANTA_CRUZ/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo TV Sergipe
-http://lb.kstream.org/aovivo/SD_GLOBO_SERGIPE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo TV Sergipe FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_SERGIPE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo TV Sergipe HD
-http://lb.kstream.org/aovivo/HD_GLOBO_SERGIPE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo TV TEM BAURU
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_TEM_BAURU/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo TV TEM Itapetininga
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_TEM_ITAPETININGA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo TV TEM S. J. DO RIO PRETO
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_TEM_SJ_RIO_PRETO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo TV TEM SOROCABA
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_TEM_SOROCABA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo TV Tribuna Santos
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_TRIBUNA_SANTOS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo TV Vanguarda SJC
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_VANGUARDA_SJC/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo TV Vanguarda Taubate
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_VANGUARDA_TAUBATE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo TV Verdes Mares
-http://lb.kstream.org/aovivo/SD_GLOBO_VERDES_MARES/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo TV Verdes Mares FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_VERDES_MARES/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo TV Verdes Mares HD
-http://lb.kstream.org/aovivo/HD_GLOBO_TV_VERDES_MARES/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo Tv Clube PI HD
-http://lb.kstream.org/aovivo/HD_GLOBO_PIAUI/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,GloboNews
-http://lb.kstream.org/aovivo/SD_GLOBO_NEWS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,GloboNews FHD
-http://lb.kstream.org/aovivo/FHD_GLOBONEWS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,GloboNews HD
-http://lb.kstream.org/aovivo/HD_GLOBONEWS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,GloboNews HD [Alter]
-http://lb.kstream.org/aovivo/HD_GLOBONEWS_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Gloob
-http://lb.kstream.org/aovivo/SD_GLOOB/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Gloob HD
-http://lb.kstream.org/aovivo/HD_GLOOB/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Gloob HD [Alter]
-http://lb.kstream.org/aovivo/HD_GLOOB_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Gloobinho
-http://lb.kstream.org/aovivo/SD_GLOOBINHO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Gloobinho FHD
-http://lb.kstream.org/aovivo/FHD_GLOOBINHO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Gloobinho HD
-http://lb.kstream.org/aovivo/HD_GLOOBINHO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO
-http://lb.kstream.org/aovivo/SD_HBO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO 2
-http://lb.kstream.org/aovivo/SD_HBO_2/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO 2 FHD
-http://lb.kstream.org/aovivo/FHD_HBO_2/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO 2 HD
-http://lb.kstream.org/aovivo/HD_HBO_2/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_2_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO FHD
-http://lb.kstream.org/aovivo/FHD_HBO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a032/index.m3u8
+#EXTINF:-1,Globo RJ
+http://179.100.59.105:2083/play/a061/index.m3u8
 #EXTINF:-1,HBO Family
-http://lb.kstream.org/aovivo/SD_HBO_FAMILY/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO Family FHD
-http://lb.kstream.org/aovivo/FHD_HBO_FAMILLY/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO Family HD
-http://lb.kstream.org/aovivo/HD_HBO_FAMILY/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO Family HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_FAMILLY_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO HD
-http://lb.kstream.org/aovivo/HD_HBO_1/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO Mundi
-http://lb.kstream.org/aovivo/SD_HBO_MUNDI/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO Mundi FHD
-http://lb.kstream.org/aovivo/FHD_HBO_MUNDI/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO Mundi HD
-http://lb.kstream.org/aovivo/HD_HBO_MUNDI/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO Mundi HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_MUNDI_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO POP
-http://lb.kstream.org/aovivo/SD_HBO_POP/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO POP FHD
-http://lb.kstream.org/aovivo/FHD_HBO_POP/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO POP HD
-http://lb.kstream.org/aovivo/HD_HBO_POP/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO POP HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_POP_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a04d/index.m3u8
 #EXTINF:-1,HBO Plus
-http://lb.kstream.org/aovivo/SD_HBO_PLUS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO Plus FHD
-http://lb.kstream.org/aovivo/FHD_HBO_PLUS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO Plus HD
-http://lb.kstream.org/aovivo/HD_HBO_PLUS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO Plus HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_PLUS_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO Signature
-http://lb.kstream.org/aovivo/SD_HBO_SINGNATURE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO Signature FHD
-http://lb.kstream.org/aovivo/FHD_HBO_SIGNATURE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO Signature HD
-http://lb.kstream.org/aovivo/HD_HBO_SIGNATURE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO Signature HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_SIGNATURE_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO Xtreme
-http://lb.kstream.org/aovivo/SD_HBO_XTREME/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO Xtreme FHD
-http://lb.kstream.org/aovivo/FHD_HBO_EXTREME/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO Xtreme HD
-http://lb.kstream.org/aovivo/HD_HBO_XTREME/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HBO Xtreme HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_XTREME_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HGTV
-http://lb.kstream.org/aovivo/SD_HGTV/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HGTV FHD
-http://lb.kstream.org/aovivo/FHD_HGTV/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HGTV HD
-http://lb.kstream.org/aovivo/HD_HGTV/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,HGTV HD [Alter]
-http://lb.kstream.org/aovivo/HD_HGTV_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,History
-http://lb.kstream.org/aovivo/SD_HISTORY/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a03w/index.m3u8
 #EXTINF:-1,History 2
-http://lb.kstream.org/aovivo/SD_H2/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,History 2 FHD
-http://lb.kstream.org/aovivo/FHD_H2/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,History 2 HD
-http://lb.kstream.org/aovivo/HD_H2/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,History 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_H2_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,History FHD
-http://lb.kstream.org/aovivo/FHD_HISTORY/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,History HD
-http://lb.kstream.org/aovivo/HD_HISTORY/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,History HD [Alter]
-http://lb.kstream.org/aovivo/HD_HISTORY_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Homem Aranha
-http://lb.kstream.org/aovivo/24_HOMEM_ARANHA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,I-Sat
-http://lb.kstream.org/aovivo/SD_ISAT/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,I-Sat FHD
-http://lb.kstream.org/aovivo/FHD_ISAT/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,I-Sat HD
-http://lb.kstream.org/aovivo/HD_ISAT/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,ID
-http://lb.kstream.org/aovivo/SD_DISCOVERY_INVESTIGATION/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,ID FHD
-http://lb.kstream.org/aovivo/FHD_ID/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,ID HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY_INVESTIGATION/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,ID HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_INVESTIGATION_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Irmao do Jorel
-http://lb.kstream.org/aovivo/24_IRMAO_JOREL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Jhony Quest
-http://lb.kstream.org/aovivo/24_JHONY_QUEST/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Largados e pelados
-http://lb.kstream.org/aovivo/24_LARGADOS_PELADOS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a07l/index.m3u8
+#EXTINF:-1,Inter TV Cabugi
+http://179.100.59.105:2083/play/a035/index.m3u8
 #EXTINF:-1,Lifetime
-http://lb.kstream.org/aovivo/SD_LIFETIME/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Lifetime FHD
-http://lb.kstream.org/aovivo/FHD_LIFETIME/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Lifetime HD
-http://lb.kstream.org/aovivo/HD_LIFETIME/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Lifetime HD [Alter]
-http://lb.kstream.org/aovivo/HD_LIFETIME_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Luluzinha
-http://lb.kstream.org/aovivo/24_LULUZINHA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a03y/index.m3u8
 #EXTINF:-1,MTV
-http://lb.kstream.org/aovivo/SD_MTV/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,MTV FHD
-http://lb.kstream.org/aovivo/FHD_MTV/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,MTV HD
-http://lb.kstream.org/aovivo/HD_MTV/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,MTV HD [Alter]
-http://lb.kstream.org/aovivo/HD_MTV_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Mais Globosat
-http://lb.kstream.org/aovivo/SD_MAIS_GLOBOSAT/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Mais Globosat FHD
-http://lb.kstream.org/aovivo/FHD_GLOBOSAT/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Mais Globosat HD
-http://lb.kstream.org/aovivo/HD_MAIS_GLOBOSAT/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Mais Globosat HD [Alter]
-http://lb.kstream.org/aovivo/HD_MAIS_GLOBOSAT_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Marsha e o Urso
-http://lb.kstream.org/aovivo/24_MARSHA_URSO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Megapix
-http://lb.kstream.org/aovivo/SD_MEGAPIX/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Megapix FHD
-http://lb.kstream.org/aovivo/FHD_MEGAPIX/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Megapix HD
-http://lb.kstream.org/aovivo/HD_MEGAPIX/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Megapix HD [Alter]
-http://lb.kstream.org/aovivo/HD_MEGAPIX_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Meu AmigaoZao
-http://lb.kstream.org/aovivo/24_MEU_AMIGAOZAO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Mickey Mouse
-http://lb.kstream.org/aovivo/24_MICKEY/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Multishow
-http://lb.kstream.org/aovivo/SD_MULTISHOW/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Multishow FHD
-http://lb.kstream.org/aovivo/FHD_MULTISHOW/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Multishow HD
-http://lb.kstream.org/aovivo/HD_MULTISHOW/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Multishow HD [Alter]
-http://lb.kstream.org/aovivo/HD_MULTISHOW_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Mundo Bita
-http://lb.kstream.org/aovivo/24_MUNDO_BITA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Music Box Brazil
-http://lb.kstream.org/aovivo/SD_MUSIC_BOX_BRASIL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Music Box Brazil FHD
-http://lb.kstream.org/aovivo/FHD_MUSICBOX_BRAZIL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Music Box Brazil HD
-http://lb.kstream.org/aovivo/HD_MUSIC_BOX_BRASIL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,NBR
-http://lb.kstream.org/aovivo/HD_NBR/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a03s/index.m3u8
 #EXTINF:-1,NHK
-http://lb.kstream.org/aovivo/SD_NHK/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Naruto
-http://lb.kstream.org/aovivo/24_NATURO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,NatGeo Kids
-http://lb.kstream.org/aovivo/SD_NATGEOKIDS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,NatGeo Kids FHD
-http://lb.kstream.org/aovivo/FHD_NAT_GEO_KIDS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,NatGeo Kids HD
-http://lb.kstream.org/aovivo/HD_NATGEOKIDS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,NatGeo Kids HD [Alter]
-http://lb.kstream.org/aovivo/HD_NATGEOKIDS_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Natgeo Wild
-http://lb.kstream.org/aovivo/SD_NAT_GEO_WILD/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Natgeo Wild FHD
-http://lb.kstream.org/aovivo/FHD_NAT_GEO_WILD/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Natgeo Wild HD
-http://lb.kstream.org/aovivo/HD_NAT_GEO_WILD/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Natgeo Wild HD [Alter]
-http://lb.kstream.org/aovivo/HD_NAT_GEO_WILD_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,National Geographic
-http://lb.kstream.org/aovivo/SD_NAT_GEO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,National Geographic FHD
-http://lb.kstream.org/aovivo/FHD_NAT_GEO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,National Geographic HD
-http://lb.kstream.org/aovivo/HD_NAT_GEO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,National Geographic HD [Alter]
-http://lb.kstream.org/aovivo/HD_NAT_GEO_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Nick Jr.
-http://lb.kstream.org/aovivo/SD_NICK_JR/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Nick Jr. FHD
-http://lb.kstream.org/aovivo/FHD_NICK_JR/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Nick Jr. HD
-http://lb.kstream.org/aovivo/HD_NICK_JR/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Nick Jr. HD [Alter]
-http://lb.kstream.org/aovivo/HD_NICK_JR_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Nickelodeon
-http://lb.kstream.org/aovivo/SD_NICKELODEON/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Nickelodeon HD
-http://lb.kstream.org/aovivo/HD_NICKELODEON/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Novo Tempo
-http://lb.kstream.org/aovivo/SD_NOVO_TEMPO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Novo Tempo HD
-http://lb.kstream.org/aovivo/HD_NOVO_TEMPO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Novo Tempo HD [Alter]
-http://lb.kstream.org/aovivo/HD_NOVO_TEMPO_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,O Fantastico Mundo de Bob
-http://lb.kstream.org/aovivo/24_O_FANTASTICO_MUNDO_BOB/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,O Maskara (DESENHO)
-http://lb.kstream.org/aovivo/24_O_MASKARA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Off
-http://lb.kstream.org/aovivo/SD_OFF/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Off FHD
-http://lb.kstream.org/aovivo/FHD_OFF/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Off HD
-http://lb.kstream.org/aovivo/HD_OFF/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Off HD [Alter]
-http://lb.kstream.org/aovivo/HD_OFF_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Os Flintstones
-http://lb.kstream.org/aovivo/24_OS_FLINTSTONES/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Os Padrinhos Magicos
-http://lb.kstream.org/aovivo/24_OS_PADRINHOS_MAGICOS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Os Simpsons
-http://lb.kstream.org/aovivo/24_SIMPSONS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Os Trapalhoes
-http://lb.kstream.org/aovivo/24_TRAPALHOES/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Paramount
-http://lb.kstream.org/aovivo/SD_PARAMOUNT/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Paramount FHD
-http://lb.kstream.org/aovivo/FHD_PARAMOUNT/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Paramount HD
-http://lb.kstream.org/aovivo/HD_PARAMOUNT/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Paramount HD [Alter]
-http://lb.kstream.org/aovivo/HD_PARAMOUNT_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Patati Patata
-http://lb.kstream.org/aovivo/24_PATATI_PATATA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Patrulha Canina
-http://lb.kstream.org/aovivo/24_PATRULHA_CANINA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Peppa Pig
-http://lb.kstream.org/aovivo/24_PEPPA_PIG/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Pica Pau
-http://lb.kstream.org/aovivo/24_PICA_PAU/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a04q/index.m3u8
+#EXTINF:-1,NatGeo Wild
+http://179.100.59.105:2083/play/a04m/index.m3u8
+#EXTINF:-1,Nick Jr
+http://179.100.59.105:2083/play/a04j/index.m3u8
 #EXTINF:-1,Play TV
-http://lb.kstream.org/aovivo/SD_PLAY_TV/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Play TV FHD
-http://lb.kstream.org/aovivo/FHD_PLAYTV/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Play TV HD
-http://lb.kstream.org/aovivo/HD_PLAYTV/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Play TV [Alter]
-http://lb.kstream.org/aovivo/HD_PLAYTV_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a03e/index.m3u8
 #EXTINF:-1,Playboy TV
-http://lb.kstream.org/aovivo/SD_PLAYBOY/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Playboy TV FHD
-http://lb.kstream.org/aovivo/FHD_PLAYBOY/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Playboy TV HD
-http://lb.kstream.org/aovivo/HD_PLAYBOY/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Playboy TV HD [Alter]
-http://lb.kstream.org/aovivo/HD_PLAYBOY_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Polishop TV
-http://lb.kstream.org/aovivo/SD_POLISHOP/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Popeye
-http://lb.kstream.org/aovivo/24_POPEYE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a048/index.m3u8
 #EXTINF:-1,Premiere 2
-http://lb.kstream.org/aovivo/SD_PFC_2/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Premiere 2 FHD
-http://lb.kstream.org/aovivo/FHD_PFC_2/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Premiere 2 HD
-http://lb.kstream.org/aovivo/HD_PFC_2/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Premiere 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_2_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Premiere 3
-http://lb.kstream.org/aovivo/SD_PFC_3/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Premiere 3 FHD
-http://lb.kstream.org/aovivo/FHD_PFC_3/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Premiere 3 HD
-http://lb.kstream.org/aovivo/HD_PFC_3/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Premiere 3 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_3_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a078/index.m3u8
 #EXTINF:-1,Premiere 4
-http://lb.kstream.org/aovivo/SD_PFC_4/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Premiere 4 FHD
-http://lb.kstream.org/aovivo/FHD_PFC_4/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Premiere 4 HD
-http://lb.kstream.org/aovivo/HD_PFC_4/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Premiere 4 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_4_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Premiere 5
-http://lb.kstream.org/aovivo/SD_PFC_5/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Premiere 5 FHD
-http://lb.kstream.org/aovivo/FHD_PFC_5/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Premiere 5 HD
-http://lb.kstream.org/aovivo/HD_PFC_5/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Premiere 5 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_5_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a04s/index.m3u8
 #EXTINF:-1,Premiere 6
-http://lb.kstream.org/aovivo/SD_PFC_6/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Premiere 6 FHD
-http://lb.kstream.org/aovivo/FHD_PFC_6/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Premiere 6 HD
-http://lb.kstream.org/aovivo/HD_PFC_6/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Premiere 6 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_6_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Premiere 7 FHD
-http://lb.kstream.org/aovivo/FHD_PFC_7/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Premiere 7 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_7_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Premiere Clubes
-http://lb.kstream.org/aovivo/SD_PFC_CLUBES/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Premiere Clubes FHD
-http://lb.kstream.org/aovivo/FHD_PFC_CLUBES/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Premiere Clubes HD
-http://lb.kstream.org/aovivo/HD_PFC_CLUBES/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Premiere Clubes HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_CLUBES_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Primebox Brasil
-http://lb.kstream.org/aovivo/SD_PRIMEBOX_BRASIL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Primebox Brasil FHD
-http://lb.kstream.org/aovivo/FHD_PRIMEBOX/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Primebox Brasil HD
-http://lb.kstream.org/aovivo/HD_PRIMEBOX_BRASIL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a047/index.m3u8
+#EXTINF:-1,Premiere 7
+http://179.100.59.105:2083/play/a07t/index.m3u8
+#EXTINF:-1,RBI
+http://179.100.59.105:2083/play/a04o/index.m3u8
+#EXTINF:-1,RBS TV Porto Alegre
+http://179.100.59.105:2083/play/a079/index.m3u8
+#EXTINF:-1,RCI
+http://179.100.59.105:2083/play/a040/index.m3u8
 #EXTINF:-1,RIT
-http://lb.kstream.org/aovivo/SD_RIT/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record
-http://lb.kstream.org/aovivo/SD_RECORD/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record AM
-http://lb.kstream.org/aovivo/SD_RECORD_MA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record AM HD
-http://lb.kstream.org/aovivo/HD_RECORD_MA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record BA
-http://lb.kstream.org/aovivo/SD_RECORD_BA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record BA HD
-http://lb.kstream.org/aovivo/HD_RECORD_BA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record DF
-http://lb.kstream.org/aovivo/SD_RECORD_DF/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record DF HD
-http://lb.kstream.org/aovivo/HD_RECORD_DF/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record ES FHD
-http://lb.kstream.org/aovivo/FHD_RECORD_ES/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record ES HD
-http://lb.kstream.org/aovivo/RECORD_ES/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record FHD
-http://lb.kstream.org/aovivo/FHD_RECORD/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record GO
-http://lb.kstream.org/aovivo/SD_RECORD_GO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record GO FHD
-http://lb.kstream.org/aovivo/FHD_RECORD_GO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record GO HD
-http://lb.kstream.org/aovivo/HD_RECORD_GO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record HD
-http://lb.kstream.org/aovivo/HD_RECORD/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record HD [Alter]
-http://lb.kstream.org/aovivo/HD_RECORD_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record MG
-http://lb.kstream.org/aovivo/SD_RECORD_MG/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record MG HD
-http://lb.kstream.org/aovivo/HD_RECORD_MG/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record News
-http://lb.kstream.org/aovivo/SD_RECORD_NEWS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record News FHD
-http://lb.kstream.org/aovivo/FHD_RECORDNEWS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record News HD
-http://lb.kstream.org/aovivo/HD_RECORD_NEWS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record News HD [Alter]
-http://lb.kstream.org/aovivo/HD_RECORDNEWS_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record Nordeste HD
-http://lb.kstream.org/aovivo/HD_RECORD_NORDESTE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record PA
-http://lb.kstream.org/aovivo/SD_RECORD_BE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record PA HD
-http://lb.kstream.org/aovivo/HD_RECORD_BE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record RJ
-http://lb.kstream.org/aovivo/SD_RECORD_RJ/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record RJ HD
-http://lb.kstream.org/aovivo/HD_RECORD_RJ/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record RS
-http://lb.kstream.org/aovivo/SD_RECORD_RS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record RS HD
-http://lb.kstream.org/aovivo/HD_RECORD_RS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record SP
-http://lb.kstream.org/aovivo/SD_RECORD_SP/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Record SP HD
-http://lb.kstream.org/aovivo/HD_RECORD_SP/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Rede Brasil
-http://lb.kstream.org/aovivo/SD_REDE_BRASIL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Rede Gospel
-http://lb.kstream.org/aovivo/HD_REDE_GOSPEL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Rede Gospel FHD
-http://lb.kstream.org/aovivo/FHD_REDE_GOSPEL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Rede Super
-http://lb.kstream.org/aovivo/REDE_SUPER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Rede Super FHD
-http://lb.kstream.org/aovivo/FHD_REDE_SUPER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Rede Vida
-http://lb.kstream.org/aovivo/SD_REDE_VIDA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Rede Vida HD
-http://lb.kstream.org/aovivo/HD_REDE_VIDA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Rede Vida HD [Alter]
-http://lb.kstream.org/aovivo/HD_REDE_VIDA_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,RedeTV!
-http://lb.kstream.org/aovivo/SD_REDETV/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,RedeTV! FHD
-http://lb.kstream.org/aovivo/FULLHD_REDETV/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,RedeTV! HD
-http://lb.kstream.org/aovivo/HD_REDETV/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,RedeTV! HD [Alter]
-http://lb.kstream.org/aovivo/HD_REDETV_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Rick and Morty
-http://lb.kstream.org/aovivo/24_RICKY_MORTY/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a04n/index.m3u8
+#EXTINF:-1,RPC TV Curitiba
+http://179.100.59.105:2083/play/a037/index.m3u8
+#EXTINF:-1,Rede Amazonica Manaus
+http://179.100.59.105:2083/play/a034/index.m3u8
 #EXTINF:-1,SBT
-http://lb.kstream.org/aovivo/SD_SBT/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,SBT ES HD
-http://lb.kstream.org/aovivo/HD_SBT_ES/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,SBT FHD
-http://lb.kstream.org/aovivo/FHD_SBT/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,SBT HD
-http://lb.kstream.org/aovivo/HD_SBT/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,SBT HD [Alter]
-http://lb.kstream.org/aovivo/HD_SBT_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,SBT Rio HD
-http://lb.kstream.org/aovivo/HD_SBT_RJ/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,SBT TV Cidade Verde
-http://lb.kstream.org/aovivo/SD_SBT_TV_CIDADE_VERDE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,SBT TV Jornal Recife
-http://lb.kstream.org/aovivo/SD_JORNAL_RECIFE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,SexPrive FHD
-http://lb.kstream.org/aovivo/FHD_SEXPRIVE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,SexPrive HD
-http://lb.kstream.org/aovivo/HD_SEXPRIVE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a07a/index.m3u8
+#EXTINF:-1,SIC Internacional
+http://179.100.59.105:2083/play/a03j/index.m3u8
 #EXTINF:-1,Sextreme
-http://lb.kstream.org/aovivo/SD_SEXTREME/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Sextreme HD
-http://lb.kstream.org/aovivo/HD_SEXTREME/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a046/index.m3u8
 #EXTINF:-1,Sexy Hot
-http://lb.kstream.org/aovivo/SD_SEXYHOT/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Sexy Hot HD
-http://lb.kstream.org/aovivo/HD_SEXHOT/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Sexyzone HD
-http://lb.kstream.org/aovivo/HD_SEXYZONE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Shoptime
-http://lb.kstream.org/aovivo/HD_SHOPTIME/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Sitio do Pica Pau Amarelo
-http://lb.kstream.org/aovivo/24_SITIO_PICA_PAU_AMARELO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Sony
-http://lb.kstream.org/aovivo/SD_SONY/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Sony FHD
-http://lb.kstream.org/aovivo/FHD_SONY/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Sony HD
-http://lb.kstream.org/aovivo/HD_SONY/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Sony HD [Alter]
-http://lb.kstream.org/aovivo/HD_SONY_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Space
-http://lb.kstream.org/aovivo/SD_SPACE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Space FHD
-http://lb.kstream.org/aovivo/FHD_SPACE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Space HD
-http://lb.kstream.org/aovivo/HD_SPACE/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Space HD [Alter]
-http://lb.kstream.org/aovivo/HD_SPACE_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a049/index.m3u8
 #EXTINF:-1,SporTV
-http://lb.kstream.org/aovivo/SD_SPORTV_1/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,SporTV 2
-http://lb.kstream.org/aovivo/SD_SPORTV_2/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,SporTV 2 FHD
-http://lb.kstream.org/aovivo/FHD_SPORTV_2/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,SporTV 2 HD
-http://lb.kstream.org/aovivo/HD_SPORTV_2/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,SporTV 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_SPORTV_2_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,SporTV 3
-http://lb.kstream.org/aovivo/SD_SPORTV_3/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,SporTV 3 FHD
-http://lb.kstream.org/aovivo/FHD_SPORTV_3/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,SporTV 3 HD
-http://lb.kstream.org/aovivo/HD_SPORTV_3/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,SporTV 3 HD [Alter]
-http://lb.kstream.org/aovivo/HD_SPORTV_3_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,SporTV FHD
-http://lb.kstream.org/aovivo/FHD_SPORTV_1/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,SporTV HD
-http://lb.kstream.org/aovivo/HD_SPORTV_1/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,SporTV HD [Alter]
-http://lb.kstream.org/aovivo/HD_SPORTV_1_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Studio Universal
-http://lb.kstream.org/aovivo/SD_STUDIO_UNIVERSAL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Studio Universal FHD
-http://lb.kstream.org/aovivo/FHD_STUDIO_UNIVERSAL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Studio Universal HD
-http://lb.kstream.org/aovivo/HD_STUDIO_UNIVERSAL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Studio Universal HD [Alter]
-http://lb.kstream.org/aovivo/HD_STUDIO_UNIVERSAL_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Syfy
-http://lb.kstream.org/aovivo/SD_SYFY/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Syfy FHD
-http://lb.kstream.org/aovivo/FHD_SYFY/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Syfy HD
-http://lb.kstream.org/aovivo/HD_SYFY/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Syfy HD [Alter]
-http://lb.kstream.org/aovivo/HD_SYFY_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TBS
-http://lb.kstream.org/aovivo/SD_TBS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TBS FHD
-http://lb.kstream.org/aovivo/FHD_TBS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TBS HD
-http://lb.kstream.org/aovivo/HD_TBS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TBS HD [Alter]
-http://lb.kstream.org/aovivo/HD_TBS_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TCM
-http://lb.kstream.org/aovivo/SD_TCM/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TCM FHD
-http://lb.kstream.org/aovivo/FHD_TCM/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TCM HD
-http://lb.kstream.org/aovivo/HD_TCM/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TCM HD [Alter]
-http://lb.kstream.org/aovivo/HD_TCM_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TLC
-http://lb.kstream.org/aovivo/SD_TLC/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TLC HD
-http://lb.kstream.org/aovivo/HD_TLC/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TLC HD [Alter]
-http://lb.kstream.org/aovivo/HD_TLC_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TNT
-http://lb.kstream.org/aovivo/SD_TNT/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TNT FHD
-http://lb.kstream.org/aovivo/FHD_TNT/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TNT HD
-http://lb.kstream.org/aovivo/HD_TNT/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TNT HD [Alter]
-http://lb.kstream.org/aovivo/HD_TNT_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TNT Series
-http://lb.kstream.org/aovivo/SD_TNT_SERIES/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TNT Series FHD
-http://lb.kstream.org/aovivo/FHD_TNT_SERIES/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TNT Series HD
-http://lb.kstream.org/aovivo/HD_TNT_SERIES/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TNT Series HD [Alter]
-http://lb.kstream.org/aovivo/HD_TNT_SERIES_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TV Aparecida
-http://lb.kstream.org/aovivo/SD_TV_APARECIDA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TV Aparecida HD
-http://lb.kstream.org/aovivo/HD_TV_APARECIDA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TV Aparecida HD [Alter]
-http://lb.kstream.org/aovivo/HD_TV_APARECIDA_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TV Brasil
-http://lb.kstream.org/aovivo/SD_TV_BRASIL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TV Escola
-http://lb.kstream.org/aovivo/HD_TV_ESCOLA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TV Guarulhos (ESPIRITA)
-http://lb.kstream.org/aovivo/HD_TV_GUARULHOS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TV Justica
-http://lb.kstream.org/aovivo/SD_TV_JUSTICA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TV Ra Tim Bum
-http://lb.kstream.org/aovivo/SD_TV_RATIMBUM/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TV Ra Tim Bum HD
-http://lb.kstream.org/aovivo/HD_TV_RATIMBUM/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TV Seculo 21
-http://lb.kstream.org/aovivo/HD_SECULO_21/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,TV Senado
-http://lb.kstream.org/aovivo/HD_TV_SENADO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Telecine Action
-http://lb.kstream.org/aovivo/SD_TC_ACTION/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Telecine Action FHD
-http://lb.kstream.org/aovivo/FHD_TC_ACTION/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Telecine Action HD
-http://lb.kstream.org/aovivo/HD_TC_ACTION/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Telecine Action HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_ACTION_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Telecine Cult
-http://lb.kstream.org/aovivo/SD_TC_CULT/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Telecine Cult FHD
-http://lb.kstream.org/aovivo/FHD_TC_CULT/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Telecine Cult HD
-http://lb.kstream.org/aovivo/HD_TC_CULT/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Telecine Cult HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_CULT_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a052/index.m3u8
+#EXTINF:-1,SporTV Alternativo
+http://179.100.59.105:2083/play/a03m/index.m3u8
+#EXTINF:-1,TBS https://iptv.live
+http://179.100.59.105:2083/play/a04f/index.m3u8
+#EXTINF:-1,TV Anhanguera GoiÐnia
+http://179.100.59.105:2083/play/a063/index.m3u8
+#EXTINF:-1,TV Bahia
+http://179.100.59.105:2083/play/a031/index.m3u8
+#EXTINF:-1,TV Centro America Cuiaba
+http://179.100.59.105:2083/play/a036/index.m3u8
+#EXTINF:-1,TV Liberal Belem
+http://179.100.59.105:2083/play/a033/index.m3u8
+#EXTINF:-1,TV Novo Tempo
+http://179.100.59.105:2083/play/a03r/index.m3u8
+#EXTINF:-1,TV Tem Bauru
+http://179.100.59.105:2083/play/a065/index.m3u8
+#EXTINF:-1,TV Tem Sorocaba
+http://179.100.59.105:2083/play/a064/index.m3u8
+#EXTINF:-1,TV Tribuna Santos
+http://179.100.59.105:2083/play/a03o/index.m3u8
+#EXTINF:-1,TV Vanguarda S. J. dos Campos
+http://179.100.59.105:2083/play/a03b/index.m3u8
+#EXTINF:-1,TV Verdes Mares Fortaleza
+http://179.100.59.105:2083/play/a030/index.m3u8
 #EXTINF:-1,Telecine Fun
-http://lb.kstream.org/aovivo/SD_TC_FUN/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Telecine Fun FHD
-http://lb.kstream.org/aovivo/FHD_TC_FUN/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Telecine Fun HD
-http://lb.kstream.org/aovivo/HD_TC_FUN/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Telecine Fun HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_FUN_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Telecine Pipoca
-http://lb.kstream.org/aovivo/SD_TC_PIPOCA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Telecine Pipoca FHD
-http://lb.kstream.org/aovivo/FHD_TC_PIPOCA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Telecine Pipoca HD
-http://lb.kstream.org/aovivo/HD_TC_PIPOCA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Telecine Pipoca HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_PIPOCA_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a04a/index.m3u8
 #EXTINF:-1,Telecine Premium
-http://lb.kstream.org/aovivo/SD_TC_PREMIUM/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Telecine Premium FHD
-http://lb.kstream.org/aovivo/FHD_TC_PREMIUM/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Telecine Premium HD
-http://lb.kstream.org/aovivo/HD_TC_PREMIUM/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Telecine Premium HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_PREMIUM_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a055/index.m3u8
 #EXTINF:-1,Telecine Touch
-http://lb.kstream.org/aovivo/SD_TC_TOUCH/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Telecine Touch FHD
-http://lb.kstream.org/aovivo/FHD_TC_TOUCH/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Telecine Touch HD
-http://lb.kstream.org/aovivo/HD_TC_TOUCH/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Telecine Touch HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_TOUCH_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Timao e Pumba
-http://lb.kstream.org/aovivo/24_TIMAO_PUMBA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Todo Mundo Odeia o Chris
-http://lb.kstream.org/aovivo/24_TMO_CHRIS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Tom e Jerry
-http://lb.kstream.org/aovivo/24_TOM_JERRY/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a07q/index.m3u8
+#EXTINF:-1,The History Channel
+http://179.100.59.105:2083/play/a03d/index.m3u8
 #EXTINF:-1,Tooncast
-http://lb.kstream.org/aovivo/SD_TOONCAST/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Tooncast HD
-http://lb.kstream.org/aovivo/HD_TOONCAST/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Tooncast HD [Alter]
-http://lb.kstream.org/aovivo/HD_TOONCAST_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Trutv
-http://lb.kstream.org/aovivo/SD_TRUTV/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Trutv FHD
-http://lb.kstream.org/aovivo/FHD_TRU_TV/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Trutv HD
-http://lb.kstream.org/aovivo/HD_TRUTV/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Universal TV
-http://lb.kstream.org/aovivo/SD_UNIVERSAL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Universal TV FHD
-http://lb.kstream.org/aovivo/FHD_UNIVERSAL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Universal TV HD
-http://lb.kstream.org/aovivo/HD_UNIVERSAL/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Universal TV HD [Alter]
-http://lb.kstream.org/aovivo/HD_UNIVERSAL_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,VH1
-http://lb.kstream.org/aovivo/SD_VH1/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,VH1 HD
-http://lb.kstream.org/aovivo/HD_VH1/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,VH1 HD [Alter]
-http://lb.kstream.org/aovivo/HD_VH1_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,VH1 Megahits
-http://lb.kstream.org/aovivo/SD_VH1_MEGAHITS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Vasco TV
-http://lb.kstream.org/aovivo/HD_VASCO_TV/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Venus
-http://lb.kstream.org/aovivo/SD_VENUS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Venus HD
-http://lb.kstream.org/aovivo/HD_VENUS/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a05c/index.m3u8
+#EXTINF:-1,TruTV
+http://179.100.59.105:2083/play/a059/index.m3u8
+#EXTINF:-1,TruTV
+http://179.100.59.105:2083/play/a07r/index.m3u8
 #EXTINF:-1,Viva
-http://lb.kstream.org/aovivo/SD_VIVA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Viva HD
-http://lb.kstream.org/aovivo/HD_VIVA/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Viva HD [Alter]
-http://lb.kstream.org/aovivo/HD_VIVA_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a03t/index.m3u8
 #EXTINF:-1,Warner Channel
-http://lb.kstream.org/aovivo/SD_WARNER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Warner Channel FHD
-http://lb.kstream.org/aovivo/FHD_WARNER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Warner Channel HD
-http://lb.kstream.org/aovivo/HD_WARNER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Warner Channel HD [Alter]
-http://lb.kstream.org/aovivo/HD_WARNER_ALTER/video.m3u8?token=a2aef68e27449b40af44688eb34638be
+http://179.100.59.105:2083/play/a03z/index.m3u8
+#EXTINF:-1,AE
+http://177.133.15.82:8000/play/AE/index.m3u8
+#EXTINF:-1,AMC
+http://177.133.15.82:8000/play/AMC/index.m3u8
+#EXTINF:-1,AXN
+http://177.133.15.82:8000/play/AXN/index.m3u8
+#EXTINF:-1,Animal Planet
+http://177.133.15.82:8000/play/AnimalPlanet/index.m3u8
+#EXTINF:-1,Arte 1
+http://177.133.15.82:8000/play/Arte1/index.m3u8
+#EXTINF:-1,BAND 1SEG
+http://177.133.15.82:8000/play/a07p/index.m3u8
+#EXTINF:-1,BAND CAMPINAS
+http://177.133.15.82:8000/play/BANDCAMPINAS/index.m3u8
+#EXTINF:-1,BAND CAMPINAS HD
+http://177.133.15.82:8000/play/BANDCAMPINASHD/index.m3u8
+#EXTINF:-1,BIS
+http://177.133.15.82:8000/play/BIS/index.m3u8
+#EXTINF:-1,Baby TV
+http://177.133.15.82:8000/play/BabyTV/index.m3u8
+#EXTINF:-1,Band News
+http://177.133.15.82:8000/play/BandNews/index.m3u8
+#EXTINF:-1,Band Sports
+http://177.133.15.82:8000/play/BandSports/index.m3u8
+#EXTINF:-1,BandCuritibaHD
+http://177.133.15.82:8000/play/BandCuritibaHD/index.m3u8
+#EXTINF:-1,Bandeirantes
+http://177.133.15.82:8000/play/Bandeirantes/index.m3u8
+#EXTINF:-1,Boa Vontade TV
+http://177.133.15.82:8000/play/BoaVontadeTV/index.m3u8
+#EXTINF:-1,Boa Vontade TV
+http://177.133.15.82:8000/play/a01c/index.m3u8
+#EXTINF:-1,Boomerang
+http://177.133.15.82:8000/play/Boomerang/index.m3u8
+#EXTINF:-1,CNN Brasil
+http://177.133.15.82:8000/play/CNNBrasil/index.m3u8
+#EXTINF:-1,CNN Espaæol https://iptv.live
+http://177.133.15.82:8000/play/CNNEspanhol/index.m3u8
+#EXTINF:-1,CNN Internacional
+http://177.133.15.82:8000/play/CNNInternacional/index.m3u8
+#EXTINF:-1,CNT
+http://177.133.15.82:8000/play/CNT/index.m3u8
+#EXTINF:-1,CONMEBOL TV 1
+http://177.133.15.82:8000/play/CONMEBOLTV1/index.m3u8
+#EXTINF:-1,CONMEBOL TV 2
+http://177.133.15.82:8000/play/CONMEBOLTV2/index.m3u8
+#EXTINF:-1,CONMEBOL TV 3
+http://177.133.15.82:8000/play/CONMEBOLTV3/index.m3u8
+#EXTINF:-1,CONMEBOL TV 4
+http://177.133.15.82:8000/play/CONMEBOLTV4/index.m3u8
+#EXTINF:-1,Satellite TV
+http://177.133.15.82:8000/play/CanalBrasil/index.m3u8
+#EXTINF:-1,Satellite TV
+http://177.133.15.82:8000/play/CanalClaro/index.m3u8
+#EXTINF:-1,Satellite TV
+http://177.133.15.82:8000/play/a045/index.m3u8
+#EXTINF:-1,Satellite TV
+http://177.133.15.82:8000/play/CanalRural/index.m3u8
+#EXTINF:-1,Satellite TV
+http://177.133.15.82:8000/play/CanalSony/index.m3u8
+#EXTINF:-1,Satellite TV
+http://177.133.15.82:8000/play/CanaldoBoi/index.m3u8
+#EXTINF:-1,Cancao Nova
+http://177.133.15.82:8000/play/CancaoNova/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://177.133.15.82:8000/play/CartoonNetwork/index.m3u8
+#EXTINF:-1,Cinemax
+http://177.133.15.82:8000/play/Cinemax/index.m3u8
+#EXTINF:-1,Combate
+http://177.133.15.82:8000/play/Combate/index.m3u8
+#EXTINF:-1,Comedy Central
+http://177.133.15.82:8000/play/ComedyCentral/index.m3u8
+#EXTINF:-1,Curta!
+http://177.133.15.82:8000/play/Curta!/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://177.133.15.82:8000/play/DiscoveryChannel/index.m3u8
+#EXTINF:-1,Discovery HH
+http://177.133.15.82:8000/play/DiscoveryHH/index.m3u8
+#EXTINF:-1,Discovery Kids
+http://177.133.15.82:8000/play/DiscoveryKids/index.m3u8
+#EXTINF:-1,Discovery Turbo
+http://177.133.15.82:8000/play/DiscoveryTurbo/index.m3u8
+#EXTINF:-1,Disney
+http://177.133.15.82:8000/play/Disney/index.m3u8
+#EXTINF:-1,Disney Junior
+http://177.133.15.82:8000/play/DisneyJunior/index.m3u8
+#EXTINF:-1,Disney XD
+http://177.133.15.82:8000/play/DisneyXD/index.m3u8
+#EXTINF:-1,E!
+http://177.133.15.82:8000/play/E!/index.m3u8
+#EXTINF:-1,EPTV Campinas
+http://177.133.15.82:8000/play/EPTVCampinas/index.m3u8
+#EXTINF:-1,EPTV Ribeirao Preto
+http://177.133.15.82:8000/play/EPTVRibeiraoPreto/index.m3u8
+#EXTINF:-1,EPTV Sao Carlos
+http://177.133.15.82:8000/play/EPTVSaoCarlos/index.m3u8
+#EXTINF:-1,ESPN
+http://177.133.15.82:8000/play/ESPN/index.m3u8
+#EXTINF:-1,ESPN Brasil
+http://177.133.15.82:8000/play/ESPNBrasil/index.m3u8
+#EXTINF:-1,ESPN2
+http://177.133.15.82:8000/play/ESPN2/index.m3u8
+#EXTINF:-1,FOX
+http://177.133.15.82:8000/play/FOX/index.m3u8
+#EXTINF:-1,FX
+http://177.133.15.82:8000/play/FX/index.m3u8
+#EXTINF:-1,Film Arts
+http://177.133.15.82:8000/play/FilmArts/index.m3u8
+#EXTINF:-1,Fish TV https://iptv.live
+http://177.133.15.82:8000/play/FishTV/index.m3u8
+#EXTINF:-1,Food Network
+http://177.133.15.82:8000/play/FoodNetwork/index.m3u8
+#EXTINF:-1,Fox Life
+http://177.133.15.82:8000/play/FoxLife/index.m3u8
+#EXTINF:-1,Fox Sports
+http://177.133.15.82:8000/play/FoxSports/index.m3u8
+#EXTINF:-1,Fox Sports 2
+http://177.133.15.82:8000/play/FoxSports2/index.m3u8
+#EXTINF:-1,Futura
+http://177.133.15.82:8000/play/Futura/index.m3u8
+#EXTINF:-1,GAZETA SP
+http://177.133.15.82:8000/play/GAZETASP/index.m3u8
+#EXTINF:-1,GAZETA SP HD
+http://177.133.15.82:8000/play/GAZETASPHD/index.m3u8
+#EXTINF:-1,GNT
+http://177.133.15.82:8000/play/GNT/index.m3u8
+#EXTINF:-1,Globo Brasilia
+http://177.133.15.82:8000/play/GloboBrasilia/index.m3u8
+#EXTINF:-1,Globo Minas
+http://177.133.15.82:8000/play/GloboMinas/index.m3u8
+#EXTINF:-1,Globo Nordeste
+http://177.133.15.82:8000/play/GloboNordeste/index.m3u8
+#EXTINF:-1,Globo RJ
+http://177.133.15.82:8000/play/GloboRJ/index.m3u8
+#EXTINF:-1,Globo SP
+http://177.133.15.82:8000/play/GloboSP/index.m3u8
+#EXTINF:-1,GloboNews
+http://177.133.15.82:8000/play/GloboNews/index.m3u8
+#EXTINF:-1,Gloob
+http://177.133.15.82:8000/play/Gloob/index.m3u8
+#EXTINF:-1,HBO
+http://177.133.15.82:8000/play/HBO/index.m3u8
+#EXTINF:-1,HBO Family
+http://177.133.15.82:8000/play/HBOFamily/index.m3u8
+#EXTINF:-1,HBO Plus
+http://177.133.15.82:8000/play/HBOPlus/index.m3u8
+#EXTINF:-1,HBO Signature
+http://177.133.15.82:8000/play/HBOSignature/index.m3u8
+#EXTINF:-1,HBO2
+http://177.133.15.82:8000/play/HBO2/index.m3u8
+#EXTINF:-1,History 2
+http://177.133.15.82:8000/play/History2/index.m3u8
+#EXTINF:-1,I-SAT
+http://177.133.15.82:8000/play/I-SAT/index.m3u8
+#EXTINF:-1,ID - Investigacao Discovery
+http://177.133.15.82:8000/play/ID-InvestigacaoDiscovery/index.m3u8
+#EXTINF:-1,Ideal TV
+http://177.133.15.82:8000/play/IdealTV/index.m3u8
+#EXTINF:-1,Inter TV Cabugi
+http://177.133.15.82:8000/play/InterTVCabugi/index.m3u8
+#EXTINF:-1,InterTV Grande Minas HD
+http://177.133.15.82:8000/play/InterTVGrandeMinasHD/index.m3u8
+#EXTINF:-1,Lifetime
+http://177.133.15.82:8000/play/Lifetime/index.m3u8
+#EXTINF:-1,MAX
+http://177.133.15.82:8000/play/MAX/index.m3u8
+#EXTINF:-1,MAX Prime
+http://177.133.15.82:8000/play/MAXPrime/index.m3u8
+#EXTINF:-1,MAX UP
+http://177.133.15.82:8000/play/MAXUP/index.m3u8
+#EXTINF:-1,MTV
+http://177.133.15.82:8000/play/MTV/index.m3u8
+#EXTINF:-1,Mais Globosat
+http://177.133.15.82:8000/play/MaisGlobosat/index.m3u8
+#EXTINF:-1,MegaPix
+http://177.133.15.82:8000/play/MegaPix/index.m3u8
+#EXTINF:-1,Multishow
+http://177.133.15.82:8000/play/Multishow/index.m3u8
+#EXTINF:-1,Music Box Brazil
+http://177.133.15.82:8000/play/MusicBoxBrazil/index.m3u8
+#EXTINF:-1,NHK
+http://177.133.15.82:8000/play/NHK/index.m3u8
+#EXTINF:-1,NatGeo Kids
+http://177.133.15.82:8000/play/NatGeoKids/index.m3u8
+#EXTINF:-1,NatGeo Wild
+http://177.133.15.82:8000/play/NatGeoWild/index.m3u8
+#EXTINF:-1,National Geographic
+http://177.133.15.82:8000/play/NationalGeographic/index.m3u8
+#EXTINF:-1,Nick Jr
+http://177.133.15.82:8000/play/NickJr/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://177.133.15.82:8000/play/Nickelodeon/index.m3u8
+#EXTINF:-1,OFF
+http://177.133.15.82:8000/play/OFF/index.m3u8
+#EXTINF:-1,Paramount
+http://177.133.15.82:8000/play/Paramount/index.m3u8
+#EXTINF:-1,Play TV
+http://177.133.15.82:8000/play/PlayTV/index.m3u8
+#EXTINF:-1,Playboy TV
+http://177.133.15.82:8000/play/PlayboyTV/index.m3u8
+#EXTINF:-1,Polishop TV
+http://177.133.15.82:8000/play/PolishopTV/index.m3u8
+#EXTINF:-1,Premiere 2
+http://177.133.15.82:8000/play/Premiere2/index.m3u8
+#EXTINF:-1,Premiere 3
+http://177.133.15.82:8000/play/Premiere3/index.m3u8
+#EXTINF:-1,Premiere 4
+http://177.133.15.82:8000/play/Premiere4/index.m3u8
+#EXTINF:-1,Premiere 5
+http://177.133.15.82:8000/play/Premiere5/index.m3u8
+#EXTINF:-1,Premiere 6
+http://177.133.15.82:8000/play/Premiere6/index.m3u8
+#EXTINF:-1,Premiere 7
+http://177.133.15.82:8000/play/Premiere7/index.m3u8
+#EXTINF:-1,Premiere 8
+http://177.133.15.82:8000/play/Premiere8/index.m3u8
+#EXTINF:-1,Premiere Clubes
+http://177.133.15.82:8000/play/PremiereClubes/index.m3u8
+#EXTINF:-1,Prime Box Brazil
+http://177.133.15.82:8000/play/PrimeBoxBrazil/index.m3u8
+#EXTINF:-1,RBS TV Porto Alegre
+http://177.133.15.82:8000/play/RBSTVPortoAlegre/index.m3u8
+#EXTINF:-1,RECORDTV
+http://177.133.15.82:8000/play/RECORDTV/index.m3u8
+#EXTINF:-1,RPC TV Curitiba
+http://177.133.15.82:8000/play/RPCTVCuritiba/index.m3u8
+#EXTINF:-1,Record News
+http://177.133.15.82:8000/play/RecordNews/index.m3u8
+#EXTINF:-1,Record SJRP HD
+http://177.133.15.82:8000/play/RecordSJRPHD/index.m3u8
+#EXTINF:-1,RecordTV Rio
+http://177.133.15.82:8000/play/RecordTVRio/index.m3u8
+#EXTINF:-1,RecordTV Rio HD
+http://177.133.15.82:8000/play/RecordTVRioHD/index.m3u8
+#EXTINF:-1,RecordTVbelem
+http://177.133.15.82:8000/play/RecordTVbelem/index.m3u8
+#EXTINF:-1,RecordTVbelemHD
+http://177.133.15.82:8000/play/RecordTVbelemHD/index.m3u8
+#EXTINF:-1,Rede Amazonica Manaus
+http://177.133.15.82:8000/play/RedeAmazonicaManaus/index.m3u8
+#EXTINF:-1,Rede Brasil
+http://177.133.15.82:8000/play/RedeBrasil/index.m3u8
+#EXTINF:-1,Rede TV
+http://177.133.15.82:8000/play/RedeTV/index.m3u8
+#EXTINF:-1,Rede Vida
+http://177.133.15.82:8000/play/RedeVida/index.m3u8
+#EXTINF:-1,SBT
+http://177.133.15.82:8000/play/SBT/index.m3u8
+#EXTINF:-1,SIC Internacional
+http://177.133.15.82:8000/play/SICInternacional/index.m3u8
+#EXTINF:-1,Sextreme
+http://177.133.15.82:8000/play/Sextreme/index.m3u8
+#EXTINF:-1,Sexy Hot
+http://177.133.15.82:8000/play/SexyHot/index.m3u8
+#EXTINF:-1,Space
+http://177.133.15.82:8000/play/Space/index.m3u8
+#EXTINF:-1,SporTV
+http://177.133.15.82:8000/play/SporTV/index.m3u8
+#EXTINF:-1,SporTV 2
+http://177.133.15.82:8000/play/SporTV2/index.m3u8
+#EXTINF:-1,SporTV 2 Alternativo
+http://177.133.15.82:8000/play/SporTV2Alternativo/index.m3u8
+#EXTINF:-1,SporTV 3
+http://177.133.15.82:8000/play/SporTV3/index.m3u8
+#EXTINF:-1,SporTV Alternativo
+http://177.133.15.82:8000/play/SporTVAlternativo/index.m3u8
+#EXTINF:-1,Studio Universal
+http://177.133.15.82:8000/play/StudioUniversal/index.m3u8
+#EXTINF:-1,Syfy
+http://177.133.15.82:8000/play/Syfy/index.m3u8
+#EXTINF:-1,TBS
+http://177.133.15.82:8000/play/TBS/index.m3u8
+#EXTINF:-1,TCM
+http://177.133.15.82:8000/play/TCM/index.m3u8
+#EXTINF:-1,TLC
+http://177.133.15.82:8000/play/TLC/index.m3u8
+#EXTINF:-1,TNT
+http://177.133.15.82:8000/play/TNT/index.m3u8
+#EXTINF:-1,TNT Series
+http://177.133.15.82:8000/play/TNTSeries/index.m3u8
+#EXTINF:-1,TV Anhanguera Goiania
+http://177.133.15.82:8000/play/TVAnhangueraGoiania/index.m3u8
+#EXTINF:-1,TV Aparecida
+http://177.133.15.82:8000/play/TVAparecida/index.m3u8
+#EXTINF:-1,TV Aratu HD (SBT Bahia)
+http://177.133.15.82:8000/play/TVAratuHD/index.m3u8
+#EXTINF:-1,TV Bahia
+http://177.133.15.82:8000/play/TVBahia/index.m3u8
+#EXTINF:-1,TV Brasil
+http://177.133.15.82:8000/play/TVBrasil/index.m3u8
+#EXTINF:-1,TV Brasil 2
+http://177.133.15.82:8000/play/TVBrasil2/index.m3u8
+#EXTINF:-1,TV Cabralia HD (Record Bahia)
+http://177.133.15.82:8000/play/TVCabraliaHD/index.m3u8
+#EXTINF:-1,TV Camara
+http://177.133.15.82:8000/play/TVCamara/index.m3u8
+#EXTINF:-1,TV Centro America Cuiaba
+http://177.133.15.82:8000/play/TVCentroAmericaCuiaba/index.m3u8
+#EXTINF:-1,TV Cultura
+http://177.133.15.82:8000/play/TVCultura/index.m3u8
+#EXTINF:-1,TV Escola
+http://177.133.15.82:8000/play/TVEscola/index.m3u8
+#EXTINF:-1,TV GAZETA AL
+http://177.133.15.82:8000/play/a07j/index.m3u8
+#EXTINF:-1,TV Justica
+http://177.133.15.82:8000/play/TVJustica/index.m3u8
+#EXTINF:-1,TV Liberal Belem
+http://177.133.15.82:8000/play/TVLiberalBelem/index.m3u8
+#EXTINF:-1,TV Novo Tempo
+http://177.133.15.82:8000/play/TVNovoTempo/index.m3u8
+#EXTINF:-1,TV RA tim bum
+http://177.133.15.82:8000/play/TVRatimbum/index.m3u8
+#EXTINF:-1,TV Santa Cruz
+http://177.133.15.82:8000/play/TVSantaCruz/index.m3u8
+#EXTINF:-1,TV Senado
+http://177.133.15.82:8000/play/TVSenado/index.m3u8
+#EXTINF:-1,TV Subae - FSA
+http://177.133.15.82:8000/play/TVSubae/index.m3u8
+#EXTINF:-1,TV Sudoeste
+http://177.133.15.82:8000/play/a07d/index.m3u8
+#EXTINF:-1,TV Tem Bauru
+http://177.133.15.82:8000/play/TVTemBauru/index.m3u8
+#EXTINF:-1,TV Tem Sao Jose do Rio Preto
+http://177.133.15.82:8000/play/TVTemSaoJosedoRioPreto/index.m3u8
+#EXTINF:-1,TV Tem Sorocaba
+http://177.133.15.82:8000/play/TVTemSorocaba/index.m3u8
+#EXTINF:-1,TV Tribuna Santos
+http://177.133.15.82:8000/play/TVTribunaSantos/index.m3u8
+#EXTINF:-1,TV Vanguarda S. J. dos Campos
+http://177.133.15.82:8000/play/TVVanguardaSJdosCampos/index.m3u8
+#EXTINF:-1,TV Verdes Mares Fortaleza
+http://177.133.15.82:8000/play/TVVerdesMaresFortaleza/index.m3u8
+#EXTINF:-1,Telecine Action
+http://177.133.15.82:8000/play/TelecineAction/index.m3u8
+#EXTINF:-1,Telecine Cult
+http://177.133.15.82:8000/play/TelecineCult/index.m3u8
+#EXTINF:-1,Telecine Fun
+http://177.133.15.82:8000/play/TelecineFun/index.m3u8
+#EXTINF:-1,Telecine Pipoca
+http://177.133.15.82:8000/play/TelecinePipoca/index.m3u8
+#EXTINF:-1,Telecine Premium
+http://177.133.15.82:8000/play/TelecinePremium/index.m3u8
+#EXTINF:-1,Telecine Touch
+http://177.133.15.82:8000/play/TelecineTouch/index.m3u8
+#EXTINF:-1,Terra Viva
+http://177.133.15.82:8000/play/TerraViva/index.m3u8
+#EXTINF:-1,The History Channel
+http://177.133.15.82:8000/play/TheHistoryChannel/index.m3u8
+#EXTINF:-1,Tooncast
+http://177.133.15.82:8000/play/Tooncast/index.m3u8
+#EXTINF:-1,TruTV
+http://177.133.15.82:8000/play/TruTV/index.m3u8
+#EXTINF:-1,Universal TV
+http://177.133.15.82:8000/play/UniversalTV/index.m3u8
+#EXTINF:-1,VH1 Megahits
+http://177.133.15.82:8000/play/VH1Megahits/index.m3u8
+#EXTINF:-1,Viva
+http://177.133.15.82:8000/play/Viva/index.m3u8
+#EXTINF:-1,Warner Channel
+http://177.133.15.82:8000/play/WarnerChannel/index.m3u8
 #EXTINF:-1,Woohoo
-http://lb.kstream.org/aovivo/SD_WOOHOO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Woohoo HD
-http://lb.kstream.org/aovivo/HD_WOOHOO/video.m3u8?token=a2aef68e27449b40af44688eb34638be
-#EXTINF:-1,Globo RJ DIGITAL
-http://srvcliente.me:80/eder123/eder123/7
-#EXTINF:-1,Globo RJ DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2958
-#EXTINF:-1,Globo RJ HD
-http://srvcliente.me:80/eder123/eder123/28
-#EXTINF:-1,Globo RJ HD*
-http://srvcliente.me:80/eder123/eder123/2959
-#EXTINF:-1,Globo RJ HD+
-http://srvcliente.me:80/eder123/eder123/44
-#EXTINF:-1,Globo RJ HD+
-http://srvcliente.me:80/eder123/eder123/777
-#EXTINF:-1,Globo SP DIGITAL
-http://srvcliente.me:80/eder123/eder123/8
-#EXTINF:-1,Globo SP DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2954
-#EXTINF:-1,Globo SP HD
-http://srvcliente.me:80/eder123/eder123/47
-#EXTINF:-1,Globo SP HD*
-http://srvcliente.me:80/eder123/eder123/2955
-#EXTINF:-1,Globo SP HD+
-http://srvcliente.me:80/eder123/eder123/48
-#EXTINF:-1,Globo SP HD+
-http://srvcliente.me:80/eder123/eder123/778
-#EXTINF:-1,Premiere 1 Clubes DIGITAL
-http://srvcliente.me:80/eder123/eder123/124
-#EXTINF:-1,3 Palavrinhas
-http://srvcliente.me:80/eder123/eder123/4163
-#EXTINF:-1,3 Palavrinhas 24HRS!
-http://srvcliente.me:80/eder123/eder123/23614
-#EXTINF:-1,A Feiticeira 24HRS! https://iptv.live
-http://srvcliente.me:80/eder123/eder123/23620
-#EXTINF:-1,A Grande Familia 24HRS!
-http://srvcliente.me:80/eder123/eder123/23615
-#EXTINF:-1,A&E DIGITAL
-http://srvcliente.me:80/eder123/eder123/257
-#EXTINF:-1,A&E DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3114
-#EXTINF:-1,A&E HD
-http://srvcliente.me:80/eder123/eder123/279
-#EXTINF:-1,A&E HD*
-http://srvcliente.me:80/eder123/eder123/3115
-#EXTINF:-1,A&E HD+
-http://srvcliente.me:80/eder123/eder123/302
-#EXTINF:-1,Aladdin 24HRS!
-http://srvcliente.me:80/eder123/eder123/23537
-#EXTINF:-1,AMC DIGITAL
-http://srvcliente.me:80/eder123/eder123/258
-#EXTINF:-1,AMC DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3116
-#EXTINF:-1,AMC HD
-http://srvcliente.me:80/eder123/eder123/280
-#EXTINF:-1,AMC HD*
-http://srvcliente.me:80/eder123/eder123/3117
-#EXTINF:-1,AMC HD+
-http://srvcliente.me:80/eder123/eder123/303
-#EXTINF:-1,Animal Planet DIGITAL
-http://srvcliente.me:80/eder123/eder123/334
-#EXTINF:-1,Animal Planet DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3174
-#EXTINF:-1,Animal Planet HD
-http://srvcliente.me:80/eder123/eder123/340
-#EXTINF:-1,Animal Planet HD*
-http://srvcliente.me:80/eder123/eder123/3177
-#EXTINF:-1,Animal Planet HD+
-http://srvcliente.me:80/eder123/eder123/3178
-#EXTINF:-1,Animal Planet HD+
-http://srvcliente.me:80/eder123/eder123/346
-#EXTINF:-1,Arte DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3175
-#EXTINF:-1,Arte HD*
-http://srvcliente.me:80/eder123/eder123/3176
-#EXTINF:-1,As Meninas Superpoderosas 24HRS!
-http://srvcliente.me:80/eder123/eder123/23538
-#EXTINF:-1,AXN DIGITAL
-http://srvcliente.me:80/eder123/eder123/259
-#EXTINF:-1,AXN DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3118
-#EXTINF:-1,AXN HD
-http://srvcliente.me:80/eder123/eder123/281
-#EXTINF:-1,AXN HD*
-http://srvcliente.me:80/eder123/eder123/3119
-#EXTINF:-1,AXN HD+
-http://srvcliente.me:80/eder123/eder123/304
-#EXTINF:-1,AXN HD+*
-http://srvcliente.me:80/eder123/eder123/3120
-#EXTINF:-1,Baby TV DIGITAL
-http://srvcliente.me:80/eder123/eder123/228
-#EXTINF:-1,Baby TV DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3055
-#EXTINF:-1,Baby TV HD*
-http://srvcliente.me:80/eder123/eder123/3056
-#EXTINF:-1,Band Bahia DIGITAL
-http://srvcliente.me:80/eder123/eder123/56
-#EXTINF:-1,Band BSB HD
-http://srvcliente.me:80/eder123/eder123/61
-#EXTINF:-1,Band Campeinas DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2985
-#EXTINF:-1,Band Campinas HD
-http://srvcliente.me:80/eder123/eder123/62
-#EXTINF:-1,Band Campinas HD+
-http://srvcliente.me:80/eder123/eder123/72
-#EXTINF:-1,Band DIGITAL https://iptv.live
-http://srvcliente.me:80/eder123/eder123/57
-#EXTINF:-1,Band Goiania HD
-http://srvcliente.me:80/eder123/eder123/68
-#EXTINF:-1,Band News DIGITAL
-http://srvcliente.me:80/eder123/eder123/351
-#EXTINF:-1,Band News DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2986
-#EXTINF:-1,Band News HD*
-http://srvcliente.me:80/eder123/eder123/2987
-#EXTINF:-1,Band Nordeste DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2984
-#EXTINF:-1,Band Parana Taroba HD
-http://srvcliente.me:80/eder123/eder123/67
-#EXTINF:-1,Band RJ DIGITAL*
-http://srvcliente.me:80/eder123/eder123/23142
-#EXTINF:-1,Band RJ HD
-http://srvcliente.me:80/eder123/eder123/63
-#EXTINF:-1,Band RJ HD*
-http://srvcliente.me:80/eder123/eder123/23141
-#EXTINF:-1,Band RJ HD+
-http://srvcliente.me:80/eder123/eder123/70
-#EXTINF:-1,Band RS HD
-http://srvcliente.me:80/eder123/eder123/64
-#EXTINF:-1,Band RS HD+
-http://srvcliente.me:80/eder123/eder123/71
-#EXTINF:-1,Band Sergipe HD
-http://srvcliente.me:80/eder123/eder123/65
-#EXTINF:-1,Band SP Digital
-http://srvcliente.me:80/eder123/eder123/121
-#EXTINF:-1,Band SP DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2981
-#EXTINF:-1,Band SP HD
-http://srvcliente.me:80/eder123/eder123/66
-#EXTINF:-1,Band SP HD*
-http://srvcliente.me:80/eder123/eder123/2982
-#EXTINF:-1,Band SP HD+
-http://srvcliente.me:80/eder123/eder123/69
-#EXTINF:-1,Band SP HD+*
-http://srvcliente.me:80/eder123/eder123/2983
-#EXTINF:-1,Band Sports DIGITAL
-http://srvcliente.me:80/eder123/eder123/147
-#EXTINF:-1,Band Sports DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3028
-#EXTINF:-1,Band Sports HD
-http://srvcliente.me:80/eder123/eder123/163
-#EXTINF:-1,Band Sports HD*
-http://srvcliente.me:80/eder123/eder123/3029
-#EXTINF:-1,Barbie 01
-http://srvcliente.me:80/eder123/eder123/4253
-#EXTINF:-1,Barbie 02
-http://srvcliente.me:80/eder123/eder123/4254
-#EXTINF:-1,Barbie 03
-http://srvcliente.me:80/eder123/eder123/4255
-#EXTINF:-1,Barbie 04
-http://srvcliente.me:80/eder123/eder123/4256
-#EXTINF:-1,Barbie 05
-http://srvcliente.me:80/eder123/eder123/4257
-#EXTINF:-1,Batman & Robin: 1 Temporada
-http://srvcliente.me:80/eder123/eder123/4193
-#EXTINF:-1,Batman & Robin: 2 Temporada
-http://srvcliente.me:80/eder123/eder123/4194
-#EXTINF:-1,Batman & Robin: 3 Temporada
-http://srvcliente.me:80/eder123/eder123/4195
-#EXTINF:-1,Ben 10 24HRS!
-http://srvcliente.me:80/eder123/eder123/23539
-#EXTINF:-1,BIS DIGITAL
-http://srvcliente.me:80/eder123/eder123/365
-#EXTINF:-1,BIS DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3193
-#EXTINF:-1,BIS HD
-http://srvcliente.me:80/eder123/eder123/383
-#EXTINF:-1,BIS HD*
-http://srvcliente.me:80/eder123/eder123/3194
-#EXTINF:-1,Bita e os Animais 24HRS!
-http://srvcliente.me:80/eder123/eder123/23616
-#EXTINF:-1,Bob Esponja 24HRS!
-http://srvcliente.me:80/eder123/eder123/23540
-#EXTINF:-1,Bob Zoom
-http://srvcliente.me:80/eder123/eder123/27148
-#EXTINF:-1,Boomerang DIGITAL
-http://srvcliente.me:80/eder123/eder123/229
-#EXTINF:-1,Boomerang DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3057
-#EXTINF:-1,Boomerang HD*
-http://srvcliente.me:80/eder123/eder123/3058
-#EXTINF:-1,Breaking Bad 24HRS!
-http://srvcliente.me:80/eder123/eder123/23541
-#EXTINF:-1,Satellite TV
-http://srvcliente.me:80/eder123/eder123/113
-#EXTINF:-1,Satellite TV
-http://srvcliente.me:80/eder123/eder123/3001
-#EXTINF:-1,Satellite TV
-http://srvcliente.me:80/eder123/eder123/114
-#EXTINF:-1,Satellite TV
-http://srvcliente.me:80/eder123/eder123/260
-#EXTINF:-1,Satellite TV
-http://srvcliente.me:80/eder123/eder123/3121
-#EXTINF:-1,Satellite TV
-http://srvcliente.me:80/eder123/eder123/282
-#EXTINF:-1,Satellite TV
-http://srvcliente.me:80/eder123/eder123/3122
-#EXTINF:-1,Satellite TV
-http://srvcliente.me:80/eder123/eder123/305
-#EXTINF:-1,Cancao Nova DIGITAL
-http://srvcliente.me:80/eder123/eder123/362
-#EXTINF:-1,Cao Coragem 24HRS!
-http://srvcliente.me:80/eder123/eder123/23542
-#EXTINF:-1,Cartoon Network DIGITAL
-http://srvcliente.me:80/eder123/eder123/230
-#EXTINF:-1,Cartoon Network DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3059
-#EXTINF:-1,Cartoon Network HD
-http://srvcliente.me:80/eder123/eder123/243
-#EXTINF:-1,Cartoon Network HD*
-http://srvcliente.me:80/eder123/eder123/3060
-#EXTINF:-1,Cartoon Network HD+
-http://srvcliente.me:80/eder123/eder123/252
-#EXTINF:-1,Cartoon Network HD+*
-http://srvcliente.me:80/eder123/eder123/23174
-#EXTINF:-1,Caverna do Dragao 24HRS!
-http://srvcliente.me:80/eder123/eder123/23543
-#EXTINF:-1,Caverna do Dragão
-http://srvcliente.me:80/eder123/eder123/4109
-#EXTINF:-1,Chapolin 01 Temporada
-http://srvcliente.me:80/eder123/eder123/24192
-#EXTINF:-1,Chapolin 02 Temporada
-http://srvcliente.me:80/eder123/eder123/24193
-#EXTINF:-1,Chapolin 03 Temporada
-http://srvcliente.me:80/eder123/eder123/24194
-#EXTINF:-1,Chapolin 04 Temporada
-http://srvcliente.me:80/eder123/eder123/24195
-#EXTINF:-1,Chapolin 05 Temporada
-http://srvcliente.me:80/eder123/eder123/24196
-#EXTINF:-1,Chapolin 06 Temporada
-http://srvcliente.me:80/eder123/eder123/24197
-#EXTINF:-1,Chapolin 07 Temporada
-http://srvcliente.me:80/eder123/eder123/24198
-#EXTINF:-1,Chapolin Colorado 24HRS!
-http://srvcliente.me:80/eder123/eder123/23544
-#EXTINF:-1,Chaves 00
-http://srvcliente.me:80/eder123/eder123/4110
-#EXTINF:-1,Chaves 01
-http://srvcliente.me:80/eder123/eder123/23919
-#EXTINF:-1,Chaves 02
-http://srvcliente.me:80/eder123/eder123/23920
-#EXTINF:-1,Chaves 03
-http://srvcliente.me:80/eder123/eder123/23921
-#EXTINF:-1,Chaves 04
-http://srvcliente.me:80/eder123/eder123/23922
-#EXTINF:-1,Chaves 05
-http://srvcliente.me:80/eder123/eder123/23923
-#EXTINF:-1,Chaves 06
-http://srvcliente.me:80/eder123/eder123/23924
-#EXTINF:-1,Chaves 07
-http://srvcliente.me:80/eder123/eder123/23925
-#EXTINF:-1,Chaves 08 - ESPECIAL
-http://srvcliente.me:80/eder123/eder123/23926
-#EXTINF:-1,Chaves 24HRS!
-http://srvcliente.me:80/eder123/eder123/23545
-#EXTINF:-1,Chaves Desenho 24HRS!
-http://srvcliente.me:80/eder123/eder123/23546
-#EXTINF:-1,Cine Comedia 01
-http://srvcliente.me:80/eder123/eder123/26927
-#EXTINF:-1,Cine Comedia 02
-http://srvcliente.me:80/eder123/eder123/26928
-#EXTINF:-1,Cine Comedia 03
-http://srvcliente.me:80/eder123/eder123/26929
-#EXTINF:-1,Cine Comedia 04
-http://srvcliente.me:80/eder123/eder123/26930
-#EXTINF:-1,Cine Comedia 05
-http://srvcliente.me:80/eder123/eder123/26931
-#EXTINF:-1,Cine Comedia 06
-http://srvcliente.me:80/eder123/eder123/26932
-#EXTINF:-1,Cine Comedia 07
-http://srvcliente.me:80/eder123/eder123/26933
-#EXTINF:-1,Cine Comedia 08: Nacional 1
-http://srvcliente.me:80/eder123/eder123/26934
-#EXTINF:-1,Cine Comedia 09: Nacional 2
-http://srvcliente.me:80/eder123/eder123/26935
-#EXTINF:-1,Cine Comedia 10
-http://srvcliente.me:80/eder123/eder123/26936
-#EXTINF:-1,Cine Comedia 11
-http://srvcliente.me:80/eder123/eder123/26937
-#EXTINF:-1,Cine Comedia 12
-http://srvcliente.me:80/eder123/eder123/26938
-#EXTINF:-1,Cine Comedia 13: Se Beber Nao Case
-http://srvcliente.me:80/eder123/eder123/26939
-#EXTINF:-1,Cine Terror 01
-http://srvcliente.me:80/eder123/eder123/4168
-#EXTINF:-1,Cine Terror 02: Universo Invocao do Mal
-http://srvcliente.me:80/eder123/eder123/4169
-#EXTINF:-1,Cine Terror 03
-http://srvcliente.me:80/eder123/eder123/4170
-#EXTINF:-1,Cine Terror 04: Zumbis
-http://srvcliente.me:80/eder123/eder123/4171
-#EXTINF:-1,Cine Terror 05: Vampiros 1
-http://srvcliente.me:80/eder123/eder123/4172
-#EXTINF:-1,Cine Terror 06: Vampiros 2
-http://srvcliente.me:80/eder123/eder123/4173
-#EXTINF:-1,Cine Terror 07
-http://srvcliente.me:80/eder123/eder123/4174
-#EXTINF:-1,Cine Terror 08: Exorcismo
-http://srvcliente.me:80/eder123/eder123/4175
-#EXTINF:-1,Cine Terror 09: Universo Sobrenatural
-http://srvcliente.me:80/eder123/eder123/4176
-#EXTINF:-1,Cine Terror 10
-http://srvcliente.me:80/eder123/eder123/4177
-#EXTINF:-1,Cine Terror 11: Retro
-http://srvcliente.me:80/eder123/eder123/4178
-#EXTINF:-1,Cinemax DIGITAL
-http://srvcliente.me:80/eder123/eder123/261
-#EXTINF:-1,Cinemax DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3123
-#EXTINF:-1,Cinemax HD
-http://srvcliente.me:80/eder123/eder123/283
-#EXTINF:-1,Cinemax HD*
-http://srvcliente.me:80/eder123/eder123/3124
-#EXTINF:-1,Cinemax HD+
-http://srvcliente.me:80/eder123/eder123/306
-#EXTINF:-1,Cinemax HD+*
-http://srvcliente.me:80/eder123/eder123/23175
-#EXTINF:-1,CNN Brasil Digital
-http://srvcliente.me:80/eder123/eder123/2426
-#EXTINF:-1,CNN Brasil DIGITAL*
-http://srvcliente.me:80/eder123/eder123/23531
-#EXTINF:-1,CNN Brasil HD
-http://srvcliente.me:80/eder123/eder123/2427
-#EXTINF:-1,CNN Brasil HD*
-http://srvcliente.me:80/eder123/eder123/23532
-#EXTINF:-1,CNN Brasil HD+*
-http://srvcliente.me:80/eder123/eder123/23536
-#EXTINF:-1,Combate DIGITAL
-http://srvcliente.me:80/eder123/eder123/148
-#EXTINF:-1,Combate DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3030
-#EXTINF:-1,Combate HD
-http://srvcliente.me:80/eder123/eder123/164
-#EXTINF:-1,Combate HD*
-http://srvcliente.me:80/eder123/eder123/3031
-#EXTINF:-1,Combate HD+
-http://srvcliente.me:80/eder123/eder123/180
-#EXTINF:-1,Combate HD+*
-http://srvcliente.me:80/eder123/eder123/23176
-#EXTINF:-1,Comedy Central DIGITAL
-http://srvcliente.me:80/eder123/eder123/262
-#EXTINF:-1,Comedy Central DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3125
-#EXTINF:-1,Comedy Central HD
-http://srvcliente.me:80/eder123/eder123/284
-#EXTINF:-1,Comedy Central HD*
-http://srvcliente.me:80/eder123/eder123/3126
-#EXTINF:-1,Comedy Central HD+
-http://srvcliente.me:80/eder123/eder123/307
-#EXTINF:-1,Corrida Maluca 24HRS!
-http://srvcliente.me:80/eder123/eder123/23621
-#EXTINF:-1,Cultura HD*
-http://srvcliente.me:80/eder123/eder123/3009
-#EXTINF:-1,Cultura HD+*
-http://srvcliente.me:80/eder123/eder123/23147
-#EXTINF:-1,Curta DIGITAL
-http://srvcliente.me:80/eder123/eder123/366
-#EXTINF:-1,CURTA HD*
-http://srvcliente.me:80/eder123/eder123/3196
-#EXTINF:-1,CURTA! DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3195
-#EXTINF:-1,Denis o Pimentinha 24HRS!
-http://srvcliente.me:80/eder123/eder123/23547
-#EXTINF:-1,Desenhos Biblicos 24HRS!
-http://srvcliente.me:80/eder123/eder123/23548
-#EXTINF:-1,Desenhos Disney 24HRS!
-http://srvcliente.me:80/eder123/eder123/23549
-#EXTINF:-1,Digimon 24HRS!
-http://srvcliente.me:80/eder123/eder123/23550
-#EXTINF:-1,Discovery Channel DIGITAL
-http://srvcliente.me:80/eder123/eder123/316
-#EXTINF:-1,Discovery Channel DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3165
-#EXTINF:-1,Discovery Channel HD
-http://srvcliente.me:80/eder123/eder123/320
-#EXTINF:-1,Discovery Channel HD*
-http://srvcliente.me:80/eder123/eder123/3166
-#EXTINF:-1,Discovery Channel HD+
-http://srvcliente.me:80/eder123/eder123/327
-#EXTINF:-1,Discovery Channel HD+*
-http://srvcliente.me:80/eder123/eder123/23149
-#EXTINF:-1,Discovery Channel HD+*
-http://srvcliente.me:80/eder123/eder123/23152
-#EXTINF:-1,Discovery Civilization HD*
-http://srvcliente.me:80/eder123/eder123/3169
-#EXTINF:-1,Discovery Civilization HD+*
-http://srvcliente.me:80/eder123/eder123/23150
-#EXTINF:-1,Discovery HeH DIGITAL
-http://srvcliente.me:80/eder123/eder123/317
-#EXTINF:-1,Discovery HeH DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3163
-#EXTINF:-1,Discovery HeH HD
-http://srvcliente.me:80/eder123/eder123/321
-#EXTINF:-1,Discovery HeH HD*
-http://srvcliente.me:80/eder123/eder123/3164
-#EXTINF:-1,Discovery HeH HD+
-http://srvcliente.me:80/eder123/eder123/328
-#EXTINF:-1,Discovery HeH HD+*
-http://srvcliente.me:80/eder123/eder123/23153
-#EXTINF:-1,Discovery Investigation DIGITAL
-http://srvcliente.me:80/eder123/eder123/319
-#EXTINF:-1,Discovery Investigation DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3167
-#EXTINF:-1,Discovery Investigation HD
-http://srvcliente.me:80/eder123/eder123/326
-#EXTINF:-1,Discovery Investigation HD*
-http://srvcliente.me:80/eder123/eder123/3168
-#EXTINF:-1,Discovery Investigation HD+
-http://srvcliente.me:80/eder123/eder123/333
-#EXTINF:-1,Discovery Kids DIGITAL
-http://srvcliente.me:80/eder123/eder123/231
-#EXTINF:-1,Discovery Kids DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3063
-#EXTINF:-1,Discovery Kids HD
-http://srvcliente.me:80/eder123/eder123/244
-#EXTINF:-1,Discovery Kids HD*
-http://srvcliente.me:80/eder123/eder123/3064
-#EXTINF:-1,Discovery Kids HD+*
-http://srvcliente.me:80/eder123/eder123/3065
-#EXTINF:-1,Discovery Science DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3161
-#EXTINF:-1,Discovery Science HD
-http://srvcliente.me:80/eder123/eder123/322
-#EXTINF:-1,Discovery Science HD*
-http://srvcliente.me:80/eder123/eder123/3162
-#EXTINF:-1,Discovery Science HD+
-http://srvcliente.me:80/eder123/eder123/329
-#EXTINF:-1,Discovery Theater HD
-http://srvcliente.me:80/eder123/eder123/323
-#EXTINF:-1,Discovery Theater HD*
-http://srvcliente.me:80/eder123/eder123/3160
-#EXTINF:-1,Discovery Theater HD+
-http://srvcliente.me:80/eder123/eder123/330
-#EXTINF:-1,Discovery Theater HD+*
-http://srvcliente.me:80/eder123/eder123/23151
-#EXTINF:-1,Discovery Turbo DIGITAL
-http://srvcliente.me:80/eder123/eder123/318
-#EXTINF:-1,Discovery Turbo HD
-http://srvcliente.me:80/eder123/eder123/324
-#EXTINF:-1,Discovery Turbo HD*
-http://srvcliente.me:80/eder123/eder123/3159
-#EXTINF:-1,Discovery Turbo HD+
-http://srvcliente.me:80/eder123/eder123/331
-#EXTINF:-1,Discovery Turbo HD+*
-http://srvcliente.me:80/eder123/eder123/23148
-#EXTINF:-1,Discovery World DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3157
-#EXTINF:-1,Discovery World HD
-http://srvcliente.me:80/eder123/eder123/325
-#EXTINF:-1,Discovery World HD*
-http://srvcliente.me:80/eder123/eder123/3158
-#EXTINF:-1,Discovery World HD+
-http://srvcliente.me:80/eder123/eder123/332
-#EXTINF:-1,Disney Channel DIGITAL
-http://srvcliente.me:80/eder123/eder123/234
-#EXTINF:-1,Disney Channel DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3070
-#EXTINF:-1,Disney channel HD
-http://srvcliente.me:80/eder123/eder123/246
-#EXTINF:-1,Disney Channel HD*
-http://srvcliente.me:80/eder123/eder123/3071
-#EXTINF:-1,Disney Channel HD+
-http://srvcliente.me:80/eder123/eder123/253
-#EXTINF:-1,Disney Channel HD+*
-http://srvcliente.me:80/eder123/eder123/23154
-#EXTINF:-1,Disney JR DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3068
-#EXTINF:-1,Disney JR HD*
-http://srvcliente.me:80/eder123/eder123/3069
-#EXTINF:-1,Disney Junior DIGITAL
-http://srvcliente.me:80/eder123/eder123/235
-#EXTINF:-1,Disney Junior HD
-http://srvcliente.me:80/eder123/eder123/247
-#EXTINF:-1,Disney Junior HD+
-http://srvcliente.me:80/eder123/eder123/254
-#EXTINF:-1,Disney Junior HD+*
-http://srvcliente.me:80/eder123/eder123/23155
-#EXTINF:-1,Disney XD DIGITAL
-http://srvcliente.me:80/eder123/eder123/236
-#EXTINF:-1,Disney XD DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3066
-#EXTINF:-1,Disney XD HD*
-http://srvcliente.me:80/eder123/eder123/3067
-#EXTINF:-1,Dois Homens e Meio 24HRS!
-http://srvcliente.me:80/eder123/eder123/23551
-#EXTINF:-1,Dois Homens e Meio: 1 Temporada
-http://srvcliente.me:80/eder123/eder123/4111
-#EXTINF:-1,Dois Homens e Meio: 2 Temporada
-http://srvcliente.me:80/eder123/eder123/4112
-#EXTINF:-1,Dois Homens e Meio: 3 Temporada
-http://srvcliente.me:80/eder123/eder123/4113
-#EXTINF:-1,Dois Homens e Meio: 4 Temporada
-http://srvcliente.me:80/eder123/eder123/4114
-#EXTINF:-1,Dois Homens e Meio: 5 Temporada
-http://srvcliente.me:80/eder123/eder123/4115
-#EXTINF:-1,Dois Homens e Meio: 6 Temporada
-http://srvcliente.me:80/eder123/eder123/4116
-#EXTINF:-1,Dois Homens e Meio: 7 Temporada
-http://srvcliente.me:80/eder123/eder123/4117
-#EXTINF:-1,Dois Homens e Meio: 8 Temporada
-http://srvcliente.me:80/eder123/eder123/4118
-#EXTINF:-1,Dona Aranha
-http://srvcliente.me:80/eder123/eder123/4229
-#EXTINF:-1,Doug 24HRS!
-http://srvcliente.me:80/eder123/eder123/23552
-#EXTINF:-1,Dragon Ball 24HRS!
-http://srvcliente.me:80/eder123/eder123/23553
-#EXTINF:-1,Dragon Ball Super 24HRS!
-http://srvcliente.me:80/eder123/eder123/23554
-#EXTINF:-1,Dragon Ball Z 24HRS!
-http://srvcliente.me:80/eder123/eder123/23555
-#EXTINF:-1,E DIGITAL
-http://srvcliente.me:80/eder123/eder123/335
-#EXTINF:-1,E DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3197
-#EXTINF:-1,E HD
-http://srvcliente.me:80/eder123/eder123/341
-#EXTINF:-1,E HD*
-http://srvcliente.me:80/eder123/eder123/3198
-#EXTINF:-1,ESPN 1 DIGITAL
-http://srvcliente.me:80/eder123/eder123/149
-#EXTINF:-1,ESPN 1 HD
-http://srvcliente.me:80/eder123/eder123/172
-#EXTINF:-1,ESPN 2 DIGITAL
-http://srvcliente.me:80/eder123/eder123/150
-#EXTINF:-1,ESPN 2 HD
-http://srvcliente.me:80/eder123/eder123/170
-#EXTINF:-1,ESPN Brasil DIGITAL
-http://srvcliente.me:80/eder123/eder123/151
-#EXTINF:-1,ESPN Brasil HD
-http://srvcliente.me:80/eder123/eder123/171
-#EXTINF:-1,ESPN Extra HD
-http://srvcliente.me:80/eder123/eder123/173
-#EXTINF:-1,Eu a Patroa e as Criancas 24HRS!
-http://srvcliente.me:80/eder123/eder123/23556
-#EXTINF:-1,Eu a Patroa e as Crianças: 1 Temporada
-http://srvcliente.me:80/eder123/eder123/4135
-#EXTINF:-1,Eu a Patroa e as Crianças: 2 Temporada
-http://srvcliente.me:80/eder123/eder123/4136
-#EXTINF:-1,Eu a Patroa e as Crianças: 3 Temporada
-http://srvcliente.me:80/eder123/eder123/4137
-#EXTINF:-1,Eu a Patroa e as Crianças: 4 Temporada
-http://srvcliente.me:80/eder123/eder123/4138
-#EXTINF:-1,Eu a Patroa e as Crianças: 5 Temporada
-http://srvcliente.me:80/eder123/eder123/4139
-#EXTINF:-1,Familia Dinossauros: 1 Temporada
-http://srvcliente.me:80/eder123/eder123/4249
-#EXTINF:-1,Familia Dinossauros: 4 Temporada
-http://srvcliente.me:80/eder123/eder123/4252
-#EXTINF:-1,Família Dinossauros: 2 Temporada
-http://srvcliente.me:80/eder123/eder123/4250
-#EXTINF:-1,Família Dinossauros: 3 Temporada
-http://srvcliente.me:80/eder123/eder123/4251
-#EXTINF:-1,Film e Arts DIGITAL
-http://srvcliente.me:80/eder123/eder123/367
-#EXTINF:-1,Fish TV DIGITAL
-http://srvcliente.me:80/eder123/eder123/152
-#EXTINF:-1,Fish TV DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3041
-#EXTINF:-1,Food Network DIGITAL
-http://srvcliente.me:80/eder123/eder123/368
-#EXTINF:-1,Food Network DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3199
-#EXTINF:-1,Food Network HD
-http://srvcliente.me:80/eder123/eder123/384
-#EXTINF:-1,Food Network HD*
-http://srvcliente.me:80/eder123/eder123/3200
-#EXTINF:-1,Food Network HD+
-http://srvcliente.me:80/eder123/eder123/394
-#EXTINF:-1,Formiga Atomica 24HRS!
-http://srvcliente.me:80/eder123/eder123/23557
-#EXTINF:-1,Fox DIGITAL
-http://srvcliente.me:80/eder123/eder123/263
-#EXTINF:-1,Fox DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3127
-#EXTINF:-1,Fox HD
-http://srvcliente.me:80/eder123/eder123/285
-#EXTINF:-1,Fox HD*
-http://srvcliente.me:80/eder123/eder123/3128
-#EXTINF:-1,Fox HD+
-http://srvcliente.me:80/eder123/eder123/308
-#EXTINF:-1,Fox Life DIGITAL
-http://srvcliente.me:80/eder123/eder123/264
-#EXTINF:-1,Fox Life HD
-http://srvcliente.me:80/eder123/eder123/286
-#EXTINF:-1,Fox Life HD*
-http://srvcliente.me:80/eder123/eder123/3129
-#EXTINF:-1,Fox Premium 1 DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3130
-#EXTINF:-1,Fox Premium 1 HD
-http://srvcliente.me:80/eder123/eder123/287
-#EXTINF:-1,Fox Premium 1 HD*
-http://srvcliente.me:80/eder123/eder123/3131
-#EXTINF:-1,Fox Premium 2 DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3132
-#EXTINF:-1,Fox Premium 2 HD
-http://srvcliente.me:80/eder123/eder123/288
-#EXTINF:-1,Fox Premium 2 HD*
-http://srvcliente.me:80/eder123/eder123/3133
-#EXTINF:-1,Fox Sports 1 DIGITAL
-http://srvcliente.me:80/eder123/eder123/153
-#EXTINF:-1,Fox Sports 1 DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3042
-#EXTINF:-1,Fox Sports 1 HD
-http://srvcliente.me:80/eder123/eder123/175
-#EXTINF:-1,Fox Sports 1 HD*
-http://srvcliente.me:80/eder123/eder123/3043
-#EXTINF:-1,Fox Sports 1 HD+
-http://srvcliente.me:80/eder123/eder123/185
-#EXTINF:-1,Fox Sports 1 HD+*
-http://srvcliente.me:80/eder123/eder123/23157
-#EXTINF:-1,Fox Sports 2 DIGITAL
-http://srvcliente.me:80/eder123/eder123/154
-#EXTINF:-1,Fox Sports 2 DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3044
-#EXTINF:-1,Fox Sports 2 HD
-http://srvcliente.me:80/eder123/eder123/174
-#EXTINF:-1,Fox Sports 2 HD*
-http://srvcliente.me:80/eder123/eder123/3045
-#EXTINF:-1,Fox Sports 2 HD+
-http://srvcliente.me:80/eder123/eder123/184
-#EXTINF:-1,Fox Sports 2 HD+*
-http://srvcliente.me:80/eder123/eder123/23156
-#EXTINF:-1,Futura DIGITAL
-http://srvcliente.me:80/eder123/eder123/116
-#EXTINF:-1,Futura HD*
-http://srvcliente.me:80/eder123/eder123/3000
-#EXTINF:-1,FX DIGITAL
-http://srvcliente.me:80/eder123/eder123/265
-#EXTINF:-1,FX DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3134
-#EXTINF:-1,FX HD
-http://srvcliente.me:80/eder123/eder123/289
-#EXTINF:-1,FX HD*
-http://srvcliente.me:80/eder123/eder123/3135
-#EXTINF:-1,Galinha Pintadinha
-http://srvcliente.me:80/eder123/eder123/4140
-#EXTINF:-1,Galinha Pintadinha 24HRS!
-http://srvcliente.me:80/eder123/eder123/23558
-#EXTINF:-1,Gato de Botas: 1 Temporada
-http://srvcliente.me:80/eder123/eder123/4238
-#EXTINF:-1,Gato de Botas: 2 Temporada
-http://srvcliente.me:80/eder123/eder123/4239
-#EXTINF:-1,Gato de Botas: 3 Temporada
-http://srvcliente.me:80/eder123/eder123/4240
-#EXTINF:-1,Gato de Botas: 4 Temporada
-http://srvcliente.me:80/eder123/eder123/4241
-#EXTINF:-1,Gato de Botas: 5 Temporada
-http://srvcliente.me:80/eder123/eder123/4242
-#EXTINF:-1,Gato de Botas: 6 Temporada
-http://srvcliente.me:80/eder123/eder123/4243
-#EXTINF:-1,Gazeta SP HD
-http://srvcliente.me:80/eder123/eder123/73
-#EXTINF:-1,Globo Alagoas HD*
-http://srvcliente.me:80/eder123/eder123/23534
-#EXTINF:-1,Globo Amazonas DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2979
-#EXTINF:-1,Globo Anhanguera Goiana DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2978
-#EXTINF:-1,Globo Brasilia DIGITAL
-http://srvcliente.me:80/eder123/eder123/1
-#EXTINF:-1,Globo Brasilia DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2977
-#EXTINF:-1,Globo Brasilia HD
-http://srvcliente.me:80/eder123/eder123/34
-#EXTINF:-1,Globo Brasilia HD+
-http://srvcliente.me:80/eder123/eder123/775
-#EXTINF:-1,Globo BSB HD
-http://srvcliente.me:80/eder123/eder123/21
-#EXTINF:-1,Globo Cuiaba DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2976
-#EXTINF:-1,Globo EPTV Campinas Digital
-http://srvcliente.me:80/eder123/eder123/32
-#EXTINF:-1,Globo EPTV Campinas DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2973
-#EXTINF:-1,Globo EPTV Campinas HD
-http://srvcliente.me:80/eder123/eder123/22
-#EXTINF:-1,Globo EPTV Campinas HD*
-http://srvcliente.me:80/eder123/eder123/2974
-#EXTINF:-1,Globo EPTV Campinas HD+
-http://srvcliente.me:80/eder123/eder123/776
-#EXTINF:-1,Globo EPTV Ribeirao HD+*
-http://srvcliente.me:80/eder123/eder123/2975
-#EXTINF:-1,Globo EPTV Ribeirao Preto DIGITAL
-http://srvcliente.me:80/eder123/eder123/3
-#EXTINF:-1,Globo EPTV Sao Carlos DIGITAL
-http://srvcliente.me:80/eder123/eder123/2
-#EXTINF:-1,Globo EPTV Sao Carlos DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2972
-#EXTINF:-1,Globo Gazeta Sul ES DIGITAL
-http://srvcliente.me:80/eder123/eder123/23
-#EXTINF:-1,Globo Gazeta Sul ES HD
-http://srvcliente.me:80/eder123/eder123/25
-#EXTINF:-1,Globo Gazeta Sul ES HD+
-http://srvcliente.me:80/eder123/eder123/24
-#EXTINF:-1,Globo Inter TV Cabugi DIGITAL
-http://srvcliente.me:80/eder123/eder123/4
-#EXTINF:-1,Globo Internacional DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2971
-#EXTINF:-1,Globo Internacional HD
-http://srvcliente.me:80/eder123/eder123/26
-#EXTINF:-1,Globo InterTv Cabo Frio HD
-http://srvcliente.me:80/eder123/eder123/38
-#EXTINF:-1,Globo Intertv Cabugi RN DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2970
-#EXTINF:-1,Globo Minas DIGITAL
-http://srvcliente.me:80/eder123/eder123/5
-#EXTINF:-1,Globo Minas DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2968
-#EXTINF:-1,Globo Minas HD
-http://srvcliente.me:80/eder123/eder123/51
-#EXTINF:-1,Globo Minas HD*
-http://srvcliente.me:80/eder123/eder123/2969
-#EXTINF:-1,Globo Minas HD+
-http://srvcliente.me:80/eder123/eder123/52
-#EXTINF:-1,Globo Minas HD+
-http://srvcliente.me:80/eder123/eder123/779
-#EXTINF:-1,Globo News DIGITAL
-http://srvcliente.me:80/eder123/eder123/354
-#EXTINF:-1,Globo News DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2966
-#EXTINF:-1,Globo News HD
-http://srvcliente.me:80/eder123/eder123/357
-#EXTINF:-1,Globo News HD*
-http://srvcliente.me:80/eder123/eder123/2967
-#EXTINF:-1,Globo News HD+
-http://srvcliente.me:80/eder123/eder123/360
-#EXTINF:-1,Globo Nordeste DIGITAL
-http://srvcliente.me:80/eder123/eder123/6
-#EXTINF:-1,Globo Nordeste DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2964
-#EXTINF:-1,Globo Nordeste HD*
-http://srvcliente.me:80/eder123/eder123/2965
-#EXTINF:-1,Globo NSC TV Santa Catarina HD
-http://srvcliente.me:80/eder123/eder123/27
-#EXTINF:-1,Globo NSCTV Florianopolis HD
-http://srvcliente.me:80/eder123/eder123/37
-#EXTINF:-1,Globo Paraiba HD
-http://srvcliente.me:80/eder123/eder123/39
-#EXTINF:-1,Globo Portugal Digital
-http://srvcliente.me:80/eder123/eder123/33
-#EXTINF:-1,Globo RBS TV Caxias HD
-http://srvcliente.me:80/eder123/eder123/27145
-#EXTINF:-1,Globo RBS TV Pelotas HD
-http://srvcliente.me:80/eder123/eder123/27147
-#EXTINF:-1,Globo RBS TV Porto Alegre DIGITAL
-http://srvcliente.me:80/eder123/eder123/53
-#EXTINF:-1,Globo RBS TV Porto Alegre DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2963
-#EXTINF:-1,Globo RBS TV Porto Alegre HD
-http://srvcliente.me:80/eder123/eder123/54
-#EXTINF:-1,Globo RBS TV Porto Alegre HD+
-http://srvcliente.me:80/eder123/eder123/55
-#EXTINF:-1,Globo RBS TV Santa Maria HD
-http://srvcliente.me:80/eder123/eder123/27142
-#EXTINF:-1,Globo Rede Amazonica Manaus DIGITAL
-http://srvcliente.me:80/eder123/eder123/9
-#EXTINF:-1,Globo Ribeirao Preto DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2962
-#EXTINF:-1,Globo Rio Grande Norte DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2961
-#EXTINF:-1,Globo RJ Rio Sul HD
-http://srvcliente.me:80/eder123/eder123/36
-#EXTINF:-1,Globo RPC Parana HD
-http://srvcliente.me:80/eder123/eder123/29
-#EXTINF:-1,Globo RPC TV Curitiba DIGITAL
-http://srvcliente.me:80/eder123/eder123/10
-#EXTINF:-1,Globo RPC TV DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2956
-#EXTINF:-1,Globo RPC TV HD*
-http://srvcliente.me:80/eder123/eder123/2957
-#EXTINF:-1,Globo Santa Cruz Bahia HD
-http://srvcliente.me:80/eder123/eder123/49
-#EXTINF:-1,Globo Sergipe HD
-http://srvcliente.me:80/eder123/eder123/45
-#EXTINF:-1,Globo Sergipe HD+
-http://srvcliente.me:80/eder123/eder123/46
-#EXTINF:-1,Globo Subae Bahia HD
-http://srvcliente.me:80/eder123/eder123/50
-#EXTINF:-1,Globo Tv Anhaguera HD
-http://srvcliente.me:80/eder123/eder123/31
-#EXTINF:-1,Globo TV Anhanguera Goiania DIGITAL
-http://srvcliente.me:80/eder123/eder123/11
-#EXTINF:-1,Globo TV Asa Branca PE HD
-http://srvcliente.me:80/eder123/eder123/43
-#EXTINF:-1,Globo TV Bahia DIGITAL
-http://srvcliente.me:80/eder123/eder123/12
-#EXTINF:-1,Globo TV Bahia DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2953
-#EXTINF:-1,Globo TV Belem DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2952
-#EXTINF:-1,Globo TV Cabo Branco DIGITAL*
-http://srvcliente.me:80/eder123/eder123/23145
-#EXTINF:-1,Globo TV Centro America Cuiaba DIGITAL
-http://srvcliente.me:80/eder123/eder123/13
-#EXTINF:-1,Globo TV Clube Piaui HD
-http://srvcliente.me:80/eder123/eder123/42
-#EXTINF:-1,Globo TV Libera Belem HD
-http://srvcliente.me:80/eder123/eder123/40
-#EXTINF:-1,Globo TV Liberal Belem DIGITAL
-http://srvcliente.me:80/eder123/eder123/14
-#EXTINF:-1,Globo TV Mirante Maranhao HD
-http://srvcliente.me:80/eder123/eder123/35
-#EXTINF:-1,Globo TV Morena Ponta Pora HD
-http://srvcliente.me:80/eder123/eder123/30
-#EXTINF:-1,Globo TV Sao Jose Rio Preto DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2960
-#EXTINF:-1,Globo TV Sergipe HD*
-http://srvcliente.me:80/eder123/eder123/23146
-#EXTINF:-1,Globo TV Tem Bauru DIGITAL
-http://srvcliente.me:80/eder123/eder123/15
-#EXTINF:-1,Globo TV TEM Bauru DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2951
-#EXTINF:-1,Globo TV Tem Sao Jose do Rio Preto DIGITAL
-http://srvcliente.me:80/eder123/eder123/16
-#EXTINF:-1,Globo TV Tem Sorocaba DIGITAL
-http://srvcliente.me:80/eder123/eder123/17
-#EXTINF:-1,Globo TV TEM Sorocaba DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2950
-#EXTINF:-1,Globo TV Tribuna Santos DIGITAL
-http://srvcliente.me:80/eder123/eder123/18
-#EXTINF:-1,Globo TV Tribuna Santos DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2949
-#EXTINF:-1,Globo TV Vanguarda dos Campos DIGITAL
-http://srvcliente.me:80/eder123/eder123/19
-#EXTINF:-1,Globo TV Vanguarda S.J Dos Campos DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2948
-#EXTINF:-1,Globo TV Verdes Mares CE HD
-http://srvcliente.me:80/eder123/eder123/41
-#EXTINF:-1,Globo TV Verdes Mares Fortaleza DIGITAL
-http://srvcliente.me:80/eder123/eder123/20
-#EXTINF:-1,Globo Tv Verdes Mares Fortaleza DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2947
-#EXTINF:-1,Globo Vitoria HD*
-http://srvcliente.me:80/eder123/eder123/23535
-#EXTINF:-1,Globosat DIGITAL
-http://srvcliente.me:80/eder123/eder123/369
-#EXTINF:-1,GloboSat DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2945
-#EXTINF:-1,Globosat HD
-http://srvcliente.me:80/eder123/eder123/385
-#EXTINF:-1,GloboSat HD*
-http://srvcliente.me:80/eder123/eder123/2946
-#EXTINF:-1,Gloob DIGITAL
-http://srvcliente.me:80/eder123/eder123/237
-#EXTINF:-1,Gloob HD
-http://srvcliente.me:80/eder123/eder123/248
-#EXTINF:-1,Gloob HD*
-http://srvcliente.me:80/eder123/eder123/2980
-#EXTINF:-1,Gloob HD+*
-http://srvcliente.me:80/eder123/eder123/23158
-#EXTINF:-1,GNT DIGITAL
-http://srvcliente.me:80/eder123/eder123/370
-#EXTINF:-1,GNT DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3201
-#EXTINF:-1,GNT HD
-http://srvcliente.me:80/eder123/eder123/386
-#EXTINF:-1,GNT HD*
-http://srvcliente.me:80/eder123/eder123/3202
-#EXTINF:-1,GNT HD+
-http://srvcliente.me:80/eder123/eder123/395
-#EXTINF:-1,Grey's Anatomy
-http://srvcliente.me:80/eder123/eder123/4119
-#EXTINF:-1,Guardioes da Galaxia 24HRS!
-http://srvcliente.me:80/eder123/eder123/23559
-#EXTINF:-1,HBO 1 DIGITAL
-http://srvcliente.me:80/eder123/eder123/208
-#EXTINF:-1,HBO 1 DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3094
-#EXTINF:-1,HBO 1 HD
-http://srvcliente.me:80/eder123/eder123/215
-#EXTINF:-1,HBO 1 HD*
-http://srvcliente.me:80/eder123/eder123/3095
-#EXTINF:-1,HBO 1 HD+
-http://srvcliente.me:80/eder123/eder123/220
-#EXTINF:-1,HBO 1 HD+*
-http://srvcliente.me:80/eder123/eder123/3096
-#EXTINF:-1,HBO 1 HD¹*
-http://srvcliente.me:80/eder123/eder123/3104
-#EXTINF:-1,HBO 2 DIGITAL
-http://srvcliente.me:80/eder123/eder123/212
-#EXTINF:-1,HBO 2 DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3097
-#EXTINF:-1,HBO 2 HD
-http://srvcliente.me:80/eder123/eder123/213
-#EXTINF:-1,HBO 2 HD*
-http://srvcliente.me:80/eder123/eder123/3098
-#EXTINF:-1,HBO 2 HD+
-http://srvcliente.me:80/eder123/eder123/218
-#EXTINF:-1,HBO 2 HD+*
-http://srvcliente.me:80/eder123/eder123/3099
-#EXTINF:-1,HBO Family DIGITAL
-http://srvcliente.me:80/eder123/eder123/209
-#EXTINF:-1,HBO Family DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3100
-#EXTINF:-1,HBO Family HD
-http://srvcliente.me:80/eder123/eder123/214
-#EXTINF:-1,HBO Family HD*
-http://srvcliente.me:80/eder123/eder123/3101
-#EXTINF:-1,HBO Family HD+
-http://srvcliente.me:80/eder123/eder123/219
-#EXTINF:-1,HBO Family HD+*
-http://srvcliente.me:80/eder123/eder123/23159
-#EXTINF:-1,HBO Mundi DIGITAL
-http://srvcliente.me:80/eder123/eder123/221
-#EXTINF:-1,HBO Mundi HD
-http://srvcliente.me:80/eder123/eder123/224
-#EXTINF:-1,HBO Mundi HD*
-http://srvcliente.me:80/eder123/eder123/3108
-#EXTINF:-1,HBO Mundi HD+
-http://srvcliente.me:80/eder123/eder123/227
-#EXTINF:-1,HBO Mundi HD+*
-http://srvcliente.me:80/eder123/eder123/23161
-#EXTINF:-1,HBO Plus HD+*
-http://srvcliente.me:80/eder123/eder123/23160
-#EXTINF:-1,HBO Pop DIGITAL
-http://srvcliente.me:80/eder123/eder123/223
-#EXTINF:-1,HBO Pop DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3112
-#EXTINF:-1,HBO Pop HD
-http://srvcliente.me:80/eder123/eder123/226
-#EXTINF:-1,HBO Pop HD*
-http://srvcliente.me:80/eder123/eder123/3113
-#EXTINF:-1,HBO Pop HD+*
-http://srvcliente.me:80/eder123/eder123/23162
-#EXTINF:-1,HBO Signature DIGITAL
-http://srvcliente.me:80/eder123/eder123/211
-#EXTINF:-1,HBO Signature DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3105
-#EXTINF:-1,HBO Signature HD
-http://srvcliente.me:80/eder123/eder123/217
-#EXTINF:-1,HBO Signature HD*
-http://srvcliente.me:80/eder123/eder123/3106
-#EXTINF:-1,HBO Xtreme DIGITAL
-http://srvcliente.me:80/eder123/eder123/222
-#EXTINF:-1,HBO Xtreme DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3109
-#EXTINF:-1,HBO Xtreme HD
-http://srvcliente.me:80/eder123/eder123/225
-#EXTINF:-1,HBO Xtreme HD*
-http://srvcliente.me:80/eder123/eder123/3110
-#EXTINF:-1,HBO Xtremee HD*
-http://srvcliente.me:80/eder123/eder123/3111
-#EXTINF:-1,HBO+ DIGITAL
-http://srvcliente.me:80/eder123/eder123/210
-#EXTINF:-1,HBO+ DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3102
-#EXTINF:-1,HBO+ HD*
-http://srvcliente.me:80/eder123/eder123/3103
-#EXTINF:-1,HBO+ Plus HD
-http://srvcliente.me:80/eder123/eder123/216
-#EXTINF:-1,He-Man 24HRS!
-http://srvcliente.me:80/eder123/eder123/23560
-#EXTINF:-1,Hercules 24HRS!
-http://srvcliente.me:80/eder123/eder123/23561
-#EXTINF:-1,HGTV HD
-http://srvcliente.me:80/eder123/eder123/387
-#EXTINF:-1,Historias Disney 24HRS!
-http://srvcliente.me:80/eder123/eder123/23562
-#EXTINF:-1,History 1 DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3179
-#EXTINF:-1,History 1 HD
-http://srvcliente.me:80/eder123/eder123/342
-#EXTINF:-1,History 1 HD*
-http://srvcliente.me:80/eder123/eder123/3180
-#EXTINF:-1,History 1 HD+
-http://srvcliente.me:80/eder123/eder123/3181
-#EXTINF:-1,History 1 HD+
-http://srvcliente.me:80/eder123/eder123/347
-#EXTINF:-1,History 2 DIGITAL
-http://srvcliente.me:80/eder123/eder123/337
-#EXTINF:-1,History 2 DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3182
-#EXTINF:-1,History 2 HD
-http://srvcliente.me:80/eder123/eder123/343
-#EXTINF:-1,History 2 HD*
-http://srvcliente.me:80/eder123/eder123/3183
-#EXTINF:-1,History 2 HD+
-http://srvcliente.me:80/eder123/eder123/348
-#EXTINF:-1,History DIGITAL
-http://srvcliente.me:80/eder123/eder123/336
-#EXTINF:-1,Homem de Ferro 24HRS!
-http://srvcliente.me:80/eder123/eder123/23564
-#EXTINF:-1,Homem-Aranha 24HRS!
-http://srvcliente.me:80/eder123/eder123/23563
-#EXTINF:-1,Homens de Preto 24HRS!
-http://srvcliente.me:80/eder123/eder123/23565
-#EXTINF:-1,House: 1 Temporada
-http://srvcliente.me:80/eder123/eder123/4196
-#EXTINF:-1,House: 2 Temporada
-http://srvcliente.me:80/eder123/eder123/4197
-#EXTINF:-1,House: 3 Temporada
-http://srvcliente.me:80/eder123/eder123/4198
-#EXTINF:-1,House: 4 Temporada
-http://srvcliente.me:80/eder123/eder123/4199
-#EXTINF:-1,House: 5 Temporada
-http://srvcliente.me:80/eder123/eder123/4200
-#EXTINF:-1,House: 6 Temporada
-http://srvcliente.me:80/eder123/eder123/4201
-#EXTINF:-1,House: 7 Temporada
-http://srvcliente.me:80/eder123/eder123/4202
-#EXTINF:-1,House: 8 Temporada
-http://srvcliente.me:80/eder123/eder123/4203
-#EXTINF:-1,Igreja Universal Digital*
-http://srvcliente.me:80/eder123/eder123/23123
-#EXTINF:-1,Incrivel Hulk 24HRS!
-http://srvcliente.me:80/eder123/eder123/23566
-#EXTINF:-1,Irmao do Jorel
-http://srvcliente.me:80/eder123/eder123/27149
-#EXTINF:-1,Jack-Chan 24HRS!
-http://srvcliente.me:80/eder123/eder123/23567
-#EXTINF:-1,Jaspion
-http://srvcliente.me:80/eder123/eder123/4142
-#EXTINF:-1,Jaspion 24HRS!
-http://srvcliente.me:80/eder123/eder123/23568
-#EXTINF:-1,Jiraya: O Incrivel Ninja 24HRS!
-http://srvcliente.me:80/eder123/eder123/23569
-#EXTINF:-1,Kenan e Kel 24HRS!
-http://srvcliente.me:80/eder123/eder123/23570
-#EXTINF:-1,Lifetime DIGITAL
-http://srvcliente.me:80/eder123/eder123/371
-#EXTINF:-1,Lifetime DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3203
-#EXTINF:-1,Lifetime HD
-http://srvcliente.me:80/eder123/eder123/388
-#EXTINF:-1,Lifetime HD*
-http://srvcliente.me:80/eder123/eder123/3204
-#EXTINF:-1,Lifetime HD+
-http://srvcliente.me:80/eder123/eder123/396
-#EXTINF:-1,Liga da Justica 24HRS!
-http://srvcliente.me:80/eder123/eder123/23617
-#EXTINF:-1,Liga Futsal Digital
-http://srvcliente.me:80/eder123/eder123/27143
-#EXTINF:-1,Lost: 1 Temporada
-http://srvcliente.me:80/eder123/eder123/4143
-#EXTINF:-1,Lost: 2 Temporada
-http://srvcliente.me:80/eder123/eder123/4144
-#EXTINF:-1,Lost: 3 Temporada
-http://srvcliente.me:80/eder123/eder123/4145
-#EXTINF:-1,Lost: 4 Temporada
-http://srvcliente.me:80/eder123/eder123/4146
-#EXTINF:-1,Lost: 5 Temporada
-http://srvcliente.me:80/eder123/eder123/4147
-#EXTINF:-1,Lost: 6 Temporada
-http://srvcliente.me:80/eder123/eder123/4148
-#EXTINF:-1,Luluzinha 24HRS!
-http://srvcliente.me:80/eder123/eder123/23571
-#EXTINF:-1,Masha e o Urso
-http://srvcliente.me:80/eder123/eder123/4121
-#EXTINF:-1,Max Mundi HD*
-http://srvcliente.me:80/eder123/eder123/3107
-#EXTINF:-1,Medabots 24HRS!
-http://srvcliente.me:80/eder123/eder123/23572
-#EXTINF:-1,MegaMan 24HRS!
-http://srvcliente.me:80/eder123/eder123/23573
-#EXTINF:-1,MegaPix DIGITAL
-http://srvcliente.me:80/eder123/eder123/266
-#EXTINF:-1,Megapix DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3136
-#EXTINF:-1,MegaPix HD
-http://srvcliente.me:80/eder123/eder123/290
-#EXTINF:-1,Megapix HD*
-http://srvcliente.me:80/eder123/eder123/3137
-#EXTINF:-1,Megapix HD+*
-http://srvcliente.me:80/eder123/eder123/23163
-#EXTINF:-1,Mortal Kombat 24HRS!
-http://srvcliente.me:80/eder123/eder123/23574
-#EXTINF:-1,24HRS!
-http://srvcliente.me:80/eder123/eder123/23575
-#EXTINF:-1,MTV DIGITAL
-http://srvcliente.me:80/eder123/eder123/372
-#EXTINF:-1,MTV DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3205
-#EXTINF:-1,MTV HD
-http://srvcliente.me:80/eder123/eder123/389
-#EXTINF:-1,MTV HD*
-http://srvcliente.me:80/eder123/eder123/3207
-#EXTINF:-1,MTV HD+
-http://srvcliente.me:80/eder123/eder123/397
-#EXTINF:-1,MTV Live HD*
-http://srvcliente.me:80/eder123/eder123/3206
-#EXTINF:-1,Multishow DIGITAL
-http://srvcliente.me:80/eder123/eder123/373
-#EXTINF:-1,MultiShow DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3208
-#EXTINF:-1,Multishow HD
-http://srvcliente.me:80/eder123/eder123/390
-#EXTINF:-1,MultiShow HD*
-http://srvcliente.me:80/eder123/eder123/3209
-#EXTINF:-1,Multishow HD+
-http://srvcliente.me:80/eder123/eder123/398
-#EXTINF:-1,MultiShow HD+*
-http://srvcliente.me:80/eder123/eder123/23164
-#EXTINF:-1,Mundo de Beakman 1 Temporada
-http://srvcliente.me:80/eder123/eder123/27151
-#EXTINF:-1,Mundo de Beakman 2 Temporada
-http://srvcliente.me:80/eder123/eder123/27152
-#EXTINF:-1,Mundo de Beakman 3 Temporada
-http://srvcliente.me:80/eder123/eder123/27153
-#EXTINF:-1,Mundo de Beakman 4 Temporada
-http://srvcliente.me:80/eder123/eder123/27154
-#EXTINF:-1,Music Box Brazil DIGITAL
-http://srvcliente.me:80/eder123/eder123/374
-#EXTINF:-1,Music Box Brazil DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3210
-#EXTINF:-1,Music Box Brazil HD
-http://srvcliente.me:80/eder123/eder123/391
-#EXTINF:-1,Naruto 24HRS!
-http://srvcliente.me:80/eder123/eder123/23576
-#EXTINF:-1,Naruto Shippuden 24HRS!
-http://srvcliente.me:80/eder123/eder123/23577
-#EXTINF:-1,NatGeo DIGITAL
-http://srvcliente.me:80/eder123/eder123/338
-#EXTINF:-1,NatGeo DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3185
-#EXTINF:-1,NatGeo HD
-http://srvcliente.me:80/eder123/eder123/344
-#EXTINF:-1,NatGeo HD*
-http://srvcliente.me:80/eder123/eder123/3186
-#EXTINF:-1,NatGeo HD+
-http://srvcliente.me:80/eder123/eder123/349
-#EXTINF:-1,NatGeo HD+*
-http://srvcliente.me:80/eder123/eder123/3184
-#EXTINF:-1,NatGeo Kids DIGITAL
-http://srvcliente.me:80/eder123/eder123/232
-#EXTINF:-1,NatGeo Kids DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3061
-#EXTINF:-1,NatGeo Kids HD
-http://srvcliente.me:80/eder123/eder123/245
-#EXTINF:-1,NatGeo Kids HD*
-http://srvcliente.me:80/eder123/eder123/3062
-#EXTINF:-1,NatGeo Wild DIGITAL
-http://srvcliente.me:80/eder123/eder123/339
-#EXTINF:-1,NatGeo Wild DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3187
-#EXTINF:-1,NatGeo Wild HD
-http://srvcliente.me:80/eder123/eder123/345
-#EXTINF:-1,NatGeo Wild HD*
-http://srvcliente.me:80/eder123/eder123/3188
-#EXTINF:-1,NatGeo Wild HD+
-http://srvcliente.me:80/eder123/eder123/350
-#EXTINF:-1,NHK DIGITAL
-http://srvcliente.me:80/eder123/eder123/375
-#EXTINF:-1,Nick JR DIGITAL
-http://srvcliente.me:80/eder123/eder123/238
-#EXTINF:-1,Nick JR DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3074
-#EXTINF:-1,Nick JR HD
-http://srvcliente.me:80/eder123/eder123/250
-#EXTINF:-1,Nick JR HD*
-http://srvcliente.me:80/eder123/eder123/3075
-#EXTINF:-1,Nick JR HD+
-http://srvcliente.me:80/eder123/eder123/256
-#EXTINF:-1,Nick Jr. HD+*
-http://srvcliente.me:80/eder123/eder123/23165
-#EXTINF:-1,Nickelodeon DIGITAL
-http://srvcliente.me:80/eder123/eder123/239
-#EXTINF:-1,Nickelodeon DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3072
-#EXTINF:-1,Nickelodeon HD
-http://srvcliente.me:80/eder123/eder123/249
-#EXTINF:-1,Nickelodeon HD*
-http://srvcliente.me:80/eder123/eder123/3073
-#EXTINF:-1,Nickelodeon HD+
-http://srvcliente.me:80/eder123/eder123/255
-#EXTINF:-1,Nickelodeon HD+*
-http://srvcliente.me:80/eder123/eder123/23166
-#EXTINF:-1,Novo Tempo DIGITAL
-http://srvcliente.me:80/eder123/eder123/24678
-#EXTINF:-1,Novo Tempo DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3189
-#EXTINF:-1,O Fantastico Mundo de Bobby 24HRS!
-http://srvcliente.me:80/eder123/eder123/23578
-#EXTINF:-1,O Inspetor 24HRS!
-http://srvcliente.me:80/eder123/eder123/23579
-#EXTINF:-1,O Maskara 24HRS!
-http://srvcliente.me:80/eder123/eder123/23580
-#EXTINF:-1,OFF DIGITAL
-http://srvcliente.me:80/eder123/eder123/155
-#EXTINF:-1,OFF DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3046
-#EXTINF:-1,OFF HD
-http://srvcliente.me:80/eder123/eder123/176
-#EXTINF:-1,OFF HD*
-http://srvcliente.me:80/eder123/eder123/3047
-#EXTINF:-1,Os Anjinhos: Rugrats 24HRS!
-http://srvcliente.me:80/eder123/eder123/23581
-#EXTINF:-1,Os Cavaleiros do Zodiaco 24HRS!
-http://srvcliente.me:80/eder123/eder123/23582
-#EXTINF:-1,Os Flintstones 24HRS!
-http://srvcliente.me:80/eder123/eder123/23583
-#EXTINF:-1,Os Simpsons 01 Temporada
-http://srvcliente.me:80/eder123/eder123/24278
-#EXTINF:-1,Os Simpsons 02 Temporada
-http://srvcliente.me:80/eder123/eder123/24279
-#EXTINF:-1,Os Simpsons 03 Temporada
-http://srvcliente.me:80/eder123/eder123/24280
-#EXTINF:-1,Os Simpsons 04 Temporada
-http://srvcliente.me:80/eder123/eder123/24281
-#EXTINF:-1,Os Simpsons 05 Temporada
-http://srvcliente.me:80/eder123/eder123/24282
-#EXTINF:-1,Os Simpsons 06 Temporada
-http://srvcliente.me:80/eder123/eder123/24283
-#EXTINF:-1,Os Simpsons 07 Temporada
-http://srvcliente.me:80/eder123/eder123/24284
-#EXTINF:-1,Os Simpsons 08 Temporada
-http://srvcliente.me:80/eder123/eder123/24285
-#EXTINF:-1,Os Simpsons 09 Temporada
-http://srvcliente.me:80/eder123/eder123/24286
-#EXTINF:-1,Os Simpsons 10 Temporada
-http://srvcliente.me:80/eder123/eder123/24287
-#EXTINF:-1,Os Simpsons 11 Temporada
-http://srvcliente.me:80/eder123/eder123/24288
-#EXTINF:-1,Os Simpsons 12 Temporada
-http://srvcliente.me:80/eder123/eder123/24289
-#EXTINF:-1,Os Simpsons 13 Temporada
-http://srvcliente.me:80/eder123/eder123/24290
-#EXTINF:-1,Os Simpsons 14 Temporada
-http://srvcliente.me:80/eder123/eder123/24291
-#EXTINF:-1,Os Simpsons 15 Temporada
-http://srvcliente.me:80/eder123/eder123/24292
-#EXTINF:-1,Os Simpsons 16 Temporada
-http://srvcliente.me:80/eder123/eder123/24293
-#EXTINF:-1,Os Simpsons 17 Temporada
-http://srvcliente.me:80/eder123/eder123/24294
-#EXTINF:-1,Os Simpsons 18 Temporada
-http://srvcliente.me:80/eder123/eder123/24295
-#EXTINF:-1,Os Simpsons 19 Temporada
-http://srvcliente.me:80/eder123/eder123/24296
-#EXTINF:-1,Os Simpsons 20 Temporada
-http://srvcliente.me:80/eder123/eder123/24297
-#EXTINF:-1,Os Simpsons 21 Temporada
-http://srvcliente.me:80/eder123/eder123/24298
-#EXTINF:-1,Os Simpsons 22 Temporada
-http://srvcliente.me:80/eder123/eder123/24299
-#EXTINF:-1,Os Simpsons 23 Temporada
-http://srvcliente.me:80/eder123/eder123/24300
-#EXTINF:-1,Os Simpsons 24 Temporada
-http://srvcliente.me:80/eder123/eder123/24301
-#EXTINF:-1,Os Simpsons 24HRS!
-http://srvcliente.me:80/eder123/eder123/23584
-#EXTINF:-1,Os Simpsons 25 Temporada
-http://srvcliente.me:80/eder123/eder123/24302
-#EXTINF:-1,Os Simpsons 26 Temporada
-http://srvcliente.me:80/eder123/eder123/24303
-#EXTINF:-1,Os Simpsons 27 Temporada
-http://srvcliente.me:80/eder123/eder123/24304
-#EXTINF:-1,Os Simpsons 28 Temporada
-http://srvcliente.me:80/eder123/eder123/24305
-#EXTINF:-1,Os Simpsons 29 Temporada
-http://srvcliente.me:80/eder123/eder123/24306
-#EXTINF:-1,Os Simpsons 30 Temporada
-http://srvcliente.me:80/eder123/eder123/24307
-#EXTINF:-1,Os Vingadores 24HRS!
-http://srvcliente.me:80/eder123/eder123/23585
-#EXTINF:-1,Papa-Leguas24HRS!
-http://srvcliente.me:80/eder123/eder123/23586
-#EXTINF:-1,Paramount Channel DIGITAL
-http://srvcliente.me:80/eder123/eder123/267
-#EXTINF:-1,Paramount Channel DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3138
-#EXTINF:-1,Paramount Channel HD
-http://srvcliente.me:80/eder123/eder123/291
-#EXTINF:-1,Paramount Channel HD*
-http://srvcliente.me:80/eder123/eder123/3139
-#EXTINF:-1,Patati Patata
-http://srvcliente.me:80/eder123/eder123/27150
-#EXTINF:-1,Patrulha Canina
-http://srvcliente.me:80/eder123/eder123/4122
-#EXTINF:-1,Pegadinhas
-http://srvcliente.me:80/eder123/eder123/4123
-#EXTINF:-1,Peixonauta
-http://srvcliente.me:80/eder123/eder123/4149
-#EXTINF:-1,Peppa Pig 24HRS!
-http://srvcliente.me:80/eder123/eder123/23587
-#EXTINF:-1,Pernalonga 24HRS!
-http://srvcliente.me:80/eder123/eder123/23588
-#EXTINF:-1,Phineas e Ferb 24HRS!
-http://srvcliente.me:80/eder123/eder123/23589
-#EXTINF:-1,Pica-Pau
-http://srvcliente.me:80/eder123/eder123/4124
-#EXTINF:-1,Pica-Pau 24HRS!
-http://srvcliente.me:80/eder123/eder123/23590
-#EXTINF:-1,Pink e Cerebro 24HRS!
-http://srvcliente.me:80/eder123/eder123/23591
-#EXTINF:-1,PJ Masks
-http://srvcliente.me:80/eder123/eder123/4258
-#EXTINF:-1,Play kids DIGITAL
-http://srvcliente.me:80/eder123/eder123/233
-#EXTINF:-1,Play TV DIGITAL
-http://srvcliente.me:80/eder123/eder123/376
-#EXTINF:-1,Pokemon 24HRS!
-http://srvcliente.me:80/eder123/eder123/23592
-#EXTINF:-1,Policia 24 Horas
-http://srvcliente.me:80/eder123/eder123/4125
-#EXTINF:-1,Polishop TV DIGITAL
-http://srvcliente.me:80/eder123/eder123/378
-#EXTINF:-1,Popeye O Marinheiro 24HRS!
-http://srvcliente.me:80/eder123/eder123/23593
-#EXTINF:-1,Premiere 1 Clubes DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3010
-#EXTINF:-1,Premiere 1 Clubes DIGITAL2*
-http://srvcliente.me:80/eder123/eder123/3011
-#EXTINF:-1,Premiere 1 Clubes HD
-http://srvcliente.me:80/eder123/eder123/133
-#EXTINF:-1,Premiere 1 Clubes HD*
-http://srvcliente.me:80/eder123/eder123/3012
-#EXTINF:-1,Premiere 1 Clubes HD+
-http://srvcliente.me:80/eder123/eder123/140
-#EXTINF:-1,Premiere 1 Clubes HD+*
-http://srvcliente.me:80/eder123/eder123/3013
-#EXTINF:-1,Premiere 2 DIGITAL
-http://srvcliente.me:80/eder123/eder123/125
-#EXTINF:-1,Premiere 2 DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3014
-#EXTINF:-1,Premiere 2 HD
-http://srvcliente.me:80/eder123/eder123/134
-#EXTINF:-1,Premiere 2 HD*
-http://srvcliente.me:80/eder123/eder123/3015
-#EXTINF:-1,Premiere 2 HD+
-http://srvcliente.me:80/eder123/eder123/141
-#EXTINF:-1,Premiere 2 HD+*
-http://srvcliente.me:80/eder123/eder123/3016
-#EXTINF:-1,Premiere 3 DIGITAL
-http://srvcliente.me:80/eder123/eder123/126
-#EXTINF:-1,Premiere 3 DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3017
-#EXTINF:-1,Premiere 3 HD
-http://srvcliente.me:80/eder123/eder123/135
-#EXTINF:-1,Premiere 3 HD*
-http://srvcliente.me:80/eder123/eder123/3018
-#EXTINF:-1,Premiere 3 HD+
-http://srvcliente.me:80/eder123/eder123/142
-#EXTINF:-1,Premiere 3 HD+*
-http://srvcliente.me:80/eder123/eder123/3019
-#EXTINF:-1,Premiere 4 DIGITAL
-http://srvcliente.me:80/eder123/eder123/127
-#EXTINF:-1,Premiere 4 DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3020
-#EXTINF:-1,Premiere 4 HD
-http://srvcliente.me:80/eder123/eder123/136
-#EXTINF:-1,Premiere 4 HD*
-http://srvcliente.me:80/eder123/eder123/3021
-#EXTINF:-1,Premiere 4 HD+
-http://srvcliente.me:80/eder123/eder123/143
-#EXTINF:-1,Premiere 4 HD+*
-http://srvcliente.me:80/eder123/eder123/3022
-#EXTINF:-1,Premiere 5 DIGITAL
-http://srvcliente.me:80/eder123/eder123/128
-#EXTINF:-1,Premiere 5 DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3023
-#EXTINF:-1,Premiere 5 HD
-http://srvcliente.me:80/eder123/eder123/137
-#EXTINF:-1,Premiere 5 HD*
-http://srvcliente.me:80/eder123/eder123/3024
-#EXTINF:-1,Premiere 5 HD+
-http://srvcliente.me:80/eder123/eder123/144
-#EXTINF:-1,Premiere 6 DIGITAL
-http://srvcliente.me:80/eder123/eder123/129
-#EXTINF:-1,Premiere 6 DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3025
-#EXTINF:-1,Premiere 6 HD
-http://srvcliente.me:80/eder123/eder123/138
-#EXTINF:-1,Premiere 6 HD+
-http://srvcliente.me:80/eder123/eder123/145
-#EXTINF:-1,Premiere 7 DIGITAL
-http://srvcliente.me:80/eder123/eder123/130
-#EXTINF:-1,Premiere 7 DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3026
-#EXTINF:-1,Premiere 7 HD
-http://srvcliente.me:80/eder123/eder123/139
-#EXTINF:-1,Premiere 7 HD+
-http://srvcliente.me:80/eder123/eder123/146
-#EXTINF:-1,Premiere 8 DIGITAL
-http://srvcliente.me:80/eder123/eder123/131
-#EXTINF:-1,Premiere 8 DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3027
-#EXTINF:-1,Premiere 9 DIGITAL
-http://srvcliente.me:80/eder123/eder123/132
-#EXTINF:-1,Prime Box Brazil DIGITAL
-http://srvcliente.me:80/eder123/eder123/377
-#EXTINF:-1,Prison Break: 1 Temporada
-http://srvcliente.me:80/eder123/eder123/4126
-#EXTINF:-1,Prison Break: 2 Temporada
-http://srvcliente.me:80/eder123/eder123/4127
-#EXTINF:-1,Prison Break: 3 Temporada
-http://srvcliente.me:80/eder123/eder123/4128
-#EXTINF:-1,Prison Break: 4 Temporada
-http://srvcliente.me:80/eder123/eder123/4129
-#EXTINF:-1,Prison Break: 5 Temporada
-http://srvcliente.me:80/eder123/eder123/4130
-#EXTINF:-1,Pucca
-http://srvcliente.me:80/eder123/eder123/24169
-#EXTINF:-1,Rambo 24HRS!
-http://srvcliente.me:80/eder123/eder123/23594
-#EXTINF:-1,Record Amazonas DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2999
-#EXTINF:-1,Record Bahia Cabralia HD
-http://srvcliente.me:80/eder123/eder123/86
-#EXTINF:-1,Record Belem HD
-http://srvcliente.me:80/eder123/eder123/82
-#EXTINF:-1,Record Brasilia HD
-http://srvcliente.me:80/eder123/eder123/122
-#EXTINF:-1,Record BSB HD
-http://srvcliente.me:80/eder123/eder123/76
-#EXTINF:-1,Record Campinas DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2996
-#EXTINF:-1,Record Campinas HD*
-http://srvcliente.me:80/eder123/eder123/2997
-#EXTINF:-1,Record Campinas TVB HD
-http://srvcliente.me:80/eder123/eder123/88
-#EXTINF:-1,Record DF DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2995
-#EXTINF:-1,Record DIGITAL
-http://srvcliente.me:80/eder123/eder123/74
-#EXTINF:-1,Record ES DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2994
-#EXTINF:-1,Record Goiania HD
-http://srvcliente.me:80/eder123/eder123/91
-#EXTINF:-1,Record Litoral Santos HD
-http://srvcliente.me:80/eder123/eder123/83
-#EXTINF:-1,Record MG DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2998
-#EXTINF:-1,Record Minas HD
-http://srvcliente.me:80/eder123/eder123/84
-#EXTINF:-1,Record Minas HD+
-http://srvcliente.me:80/eder123/eder123/95
-#EXTINF:-1,Record News DIGITAL
-http://srvcliente.me:80/eder123/eder123/352
-#EXTINF:-1,Record News DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2992
-#EXTINF:-1,Record News ES DIGITAL
-http://srvcliente.me:80/eder123/eder123/353
-#EXTINF:-1,Record News ES HD
-http://srvcliente.me:80/eder123/eder123/355
-#EXTINF:-1,Record News ES HD+
-http://srvcliente.me:80/eder123/eder123/361
-#EXTINF:-1,Record News ES HD+
-http://srvcliente.me:80/eder123/eder123/358
-#EXTINF:-1,Record News HD*
-http://srvcliente.me:80/eder123/eder123/2993
-#EXTINF:-1,Record News HD+*
-http://srvcliente.me:80/eder123/eder123/23167
-#EXTINF:-1,Record News SC HD
-http://srvcliente.me:80/eder123/eder123/356
-#EXTINF:-1,Record News SC HD+
-http://srvcliente.me:80/eder123/eder123/359
-#EXTINF:-1,Record Nordeste HD*
-http://srvcliente.me:80/eder123/eder123/2991
-#EXTINF:-1,Record Parana HD
-http://srvcliente.me:80/eder123/eder123/90
-#EXTINF:-1,Record RJ DIGITAL*
-http://srvcliente.me:80/eder123/eder123/23143
-#EXTINF:-1,Record RJ HD
-http://srvcliente.me:80/eder123/eder123/85
-#EXTINF:-1,Record RJ HD+
-http://srvcliente.me:80/eder123/eder123/94
-#EXTINF:-1,Record RS DIGITAL*
-http://srvcliente.me:80/eder123/eder123/23144
-#EXTINF:-1,Record RS HD
-http://srvcliente.me:80/eder123/eder123/77
-#EXTINF:-1,Record RS HD+
-http://srvcliente.me:80/eder123/eder123/93
-#EXTINF:-1,Record Santa Catarina HD
-http://srvcliente.me:80/eder123/eder123/89
-#EXTINF:-1,Record Sao Jose Rio Preto HD
-http://srvcliente.me:80/eder123/eder123/78
-#EXTINF:-1,Record Sergipe HD
-http://srvcliente.me:80/eder123/eder123/79
-#EXTINF:-1,Record SP DIGITAL*
-http://srvcliente.me:80/eder123/eder123/2989
-#EXTINF:-1,Record SP HD
-http://srvcliente.me:80/eder123/eder123/80
-#EXTINF:-1,Record SP HD*
-http://srvcliente.me:80/eder123/eder123/2990
-#EXTINF:-1,Record SP HD+
-http://srvcliente.me:80/eder123/eder123/92
-#EXTINF:-1,Record SP HD+
-http://srvcliente.me:80/eder123/eder123/780
-#EXTINF:-1,Record TV Interior Ribeirao HD+*
-http://srvcliente.me:80/eder123/eder123/2988
-#EXTINF:-1,Record TV Vitoria ES DIGITAL
-http://srvcliente.me:80/eder123/eder123/75
-#EXTINF:-1,Record TV Vitoria ES HD
-http://srvcliente.me:80/eder123/eder123/81
-#EXTINF:-1,Record TV Vitoria ES HD+
-http://srvcliente.me:80/eder123/eder123/96
-#EXTINF:-1,Record Uberlandia MG HD
-http://srvcliente.me:80/eder123/eder123/87
-#EXTINF:-1,Rede Brasil DIGITAL
-http://srvcliente.me:80/eder123/eder123/117
-#EXTINF:-1,Rede TV DIGITAL
-http://srvcliente.me:80/eder123/eder123/118
-#EXTINF:-1,Rede TV DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3002
-#EXTINF:-1,Rede TV HD
-http://srvcliente.me:80/eder123/eder123/119
-#EXTINF:-1,Rede TV HD*
-http://srvcliente.me:80/eder123/eder123/3003
-#EXTINF:-1,Rede Vida DIGITAL
-http://srvcliente.me:80/eder123/eder123/363
-#EXTINF:-1,Rede Vida DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3191
-#EXTINF:-1,Rede Vida HD*
-http://srvcliente.me:80/eder123/eder123/3192
-#EXTINF:-1,Sai de Baixo: 1 Temporada
-http://srvcliente.me:80/eder123/eder123/4231
-#EXTINF:-1,Sai de Baixo: 2 Temporada
-http://srvcliente.me:80/eder123/eder123/4232
-#EXTINF:-1,Sai de Baixo: 3 Temporada
-http://srvcliente.me:80/eder123/eder123/4233
-#EXTINF:-1,Sai de Baixo: 4 Temporada
-http://srvcliente.me:80/eder123/eder123/4234
-#EXTINF:-1,Sai de Baixo: 5 Temporada
-http://srvcliente.me:80/eder123/eder123/4235
-#EXTINF:-1,Sai de Baixo: 6 Temporada
-http://srvcliente.me:80/eder123/eder123/4236
-#EXTINF:-1,Sai de Baixo: 7 Temporada
-http://srvcliente.me:80/eder123/eder123/4237
-#EXTINF:-1,SBT Bahia Aratu HD
-http://srvcliente.me:80/eder123/eder123/107
-#EXTINF:-1,SBT BSB HD
-http://srvcliente.me:80/eder123/eder123/99
-#EXTINF:-1,SBT DIGITAL
-http://srvcliente.me:80/eder123/eder123/97
-#EXTINF:-1,SBT DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3005
-#EXTINF:-1,SBT ES Digital
-http://srvcliente.me:80/eder123/eder123/120
-#EXTINF:-1,SBT ES HD
-http://srvcliente.me:80/eder123/eder123/123
-#EXTINF:-1,SBT GOIAS HD*
-http://srvcliente.me:80/eder123/eder123/3008
-#EXTINF:-1,SBT HD*
-http://srvcliente.me:80/eder123/eder123/3007
-#EXTINF:-1,SBT Minas Alterosa HD
-http://srvcliente.me:80/eder123/eder123/109
-#EXTINF:-1,SBT Nordeste HD*
-http://srvcliente.me:80/eder123/eder123/3006
-#EXTINF:-1,SBT Parana HD
-http://srvcliente.me:80/eder123/eder123/110
-#EXTINF:-1,SBT Ribeirao HD+*
-http://srvcliente.me:80/eder123/eder123/3004
-#EXTINF:-1,SBT RJ DIGITAL*
-http://srvcliente.me:80/eder123/eder123/23140
-#EXTINF:-1,SBT RJ HD
-http://srvcliente.me:80/eder123/eder123/100
-#EXTINF:-1,SBT RJ HD*
-http://srvcliente.me:80/eder123/eder123/23139
-#EXTINF:-1,SBT RJ HD+
-http://srvcliente.me:80/eder123/eder123/101
-#EXTINF:-1,SBT RS HD
-http://srvcliente.me:80/eder123/eder123/102
-#EXTINF:-1,SBT Santa Catarina HD
-http://srvcliente.me:80/eder123/eder123/108
-#EXTINF:-1,SBT Sergipe HD
-http://srvcliente.me:80/eder123/eder123/103
-#EXTINF:-1,SBT Serra Dourada HD
-http://srvcliente.me:80/eder123/eder123/111
-#EXTINF:-1,SBT SP HD
-http://srvcliente.me:80/eder123/eder123/104
-#EXTINF:-1,SBT SP HD+
-http://srvcliente.me:80/eder123/eder123/105
-#EXTINF:-1,SBT TV Tribuna ES DIGITAL
-http://srvcliente.me:80/eder123/eder123/98
-#EXTINF:-1,SBT TV Tribuna ES HD
-http://srvcliente.me:80/eder123/eder123/106
-#EXTINF:-1,SBT TV Tribuna ES HD+
-http://srvcliente.me:80/eder123/eder123/112
-#EXTINF:-1,Scooby Doo 1 Temporada
-http://srvcliente.me:80/eder123/eder123/23927
-#EXTINF:-1,Scooby Doo 2 Temporada
-http://srvcliente.me:80/eder123/eder123/23928
-#EXTINF:-1,Scooby-Doo 24HRS!
-http://srvcliente.me:80/eder123/eder123/23595
-#EXTINF:-1,Show Bel Marques
-http://srvcliente.me:80/eder123/eder123/23837
-#EXTINF:-1,Show Cavaleiros do Forro
-http://srvcliente.me:80/eder123/eder123/23838
-#EXTINF:-1,Show Cidade Negra
-http://srvcliente.me:80/eder123/eder123/23839
-#EXTINF:-1,Show Da Luna
-http://srvcliente.me:80/eder123/eder123/23840
-#EXTINF:-1,Show de Talentos
-http://srvcliente.me:80/eder123/eder123/23841
-#EXTINF:-1,Show Djavan
-http://srvcliente.me:80/eder123/eder123/23842
-#EXTINF:-1,Show Edson Lima
-http://srvcliente.me:80/eder123/eder123/23843
-#EXTINF:-1,Show Fernandinho
-http://srvcliente.me:80/eder123/eder123/23844
-#EXTINF:-1,Show Gatinha Manhosa
-http://srvcliente.me:80/eder123/eder123/23845
-#EXTINF:-1,Show Kid Abelha
-http://srvcliente.me:80/eder123/eder123/23846
-#EXTINF:-1,Show Marcia Felipe
-http://srvcliente.me:80/eder123/eder123/23847
-#EXTINF:-1,Show Mastruz com Leite
-http://srvcliente.me:80/eder123/eder123/23848
-#EXTINF:-1,Show Roupa Nova
-http://srvcliente.me:80/eder123/eder123/23849
-#EXTINF:-1,Show Saulo
-http://srvcliente.me:80/eder123/eder123/23850
-#EXTINF:-1,Show Top Sertanejo
-http://srvcliente.me:80/eder123/eder123/23851
-#EXTINF:-1,Show Wesly Safadao
-http://srvcliente.me:80/eder123/eder123/23852
-#EXTINF:-1,Show Xande Avioes
-http://srvcliente.me:80/eder123/eder123/23853
-#EXTINF:-1,Show Zelezinho
-http://srvcliente.me:80/eder123/eder123/23854
-#EXTINF:-1,Smallville 24HRS!
-http://srvcliente.me:80/eder123/eder123/23596
-#EXTINF:-1,Smallville: 01 Temporada
-http://srvcliente.me:80/eder123/eder123/4204
-#EXTINF:-1,Smallville: 02 Temporada
-http://srvcliente.me:80/eder123/eder123/4205
-#EXTINF:-1,Smallville: 03 Temporada
-http://srvcliente.me:80/eder123/eder123/4206
-#EXTINF:-1,Smallville: 04 Temporada
-http://srvcliente.me:80/eder123/eder123/4207
-#EXTINF:-1,Smallville: 05 Temporada
-http://srvcliente.me:80/eder123/eder123/4208
-#EXTINF:-1,Smallville: 06 Temporada
-http://srvcliente.me:80/eder123/eder123/4209
-#EXTINF:-1,Smallville: 07 Temporada
-http://srvcliente.me:80/eder123/eder123/4210
-#EXTINF:-1,Smallville: 08 Temporada
-http://srvcliente.me:80/eder123/eder123/4211
-#EXTINF:-1,Smallville: 09 Temporada
-http://srvcliente.me:80/eder123/eder123/4212
-#EXTINF:-1,Smallville: 10 Temporada
-http://srvcliente.me:80/eder123/eder123/4213
-#EXTINF:-1,Sobrenatural 24HRS!
-http://srvcliente.me:80/eder123/eder123/23597
-#EXTINF:-1,South Park 24HRS!
-http://srvcliente.me:80/eder123/eder123/23598
-#EXTINF:-1,Space DIGITAL
-http://srvcliente.me:80/eder123/eder123/268
-#EXTINF:-1,Space DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3140
-#EXTINF:-1,Space HD
-http://srvcliente.me:80/eder123/eder123/292
-#EXTINF:-1,Space HD*
-http://srvcliente.me:80/eder123/eder123/3141
-#EXTINF:-1,Space HD+*
-http://srvcliente.me:80/eder123/eder123/23168
-#EXTINF:-1,SporTV 1 DIGITAL
-http://srvcliente.me:80/eder123/eder123/156
-#EXTINF:-1,SporTV 1 DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3048
-#EXTINF:-1,SporTV 1 HD
-http://srvcliente.me:80/eder123/eder123/179
-#EXTINF:-1,SporTV 1 HD*
-http://srvcliente.me:80/eder123/eder123/3049
-#EXTINF:-1,SporTV 1 HD+
-http://srvcliente.me:80/eder123/eder123/188
-#EXTINF:-1,SporTV 1 HD+*
-http://srvcliente.me:80/eder123/eder123/3050
-#EXTINF:-1,SporTV 2 DIGITAL
-http://srvcliente.me:80/eder123/eder123/157
-#EXTINF:-1,SporTV 2 DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3051
-#EXTINF:-1,SporTV 2 HD
-http://srvcliente.me:80/eder123/eder123/177
-#EXTINF:-1,SporTV 2 HD*
-http://srvcliente.me:80/eder123/eder123/3052
-#EXTINF:-1,SporTV 2 HD+
-http://srvcliente.me:80/eder123/eder123/186
-#EXTINF:-1,SporTV 2 HD+*
-http://srvcliente.me:80/eder123/eder123/23169
-#EXTINF:-1,SporTV 3 DIGITAL
-http://srvcliente.me:80/eder123/eder123/158
-#EXTINF:-1,SporTV 3 DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3053
-#EXTINF:-1,SporTV 3 HD
-http://srvcliente.me:80/eder123/eder123/178
-#EXTINF:-1,SporTV 3 HD*
-http://srvcliente.me:80/eder123/eder123/3054
-#EXTINF:-1,SporTV 3 HD+
-http://srvcliente.me:80/eder123/eder123/187
-#EXTINF:-1,SporTV 3 HD+*
-http://srvcliente.me:80/eder123/eder123/23170
-#EXTINF:-1,Steven Universe 24HRS!
-http://srvcliente.me:80/eder123/eder123/23599
-#EXTINF:-1,Studio Universal DIGITAL
-http://srvcliente.me:80/eder123/eder123/269
-#EXTINF:-1,Studio Universal DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3142
-#EXTINF:-1,Studio Universal HD
-http://srvcliente.me:80/eder123/eder123/293
-#EXTINF:-1,Studio Universal HD*
-http://srvcliente.me:80/eder123/eder123/3143
-#EXTINF:-1,Studio Universal HD+
-http://srvcliente.me:80/eder123/eder123/311
-#EXTINF:-1,Super Choque 24HRS!
-http://srvcliente.me:80/eder123/eder123/23619
-#EXTINF:-1,Superman 24HRS!
-http://srvcliente.me:80/eder123/eder123/23600
-#EXTINF:-1,Supernatural: 01 Temporada
-http://srvcliente.me:80/eder123/eder123/4214
-#EXTINF:-1,Supernatural: 02 Temporada
-http://srvcliente.me:80/eder123/eder123/4215
-#EXTINF:-1,Supernatural: 03 Temporada
-http://srvcliente.me:80/eder123/eder123/4216
-#EXTINF:-1,Supernatural: 04 Temporada
-http://srvcliente.me:80/eder123/eder123/4217
-#EXTINF:-1,Supernatural: 05 Temporada
-http://srvcliente.me:80/eder123/eder123/4218
-#EXTINF:-1,Supernatural: 06 Temporada
-http://srvcliente.me:80/eder123/eder123/4219
-#EXTINF:-1,Supernatural: 07 Temporada
-http://srvcliente.me:80/eder123/eder123/4220
-#EXTINF:-1,Supernatural: 08 Temporada
-http://srvcliente.me:80/eder123/eder123/4221
-#EXTINF:-1,Supernatural: 09 Temporada
-http://srvcliente.me:80/eder123/eder123/4222
-#EXTINF:-1,Supernatural: 10 Temporada
-http://srvcliente.me:80/eder123/eder123/4223
-#EXTINF:-1,Supernatural: 11 Temporada
-http://srvcliente.me:80/eder123/eder123/4224
-#EXTINF:-1,Supernatural: 12 Temporada
-http://srvcliente.me:80/eder123/eder123/4225
-#EXTINF:-1,Supernatural: 13 Temporada
-http://srvcliente.me:80/eder123/eder123/4226
-#EXTINF:-1,Supernatural: 14 Temporada
-http://srvcliente.me:80/eder123/eder123/4227
-#EXTINF:-1,Syfy DIGITAL
-http://srvcliente.me:80/eder123/eder123/270
-#EXTINF:-1,Syfy DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3144
-#EXTINF:-1,Syfy HD
-http://srvcliente.me:80/eder123/eder123/294
-#EXTINF:-1,Tartarugas Ninjas 24HRS!
-http://srvcliente.me:80/eder123/eder123/23601
-#EXTINF:-1,TBS DIGITAL
-http://srvcliente.me:80/eder123/eder123/271
-#EXTINF:-1,TBS DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3145
-#EXTINF:-1,TBS HD
-http://srvcliente.me:80/eder123/eder123/295
-#EXTINF:-1,TCM DIGITAL
-http://srvcliente.me:80/eder123/eder123/272
-#EXTINF:-1,TCM DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3146
-#EXTINF:-1,Telecine Action DIGITAL
-http://srvcliente.me:80/eder123/eder123/193
-#EXTINF:-1,Telecine Action DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3084
-#EXTINF:-1,Telecine Action HD
-http://srvcliente.me:80/eder123/eder123/199
-#EXTINF:-1,Telecine Action HD*
-http://srvcliente.me:80/eder123/eder123/3085
-#EXTINF:-1,Telecine Action HD+*
-http://srvcliente.me:80/eder123/eder123/23171
-#EXTINF:-1,Telecine Cult DIGITAL
-http://srvcliente.me:80/eder123/eder123/194
-#EXTINF:-1,Telecine Cult DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3092
-#EXTINF:-1,Telecine Cult HD
-http://srvcliente.me:80/eder123/eder123/200
-#EXTINF:-1,Telecine Cult HD*
-http://srvcliente.me:80/eder123/eder123/3093
-#EXTINF:-1,Telecine Fun DIGITAL
-http://srvcliente.me:80/eder123/eder123/195
-#EXTINF:-1,Telecine Fun DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3087
-#EXTINF:-1,Telecine Fun HD
-http://srvcliente.me:80/eder123/eder123/201
-#EXTINF:-1,Telecine Fun HD*
-http://srvcliente.me:80/eder123/eder123/3088
-#EXTINF:-1,Telecine Fun HD+*
-http://srvcliente.me:80/eder123/eder123/3089
-#EXTINF:-1,Telecine Pipoca DIGITAL
-http://srvcliente.me:80/eder123/eder123/196
-#EXTINF:-1,Telecine Pipoca DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3081
-#EXTINF:-1,Telecine Pipoca HD
-http://srvcliente.me:80/eder123/eder123/202
-#EXTINF:-1,Telecine Pipoca HD*
-http://srvcliente.me:80/eder123/eder123/3082
-#EXTINF:-1,Telecine Pipoca HD+
-http://srvcliente.me:80/eder123/eder123/206
-#EXTINF:-1,Telecine Pipoca HD+*
-http://srvcliente.me:80/eder123/eder123/3083
-#EXTINF:-1,Telecine Premium DIGITAL
-http://srvcliente.me:80/eder123/eder123/197
-#EXTINF:-1,Telecine Premium DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3078
-#EXTINF:-1,Telecine Premium HD
-http://srvcliente.me:80/eder123/eder123/203
-#EXTINF:-1,Telecine Premium HD*
-http://srvcliente.me:80/eder123/eder123/3079
-#EXTINF:-1,Telecine Premium HD+
-http://srvcliente.me:80/eder123/eder123/207
-#EXTINF:-1,Telecine Premium HD+*
-http://srvcliente.me:80/eder123/eder123/3080
-#EXTINF:-1,Telecine Touch DIGITAL
-http://srvcliente.me:80/eder123/eder123/198
-#EXTINF:-1,Telecine Touch DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3090
-#EXTINF:-1,Telecine Touch HD
-http://srvcliente.me:80/eder123/eder123/204
-#EXTINF:-1,Telecine Touch HD*
-http://srvcliente.me:80/eder123/eder123/3091
-#EXTINF:-1,Telecine Touch HD+*
-http://srvcliente.me:80/eder123/eder123/23172
-#EXTINF:-1,Terra Viva DIGITAL
-http://srvcliente.me:80/eder123/eder123/379
-#EXTINF:-1,The Big Bang: 01 Temporada
-http://srvcliente.me:80/eder123/eder123/4151
-#EXTINF:-1,The Big Bang: 02 Temporada
-http://srvcliente.me:80/eder123/eder123/4152
-#EXTINF:-1,The Big Bang: 03 Temporada
-http://srvcliente.me:80/eder123/eder123/4153
-#EXTINF:-1,The Big Bang: 04 Temporada
-http://srvcliente.me:80/eder123/eder123/4154
-#EXTINF:-1,The Big Bang: 05 Temporada
-http://srvcliente.me:80/eder123/eder123/4155
-#EXTINF:-1,The Big Bang: 06 Temporada
-http://srvcliente.me:80/eder123/eder123/4156
-#EXTINF:-1,The Big Bang: 07 Temporada
-http://srvcliente.me:80/eder123/eder123/4157
-#EXTINF:-1,The Big Bang: 08 Temporada
-http://srvcliente.me:80/eder123/eder123/4158
-#EXTINF:-1,The Big Bang: 09 Temporada
-http://srvcliente.me:80/eder123/eder123/4159
-#EXTINF:-1,The Big Bang: 10 Temporada
-http://srvcliente.me:80/eder123/eder123/4160
-#EXTINF:-1,The Big Bang: 11 Temporada
-http://srvcliente.me:80/eder123/eder123/4161
-#EXTINF:-1,The Big Bang: 12 Temporada
-http://srvcliente.me:80/eder123/eder123/4162
-#EXTINF:-1,The Middle: 1 Temporada
-http://srvcliente.me:80/eder123/eder123/4181
-#EXTINF:-1,The Middle: 2 Temporada
-http://srvcliente.me:80/eder123/eder123/4182
-#EXTINF:-1,The Middle: 3 Temporada
-http://srvcliente.me:80/eder123/eder123/4183
-#EXTINF:-1,The Middle: 4 Temporada
-http://srvcliente.me:80/eder123/eder123/4184
-#EXTINF:-1,The Middle: 5 Temporada
-http://srvcliente.me:80/eder123/eder123/4185
-#EXTINF:-1,The Middle: 6 Temporada
-http://srvcliente.me:80/eder123/eder123/4186
-#EXTINF:-1,The Middle: 7 Temporada
-http://srvcliente.me:80/eder123/eder123/4187
-#EXTINF:-1,The Middle: 8 Temporada
-http://srvcliente.me:80/eder123/eder123/4188
-#EXTINF:-1,The Middle: 9 Temporada
-http://srvcliente.me:80/eder123/eder123/4189
-#EXTINF:-1,The Walking Dead
-http://srvcliente.me:80/eder123/eder123/4132
-#EXTINF:-1,Thundercats 24HRS!
-http://srvcliente.me:80/eder123/eder123/23602
-#EXTINF:-1,Timao e Pumba 24HRS!
-http://srvcliente.me:80/eder123/eder123/23603
-#EXTINF:-1,TLC DIGITAL
-http://srvcliente.me:80/eder123/eder123/273
-#EXTINF:-1,TLC HD
-http://srvcliente.me:80/eder123/eder123/296
-#EXTINF:-1,TLC HD*
-http://srvcliente.me:80/eder123/eder123/3147
-#EXTINF:-1,TNT DIGITAL
-http://srvcliente.me:80/eder123/eder123/274
-#EXTINF:-1,TNT DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3148
-#EXTINF:-1,TNT HD
-http://srvcliente.me:80/eder123/eder123/297
-#EXTINF:-1,TNT HD*
-http://srvcliente.me:80/eder123/eder123/3149
-#EXTINF:-1,TNT HD+
-http://srvcliente.me:80/eder123/eder123/312
-#EXTINF:-1,TNT HD+*
-http://srvcliente.me:80/eder123/eder123/3150
-#EXTINF:-1,TNT Series DIGITAL
-http://srvcliente.me:80/eder123/eder123/275
-#EXTINF:-1,TNT SERIES DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3151
-#EXTINF:-1,TNT Series HD
-http://srvcliente.me:80/eder123/eder123/298
-#EXTINF:-1,TNT SERIES HD*
-http://srvcliente.me:80/eder123/eder123/3152
-#EXTINF:-1,TNT Series HD+
-http://srvcliente.me:80/eder123/eder123/313
-#EXTINF:-1,TNT Series HD+*
-http://srvcliente.me:80/eder123/eder123/23173
-#EXTINF:-1,Todo Mundo Odeia Chris: 1 Temporada
-http://srvcliente.me:80/eder123/eder123/4245
-#EXTINF:-1,Todo Mundo Odeia Chris: 2 Temporada
-http://srvcliente.me:80/eder123/eder123/4246
-#EXTINF:-1,Todo Mundo Odeia Chris: 3 Temporada
-http://srvcliente.me:80/eder123/eder123/4247
-#EXTINF:-1,Todo Mundo Odeia Chris: 4 Temporada
-http://srvcliente.me:80/eder123/eder123/4248
-#EXTINF:-1,Todo Mundo Odeia o Chris24HRS!
-http://srvcliente.me:80/eder123/eder123/23604
-#EXTINF:-1,Tom e Jerry 24HRS!
-http://srvcliente.me:80/eder123/eder123/23605
-#EXTINF:-1,Tooncast DIGITAL
-http://srvcliente.me:80/eder123/eder123/240
-#EXTINF:-1,Tooncast HD*
-http://srvcliente.me:80/eder123/eder123/3076
-#EXTINF:-1,Tres Espias Demais 24HRS!
-http://srvcliente.me:80/eder123/eder123/23606
-#EXTINF:-1,TruTV DIGITAL
-http://srvcliente.me:80/eder123/eder123/276
-#EXTINF:-1,TruTV HD
-http://srvcliente.me:80/eder123/eder123/299
-#EXTINF:-1,TV Aparecida DIGITAL
-http://srvcliente.me:80/eder123/eder123/364
-#EXTINF:-1,TV Aparecida DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3190
-#EXTINF:-1,TV Camara DIGITAL
-http://srvcliente.me:80/eder123/eder123/58
-#EXTINF:-1,TV Cultura DIGITAL
-http://srvcliente.me:80/eder123/eder123/115
-#EXTINF:-1,TV Diário HD
-http://srvcliente.me:80/eder123/eder123/2428
-#EXTINF:-1,TV Escola DIGITAL
-http://srvcliente.me:80/eder123/eder123/24674
-#EXTINF:-1,TV Evangelizar ES DIGITAL
-http://srvcliente.me:80/eder123/eder123/24679
-#EXTINF:-1,TV Globinho DIGITAL
-http://srvcliente.me:80/eder123/eder123/24677
-#EXTINF:-1,TV Ideal DIGITAL
-http://srvcliente.me:80/eder123/eder123/24675
-#EXTINF:-1,TV Justica DIGITAL
-http://srvcliente.me:80/eder123/eder123/59
-#EXTINF:-1,TV Ra tim bum DIGITAL
-http://srvcliente.me:80/eder123/eder123/241
-#EXTINF:-1,TV Ra Tim Bum HD
-http://srvcliente.me:80/eder123/eder123/251
-#EXTINF:-1,TV Senado DIGITAL
-http://srvcliente.me:80/eder123/eder123/60
-#EXTINF:-1,Um Maluco no Pedaco 24HRS!
-http://srvcliente.me:80/eder123/eder123/23607
-#EXTINF:-1,Uma Familia da Pesada 24HRS!
-http://srvcliente.me:80/eder123/eder123/23608
-#EXTINF:-1,Universal Channel DIGITAL
-http://srvcliente.me:80/eder123/eder123/277
-#EXTINF:-1,Universal Channel DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3153
-#EXTINF:-1,Universal Channel HD
-http://srvcliente.me:80/eder123/eder123/300
-#EXTINF:-1,Universal Channel HD*
-http://srvcliente.me:80/eder123/eder123/3154
-#EXTINF:-1,Universal Channel HD+
-http://srvcliente.me:80/eder123/eder123/314
-#EXTINF:-1,Univesp TV DIGITAL
-http://srvcliente.me:80/eder123/eder123/24676
-#EXTINF:-1,Ursinhos Carinhos 24HRS!
-http://srvcliente.me:80/eder123/eder123/23609
-#EXTINF:-1,Vai que Cola 24HRS!
-http://srvcliente.me:80/eder123/eder123/23618
-#EXTINF:-1,Venus DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3170
-#EXTINF:-1,VH1 DIGITAL
-http://srvcliente.me:80/eder123/eder123/380
-#EXTINF:-1,VH1 DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3211
-#EXTINF:-1,VH1 HD
-http://srvcliente.me:80/eder123/eder123/392
-#EXTINF:-1,VH1 HD*
-http://srvcliente.me:80/eder123/eder123/3212
-#EXTINF:-1,Viva DIGITAL
-http://srvcliente.me:80/eder123/eder123/381
-#EXTINF:-1,Viva DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3213
-#EXTINF:-1,Viva HD
-http://srvcliente.me:80/eder123/eder123/393
-#EXTINF:-1,Viva HD*
-http://srvcliente.me:80/eder123/eder123/3214
-#EXTINF:-1,Viva HD+
-http://srvcliente.me:80/eder123/eder123/399
-#EXTINF:-1,Vod Cine 01: 365 Dias
-http://srvcliente.me:80/eder123/eder123/26908
-#EXTINF:-1,Vod Cine 02: A Barraca do Beijo 2
-http://srvcliente.me:80/eder123/eder123/26909
-#EXTINF:-1,Vod Cine 03: Dançarina Imperfeita
-http://srvcliente.me:80/eder123/eder123/26910
-#EXTINF:-1,Vod Cine 04: Dr. Dolittle
-http://srvcliente.me:80/eder123/eder123/26911
-#EXTINF:-1,Vod Cine 05: Feel The Beat
-http://srvcliente.me:80/eder123/eder123/26912
-#EXTINF:-1,Vod Cine 06: Frozen 2
-http://srvcliente.me:80/eder123/eder123/26913
-#EXTINF:-1,Vod Cine 07: Jumanji: Próxima Fase
-http://srvcliente.me:80/eder123/eder123/26914
-#EXTINF:-1,Vod Cine 08: Power
-http://srvcliente.me:80/eder123/eder123/26915
-#EXTINF:-1,Vod Cine 09: Scooby: O Filme
-http://srvcliente.me:80/eder123/eder123/26916
-#EXTINF:-1,Vod Cine 10: The Old Guard
-http://srvcliente.me:80/eder123/eder123/26917
-#EXTINF:-1,Warner Channel DIGITAL
-http://srvcliente.me:80/eder123/eder123/278
-#EXTINF:-1,Warner Channel DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3155
-#EXTINF:-1,Warner Channel HD
-http://srvcliente.me:80/eder123/eder123/301
-#EXTINF:-1,Warner Channel HD*
-http://srvcliente.me:80/eder123/eder123/3156
-#EXTINF:-1,Warner Channel HD+
-http://srvcliente.me:80/eder123/eder123/315
-#EXTINF:-1,Woohoo DIGITAL
-http://srvcliente.me:80/eder123/eder123/382
-#EXTINF:-1,Woohoo DIGITAL*
-http://srvcliente.me:80/eder123/eder123/3215
-#EXTINF:-1,Woohoo HD*
-http://srvcliente.me:80/eder123/eder123/3216
+http://177.133.15.82:8000/play/Woohoo/index.m3u8
+#EXTINF:-1,ZooMoo
+http://177.133.15.82:8000/play/ZooMoo/index.m3u8
