@@ -1,513 +1,281 @@
 #EXTM3U
 #EXTINF:-1,A&E
-http://179.100.59.105:2083/play/a04e/index.m3u8
+http://rec2.distv.net:8100/joao/joao/415
 #EXTINF:-1,AMC
-http://179.100.59.105:2083/play/a05i/index.m3u8
-#EXTINF:-1,BIS
-http://179.100.59.105:2083/play/a043/index.m3u8
-#EXTINF:-1,Baby TV
-http://179.100.59.105:2083/play/a05a/index.m3u8
-#EXTINF:-1,Band News
-http://179.100.59.105:2083/play/a077/index.m3u8
-#EXTINF:-1,Bandeirantes
-http://179.100.59.105:2083/play/a03p/index.m3u8
-#EXTINF:-1,Boomerang
-http://179.100.59.105:2083/play/a04g/index.m3u8
-#EXTINF:-1,CNN Internacional
-http://179.100.59.105:2083/play/a03i/index.m3u8
-#EXTINF:-1,Satellite TV
-http://179.100.59.105:2083/play/a057/index.m3u8
-#EXTINF:-1,CanĿªo Nova
-http://179.100.59.105:2083/play/a04t/index.m3u8
-#EXTINF:-1,Discovery Channel
-http://179.100.59.105:2083/play/a05e/index.m3u8
-#EXTINF:-1,Discovery Kids
-http://179.100.59.105:2083/play/a03c/index.m3u8
-#EXTINF:-1,Disney
-http://179.100.59.105:2083/play/a04i/index.m3u8
-#EXTINF:-1,EPTV Campinas
-http://179.100.59.105:2083/play/a039/index.m3u8
-#EXTINF:-1,EPTV Ribeirao Preto
-http://179.100.59.105:2083/play/a038/index.m3u8
-#EXTINF:-1,EPTV Sao Carlos
-http://179.100.59.105:2083/play/a03a/index.m3u8
-#EXTINF:-1,ESPN2
-http://179.100.59.105:2083/play/a03v/index.m3u8
-#EXTINF:-1,Film & Arts
-http://179.100.59.105:2083/play/a045/index.m3u8
-#EXTINF:-1,Fish TV https://iptv.live
-http://179.100.59.105:2083/play/a04c/index.m3u8
-#EXTINF:-1,Food Network
-http://179.100.59.105:2083/play/a051/index.m3u8
-#EXTINF:-1,Food Network
-http://179.100.59.105:2083/play/a07p/index.m3u8
-#EXTINF:-1,Fox Life
-http://179.100.59.105:2083/play/a03u/index.m3u8
-#EXTINF:-1,Futura
-http://179.100.59.105:2083/play/a03q/index.m3u8
-#EXTINF:-1,Globo BrasŦlia
-http://179.100.59.105:2083/play/a066/index.m3u8
-#EXTINF:-1,Globo Minas
-http://179.100.59.105:2083/play/a062/index.m3u8
-#EXTINF:-1,Globo Nordeste
-http://179.100.59.105:2083/play/a032/index.m3u8
-#EXTINF:-1,Globo RJ
-http://179.100.59.105:2083/play/a061/index.m3u8
-#EXTINF:-1,HBO Family
-http://179.100.59.105:2083/play/a04d/index.m3u8
-#EXTINF:-1,HBO Plus
-http://179.100.59.105:2083/play/a03w/index.m3u8
-#EXTINF:-1,History 2
-http://179.100.59.105:2083/play/a07l/index.m3u8
-#EXTINF:-1,Inter TV Cabugi
-http://179.100.59.105:2083/play/a035/index.m3u8
-#EXTINF:-1,Lifetime
-http://179.100.59.105:2083/play/a03y/index.m3u8
-#EXTINF:-1,MTV
-http://179.100.59.105:2083/play/a03s/index.m3u8
-#EXTINF:-1,NHK
-http://179.100.59.105:2083/play/a04q/index.m3u8
-#EXTINF:-1,NatGeo Wild
-http://179.100.59.105:2083/play/a04m/index.m3u8
-#EXTINF:-1,Nick Jr
-http://179.100.59.105:2083/play/a04j/index.m3u8
-#EXTINF:-1,Play TV
-http://179.100.59.105:2083/play/a03e/index.m3u8
-#EXTINF:-1,Playboy TV
-http://179.100.59.105:2083/play/a048/index.m3u8
-#EXTINF:-1,Premiere 2
-http://179.100.59.105:2083/play/a078/index.m3u8
-#EXTINF:-1,Premiere 4
-http://179.100.59.105:2083/play/a04s/index.m3u8
-#EXTINF:-1,Premiere 6
-http://179.100.59.105:2083/play/a047/index.m3u8
-#EXTINF:-1,Premiere 7
-http://179.100.59.105:2083/play/a07t/index.m3u8
-#EXTINF:-1,RBI
-http://179.100.59.105:2083/play/a04o/index.m3u8
-#EXTINF:-1,RBS TV Porto Alegre
-http://179.100.59.105:2083/play/a079/index.m3u8
-#EXTINF:-1,RCI
-http://179.100.59.105:2083/play/a040/index.m3u8
-#EXTINF:-1,RIT
-http://179.100.59.105:2083/play/a04n/index.m3u8
-#EXTINF:-1,RPC TV Curitiba
-http://179.100.59.105:2083/play/a037/index.m3u8
-#EXTINF:-1,Rede Amazonica Manaus
-http://179.100.59.105:2083/play/a034/index.m3u8
-#EXTINF:-1,SBT
-http://179.100.59.105:2083/play/a07a/index.m3u8
-#EXTINF:-1,SIC Internacional
-http://179.100.59.105:2083/play/a03j/index.m3u8
-#EXTINF:-1,Sextreme
-http://179.100.59.105:2083/play/a046/index.m3u8
-#EXTINF:-1,Sexy Hot
-http://179.100.59.105:2083/play/a049/index.m3u8
-#EXTINF:-1,SporTV
-http://179.100.59.105:2083/play/a052/index.m3u8
-#EXTINF:-1,SporTV Alternativo
-http://179.100.59.105:2083/play/a03m/index.m3u8
-#EXTINF:-1,TBS https://iptv.live
-http://179.100.59.105:2083/play/a04f/index.m3u8
-#EXTINF:-1,TV Anhanguera GoiÐnia
-http://179.100.59.105:2083/play/a063/index.m3u8
-#EXTINF:-1,TV Bahia
-http://179.100.59.105:2083/play/a031/index.m3u8
-#EXTINF:-1,TV Centro America Cuiaba
-http://179.100.59.105:2083/play/a036/index.m3u8
-#EXTINF:-1,TV Liberal Belem
-http://179.100.59.105:2083/play/a033/index.m3u8
-#EXTINF:-1,TV Novo Tempo
-http://179.100.59.105:2083/play/a03r/index.m3u8
-#EXTINF:-1,TV Tem Bauru
-http://179.100.59.105:2083/play/a065/index.m3u8
-#EXTINF:-1,TV Tem Sorocaba
-http://179.100.59.105:2083/play/a064/index.m3u8
-#EXTINF:-1,TV Tribuna Santos
-http://179.100.59.105:2083/play/a03o/index.m3u8
-#EXTINF:-1,TV Vanguarda S. J. dos Campos
-http://179.100.59.105:2083/play/a03b/index.m3u8
-#EXTINF:-1,TV Verdes Mares Fortaleza
-http://179.100.59.105:2083/play/a030/index.m3u8
-#EXTINF:-1,Telecine Fun
-http://179.100.59.105:2083/play/a04a/index.m3u8
-#EXTINF:-1,Telecine Premium
-http://179.100.59.105:2083/play/a055/index.m3u8
-#EXTINF:-1,Telecine Touch
-http://179.100.59.105:2083/play/a07q/index.m3u8
-#EXTINF:-1,The History Channel
-http://179.100.59.105:2083/play/a03d/index.m3u8
-#EXTINF:-1,Tooncast
-http://179.100.59.105:2083/play/a05c/index.m3u8
-#EXTINF:-1,TruTV
-http://179.100.59.105:2083/play/a059/index.m3u8
-#EXTINF:-1,TruTV
-http://179.100.59.105:2083/play/a07r/index.m3u8
-#EXTINF:-1,Viva
-http://179.100.59.105:2083/play/a03t/index.m3u8
-#EXTINF:-1,Warner Channel
-http://179.100.59.105:2083/play/a03z/index.m3u8
-#EXTINF:-1,AE
-http://177.133.15.82:8000/play/AE/index.m3u8
-#EXTINF:-1,AMC
-http://177.133.15.82:8000/play/AMC/index.m3u8
+http://rec2.distv.net:8100/joao/joao/416
+#EXTINF:-1,ANIMAL PLANET
+http://rec2.distv.net:8100/joao/joao/417
+#EXTINF:-1,ARTE 1
+http://rec2.distv.net:8100/joao/joao/418
 #EXTINF:-1,AXN
-http://177.133.15.82:8000/play/AXN/index.m3u8
-#EXTINF:-1,Animal Planet
-http://177.133.15.82:8000/play/AnimalPlanet/index.m3u8
-#EXTINF:-1,Arte 1
-http://177.133.15.82:8000/play/Arte1/index.m3u8
-#EXTINF:-1,BAND 1SEG
-http://177.133.15.82:8000/play/a07p/index.m3u8
-#EXTINF:-1,BAND CAMPINAS
-http://177.133.15.82:8000/play/BANDCAMPINAS/index.m3u8
-#EXTINF:-1,BAND CAMPINAS HD
-http://177.133.15.82:8000/play/BANDCAMPINASHD/index.m3u8
+http://rec2.distv.net:8100/joao/joao/419
+#EXTINF:-1,BABY TV
+http://rec2.distv.net:8100/joao/joao/423
+#EXTINF:-1,BAND
+http://rec2.distv.net:8100/joao/joao/420
+#EXTINF:-1,BAND NEWS
+http://rec2.distv.net:8100/joao/joao/421
+#EXTINF:-1,BAND SPORTS
+http://rec2.distv.net:8100/joao/joao/422
 #EXTINF:-1,BIS
-http://177.133.15.82:8000/play/BIS/index.m3u8
-#EXTINF:-1,Baby TV
-http://177.133.15.82:8000/play/BabyTV/index.m3u8
-#EXTINF:-1,Band News
-http://177.133.15.82:8000/play/BandNews/index.m3u8
-#EXTINF:-1,Band Sports
-http://177.133.15.82:8000/play/BandSports/index.m3u8
-#EXTINF:-1,BandCuritibaHD
-http://177.133.15.82:8000/play/BandCuritibaHD/index.m3u8
-#EXTINF:-1,Bandeirantes
-http://177.133.15.82:8000/play/Bandeirantes/index.m3u8
-#EXTINF:-1,Boa Vontade TV
-http://177.133.15.82:8000/play/BoaVontadeTV/index.m3u8
-#EXTINF:-1,Boa Vontade TV
-http://177.133.15.82:8000/play/a01c/index.m3u8
-#EXTINF:-1,Boomerang
-http://177.133.15.82:8000/play/Boomerang/index.m3u8
-#EXTINF:-1,CNN Brasil
-http://177.133.15.82:8000/play/CNNBrasil/index.m3u8
-#EXTINF:-1,CNN Espaæol https://iptv.live
-http://177.133.15.82:8000/play/CNNEspanhol/index.m3u8
-#EXTINF:-1,CNN Internacional
-http://177.133.15.82:8000/play/CNNInternacional/index.m3u8
-#EXTINF:-1,CNT
-http://177.133.15.82:8000/play/CNT/index.m3u8
-#EXTINF:-1,CONMEBOL TV 1
-http://177.133.15.82:8000/play/CONMEBOLTV1/index.m3u8
-#EXTINF:-1,CONMEBOL TV 2
-http://177.133.15.82:8000/play/CONMEBOLTV2/index.m3u8
-#EXTINF:-1,CONMEBOL TV 3
-http://177.133.15.82:8000/play/CONMEBOLTV3/index.m3u8
-#EXTINF:-1,CONMEBOL TV 4
-http://177.133.15.82:8000/play/CONMEBOLTV4/index.m3u8
+http://rec2.distv.net:8100/joao/joao/424
+#EXTINF:-1,BOOMERANG
+http://rec2.distv.net:8100/joao/joao/425
+#EXTINF:-1,BRASILEIRINHAS
+http://rec2.distv.net:8100/joao/joao/607
 #EXTINF:-1,Satellite TV
-http://177.133.15.82:8000/play/CanalBrasil/index.m3u8
+http://rec2.distv.net:8100/joao/joao/426
 #EXTINF:-1,Satellite TV
-http://177.133.15.82:8000/play/CanalClaro/index.m3u8
-#EXTINF:-1,Satellite TV
-http://177.133.15.82:8000/play/a045/index.m3u8
-#EXTINF:-1,Satellite TV
-http://177.133.15.82:8000/play/CanalRural/index.m3u8
-#EXTINF:-1,Satellite TV
-http://177.133.15.82:8000/play/CanalSony/index.m3u8
-#EXTINF:-1,Satellite TV
-http://177.133.15.82:8000/play/CanaldoBoi/index.m3u8
-#EXTINF:-1,Cancao Nova
-http://177.133.15.82:8000/play/CancaoNova/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://177.133.15.82:8000/play/CartoonNetwork/index.m3u8
-#EXTINF:-1,Cinemax
-http://177.133.15.82:8000/play/Cinemax/index.m3u8
-#EXTINF:-1,Combate
-http://177.133.15.82:8000/play/Combate/index.m3u8
-#EXTINF:-1,Comedy Central
-http://177.133.15.82:8000/play/ComedyCentral/index.m3u8
-#EXTINF:-1,Curta!
-http://177.133.15.82:8000/play/Curta!/index.m3u8
-#EXTINF:-1,Discovery Channel
-http://177.133.15.82:8000/play/DiscoveryChannel/index.m3u8
-#EXTINF:-1,Discovery HH
-http://177.133.15.82:8000/play/DiscoveryHH/index.m3u8
-#EXTINF:-1,Discovery Kids
-http://177.133.15.82:8000/play/DiscoveryKids/index.m3u8
-#EXTINF:-1,Discovery Turbo
-http://177.133.15.82:8000/play/DiscoveryTurbo/index.m3u8
-#EXTINF:-1,Disney
-http://177.133.15.82:8000/play/Disney/index.m3u8
-#EXTINF:-1,Disney Junior
-http://177.133.15.82:8000/play/DisneyJunior/index.m3u8
-#EXTINF:-1,Disney XD
-http://177.133.15.82:8000/play/DisneyXD/index.m3u8
+http://rec2.distv.net:8100/joao/joao/427
+#EXTINF:-1,CARTOON NETWORK
+http://rec2.distv.net:8100/joao/joao/428
+#EXTINF:-1,CINE Satellite TV
+http://rec2.distv.net:8100/joao/joao/535
+#EXTINF:-1,CINE Satellite TV
+http://rec2.distv.net:8100/joao/joao/544
+#EXTINF:-1,CINE Satellite TV
+http://rec2.distv.net:8100/joao/joao/536
+#EXTINF:-1,CINE Satellite TV
+http://rec2.distv.net:8100/joao/joao/537
+#EXTINF:-1,CINE Satellite TV
+http://rec2.distv.net:8100/joao/joao/538
+#EXTINF:-1,CINE Satellite TV
+http://rec2.distv.net:8100/joao/joao/539
+#EXTINF:-1,CINE Satellite TV
+http://rec2.distv.net:8100/joao/joao/540
+#EXTINF:-1,CINE Satellite TV
+http://rec2.distv.net:8100/joao/joao/541
+#EXTINF:-1,CINE Satellite TV
+http://rec2.distv.net:8100/joao/joao/542
+#EXTINF:-1,CINE Satellite TV
+http://rec2.distv.net:8100/joao/joao/543
+#EXTINF:-1,CINEMAX
+http://rec2.distv.net:8100/joao/joao/429
+#EXTINF:-1,CNN BRASIL
+http://rec2.distv.net:8100/joao/joao/432
+#EXTINF:-1,COMBATE
+http://rec2.distv.net:8100/joao/joao/431
+#EXTINF:-1,COMEDY CENTRAL
+http://rec2.distv.net:8100/joao/joao/435
+#EXTINF:-1,CULTURA
+http://rec2.distv.net:8100/joao/joao/436
+#EXTINF:-1,CURTA
+http://rec2.distv.net:8100/joao/joao/437
+#EXTINF:-1,DAZN
+http://rec2.distv.net:8100/joao/joao/606
+#EXTINF:-1,DISCOVERY CHANNEL
+http://rec2.distv.net:8100/joao/joao/438
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://rec2.distv.net:8100/joao/joao/439
+#EXTINF:-1,DISCOVERY ID
+http://rec2.distv.net:8100/joao/joao/440
+#EXTINF:-1,DISCOVERY KIDS
+http://rec2.distv.net:8100/joao/joao/441
+#EXTINF:-1,DISCOVERY SCIENCE
+http://rec2.distv.net:8100/joao/joao/442
+#EXTINF:-1,DISCOVERY THEATER
+http://rec2.distv.net:8100/joao/joao/443
+#EXTINF:-1,DISCOVERY TURBO
+http://rec2.distv.net:8100/joao/joao/444
+#EXTINF:-1,DISCOVERY WORLD
+http://rec2.distv.net:8100/joao/joao/445
+#EXTINF:-1,DISNEY CHANNEL
+http://rec2.distv.net:8100/joao/joao/446
+#EXTINF:-1,DISNEY JUNIOR
+http://rec2.distv.net:8100/joao/joao/447
+#EXTINF:-1,DISNEY XD
+http://rec2.distv.net:8100/joao/joao/448
 #EXTINF:-1,E!
-http://177.133.15.82:8000/play/E!/index.m3u8
-#EXTINF:-1,EPTV Campinas
-http://177.133.15.82:8000/play/EPTVCampinas/index.m3u8
-#EXTINF:-1,EPTV Ribeirao Preto
-http://177.133.15.82:8000/play/EPTVRibeiraoPreto/index.m3u8
-#EXTINF:-1,EPTV Sao Carlos
-http://177.133.15.82:8000/play/EPTVSaoCarlos/index.m3u8
+http://rec2.distv.net:8100/joao/joao/449
 #EXTINF:-1,ESPN
-http://177.133.15.82:8000/play/ESPN/index.m3u8
-#EXTINF:-1,ESPN Brasil
-http://177.133.15.82:8000/play/ESPNBrasil/index.m3u8
-#EXTINF:-1,ESPN2
-http://177.133.15.82:8000/play/ESPN2/index.m3u8
+http://rec2.distv.net:8100/joao/joao/450
+#EXTINF:-1,ESPN 2
+http://rec2.distv.net:8100/joao/joao/451
+#EXTINF:-1,ESPN BRASIL
+http://rec2.distv.net:8100/joao/joao/452
+#EXTINF:-1,ESPN EXTRA
+http://rec2.distv.net:8100/joao/joao/453
+#EXTINF:-1,FASHION TV
+http://rec2.distv.net:8100/joao/joao/454
+#EXTINF:-1,FISH TV
+http://rec2.distv.net:8100/joao/joao/455
+#EXTINF:-1,FOOD NETWORK
+http://rec2.distv.net:8100/joao/joao/456
 #EXTINF:-1,FOX
-http://177.133.15.82:8000/play/FOX/index.m3u8
+http://rec2.distv.net:8100/joao/joao/457
+#EXTINF:-1,FOX LIFE
+http://rec2.distv.net:8100/joao/joao/458
+#EXTINF:-1,FOX PREMIUM 1
+http://rec2.distv.net:8100/joao/joao/460
+#EXTINF:-1,FOX PREMIUM 2 https://iptv.live
+http://rec2.distv.net:8100/joao/joao/461
+#EXTINF:-1,FOX SPORTS
+http://rec2.distv.net:8100/joao/joao/462
+#EXTINF:-1,FOX SPORTS 2
+http://rec2.distv.net:8100/joao/joao/463
+#EXTINF:-1,FUTURA
+http://rec2.distv.net:8100/joao/joao/464
 #EXTINF:-1,FX
-http://177.133.15.82:8000/play/FX/index.m3u8
-#EXTINF:-1,Film Arts
-http://177.133.15.82:8000/play/FilmArts/index.m3u8
-#EXTINF:-1,Fish TV https://iptv.live
-http://177.133.15.82:8000/play/FishTV/index.m3u8
-#EXTINF:-1,Food Network
-http://177.133.15.82:8000/play/FoodNetwork/index.m3u8
-#EXTINF:-1,Fox Life
-http://177.133.15.82:8000/play/FoxLife/index.m3u8
-#EXTINF:-1,Fox Sports
-http://177.133.15.82:8000/play/FoxSports/index.m3u8
-#EXTINF:-1,Fox Sports 2
-http://177.133.15.82:8000/play/FoxSports2/index.m3u8
-#EXTINF:-1,Futura
-http://177.133.15.82:8000/play/Futura/index.m3u8
-#EXTINF:-1,GAZETA SP
-http://177.133.15.82:8000/play/GAZETASP/index.m3u8
-#EXTINF:-1,GAZETA SP HD
-http://177.133.15.82:8000/play/GAZETASPHD/index.m3u8
+http://rec2.distv.net:8100/joao/joao/465
+#EXTINF:-1,GLOBO
+http://rec2.distv.net:8100/joao/joao/466
+#EXTINF:-1,GLOBO NEWS
+http://rec2.distv.net:8100/joao/joao/467
+#EXTINF:-1,GLOOB
+http://rec2.distv.net:8100/joao/joao/468
 #EXTINF:-1,GNT
-http://177.133.15.82:8000/play/GNT/index.m3u8
-#EXTINF:-1,Globo Brasilia
-http://177.133.15.82:8000/play/GloboBrasilia/index.m3u8
-#EXTINF:-1,Globo Minas
-http://177.133.15.82:8000/play/GloboMinas/index.m3u8
-#EXTINF:-1,Globo Nordeste
-http://177.133.15.82:8000/play/GloboNordeste/index.m3u8
-#EXTINF:-1,Globo RJ
-http://177.133.15.82:8000/play/GloboRJ/index.m3u8
-#EXTINF:-1,Globo SP
-http://177.133.15.82:8000/play/GloboSP/index.m3u8
-#EXTINF:-1,GloboNews
-http://177.133.15.82:8000/play/GloboNews/index.m3u8
-#EXTINF:-1,Gloob
-http://177.133.15.82:8000/play/Gloob/index.m3u8
+http://rec2.distv.net:8100/joao/joao/469
+#EXTINF:-1,H2
+http://rec2.distv.net:8100/joao/joao/480
 #EXTINF:-1,HBO
-http://177.133.15.82:8000/play/HBO/index.m3u8
-#EXTINF:-1,HBO Family
-http://177.133.15.82:8000/play/HBOFamily/index.m3u8
-#EXTINF:-1,HBO Plus
-http://177.133.15.82:8000/play/HBOPlus/index.m3u8
-#EXTINF:-1,HBO Signature
-http://177.133.15.82:8000/play/HBOSignature/index.m3u8
-#EXTINF:-1,HBO2
-http://177.133.15.82:8000/play/HBO2/index.m3u8
-#EXTINF:-1,History 2
-http://177.133.15.82:8000/play/History2/index.m3u8
-#EXTINF:-1,I-SAT
-http://177.133.15.82:8000/play/I-SAT/index.m3u8
-#EXTINF:-1,ID - Investigacao Discovery
-http://177.133.15.82:8000/play/ID-InvestigacaoDiscovery/index.m3u8
-#EXTINF:-1,Ideal TV
-http://177.133.15.82:8000/play/IdealTV/index.m3u8
-#EXTINF:-1,Inter TV Cabugi
-http://177.133.15.82:8000/play/InterTVCabugi/index.m3u8
-#EXTINF:-1,InterTV Grande Minas HD
-http://177.133.15.82:8000/play/InterTVGrandeMinasHD/index.m3u8
-#EXTINF:-1,Lifetime
-http://177.133.15.82:8000/play/Lifetime/index.m3u8
-#EXTINF:-1,MAX
-http://177.133.15.82:8000/play/MAX/index.m3u8
-#EXTINF:-1,MAX Prime
-http://177.133.15.82:8000/play/MAXPrime/index.m3u8
-#EXTINF:-1,MAX UP
-http://177.133.15.82:8000/play/MAXUP/index.m3u8
+http://rec2.distv.net:8100/joao/joao/471
+#EXTINF:-1,HBO 2
+http://rec2.distv.net:8100/joao/joao/472
+#EXTINF:-1,HBO FAMILY
+http://rec2.distv.net:8100/joao/joao/473
+#EXTINF:-1,HBO MUNDI
+http://rec2.distv.net:8100/joao/joao/475
+#EXTINF:-1,HBO PLUS
+http://rec2.distv.net:8100/joao/joao/474
+#EXTINF:-1,HBO POP
+http://rec2.distv.net:8100/joao/joao/476
+#EXTINF:-1,HBO SIGNATURE
+http://rec2.distv.net:8100/joao/joao/478
+#EXTINF:-1,HBO XTREME
+http://rec2.distv.net:8100/joao/joao/477
+#EXTINF:-1,HGTV
+http://rec2.distv.net:8100/joao/joao/481
+#EXTINF:-1,HISTORY
+http://rec2.distv.net:8100/joao/joao/479
+#EXTINF:-1,LIFETIME
+http://rec2.distv.net:8100/joao/joao/482
+#EXTINF:-1,MAIS GLOBOSAT
+http://rec2.distv.net:8100/joao/joao/483
+#EXTINF:-1,MEGAPIX
+http://rec2.distv.net:8100/joao/joao/484
 #EXTINF:-1,MTV
-http://177.133.15.82:8000/play/MTV/index.m3u8
-#EXTINF:-1,Mais Globosat
-http://177.133.15.82:8000/play/MaisGlobosat/index.m3u8
-#EXTINF:-1,MegaPix
-http://177.133.15.82:8000/play/MegaPix/index.m3u8
-#EXTINF:-1,Multishow
-http://177.133.15.82:8000/play/Multishow/index.m3u8
-#EXTINF:-1,Music Box Brazil
-http://177.133.15.82:8000/play/MusicBoxBrazil/index.m3u8
-#EXTINF:-1,NHK
-http://177.133.15.82:8000/play/NHK/index.m3u8
-#EXTINF:-1,NatGeo Kids
-http://177.133.15.82:8000/play/NatGeoKids/index.m3u8
-#EXTINF:-1,NatGeo Wild
-http://177.133.15.82:8000/play/NatGeoWild/index.m3u8
-#EXTINF:-1,National Geographic
-http://177.133.15.82:8000/play/NationalGeographic/index.m3u8
-#EXTINF:-1,Nick Jr
-http://177.133.15.82:8000/play/NickJr/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://177.133.15.82:8000/play/Nickelodeon/index.m3u8
+http://rec2.distv.net:8100/joao/joao/485
+#EXTINF:-1,MTV LIVE
+http://rec2.distv.net:8100/joao/joao/486
+#EXTINF:-1,MULTISHOW
+http://rec2.distv.net:8100/joao/joao/487
+#EXTINF:-1,MUSIC BOX BRASIL
+http://rec2.distv.net:8100/joao/joao/488
+#EXTINF:-1,NATGEO
+http://rec2.distv.net:8100/joao/joao/489
+#EXTINF:-1,NATGEO KIDS
+http://rec2.distv.net:8100/joao/joao/490
+#EXTINF:-1,NATGEO WILD
+http://rec2.distv.net:8100/joao/joao/491
+#EXTINF:-1,NICK
+http://rec2.distv.net:8100/joao/joao/492
+#EXTINF:-1,NICK JUNIOR
+http://rec2.distv.net:8100/joao/joao/493
 #EXTINF:-1,OFF
-http://177.133.15.82:8000/play/OFF/index.m3u8
-#EXTINF:-1,Paramount
-http://177.133.15.82:8000/play/Paramount/index.m3u8
-#EXTINF:-1,Play TV
-http://177.133.15.82:8000/play/PlayTV/index.m3u8
-#EXTINF:-1,Playboy TV
-http://177.133.15.82:8000/play/PlayboyTV/index.m3u8
-#EXTINF:-1,Polishop TV
-http://177.133.15.82:8000/play/PolishopTV/index.m3u8
-#EXTINF:-1,Premiere 2
-http://177.133.15.82:8000/play/Premiere2/index.m3u8
-#EXTINF:-1,Premiere 3
-http://177.133.15.82:8000/play/Premiere3/index.m3u8
-#EXTINF:-1,Premiere 4
-http://177.133.15.82:8000/play/Premiere4/index.m3u8
-#EXTINF:-1,Premiere 5
-http://177.133.15.82:8000/play/Premiere5/index.m3u8
-#EXTINF:-1,Premiere 6
-http://177.133.15.82:8000/play/Premiere6/index.m3u8
-#EXTINF:-1,Premiere 7
-http://177.133.15.82:8000/play/Premiere7/index.m3u8
-#EXTINF:-1,Premiere 8
-http://177.133.15.82:8000/play/Premiere8/index.m3u8
-#EXTINF:-1,Premiere Clubes
-http://177.133.15.82:8000/play/PremiereClubes/index.m3u8
-#EXTINF:-1,Prime Box Brazil
-http://177.133.15.82:8000/play/PrimeBoxBrazil/index.m3u8
-#EXTINF:-1,RBS TV Porto Alegre
-http://177.133.15.82:8000/play/RBSTVPortoAlegre/index.m3u8
-#EXTINF:-1,RECORDTV
-http://177.133.15.82:8000/play/RECORDTV/index.m3u8
-#EXTINF:-1,RPC TV Curitiba
-http://177.133.15.82:8000/play/RPCTVCuritiba/index.m3u8
-#EXTINF:-1,Record News
-http://177.133.15.82:8000/play/RecordNews/index.m3u8
-#EXTINF:-1,Record SJRP HD
-http://177.133.15.82:8000/play/RecordSJRPHD/index.m3u8
-#EXTINF:-1,RecordTV Rio
-http://177.133.15.82:8000/play/RecordTVRio/index.m3u8
-#EXTINF:-1,RecordTV Rio HD
-http://177.133.15.82:8000/play/RecordTVRioHD/index.m3u8
-#EXTINF:-1,RecordTVbelem
-http://177.133.15.82:8000/play/RecordTVbelem/index.m3u8
-#EXTINF:-1,RecordTVbelemHD
-http://177.133.15.82:8000/play/RecordTVbelemHD/index.m3u8
-#EXTINF:-1,Rede Amazonica Manaus
-http://177.133.15.82:8000/play/RedeAmazonicaManaus/index.m3u8
-#EXTINF:-1,Rede Brasil
-http://177.133.15.82:8000/play/RedeBrasil/index.m3u8
-#EXTINF:-1,Rede TV
-http://177.133.15.82:8000/play/RedeTV/index.m3u8
-#EXTINF:-1,Rede Vida
-http://177.133.15.82:8000/play/RedeVida/index.m3u8
+http://rec2.distv.net:8100/joao/joao/494
+#EXTINF:-1,PAI ETERNO
+http://rec2.distv.net:8100/joao/joao/495
+#EXTINF:-1,PARAMOUNT
+http://rec2.distv.net:8100/joao/joao/496
+#EXTINF:-1,PREMIERE 2
+http://rec2.distv.net:8100/joao/joao/497
+#EXTINF:-1,PREMIERE 3
+http://rec2.distv.net:8100/joao/joao/498
+#EXTINF:-1,PREMIERE 4
+http://rec2.distv.net:8100/joao/joao/499
+#EXTINF:-1,PREMIERE 5
+http://rec2.distv.net:8100/joao/joao/500
+#EXTINF:-1,PREMIERE 6
+http://rec2.distv.net:8100/joao/joao/501
+#EXTINF:-1,PREMIERE 7
+http://rec2.distv.net:8100/joao/joao/502
+#EXTINF:-1,PREMIERE CLUBES
+http://rec2.distv.net:8100/joao/joao/503
+#EXTINF:-1,PRIME BOX BRAZIL
+http://rec2.distv.net:8100/joao/joao/504
+#EXTINF:-1,REC-GLOBO NORDESTE-1080-H264
+http://rec2.distv.net:8100/joao/joao/600
+#EXTINF:-1,REC-REDE TV-1080-H264
+http://rec2.distv.net:8100/joao/joao/598
+#EXTINF:-1,REC-RIT TV-1080-H264
+http://rec2.distv.net:8100/joao/joao/605
+#EXTINF:-1,REC-TV CLUBE-1080-H264
+http://rec2.distv.net:8100/joao/joao/599
+#EXTINF:-1,REC-TV JORNAL-1080-H264
+http://rec2.distv.net:8100/joao/joao/601
+#EXTINF:-1,REC-TV TRIBUNA-1080-H264
+http://rec2.distv.net:8100/joao/joao/602
+#EXTINF:-1,REC-TV UNIVERSITARIA-1080-H264
+http://rec2.distv.net:8100/joao/joao/603
+#EXTINF:-1,RECORD NEWS
+http://rec2.distv.net:8100/joao/joao/505
+#EXTINF:-1,REDE TV
+http://rec2.distv.net:8100/joao/joao/506
 #EXTINF:-1,SBT
-http://177.133.15.82:8000/play/SBT/index.m3u8
-#EXTINF:-1,SIC Internacional
-http://177.133.15.82:8000/play/SICInternacional/index.m3u8
-#EXTINF:-1,Sextreme
-http://177.133.15.82:8000/play/Sextreme/index.m3u8
-#EXTINF:-1,Sexy Hot
-http://177.133.15.82:8000/play/SexyHot/index.m3u8
-#EXTINF:-1,Space
-http://177.133.15.82:8000/play/Space/index.m3u8
-#EXTINF:-1,SporTV
-http://177.133.15.82:8000/play/SporTV/index.m3u8
-#EXTINF:-1,SporTV 2
-http://177.133.15.82:8000/play/SporTV2/index.m3u8
-#EXTINF:-1,SporTV 2 Alternativo
-http://177.133.15.82:8000/play/SporTV2Alternativo/index.m3u8
-#EXTINF:-1,SporTV 3
-http://177.133.15.82:8000/play/SporTV3/index.m3u8
-#EXTINF:-1,SporTV Alternativo
-http://177.133.15.82:8000/play/SporTVAlternativo/index.m3u8
-#EXTINF:-1,Studio Universal
-http://177.133.15.82:8000/play/StudioUniversal/index.m3u8
-#EXTINF:-1,Syfy
-http://177.133.15.82:8000/play/Syfy/index.m3u8
+http://rec2.distv.net:8100/joao/joao/507
+#EXTINF:-1,SEX PRIVE
+http://rec2.distv.net:8100/joao/joao/546
+#EXTINF:-1,SEXY HOT
+http://rec2.distv.net:8100/joao/joao/545
+#EXTINF:-1,SPACE
+http://rec2.distv.net:8100/joao/joao/508
+#EXTINF:-1,SPORTV
+http://rec2.distv.net:8100/joao/joao/509
+#EXTINF:-1,SPORTV 2
+http://rec2.distv.net:8100/joao/joao/510
+#EXTINF:-1,SPORTV 3
+http://rec2.distv.net:8100/joao/joao/511
+#EXTINF:-1,STUDIO UNIVERSAL
+http://rec2.distv.net:8100/joao/joao/512
+#EXTINF:-1,SYFY
+http://rec2.distv.net:8100/joao/joao/513
 #EXTINF:-1,TBS
-http://177.133.15.82:8000/play/TBS/index.m3u8
-#EXTINF:-1,TCM
-http://177.133.15.82:8000/play/TCM/index.m3u8
+http://rec2.distv.net:8100/joao/joao/514
+#EXTINF:-1,TC ACTION
+http://rec2.distv.net:8100/joao/joao/515
+#EXTINF:-1,TC CULT
+http://rec2.distv.net:8100/joao/joao/516
+#EXTINF:-1,TC FUN
+http://rec2.distv.net:8100/joao/joao/517
+#EXTINF:-1,TC PIPOCA
+http://rec2.distv.net:8100/joao/joao/518
+#EXTINF:-1,TC PREMIUM
+http://rec2.distv.net:8100/joao/joao/519
+#EXTINF:-1,TC TOUCH
+http://rec2.distv.net:8100/joao/joao/520
 #EXTINF:-1,TLC
-http://177.133.15.82:8000/play/TLC/index.m3u8
+http://rec2.distv.net:8100/joao/joao/521
 #EXTINF:-1,TNT
-http://177.133.15.82:8000/play/TNT/index.m3u8
-#EXTINF:-1,TNT Series
-http://177.133.15.82:8000/play/TNTSeries/index.m3u8
-#EXTINF:-1,TV Anhanguera Goiania
-http://177.133.15.82:8000/play/TVAnhangueraGoiania/index.m3u8
-#EXTINF:-1,TV Aparecida
-http://177.133.15.82:8000/play/TVAparecida/index.m3u8
-#EXTINF:-1,TV Aratu HD (SBT Bahia)
-http://177.133.15.82:8000/play/TVAratuHD/index.m3u8
-#EXTINF:-1,TV Bahia
-http://177.133.15.82:8000/play/TVBahia/index.m3u8
-#EXTINF:-1,TV Brasil
-http://177.133.15.82:8000/play/TVBrasil/index.m3u8
-#EXTINF:-1,TV Brasil 2
-http://177.133.15.82:8000/play/TVBrasil2/index.m3u8
-#EXTINF:-1,TV Cabralia HD (Record Bahia)
-http://177.133.15.82:8000/play/TVCabraliaHD/index.m3u8
-#EXTINF:-1,TV Camara
-http://177.133.15.82:8000/play/TVCamara/index.m3u8
-#EXTINF:-1,TV Centro America Cuiaba
-http://177.133.15.82:8000/play/TVCentroAmericaCuiaba/index.m3u8
-#EXTINF:-1,TV Cultura
-http://177.133.15.82:8000/play/TVCultura/index.m3u8
-#EXTINF:-1,TV Escola
-http://177.133.15.82:8000/play/TVEscola/index.m3u8
-#EXTINF:-1,TV GAZETA AL
-http://177.133.15.82:8000/play/a07j/index.m3u8
-#EXTINF:-1,TV Justica
-http://177.133.15.82:8000/play/TVJustica/index.m3u8
-#EXTINF:-1,TV Liberal Belem
-http://177.133.15.82:8000/play/TVLiberalBelem/index.m3u8
-#EXTINF:-1,TV Novo Tempo
-http://177.133.15.82:8000/play/TVNovoTempo/index.m3u8
-#EXTINF:-1,TV RA tim bum
-http://177.133.15.82:8000/play/TVRatimbum/index.m3u8
-#EXTINF:-1,TV Santa Cruz
-http://177.133.15.82:8000/play/TVSantaCruz/index.m3u8
-#EXTINF:-1,TV Senado
-http://177.133.15.82:8000/play/TVSenado/index.m3u8
-#EXTINF:-1,TV Subae - FSA
-http://177.133.15.82:8000/play/TVSubae/index.m3u8
-#EXTINF:-1,TV Sudoeste
-http://177.133.15.82:8000/play/a07d/index.m3u8
-#EXTINF:-1,TV Tem Bauru
-http://177.133.15.82:8000/play/TVTemBauru/index.m3u8
-#EXTINF:-1,TV Tem Sao Jose do Rio Preto
-http://177.133.15.82:8000/play/TVTemSaoJosedoRioPreto/index.m3u8
-#EXTINF:-1,TV Tem Sorocaba
-http://177.133.15.82:8000/play/TVTemSorocaba/index.m3u8
-#EXTINF:-1,TV Tribuna Santos
-http://177.133.15.82:8000/play/TVTribunaSantos/index.m3u8
-#EXTINF:-1,TV Vanguarda S. J. dos Campos
-http://177.133.15.82:8000/play/TVVanguardaSJdosCampos/index.m3u8
-#EXTINF:-1,TV Verdes Mares Fortaleza
-http://177.133.15.82:8000/play/TVVerdesMaresFortaleza/index.m3u8
-#EXTINF:-1,Telecine Action
-http://177.133.15.82:8000/play/TelecineAction/index.m3u8
-#EXTINF:-1,Telecine Cult
-http://177.133.15.82:8000/play/TelecineCult/index.m3u8
-#EXTINF:-1,Telecine Fun
-http://177.133.15.82:8000/play/TelecineFun/index.m3u8
-#EXTINF:-1,Telecine Pipoca
-http://177.133.15.82:8000/play/TelecinePipoca/index.m3u8
-#EXTINF:-1,Telecine Premium
-http://177.133.15.82:8000/play/TelecinePremium/index.m3u8
-#EXTINF:-1,Telecine Touch
-http://177.133.15.82:8000/play/TelecineTouch/index.m3u8
-#EXTINF:-1,Terra Viva
-http://177.133.15.82:8000/play/TerraViva/index.m3u8
-#EXTINF:-1,The History Channel
-http://177.133.15.82:8000/play/TheHistoryChannel/index.m3u8
-#EXTINF:-1,Tooncast
-http://177.133.15.82:8000/play/Tooncast/index.m3u8
-#EXTINF:-1,TruTV
-http://177.133.15.82:8000/play/TruTV/index.m3u8
-#EXTINF:-1,Universal TV
-http://177.133.15.82:8000/play/UniversalTV/index.m3u8
-#EXTINF:-1,VH1 Megahits
-http://177.133.15.82:8000/play/VH1Megahits/index.m3u8
-#EXTINF:-1,Viva
-http://177.133.15.82:8000/play/Viva/index.m3u8
-#EXTINF:-1,Warner Channel
-http://177.133.15.82:8000/play/WarnerChannel/index.m3u8
-#EXTINF:-1,Woohoo
-http://177.133.15.82:8000/play/Woohoo/index.m3u8
-#EXTINF:-1,ZooMoo
-http://177.133.15.82:8000/play/ZooMoo/index.m3u8
+http://rec2.distv.net:8100/joao/joao/522
+#EXTINF:-1,TNT SERIES
+http://rec2.distv.net:8100/joao/joao/523
+#EXTINF:-1,TOONCAST
+http://rec2.distv.net:8100/joao/joao/525
+#EXTINF:-1,TRANNY
+http://rec2.distv.net:8100/joao/joao/608
+#EXTINF:-1,TRAVELBOX
+http://rec2.distv.net:8100/joao/joao/524
+#EXTINF:-1,TV NOVO TEMPO
+http://rec2.distv.net:8100/joao/joao/527
+#EXTINF:-1,TV RA TIM BUM
+http://rec2.distv.net:8100/joao/joao/528
+#EXTINF:-1,UNIVERSAL TV
+http://rec2.distv.net:8100/joao/joao/529
+#EXTINF:-1,VH1
+http://rec2.distv.net:8100/joao/joao/530
+#EXTINF:-1,VIVA
+http://rec2.distv.net:8100/joao/joao/531
+#EXTINF:-1,WARNER CHANNEL
+http://rec2.distv.net:8100/joao/joao/532
+#EXTINF:-1,A FAZENDA
+http://rec2.distv.net:8100/joao/joao/553
+#EXTINF:-1,TV BRASIL
+http://rec2.distv.net:8100/joao/joao/526
+#EXTINF:-1,WOOHOO
+http://rec2.distv.net:8100/joao/joao/533
+#EXTINF:-1,TV ARATU
+http://rec2.distv.net:8100/joao/joao/556
+#EXTINF:-1,TV GRANDE RIO
+http://rec2.distv.net:8100/joao/joao/557
+#EXTINF:-1,ZOOMOO
+http://rec2.distv.net:8100/joao/joao/534
