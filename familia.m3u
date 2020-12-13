@@ -1,1749 +1,2359 @@
 #EXTM3U
-#EXTINF:-1,A&E
-http://lb.kstream.org/aovivo/SD_AE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,A&E FHD
-http://lb.kstream.org/aovivo/FHD_AE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,A&E HD
-http://lb.kstream.org/aovivo/HD_AE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,A&E HD [Alter]
-http://lb.kstream.org/aovivo/HD_AE_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,AMC
-http://lb.kstream.org/aovivo/SD_AMC/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,AMC FHD
-http://lb.kstream.org/aovivo/FHD_AMC/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,AMC HD
-http://lb.kstream.org/aovivo/HD_AMC/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,AMC HD [Alter]
-http://lb.kstream.org/aovivo/HD_AMC_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,AXN
-http://lb.kstream.org/aovivo/SD_AXN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,AXN FHD
-http://lb.kstream.org/aovivo/FHD_AXN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,AXN FHD [Leg] https://iptv.live
-http://lb.kstream.org/aovivo/FHD_AXN_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,AXN HD
-http://lb.kstream.org/aovivo/HD_AXN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,AXN HD [Alter]
-http://lb.kstream.org/aovivo/HD_AXN_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,AXN HD [Leg]
-http://lb.kstream.org/aovivo/HD_AXN_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Acampamento Lakebottom
-http://lb.kstream.org/aovivo/24_ACAMPAMENTO_LAKEBOTTOM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Aladin (DESENHO)
-http://lb.kstream.org/aovivo/24_ALADIN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Animal Planet
-http://lb.kstream.org/aovivo/SD_ANIMAL_PLANET/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Animal Planet FHD
-http://lb.kstream.org/aovivo/FHD_ANIMAL_PLANET/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Animal Planet HD
-http://lb.kstream.org/aovivo/HD_ANIMAL_PLANET/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Animal Planet HD [Alter]
-http://lb.kstream.org/aovivo/HD_ANIMAL_PLANET_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Arte 1
-http://lb.kstream.org/aovivo/SD_ARTE1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Arte 1 FHD
-http://lb.kstream.org/aovivo/FHD_ARTE_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Arte 1 HD
-http://lb.kstream.org/aovivo/HD_ARTE1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Arte 1 HD [Alter]
-http://lb.kstream.org/aovivo/HD_ARTE1_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,As Aventuras de Jackie Chan
-http://lb.kstream.org/aovivo/24_AS_AVENTURAS_JACKIECHAN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,BIS
-http://lb.kstream.org/aovivo/SD_BIS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,BIS FHD
-http://lb.kstream.org/aovivo/FHD_BIS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,BIS HD
-http://lb.kstream.org/aovivo/HD_BIS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,BIS HD [Alter]
-http://lb.kstream.org/aovivo/HD_BIS_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Baby Shark
-http://lb.kstream.org/aovivo/24_BABY_SHARK/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Baby TV
-http://lb.kstream.org/aovivo/SD_BABYTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Baby TV FHD
-http://lb.kstream.org/aovivo/FHD_BABY_TV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Baby TV HD
-http://lb.kstream.org/aovivo/HD_BABY_TV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band
-http://lb.kstream.org/aovivo/SD_BAND/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band Bahia
-http://lb.kstream.org/aovivo/SD_BAND_BA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band Campinas
-http://lb.kstream.org/aovivo/SD_BAND_CAMPINAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band Campinas HD
-http://lb.kstream.org/aovivo/HD_BAND_CAMPINAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band FHD
-http://lb.kstream.org/aovivo/FHD_BAND/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band HD
-http://lb.kstream.org/aovivo/HD_BAND/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band HD [Alter]
-http://lb.kstream.org/aovivo/HD_BAND_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band Natal HD
-http://lb.kstream.org/aovivo/HD_BAND_NATAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band News
-http://lb.kstream.org/aovivo/SD_BAND_NEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band News FHD
-http://lb.kstream.org/aovivo/FHD_BAND_NEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band News HD
-http://lb.kstream.org/aovivo/HD_BAND_NEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band News HD [Alter]
-http://lb.kstream.org/aovivo/HD_BAND_NEWS_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band Nordeste HD
-http://lb.kstream.org/aovivo/HD_BAND_NORDESTE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band Parana HD https://iptv.live
-http://lb.kstream.org/aovivo/HD_BAND_PA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band RJ
-http://lb.kstream.org/aovivo/SD_BAND_RJ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band RJ FHD
-http://lb.kstream.org/aovivo/FHD_BAND_RJ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band RJ HD
-http://lb.kstream.org/aovivo/HD_BAND_RJ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band RS HD
-http://lb.kstream.org/aovivo/HD_BAND_RS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band SP
-http://lb.kstream.org/aovivo/SD_BAND_SP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band Sports
-http://lb.kstream.org/aovivo/SD_BAND_SPORTS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band Sports FHD
-http://lb.kstream.org/aovivo/FHD_BAND_SPORTS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band Sports HD
-http://lb.kstream.org/aovivo/HD_BAND_SPORTS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band Sports HD [Alter]
-http://lb.kstream.org/aovivo/HD_BAND_SPORTS_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Ben 10
-http://lb.kstream.org/aovivo/24_BEN_10/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Boa Vontade TV
-http://lb.kstream.org/aovivo/HD_BOA_VONTADE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Bob Esponja
-http://lb.kstream.org/aovivo/24_HORAS_BOB_ESPONJA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Boku no Hero Academia
-http://lb.kstream.org/aovivo/24_BOKU_ACADEMIA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Boomerang
-http://lb.kstream.org/aovivo/SD_BOOMERANG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Boomerang FHD
-http://lb.kstream.org/aovivo/FHD_BOOMERANG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Boomerang HD
-http://lb.kstream.org/aovivo/HD_BOOMERANG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Boomerang HD [Alter]
-http://lb.kstream.org/aovivo/HD_BOOMERANG_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,CNN Brasil
-http://lb.kstream.org/aovivo/SD_CNN_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,CNN Brasil FHD
-http://lb.kstream.org/aovivo/FHD_CNN_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,CNN Brasil HD
-http://lb.kstream.org/aovivo/HD_CNN_BR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,CNN International FHD
-http://lb.kstream.org/aovivo/FHD_CNN_INTERNACIONAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,CNN International HD
-http://lb.kstream.org/aovivo/SD_CNN_INTERNATIONAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,CONMEBOL TV 01
-http://lb.kstream.org/aovivo/SD_CONMEBOL_01/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,CONMEBOL TV 01 HD
-http://lb.kstream.org/aovivo/HD_CONMEBOL_01/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,CONMEBOL TV 02
-http://lb.kstream.org/aovivo/SD_CONMEBOL_02/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,CONMEBOL TV 02 HD
-http://lb.kstream.org/aovivo/HD_CONMEBOL_02/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,CONMEBOL TV 03
-http://lb.kstream.org/aovivo/SD_CONMEBOL_03/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,CONMEBOL TV 03 HD
-http://lb.kstream.org/aovivo/HD_CONMEBOL_03/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,CONMEBOL TV 04
-http://lb.kstream.org/aovivo/SD_CONMEBOL_04/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,CONMEBOL TV 04 HD
-http://lb.kstream.org/aovivo/HD_CONMEBOL_04/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Satellite TV
-http://lb.kstream.org/aovivo/SD_CANAL_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Satellite TV
-http://lb.kstream.org/aovivo/HD_CANAL_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Satellite TV
-http://lb.kstream.org/aovivo/HD_CANAL_BRASIL_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Satellite TV
-http://lb.kstream.org/aovivo/SD_CANAL_DO_BOI/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cancao Nova
-http://lb.kstream.org/aovivo/SD_CANCAO_NOVA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cancao Nova HD
-http://lb.kstream.org/aovivo/HD_CANCAO_NOVA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cartoon Network
-http://lb.kstream.org/aovivo/SD_CARTOON_NETWORK/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cartoon Network FHD
-http://lb.kstream.org/aovivo/FHD_CARTOON_NETWORK/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cartoon Network HD
-http://lb.kstream.org/aovivo/HD_CARTOON_NETWORK/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cartoon Network HD [Alter]
-http://lb.kstream.org/aovivo/HD_CARTOON_NETWORK_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cavaleiro do Zodiaco
-http://lb.kstream.org/aovivo/24_CAVALEIRO_ZODIACO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Caverna do Dragao
-http://lb.kstream.org/aovivo/24_CAVERNA_DRAGAO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Chef TV FHD
-http://lb.kstream.org/aovivo/FHD_CHEFTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Chef TV HD
-http://lb.kstream.org/aovivo/HD_CHEFTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_01/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_02/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_03/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_04/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_05/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_06/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_07/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_08/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_09/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_10/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cinemax
-http://lb.kstream.org/aovivo/SD_CINEMAX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cinemax FHD
-http://lb.kstream.org/aovivo/FHD_CINEMAX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cinemax HD
-http://lb.kstream.org/aovivo/HD_CINEMAX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cinemax HD [Alter]
-http://lb.kstream.org/aovivo/HD_CINEMAX_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Combate
-http://lb.kstream.org/aovivo/SD_COMBATE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Combate FHD
-http://lb.kstream.org/aovivo/FHD_COMBATE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Combate HD
-http://lb.kstream.org/aovivo/HD_COMBATE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Combate HD [Alter]
-http://lb.kstream.org/aovivo/HD_COMBATE_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Comedy Central
-http://lb.kstream.org/aovivo/SD_COMEDY_CENTRAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Comedy Central FHD
-http://lb.kstream.org/aovivo/FHD_COMEDY_CENTRAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Comedy Central HD
-http://lb.kstream.org/aovivo/HD_COMEDY_CENTRAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Comedy Central HD [Alter]
-http://lb.kstream.org/aovivo/HD_COMEDY_CENTRAL_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cultura
-http://lb.kstream.org/aovivo/SD_TV_CULTURA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cultura HD
-http://lb.kstream.org/aovivo/HD_CULTURA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Curta!
-http://lb.kstream.org/aovivo/SD_CURTA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Curta! HD
-http://lb.kstream.org/aovivo/HD_CURTA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Curta! HD [Alter]
-http://lb.kstream.org/aovivo/HD_CURTA_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,DAZN 1 HD
-http://lb.kstream.org/aovivo/HD_DAZN_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,DAZN 2 HD
-http://lb.kstream.org/aovivo/HD_DAZN_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Daniel Tigre
-http://lb.kstream.org/aovivo/24_DANIEL_TIGRE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Desenhos Biblicos
-http://lb.kstream.org/aovivo/24_DESENHOS_BIBLICOS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Channel
-http://lb.kstream.org/aovivo/SD_DISCOVERY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Channel FHD
-http://lb.kstream.org/aovivo/FHD_DISCOVERY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Channel HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Channel HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Home & Health
-http://lb.kstream.org/aovivo/SD_DISCOVERY_HOMEHEALTH/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Home & Health FHD
-http://lb.kstream.org/aovivo/FHD_DISCOVERY_HOMEHEALTH/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Home & Health HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY_HOMEHEALTH/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Home & Health HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_HOMEHEALTH_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Kids
-http://lb.kstream.org/aovivo/SD_DISCOVERY_KIDS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Kids FHD
-http://lb.kstream.org/aovivo/FHD_DISCOVERY_KIDS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Kids HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY_KIDS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Kids HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_KIDS_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Science
-http://lb.kstream.org/aovivo/SD_DISCOVERY_SCIENCE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Science FHD
-http://lb.kstream.org/aovivo/FHD_DISCOVERY_SCIENCE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Science HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY_SCIENCE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Science HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_SCIENCE_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Theater
-http://lb.kstream.org/aovivo/SD_DISCOVERY_THEATER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Theater FHD
-http://lb.kstream.org/aovivo/FHD_DISCOVERY_THEATER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Theater HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY_THEATER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Theater HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_THEATER_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Turbo
-http://lb.kstream.org/aovivo/SD_DISCOVERY_TURBO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Turbo FHD
-http://lb.kstream.org/aovivo/FHD_DISCOVERY_TURBO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Turbo HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY_TURBO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Turbo HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_TURBO_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery World
-http://lb.kstream.org/aovivo/SD_DISCOVERY_WORLD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery World FHD
-http://lb.kstream.org/aovivo/FHD_DISCOVERY_WORLD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery World HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY_WORLD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery World HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_WORLD_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Disney Channel
-http://lb.kstream.org/aovivo/SD_DISNEY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Disney Channel FHD
-http://lb.kstream.org/aovivo/FHD_DISNEY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Disney Channel HD
-http://lb.kstream.org/aovivo/HD_DISNEY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Disney Channel HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISNEY_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Disney JR
-http://lb.kstream.org/aovivo/SD_DISNEY_JR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Disney JR FHD
-http://lb.kstream.org/aovivo/FHD_DISNEY_JUNIOR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Disney JR HD
-http://lb.kstream.org/aovivo/HD_DISNEY_JUNIOR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Disney JR HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISNEY_JUNIOR_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Disney XD
-http://lb.kstream.org/aovivo/SD_DISNEY_XD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Disney XD HD
-http://lb.kstream.org/aovivo/HD_DISNEY_XD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Disney XD HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISNEY_XD_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,E!
-http://lb.kstream.org/aovivo/SD_E/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,E! FHD
-http://lb.kstream.org/aovivo/FHD_E/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,E! HD
-http://lb.kstream.org/aovivo/HD_E/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,E! HD [Alter]
-http://lb.kstream.org/aovivo/HD_E_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ESPN
-http://lb.kstream.org/aovivo/SD_ESPN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ESPN 2
-http://lb.kstream.org/aovivo/SD_EEEE_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ESPN 2 FHD
-http://lb.kstream.org/aovivo/FHD_EEEE_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ESPN 2 HD
-http://lb.kstream.org/aovivo/HD_EEEE_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ESPN 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_EEEE_2_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ESPN Brasil
-http://lb.kstream.org/aovivo/SD_HDKASNBSBS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ESPN Brasil FHD
-http://lb.kstream.org/aovivo/FHD_ESPN_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ESPN Brasil HD
-http://lb.kstream.org/aovivo/HD_HDUASBDOM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ESPN Brasil HD [Alter]
-http://lb.kstream.org/aovivo/HD_ESPN_BRASIL_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ESPN Extra
-http://lb.kstream.org/aovivo/SD_ESPN_EXTRA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ESPN Extra HD
-http://lb.kstream.org/aovivo/HD_ESPN_EXTRA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ESPN FHD
-http://lb.kstream.org/aovivo/FHD_ESPN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ESPN HD
-http://lb.kstream.org/aovivo/HD_ESPN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ESPN HD [Alter]
-http://lb.kstream.org/aovivo/HD_ESPN_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Escolinha do Professor Raimundo
-http://lb.kstream.org/aovivo/24_ESCOLINHA_RAIMUNDO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo
-http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 02
-http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 04
-http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_4/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 04 HD
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_4/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 05
-http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_5/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 05 HD
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_5/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 06
-http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_6/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 06 HD
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_6/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 07
-http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_7/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 07 HD
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_7/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 08
-http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_8/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 08 HD
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_8/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 09
-http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_9/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 09 HD
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_9/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 10
-http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_10/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 10 HD
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_10/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo HD
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte interativo 02 HD
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte interativo 03
-http://lb.kstream.org/aovivo/SD_EI_PLUS_3/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte interativo 03 HD
-http://lb.kstream.org/aovivo/HD_EI_PLUS_3/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,FX
-http://lb.kstream.org/aovivo/SD_FX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,FX FHD
-http://lb.kstream.org/aovivo/FHD_FX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,FX HD
-http://lb.kstream.org/aovivo/HD_FX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,FX HD [Alter]
-http://lb.kstream.org/aovivo/HD_FX_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Faisca e Fumaca
-http://lb.kstream.org/aovivo/24_FAISCA_FUMACA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fish TV
-http://lb.kstream.org/aovivo/SD_FISH_TV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fish TV FHD
-http://lb.kstream.org/aovivo/FHD_FISH_TV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fish TV HD
-http://lb.kstream.org/aovivo/HD_FISH_TV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fish TV HD [Alter]
-http://lb.kstream.org/aovivo/HD_FISH_TV_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,FlaTV
-http://lb.kstream.org/aovivo/HD_FLATV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Flow Podcast
-http://lb.kstream.org/aovivo/HD_FLOW_PODCAST/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Flu TV
-http://lb.kstream.org/aovivo/HD_FLUTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Food Network
-http://lb.kstream.org/aovivo/SD_FOOD_NETWORK/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Food Network FHD
-http://lb.kstream.org/aovivo/FHD_FOOD_NETWORK/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Food Network HD
-http://lb.kstream.org/aovivo/HD_FOOD_NETWORK/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Food Network HD [Alter]
-http://lb.kstream.org/aovivo/HD_FOOD_NETWORK_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox
-http://lb.kstream.org/aovivo/SD_FOX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox FHD
-http://lb.kstream.org/aovivo/FHD_FOX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox FHD [Leg]
-http://lb.kstream.org/aovivo/FHD_FOX_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox HD
-http://lb.kstream.org/aovivo/HD_FOX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox HD [Alter]
-http://lb.kstream.org/aovivo/HD_FOX_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox HD [Leg]
-http://lb.kstream.org/aovivo/HD_FOX_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Life
-http://lb.kstream.org/aovivo/SD_FOX_LIFE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Life FHD
-http://lb.kstream.org/aovivo/FHD_FOX_LIFE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Life HD
-http://lb.kstream.org/aovivo/HD_FOX_LIFE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Life HD [Alter]
-http://lb.kstream.org/aovivo/HD_FOX_LIFE_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Premium 1
-http://lb.kstream.org/aovivo/SD_FOX_PREMIUM_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Premium 1 FHD [Leg]
-http://lb.kstream.org/aovivo/FHD_FOX_PREMIUM_1_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Premium 1 HD
-http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Premium 1 HD [Alter]
-http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Premium 1 HD [Leg]
-http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Premium 2
-http://lb.kstream.org/aovivo/SD_FOX_PREMIUM_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Premium 2 FHD [Leg]
-http://lb.kstream.org/aovivo/FHD_FOX_PREMIUM_2_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Premium 2 HD
-http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Premium 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Premium 2 HD [Leg]
-http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Sports
-http://lb.kstream.org/aovivo/SD_FOX_SPORTS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Sports 2
-http://lb.kstream.org/aovivo/SD_FOX_SPORTS_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Sports 2 FHD
-http://lb.kstream.org/aovivo/FHD_FOX_SPORTS_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Sports 2 HD
-http://lb.kstream.org/aovivo/HD_FOX_SPORTS_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Sports 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_FOX_SPORTS_2_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Sports FHD
-http://lb.kstream.org/aovivo/FHD_FOX_SPORTS_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Sports HD
-http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Sports HD [Alter]
-http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Futura
-http://lb.kstream.org/aovivo/SD_FUTURA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Futura HD
-http://lb.kstream.org/aovivo/HD_FUTURA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,GNT
-http://lb.kstream.org/aovivo/SD_GNT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,GNT FHD
-http://lb.kstream.org/aovivo/FHD_GNT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,GNT HD
-http://lb.kstream.org/aovivo/HD_GNT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,GNT HD [Alter]
-http://lb.kstream.org/aovivo/HD_GNT_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Galinha Pintadinha
-http://lb.kstream.org/aovivo/24_GALINHA_PINTADA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Brasilia
-http://lb.kstream.org/aovivo/SD_GLOBO_BRASILIA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Brasilia HD
-http://lb.kstream.org/aovivo/HD_GLOBO_BRASILIA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo EPTV Campinas
-http://lb.kstream.org/aovivo/SD_GLOBO_EPTV_CAMPINAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo EPTV Campinas HD
-http://lb.kstream.org/aovivo/HD_GLOBO_EPTV_CAMPINAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo EPTV Central
-http://lb.kstream.org/aovivo/SD_GLOBO_SAO_CARLOS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo EPTV Ribeirao
-http://lb.kstream.org/aovivo/SD_GLOBO_RIBEIRAO_PRETO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo EPTV Ribeirao HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RIBEIRAO_PRETO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo EPTV Sul de Minas
-http://lb.kstream.org/aovivo/SD_GLOBO_EPTV_SUL_MINAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Inter TV Cabugi
-http://lb.kstream.org/aovivo/SD_GLOBO_RN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Inter TV Cabugi HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Inter TV Grande Minas FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_GRANDE_MINAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Inter TV Grande Minas HD
-http://lb.kstream.org/aovivo/SD_GLOBO_INTERTV_GRANDE_MINAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Inter TV Serra Mar
-http://lb.kstream.org/aovivo/SD_GLOBO_INTERTV_SERRA_MAR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Minas
-http://lb.kstream.org/aovivo/SD_GLOBO_MINAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Minas FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_MG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Minas HD
-http://lb.kstream.org/aovivo/HD_GLOBO_MINAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo NSC TV Florianopolis
-http://lb.kstream.org/aovivo/SD_GLOBO_SC/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo NSC TV Florianopolis HD
-http://lb.kstream.org/aovivo/HD_GLOBO_SC/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Nordeste
-http://lb.kstream.org/aovivo/SD_GLOBO_NORDESTE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Nordeste FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_NORDESTE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Nordeste HD
-http://lb.kstream.org/aovivo/HD_GLOBO_NORDESTE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Nordeste HD [Alter]
-http://lb.kstream.org/aovivo/HD_GLOBO_NORDESTE_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo RBS POA
-http://lb.kstream.org/aovivo/SD_GLOBO_RBS_POA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo RBS POA FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_RBS_POA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo RBS POA HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RBS_POA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo RPC Curitiba
-http://lb.kstream.org/aovivo/SD_GLOBO_RPC_CURITIBA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo RPC Curitiba HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RPC_CURITIBA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo RPC Paranaense FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_RPC_PARANAENSE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Rede Amazonica Acre HD
-http://lb.kstream.org/aovivo/HD_GLOBO_AMAZONICA_ACRE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Rede Amazonica Manaus HD
-http://lb.kstream.org/aovivo/HD_GLOBO_AMAZONAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Rede Amazonica Rondonia HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RONDONIA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Rede Amazonica Roraima HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RORAIMA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Rio
-http://lb.kstream.org/aovivo/SD_GLOBO_RJ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Rio FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_RJ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Rio HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RJ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo SP
-http://lb.kstream.org/aovivo/SD_GLOBO_SP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo SP FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_SP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo SP HD
-http://lb.kstream.org/aovivo/HD_GLOBO_SP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo SP HD [Alter]
-http://lb.kstream.org/aovivo/HD_GLOBO_SP_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Anhanguera Goiania
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_ANHANGUERA_GO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Asa Branca
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_ASA_BRANCA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Bahia
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_BAHIA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Bahia HD
-http://lb.kstream.org/aovivo/HD_GLOBO_TV_BAHIA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Centro America
-http://lb.kstream.org/aovivo/SD_TV_CENTRO_AMERICA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Centro America FHD
-http://lb.kstream.org/aovivo/FHD_CENTRO_AMERICA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Centro America HD
-http://lb.kstream.org/aovivo/HD_GLOBO_TV_CENTRO_AMERICA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Gazeta ES
-http://lb.kstream.org/aovivo/SD_GAZETA_ES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Gazeta ES HD
-http://lb.kstream.org/aovivo/HD_GAZETA_ES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Integracao
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_INTEGRACAO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Liberal Belem
-http://lb.kstream.org/aovivo/SD_GLOBO_LIBERAL_BELEM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Liberal Belem HD
-http://lb.kstream.org/aovivo/HD_GLOBO_PARA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Mirante Cocais
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_MIRANTE_COCAIS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Mirante Cocais FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_MARANHAO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Mirante Cocais HD
-http://lb.kstream.org/aovivo/HD_GLOBO_MARANHAO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Santa Cruz
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_SANTA_CRUZ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Sergipe
-http://lb.kstream.org/aovivo/SD_GLOBO_SERGIPE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Sergipe FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_SERGIPE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Sergipe HD
-http://lb.kstream.org/aovivo/HD_GLOBO_SERGIPE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV TEM BAURU
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_TEM_BAURU/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV TEM Itapetininga
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_TEM_ITAPETININGA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV TEM S. J. DO RIO PRETO
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_TEM_SJ_RIO_PRETO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV TEM SOROCABA
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_TEM_SOROCABA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Tribuna Santos
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_TRIBUNA_SANTOS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Vanguarda SJC
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_VANGUARDA_SJC/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Vanguarda Taubate
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_VANGUARDA_TAUBATE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Verdes Mares
-http://lb.kstream.org/aovivo/SD_GLOBO_VERDES_MARES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Verdes Mares FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_VERDES_MARES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Verdes Mares HD
-http://lb.kstream.org/aovivo/HD_GLOBO_TV_VERDES_MARES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Tv Cabo Branco
-http://lb.kstream.org/aovivo/SD_GLOBO_CABO_BRANCO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Tv Cabo Branco HD
-http://lb.kstream.org/aovivo/HD_GLOBO_CABO_BRANCO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Tv Clube PI HD
-http://lb.kstream.org/aovivo/HD_GLOBO_PIAUI/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,GloboNews
-http://lb.kstream.org/aovivo/SD_GLOBO_NEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,GloboNews FHD
-http://lb.kstream.org/aovivo/FHD_GLOBONEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,GloboNews HD
-http://lb.kstream.org/aovivo/HD_GLOBONEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,GloboNews HD [Alter]
-http://lb.kstream.org/aovivo/HD_GLOBONEWS_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Gloob
-http://lb.kstream.org/aovivo/SD_GLOOB/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Gloob HD
-http://lb.kstream.org/aovivo/HD_GLOOB/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Gloob HD [Alter]
-http://lb.kstream.org/aovivo/HD_GLOOB_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Gloobinho
-http://lb.kstream.org/aovivo/SD_GLOOBINHO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Gloobinho FHD
-http://lb.kstream.org/aovivo/FHD_GLOOBINHO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Gloobinho HD
-http://lb.kstream.org/aovivo/HD_GLOOBINHO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO
-http://lb.kstream.org/aovivo/SD_HBO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO 2
-http://lb.kstream.org/aovivo/SD_HBO_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO 2 FHD
-http://lb.kstream.org/aovivo/FHD_HBO_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO 2 HD
-http://lb.kstream.org/aovivo/HD_HBO_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_2_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO FHD
-http://lb.kstream.org/aovivo/FHD_HBO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO FHD [Leg]
-http://lb.kstream.org/aovivo/FHD_HBO_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Family
-http://lb.kstream.org/aovivo/SD_HBO_FAMILY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Family FHD
-http://lb.kstream.org/aovivo/FHD_HBO_FAMILLY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Family HD
-http://lb.kstream.org/aovivo/HD_HBO_FAMILY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Family HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_FAMILLY_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO HD
-http://lb.kstream.org/aovivo/HD_HBO_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO HD [Leg]
-http://lb.kstream.org/aovivo/HD_HBO_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Mundi
-http://lb.kstream.org/aovivo/SD_HBO_MUNDI/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Mundi FHD
-http://lb.kstream.org/aovivo/FHD_HBO_MUNDI/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Mundi FHD [Leg]
-http://lb.kstream.org/aovivo/FHD_HBO_MUNDI_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Mundi HD
-http://lb.kstream.org/aovivo/HD_HBO_MUNDI/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Mundi HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_MUNDI_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Mundi HD [Leg]
-http://lb.kstream.org/aovivo/HD_HBO_MUNDI_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO POP
-http://lb.kstream.org/aovivo/SD_HBO_POP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO POP FHD
-http://lb.kstream.org/aovivo/FHD_HBO_POP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO POP FHD [Leg]
-http://lb.kstream.org/aovivo/FHD_HBO_POP_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO POP HD
-http://lb.kstream.org/aovivo/HD_HBO_POP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO POP HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_POP_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO POP HD [Leg]
-http://lb.kstream.org/aovivo/HD_HBO_POP_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Plus
-http://lb.kstream.org/aovivo/SD_HBO_PLUS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Plus FHD
-http://lb.kstream.org/aovivo/FHD_HBO_PLUS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Plus FHD [Leg]
-http://lb.kstream.org/aovivo/FHD_HBO_PLUS_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Plus HD
-http://lb.kstream.org/aovivo/HD_HBO_PLUS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Plus HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_PLUS_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Plus HD [Leg]
-http://lb.kstream.org/aovivo/HD_HBO_PLUS_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Signature
-http://lb.kstream.org/aovivo/SD_HBO_SINGNATURE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Signature FHD
-http://lb.kstream.org/aovivo/FHD_HBO_SIGNATURE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Signature FHD [Leg]
-http://lb.kstream.org/aovivo/FHD_HBO_SIGNATURE_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Signature HD
-http://lb.kstream.org/aovivo/HD_HBO_SIGNATURE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Signature HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_SIGNATURE_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Signature HD [Leg]
-http://lb.kstream.org/aovivo/HD_HBO_SIGNATURE_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Xtreme
-http://lb.kstream.org/aovivo/SD_HBO_XTREME/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Xtreme FHD
-http://lb.kstream.org/aovivo/FHD_HBO_EXTREME/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Xtreme HD
-http://lb.kstream.org/aovivo/HD_HBO_XTREME/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Xtreme HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_XTREME_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HGTV
-http://lb.kstream.org/aovivo/SD_HGTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,A FAZENDA OPÇÃO 01
+http://cattek.in:8880/melque/102030/111871
+#EXTINF:-1,A FAZENDA OPÇÃO 02
+http://cattek.in:8880/melque/102030/139237
+#EXTINF:-1,A FAZENDA OPÇÃO 03
+http://cattek.in:8880/melque/102030/95714
+#EXTINF:-1,A FAZENDA OPÇÃO 04
+http://cattek.in:8880/melque/102030/139238
+#EXTINF:-1,ALADIN 24HS
+http://cattek.in:8880/melque/102030/115142
+#EXTINF:-1,As Meninas Superpoderosas 24HS
+http://cattek.in:8880/melque/102030/115143
+#EXTINF:-1,BEN 10 24HS
+http://cattek.in:8880/melque/102030/115144
+#EXTINF:-1,BOB ESPONJA 24HS
+http://cattek.in:8880/melque/102030/115145
+#EXTINF:-1,Breaking Bad 24hs
+http://cattek.in:8880/melque/102030/115146
+#EXTINF:-1,CAO CORAGEM 24HS
+http://cattek.in:8880/melque/102030/115147
+#EXTINF:-1,Caverna do Dragão 24HS
+http://cattek.in:8880/melque/102030/115148
+#EXTINF:-1,Chapolin Colorado 24hs
+http://cattek.in:8880/melque/102030/115149
+#EXTINF:-1,CHAVES 24HS
+http://cattek.in:8880/melque/102030/115150
+#EXTINF:-1,CHAVES DESENHO 24HS
+http://cattek.in:8880/melque/102030/115151
+#EXTINF:-1,Denis o Pimentinha 24HS
+http://cattek.in:8880/melque/102030/115152
+#EXTINF:-1,Desenhos Biblicos 24hs
+http://cattek.in:8880/melque/102030/115153
+#EXTINF:-1,Desenhos Disney 24HS
+http://cattek.in:8880/melque/102030/115154
+#EXTINF:-1,Digimon 24HS
+http://cattek.in:8880/melque/102030/115155
+#EXTINF:-1,Dois Homens e Meio 24HS https://iptv.live
+http://cattek.in:8880/melque/102030/115156
+#EXTINF:-1,Doug 24hs
+http://cattek.in:8880/melque/102030/115157
+#EXTINF:-1,DRAGON BALL 24HS
+http://cattek.in:8880/melque/102030/115158
+#EXTINF:-1,DRAGON BALL SUPER 24HS
+http://cattek.in:8880/melque/102030/115159
+#EXTINF:-1,DRAGON BALL Z 24HS
+http://cattek.in:8880/melque/102030/115160
+#EXTINF:-1,Eu a Patroa e as Crianças 24hs
+http://cattek.in:8880/melque/102030/115161
+#EXTINF:-1,Formiga Atómica 24hs
+http://cattek.in:8880/melque/102030/115162
+#EXTINF:-1,Galinha Pintadinha 24hs
+http://cattek.in:8880/melque/102030/115163
+#EXTINF:-1,Guardiões da Galaxia 24hs
+http://cattek.in:8880/melque/102030/115164
+#EXTINF:-1,He-Man 24hs
+http://cattek.in:8880/melque/102030/115165
+#EXTINF:-1,Hércules 24hs
+http://cattek.in:8880/melque/102030/115166
+#EXTINF:-1,Historias Disney 24hs
+http://cattek.in:8880/melque/102030/115167
+#EXTINF:-1,HOMEM ARANHA 24HS
+http://cattek.in:8880/melque/102030/115168
+#EXTINF:-1,Homem de Ferro 24hs
+http://cattek.in:8880/melque/102030/115169
+#EXTINF:-1,HOMEMS DE PRETO 24HS
+http://cattek.in:8880/melque/102030/115170
+#EXTINF:-1,Incrível Hulk 24hs
+http://cattek.in:8880/melque/102030/115171
+#EXTINF:-1,Jack-Chan 24hs
+http://cattek.in:8880/melque/102030/115172
+#EXTINF:-1,Jaspion 24HS
+http://cattek.in:8880/melque/102030/115173
+#EXTINF:-1,JIRAYA O Incrível Ninja 24HS
+http://cattek.in:8880/melque/102030/115174
+#EXTINF:-1,Kenan e Kel 24hs
+http://cattek.in:8880/melque/102030/115175
+#EXTINF:-1,Luluzinha 24HS
+http://cattek.in:8880/melque/102030/115176
+#EXTINF:-1,Medabots 24hs
+http://cattek.in:8880/melque/102030/115177
+#EXTINF:-1,MegaMan 24hs
+http://cattek.in:8880/melque/102030/115178
+#EXTINF:-1,Mortal Kombat 24hs
+http://cattek.in:8880/melque/102030/115179
+#EXTINF:-1,24hs
+http://cattek.in:8880/melque/102030/115180
+#EXTINF:-1,NARUTO 24HS
+http://cattek.in:8880/melque/102030/115181
+#EXTINF:-1,Naruto Shippuden DUB 24HS
+http://cattek.in:8880/melque/102030/115182
+#EXTINF:-1,O Fantástico Mundo de Bobby 24hs
+http://cattek.in:8880/melque/102030/115183
+#EXTINF:-1,O INSPETOR 24hs
+http://cattek.in:8880/melque/102030/115184
+#EXTINF:-1,O MASKARA 24HS
+http://cattek.in:8880/melque/102030/115185
+#EXTINF:-1,Os Anjinhos - Rugrats 24HS
+http://cattek.in:8880/melque/102030/115186
+#EXTINF:-1,OS CAVALEIROS DO ZODIACO 24HS
+http://cattek.in:8880/melque/102030/115187
+#EXTINF:-1,OS FLINTSTONES 24hs
+http://cattek.in:8880/melque/102030/115188
+#EXTINF:-1,OS SIMPSONS 24HS
+http://cattek.in:8880/melque/102030/115189
+#EXTINF:-1,Os Vingadores 24hs
+http://cattek.in:8880/melque/102030/115190
+#EXTINF:-1,Papa-Léguas 24HS
+http://cattek.in:8880/melque/102030/115191
+#EXTINF:-1,Peppa Pig 24hs https://iptv.live
+http://cattek.in:8880/melque/102030/115192
+#EXTINF:-1,PERNALONGA 24HS
+http://cattek.in:8880/melque/102030/115193
+#EXTINF:-1,Phineas e Ferb 24HS
+http://cattek.in:8880/melque/102030/115194
+#EXTINF:-1,PICA PAU 24HS
+http://cattek.in:8880/melque/102030/115195
+#EXTINF:-1,Pink-e-Cerebro 24hs
+http://cattek.in:8880/melque/102030/115196
+#EXTINF:-1,POKEMON 24HS
+http://cattek.in:8880/melque/102030/115197
+#EXTINF:-1,Popeye O Marinheiro 24hs
+http://cattek.in:8880/melque/102030/115198
+#EXTINF:-1,Rambo 24hs
+http://cattek.in:8880/melque/102030/115199
+#EXTINF:-1,Scooby-Doo 24HS
+http://cattek.in:8880/melque/102030/115200
+#EXTINF:-1,Smallville 24hs
+http://cattek.in:8880/melque/102030/115201
+#EXTINF:-1,Sobrenatural 24hs
+http://cattek.in:8880/melque/102030/115202
+#EXTINF:-1,South Park 24HS
+http://cattek.in:8880/melque/102030/115203
+#EXTINF:-1,Steven Universe 24HS
+http://cattek.in:8880/melque/102030/115204
+#EXTINF:-1,Superman 24hs
+http://cattek.in:8880/melque/102030/115205
+#EXTINF:-1,TARTARUGAS NINJAS 24HS
+http://cattek.in:8880/melque/102030/115206
+#EXTINF:-1,Thundercats 24HS
+http://cattek.in:8880/melque/102030/115207
+#EXTINF:-1,TIMAO E PUMBA 24HS
+http://cattek.in:8880/melque/102030/115208
+#EXTINF:-1,TODO MUNDO ODEIA O CHRIS 24hs
+http://cattek.in:8880/melque/102030/115209
+#EXTINF:-1,Tom & Jerry 24HS
+http://cattek.in:8880/melque/102030/115210
+#EXTINF:-1,Tres Espias Demais 24hs
+http://cattek.in:8880/melque/102030/115211
+#EXTINF:-1,UM MALUCO NO PEDAÇO 24HS
+http://cattek.in:8880/melque/102030/115212
+#EXTINF:-1,Uma Família da Pesada 24hs
+http://cattek.in:8880/melque/102030/115213
+#EXTINF:-1,Ursinhos Carinhos 24hs
+http://cattek.in:8880/melque/102030/115214
+#EXTINF:-1,X-MAN 24HS
+http://cattek.in:8880/melque/102030/115215
+#EXTINF:-1,Xena 24hs
+http://cattek.in:8880/melque/102030/115216
+#EXTINF:-1,YU-GI-OH 24hs
+http://cattek.in:8880/melque/102030/115217
+#EXTINF:-1,YU-YU-Hakusho 24hs
+http://cattek.in:8880/melque/102030/115218
+#EXTINF:-1,3 Palavrinhas 24hs
+http://cattek.in:8880/melque/102030/115219
+#EXTINF:-1,A Grande Familia 24hs
+http://cattek.in:8880/melque/102030/115220
+#EXTINF:-1,Bita e os Animais 24hs
+http://cattek.in:8880/melque/102030/115221
+#EXTINF:-1,Liga da Justica 24hs
+http://cattek.in:8880/melque/102030/115222
+#EXTINF:-1,VAI QUE COLA 24hs
+http://cattek.in:8880/melque/102030/115223
+#EXTINF:-1,Vai Que Cola 24hs
+http://cattek.in:8880/melque/102030/115224
+#EXTINF:-1,Super Choque 24hs
+http://cattek.in:8880/melque/102030/115225
+#EXTINF:-1,A Feiticeira 24hs
+http://cattek.in:8880/melque/102030/115226
+#EXTINF:-1,Corrida Maluca 24hs
+http://cattek.in:8880/melque/102030/115227
+#EXTINF:-1,24H BUBU E AS CORUJINHAS
+http://cattek.in:8880/melque/102030/139008
+#EXTINF:-1,24H O SHOW DO GARFIELD
+http://cattek.in:8880/melque/102030/139009
+#EXTINF:-1,24H DANIEL TIGRE
+http://cattek.in:8880/melque/102030/139010
+#EXTINF:-1,24H GALINHA PINTADINHA
+http://cattek.in:8880/melque/102030/139011
+#EXTINF:-1,24H POLLY POCKET
+http://cattek.in:8880/melque/102030/139012
+#EXTINF:-1,24H LOUIE
+http://cattek.in:8880/melque/102030/139013
+#EXTINF:-1,24H SEE T01
+http://cattek.in:8880/melque/102030/139014
+#EXTINF:-1,24H JESUS UM REINO SEM FRONTEIRA
+http://cattek.in:8880/melque/102030/139015
+#EXTINF:-1,24H AVATAR A LENDA DE KORA H265
+http://cattek.in:8880/melque/102030/139016
+#EXTINF:-1,24H CANÇÕES DE NINAR
+http://cattek.in:8880/melque/102030/139017
+#EXTINF:-1,24H 9-1-1
+http://cattek.in:8880/melque/102030/139018
+#EXTINF:-1,24H GALINHA PINTADINHA MINI
+http://cattek.in:8880/melque/102030/139019
+#EXTINF:-1,24H PEPE LEGAL
+http://cattek.in:8880/melque/102030/139021
+#EXTINF:-1,24H SONIC THE HEDGEHOG
+http://cattek.in:8880/melque/102030/139022
+#EXTINF:-1,24H ANIMANIACS
+http://cattek.in:8880/melque/102030/139023
+#EXTINF:-1,24H AS NOIVAS DE COPACABANA
+http://cattek.in:8880/melque/102030/139024
+#EXTINF:-1,24H A VIDA COMO ELA É
+http://cattek.in:8880/melque/102030/139025
+#EXTINF:-1,24H MALHAÇÃO 1999
+http://cattek.in:8880/melque/102030/139026
+#EXTINF:-1,24H ZILLION
+http://cattek.in:8880/melque/102030/139027
+#EXTINF:-1,24H OS SIMPSONS 2011-2020
+http://cattek.in:8880/melque/102030/139028
+#EXTINF:-1,24H PEGADINHAS AMERICANAS 2
+http://cattek.in:8880/melque/102030/139029
+#EXTINF:-1,24H GRAN HOTEL
+http://cattek.in:8880/melque/102030/139030
+#EXTINF:-1,24H CHERNOBYL
+http://cattek.in:8880/melque/102030/139031
+#EXTINF:-1,24H REALITY Z
+http://cattek.in:8880/melque/102030/139032
+#EXTINF:-1,24H LARGADOS E PELADOS A TRIBO
+http://cattek.in:8880/melque/102030/139033
+#EXTINF:-1,24H LADY NIGHT
+http://cattek.in:8880/melque/102030/139034
+#EXTINF:-1,24H MUNDO BITA
+http://cattek.in:8880/melque/102030/139035
+#EXTINF:-1,24H OS SNORKS
+http://cattek.in:8880/melque/102030/139036
+#EXTINF:-1,24H TOM & JERRY CLASSICO
+http://cattek.in:8880/melque/102030/139037
+#EXTINF:-1,24H BOB ESPONJA T01 A 04
+http://cattek.in:8880/melque/102030/139039
+#EXTINF:-1,24H PATRULHA CANINA T01
+http://cattek.in:8880/melque/102030/139040
+#EXTINF:-1,24H PATRULHA CANINA T02
+http://cattek.in:8880/melque/102030/139041
+#EXTINF:-1,24H PATRULHA CANINA T03
+http://cattek.in:8880/melque/102030/139042
+#EXTINF:-1,24H PATRULHA CANINA T04
+http://cattek.in:8880/melque/102030/139043
+#EXTINF:-1,24H CHANGEMAN
+http://cattek.in:8880/melque/102030/139044
+#EXTINF:-1,24H ESCOLINHA PROFESSOR RAIMUNDO ANOS 90
+http://cattek.in:8880/melque/102030/139045
+#EXTINF:-1,24H OS SIMPSON 2000/2010
+http://cattek.in:8880/melque/102030/139046
+#EXTINF:-1,24H CAVERNA DO DRAGÃO
+http://cattek.in:8880/melque/102030/139047
+#EXTINF:-1,24H IRMÃO DO JOREL
+http://cattek.in:8880/melque/102030/139048
+#EXTINF:-1,24H BLACK KAMEN RIDER
+http://cattek.in:8880/melque/102030/139049
+#EXTINF:-1,24H IRMÃOS A OBRA
+http://cattek.in:8880/melque/102030/139051
+#EXTINF:-1,24H HOUSE OF CARDS
+http://cattek.in:8880/melque/102030/139052
+#EXTINF:-1,24H OS HERCULÓIDES
+http://cattek.in:8880/melque/102030/139053
+#EXTINF:-1,24H GIGANTES DA INDUSTRIA
+http://cattek.in:8880/melque/102030/139054
+#EXTINF:-1,24H MARIA MAGDALENA
+http://cattek.in:8880/melque/102030/139055
+#EXTINF:-1,24H MARVEL DEMOLIDOR
+http://cattek.in:8880/melque/102030/139056
+#EXTINF:-1,24H OS TRAPALHÕES
+http://cattek.in:8880/melque/102030/139057
+#EXTINF:-1,24H DRAGONBALL CLASSICO
+http://cattek.in:8880/melque/102030/139058
+#EXTINF:-1,24H A TURMA DA PANTERA COR DE ROSA
+http://cattek.in:8880/melque/102030/139059
+#EXTINF:-1,24H TURMA DO RONALDINHO GAUCHO
+http://cattek.in:8880/melque/102030/139060
+#EXTINF:-1,24H O PODEROSO MIGTHOR
+http://cattek.in:8880/melque/102030/139061
+#EXTINF:-1,24H 3 PALAVRINHAS
+http://cattek.in:8880/melque/102030/139062
+#EXTINF:-1,24H NARUTO
+http://cattek.in:8880/melque/102030/139063
+#EXTINF:-1,24H OS SMURFS
+http://cattek.in:8880/melque/102030/139064
+#EXTINF:-1,24H PERDIDO NAS ESTRELAS
+http://cattek.in:8880/melque/102030/139065
+#EXTINF:-1,24H OS CAVALEIROS DO ZODIACO
+http://cattek.in:8880/melque/102030/139066
+#EXTINF:-1,24H PLIC & PLOC
+http://cattek.in:8880/melque/102030/139067
+#EXTINF:-1,24H ROBOCOP DESENHO
+http://cattek.in:8880/melque/102030/139068
+#EXTINF:-1,24H SCOOBY-DOO & SCOOBY-LOO
+http://cattek.in:8880/melque/102030/139069
+#EXTINF:-1,24H SURFISTA PRATEADO
+http://cattek.in:8880/melque/102030/139070
+#EXTINF:-1,24H SOUTH PARK
+http://cattek.in:8880/melque/102030/139071
+#EXTINF:-1,24H SPARTACUS
+http://cattek.in:8880/melque/102030/139072
+#EXTINF:-1,24H TARZAN
+http://cattek.in:8880/melque/102030/139073
+#EXTINF:-1,24H LARGADOS E PELADOS
+http://cattek.in:8880/melque/102030/139074
+#EXTINF:-1,24H ENGRAÇADINHA
+http://cattek.in:8880/melque/102030/139075
+#EXTINF:-1,24H TV COLOSSO
+http://cattek.in:8880/melque/102030/139076
+#EXTINF:-1,24H V A BATALHA FINAL
+http://cattek.in:8880/melque/102030/139077
+#EXTINF:-1,24H OS GÁRGULAS
+http://cattek.in:8880/melque/102030/139078
+#EXTINF:-1,24H AMERICAN HOUSEWIFE
+http://cattek.in:8880/melque/102030/139079
+#EXTINF:-1,24H BONES
+http://cattek.in:8880/melque/102030/139080
+#EXTINF:-1,24H COMANDOS EM AÇÃO
+http://cattek.in:8880/melque/102030/139081
+#EXTINF:-1,24H FREAKAZOID
+http://cattek.in:8880/melque/102030/139082
+#EXTINF:-1,24H JIBAN
+http://cattek.in:8880/melque/102030/139083
+#EXTINF:-1,24H BYCROSSERS
+http://cattek.in:8880/melque/102030/139085
+#EXTINF:-1,24H HEROES
+http://cattek.in:8880/melque/102030/139086
+#EXTINF:-1,24H FUTURAMA
+http://cattek.in:8880/melque/102030/139087
+#EXTINF:-1,24H A VACA E O FRANGO
+http://cattek.in:8880/melque/102030/139088
+#EXTINF:-1,24H CASTORES PIRADOS
+http://cattek.in:8880/melque/102030/139089
+#EXTINF:-1,24H EU SOU O MAXIMO
+http://cattek.in:8880/melque/102030/139090
+#EXTINF:-1,24H FAISCA & FUMAÇA
+http://cattek.in:8880/melque/102030/139091
+#EXTINF:-1,24H GATO FELIX
+http://cattek.in:8880/melque/102030/139092
+#EXTINF:-1,24H HE-MAN
+http://cattek.in:8880/melque/102030/139093
+#EXTINF:-1,24H BANANAS DE PIJAMAS DESENHO
+http://cattek.in:8880/melque/102030/139094
+#EXTINF:-1,24H OS CAÇA FANTASMA DESENHO
+http://cattek.in:8880/melque/102030/139095
+#EXTINF:-1,24H SHE-RA CLASSICA
+http://cattek.in:8880/melque/102030/139096
+#EXTINF:-1,24H PUNKY A LEVADA DA BRECA
+http://cattek.in:8880/melque/102030/139097
+#EXTINF:-1,24H DRAGON BALL LONGAS
+http://cattek.in:8880/melque/102030/139098
+#EXTINF:-1,24H UM MALUCO NO PEDAÇO
+http://cattek.in:8880/melque/102030/139099
+#EXTINF:-1,24H XENA A PRINCESA GUERREIRA
+http://cattek.in:8880/melque/102030/139100
+#EXTINF:-1,24H BOOBA
+http://cattek.in:8880/melque/102030/139101
+#EXTINF:-1,24H CARGA PESADA
+http://cattek.in:8880/melque/102030/139102
+#EXTINF:-1,24H OS URSINHOS CARINHOSOS
+http://cattek.in:8880/melque/102030/139103
+#EXTINF:-1,24H CAPITÃO CAVERNA
+http://cattek.in:8880/melque/102030/139104
+#EXTINF:-1,24H O SÓCIO
+http://cattek.in:8880/melque/102030/139105
+#EXTINF:-1,24H MARSHA E O URSO
+http://cattek.in:8880/melque/102030/139106
+#EXTINF:-1,24H TRÊS ESPIÃS DEMAIS
+http://cattek.in:8880/melque/102030/139107
+#EXTINF:-1,24H TAZ MANIA
+http://cattek.in:8880/melque/102030/139108
+#EXTINF:-1,24H OS JOVENS TITÃS EM AÇÃO T-01 Á 04
+http://cattek.in:8880/melque/102030/139109
+#EXTINF:-1,24H BOB CONSTRUTOR 1999
+http://cattek.in:8880/melque/102030/139111
+#EXTINF:-1,24H HILDA FURACÃO
+http://cattek.in:8880/melque/102030/139112
+#EXTINF:-1,24H OS RONI
+http://cattek.in:8880/melque/102030/139113
+#EXTINF:-1,24H CONTOS ASSUSTADORES DA MASHA
+http://cattek.in:8880/melque/102030/139114
+#EXTINF:-1,24H TV QUACK
+http://cattek.in:8880/melque/102030/139115
+#EXTINF:-1,24H TRANSFORMERS
+http://cattek.in:8880/melque/102030/139116
+#EXTINF:-1,24H TODO MUNDO ODEIA O CHRIS
+http://cattek.in:8880/melque/102030/139117
+#EXTINF:-1,24H CHAVES MULTISHOW
+http://cattek.in:8880/melque/102030/139118
+#EXTINF:-1,24H SUPERCAMPEÕES
+http://cattek.in:8880/melque/102030/139119
+#EXTINF:-1,24H SUPERAMIGOS
+http://cattek.in:8880/melque/102030/139120
+#EXTINF:-1,24H STREET FIGHTER
+http://cattek.in:8880/melque/102030/139121
+#EXTINF:-1,24H SITIO DO PICA PAU AMARELO
+http://cattek.in:8880/melque/102030/139122
+#EXTINF:-1,24H SHAZAAM
+http://cattek.in:8880/melque/102030/139123
+#EXTINF:-1,24H SAMURAI JACK
+http://cattek.in:8880/melque/102030/139124
+#EXTINF:-1,24H A VIDA MODERNA DE ROCKO
+http://cattek.in:8880/melque/102030/139125
+#EXTINF:-1,24H REN & STIMPY
+http://cattek.in:8880/melque/102030/139126
+#EXTINF:-1,24H RAMBO DESENHO
+http://cattek.in:8880/melque/102030/139127
+#EXTINF:-1,24H POWER RANGERS CLASSICO
+http://cattek.in:8880/melque/102030/139128
+#EXTINF:-1,24H POLE POSITION
+http://cattek.in:8880/melque/102030/139129
+#EXTINF:-1,24H PINK E O CEREBRO
+http://cattek.in:8880/melque/102030/139130
+#EXTINF:-1,24H PICA- PAU
+http://cattek.in:8880/melque/102030/139131
+#EXTINF:-1,24H O PEQUENO SCOOBY-DOO
+http://cattek.in:8880/melque/102030/139132
+#EXTINF:-1,24H PAPA LÉGUAS
+http://cattek.in:8880/melque/102030/139133
+#EXTINF:-1,24H OS MISTÉRIOS DE PIU-PIU E FRAJOLA
+http://cattek.in:8880/melque/102030/139134
+#EXTINF:-1,24H O PEQUENO URSO
+http://cattek.in:8880/melque/102030/139135
+#EXTINF:-1,24H 44 GATOS
+http://cattek.in:8880/melque/102030/139136
+#EXTINF:-1,24H MUMIAS VIVAS
+http://cattek.in:8880/melque/102030/139137
+#EXTINF:-1,24H MISTER MAKER
+http://cattek.in:8880/melque/102030/139138
+#EXTINF:-1,24H CHAVES TEMPORADA 01 E 02
+http://cattek.in:8880/melque/102030/139139
+#EXTINF:-1,24H CHAVES TEMPORADA 03 E 04
+http://cattek.in:8880/melque/102030/139140
+#EXTINF:-1,24H CHAVES TEMPORADA 05 E 06
+http://cattek.in:8880/melque/102030/139141
+#EXTINF:-1,24H CHAVES TEMPORADA 07
+http://cattek.in:8880/melque/102030/139142
+#EXTINF:-1,24H MORANGUINHO AVENTURAS EM TUTTI FRUTI
+http://cattek.in:8880/melque/102030/139143
+#EXTINF:-1,24H MICKEY CLASSICO
+http://cattek.in:8880/melque/102030/139144
+#EXTINF:-1,24H A TURMA DO ZÉ COLMÉIA
+http://cattek.in:8880/melque/102030/139145
+#EXTINF:-1,24H O MANDALORIANO T01
+http://cattek.in:8880/melque/102030/139146
+#EXTINF:-1,24H DRAGONBALL SUPER H265
+http://cattek.in:8880/melque/102030/139147
+#EXTINF:-1,24H DRAGONBALL Z SAGA SAYAJIN
+http://cattek.in:8880/melque/102030/139148
+#EXTINF:-1,24H DRAGONBALL Z SAGA NAMEKUSEI
+http://cattek.in:8880/melque/102030/139149
+#EXTINF:-1,24H DRAGONBALL Z SAGA FREEZA
+http://cattek.in:8880/melque/102030/139150
+#EXTINF:-1,24H DRAGONBALL Z SAGA ANDROIDES
+http://cattek.in:8880/melque/102030/139151
+#EXTINF:-1,24H DRAGONBALL Z SAGA CELL
+http://cattek.in:8880/melque/102030/139152
+#EXTINF:-1,24H DRAGONBALL Z SAGA TORNEIO DO CELL
+http://cattek.in:8880/melque/102030/139153
+#EXTINF:-1,24H DRAGONBALL Z SAGA SAYAMAN
+http://cattek.in:8880/melque/102030/139154
+#EXTINF:-1,24H DRAGONBALL Z SAGA BABIDI
+http://cattek.in:8880/melque/102030/139155
+#EXTINF:-1,24H DRAGONBALL Z SAGA MAJINBU
+http://cattek.in:8880/melque/102030/139156
+#EXTINF:-1,24H A CASA DO MICKEY MOUSE
+http://cattek.in:8880/melque/102030/139157
+#EXTINF:-1,24H A FAMILÍA HATHAWAYS
+http://cattek.in:8880/melque/102030/139158
+#EXTINF:-1,24H MEU AMIGÃOZÃO
+http://cattek.in:8880/melque/102030/139159
+#EXTINF:-1,24H ANIMAZOO
+http://cattek.in:8880/melque/102030/139160
+#EXTINF:-1,24H BABY LOONEY TUNES
+http://cattek.in:8880/melque/102030/139161
+#EXTINF:-1,24H OS BACKYARDIGANS
+http://cattek.in:8880/melque/102030/139162
+#EXTINF:-1,24H BATMAN E ROBIN CLASSICO
+http://cattek.in:8880/melque/102030/139163
+#EXTINF:-1,24H SAKURA CARDCAPTORS
+http://cattek.in:8880/melque/102030/139164
+#EXTINF:-1,24H BEN 10 OMNIVERSE
+http://cattek.in:8880/melque/102030/139165
+#EXTINF:-1,24H BEN 10
+http://cattek.in:8880/melque/102030/139166
+#EXTINF:-1,24H SUPER CHOQUE
+http://cattek.in:8880/melque/102030/139167
+#EXTINF:-1,24H BRAVESTAR
+http://cattek.in:8880/melque/102030/139168
+#EXTINF:-1,24H FRANKSTEIN JR E OS IMPOSSIVEÍS
+http://cattek.in:8880/melque/102030/139169
+#EXTINF:-1,24H XODÓ DA VOVÓ
+http://cattek.in:8880/melque/102030/139170
+#EXTINF:-1,24H WOLVERINE E OS X-MEN
+http://cattek.in:8880/melque/102030/139171
+#EXTINF:-1,24H ZORRO CLASSICO
+http://cattek.in:8880/melque/102030/139172
+#EXTINF:-1,24H BOB ZOOM
+http://cattek.in:8880/melque/102030/139173
+#EXTINF:-1,24H CAVALO DE FOGO
+http://cattek.in:8880/melque/102030/139174
+#EXTINF:-1,24H TÁ CHOVENDO HAMBURGUER
+http://cattek.in:8880/melque/102030/139175
+#EXTINF:-1,24H CLARÊNCIO O OTIMISTA
+http://cattek.in:8880/melque/102030/139176
+#EXTINF:-1,24H CORAGEM O CÃO COVARDE
+http://cattek.in:8880/melque/102030/139177
+#EXTINF:-1,24H CYBERCOPS
+http://cattek.in:8880/melque/102030/139178
+#EXTINF:-1,24H DRAKE & JOSH
+http://cattek.in:8880/melque/102030/139179
+#EXTINF:-1,24H DE VOLTA PARA O FUTURO DESENHO
+http://cattek.in:8880/melque/102030/139180
+#EXTINF:-1,24H DESENCANTO
+http://cattek.in:8880/melque/102030/139181
+#EXTINF:-1,24H AS AVENTURAS DE TOM & JERRY
+http://cattek.in:8880/melque/102030/139182
+#EXTINF:-1,24H DESENHOS BIBLICOS
+http://cattek.in:8880/melque/102030/139183
+#EXTINF:-1,24H MEGAMAN CLASSICO
+http://cattek.in:8880/melque/102030/139184
+#EXTINF:-1,24H OS 7A
+http://cattek.in:8880/melque/102030/139185
+#EXTINF:-1,24H DIGIMON
+http://cattek.in:8880/melque/102030/139186
+#EXTINF:-1,24H OQUE HÁ DE NOVO SCOOBY DOO?
+http://cattek.in:8880/melque/102030/139187
+#EXTINF:-1,24H QUE LEGAL SCOOBY DOO
+http://cattek.in:8880/melque/102030/139188
+#EXTINF:-1,24H PATO DONALD
+http://cattek.in:8880/melque/102030/139189
+#EXTINF:-1,24H DOUG
+http://cattek.in:8880/melque/102030/139190
+#EXTINF:-1,24H SILVERHAWKS
+http://cattek.in:8880/melque/102030/139191
+#EXTINF:-1,24H SUPERNATURAL T01 A 05
+http://cattek.in:8880/melque/102030/139192
+#EXTINF:-1,24H LEGO UMA AVENTURA NA CIDADE
+http://cattek.in:8880/melque/102030/139193
+#EXTINF:-1,24H BREAKING BAD
+http://cattek.in:8880/melque/102030/139194
+#EXTINF:-1,24H POLICIA 24 HORAS
+http://cattek.in:8880/melque/102030/139195
+#EXTINF:-1,24H DUCK DODGERS
+http://cattek.in:8880/melque/102030/139196
+#EXTINF:-1,24H DUCK TALES CLÁSSICO
+http://cattek.in:8880/melque/102030/139197
+#EXTINF:-1,24H FÁBULAS DA DISNEY
+http://cattek.in:8880/melque/102030/139198
+#EXTINF:-1,24H VERDADES SECRETAS
+http://cattek.in:8880/melque/102030/139199
+#EXTINF:-1,24H OS FEITICEIROS DE WAVERLY PLACE
+http://cattek.in:8880/melque/102030/139201
+#EXTINF:-1,24H FORMIGA ATÔMICA
+http://cattek.in:8880/melque/102030/139202
+#EXTINF:-1,24H GALINHA BABY
+http://cattek.in:8880/melque/102030/139203
+#EXTINF:-1,24H GOOGLE FIVE
+http://cattek.in:8880/melque/102030/139204
+#EXTINF:-1,24H O SHOW DOS LOONEY TUNES
+http://cattek.in:8880/melque/102030/139205
+#EXTINF:-1,24H O INCRÍVEL MUNDO DE GUMBALL
+http://cattek.in:8880/melque/102030/139206
+#EXTINF:-1,24H EMPIRE
+http://cattek.in:8880/melque/102030/139207
+#EXTINF:-1,24H iCARLY
+http://cattek.in:8880/melque/102030/139208
+#EXTINF:-1,24H LION MAN
+http://cattek.in:8880/melque/102030/139209
+#EXTINF:-1,24H JAKE E OS PIRATAS
+http://cattek.in:8880/melque/102030/139210
+#EXTINF:-1,24H OS JETSONS
+http://cattek.in:8880/melque/102030/139211
+#EXTINF:-1,24H HULK CLÁSSICO
+http://cattek.in:8880/melque/102030/139212
+#EXTINF:-1,24H JONNY QUEST
+http://cattek.in:8880/melque/102030/139213
+#EXTINF:-1,24H KENAN E KEL
+http://cattek.in:8880/melque/102030/139214
+#EXTINF:-1,24H LIE TO ME
+http://cattek.in:8880/melque/102030/139215
+#EXTINF:-1,24H NIPTUCK ESTÉTICA
+http://cattek.in:8880/melque/102030/139216
+#EXTINF:-1,24H X-MEN CLÁSSICO
+http://cattek.in:8880/melque/102030/139217
+#EXTINF:-1,24H SUPER-MÁQUINA
+http://cattek.in:8880/melque/102030/139218
+#EXTINF:-1,24H OPERAÇÃO POLICIAL
+http://cattek.in:8880/melque/102030/139219
+#EXTINF:-1,24H FLY O PEQUENO GUERREIRO
+http://cattek.in:8880/melque/102030/139220
+#EXTINF:-1,24H PICA-PAU CLÁSSICO
+http://cattek.in:8880/melque/102030/139221
+#EXTINF:-1,24H EU A PATROA E AS CRIANÇAS
+http://cattek.in:8880/melque/102030/139222
+#EXTINF:-1,24H THE BIG BANG THEORY T01 Á T05
+http://cattek.in:8880/melque/102030/139224
+#EXTINF:-1,OS SIMPSONS 1989/1999
+http://cattek.in:8880/melque/102030/139225
+#EXTINF:-1,24H JASPION
+http://cattek.in:8880/melque/102030/139226
+#EXTINF:-1,24H SHAUN O CARNEIRO
+http://cattek.in:8880/melque/102030/139227
+#EXTINF:-1,24H OGGY E AS BARATAS TONTAS
+http://cattek.in:8880/melque/102030/139228
+#EXTINF:-1,24H LARANJA IRRITANTE
+http://cattek.in:8880/melque/102030/139229
+#EXTINF:-1,24H DE FÉRIAS COM O EX BRASIL
+http://cattek.in:8880/melque/102030/139230
+#EXTINF:-1,24H
+http://cattek.in:8880/melque/102030/139231
+#EXTINF:-1,24H OS SIMPSONS TEMPORADA 31
+http://cattek.in:8880/melque/102030/139232
+#EXTINF:-1,24H DOIS HOMENS E MEIO T01 A 06
+http://cattek.in:8880/melque/102030/139233
+#EXTINF:-1,24H HENRY DANGER
+http://cattek.in:8880/melque/102030/139234
+#EXTINF:-1,ANIMAL PLANET 4K
+http://cattek.in:8880/melque/102030/25026
+#EXTINF:-1,BAND 4K
+http://cattek.in:8880/melque/102030/25019
+#EXTINF:-1,CARTOON 4K
+http://cattek.in:8880/melque/102030/25029
+#EXTINF:-1,DISCOVERY CHANNEL 4K
+http://cattek.in:8880/melque/102030/25023
+#EXTINF:-1,ESPN 4K
+http://cattek.in:8880/melque/102030/25033
+#EXTINF:-1,FOX SPORTS 2 4K
+http://cattek.in:8880/melque/102030/25017
+#EXTINF:-1,GAZETA 4K
+http://cattek.in:8880/melque/102030/25035
+#EXTINF:-1,GLOBO 4K
+http://cattek.in:8880/melque/102030/25020
+#EXTINF:-1,HBO 4K
+http://cattek.in:8880/melque/102030/25038
+#EXTINF:-1,MEGAPIX 4K
+http://cattek.in:8880/melque/102030/25030
+#EXTINF:-1,MULTISHOW 4K
+http://cattek.in:8880/melque/102030/25028
+#EXTINF:-1,NATGEO 4K
+http://cattek.in:8880/melque/102030/25031
+#EXTINF:-1,PREMIER 4K
+http://cattek.in:8880/melque/102030/25015
+#EXTINF:-1,RECORD 4K
+http://cattek.in:8880/melque/102030/25021
+#EXTINF:-1,REDE TV 4K
+http://cattek.in:8880/melque/102030/25037
+#EXTINF:-1,REDETV 4K
+http://cattek.in:8880/melque/102030/25022
+#EXTINF:-1,SBT 4K
+http://cattek.in:8880/melque/102030/25025
+#EXTINF:-1,SPACE 4K
+http://cattek.in:8880/melque/102030/25034
+#EXTINF:-1,SPORTV 4K
+http://cattek.in:8880/melque/102030/25027
+#EXTINF:-1,TELECINE PREMIUM 4K
+http://cattek.in:8880/melque/102030/25036
+#EXTINF:-1,TNT 4K
+http://cattek.in:8880/melque/102030/25024
+#EXTINF:-1,TNT SERIES 4K
+http://cattek.in:8880/melque/102030/25032
+#EXTINF:-1,COMBATE 4K
+http://cattek.in:8880/melque/102030/25018
+#EXTINF:-1,FOX SPORTS 4K
+http://cattek.in:8880/melque/102030/25016
+#EXTINF:-1,CHEF TV SD
+http://cattek.in:8880/melque/102030/85478
+#EXTINF:-1,CULTURA HD
+http://cattek.in:8880/melque/102030/85479
+#EXTINF:-1,FUTURA FHD
+http://cattek.in:8880/melque/102030/68368
+#EXTINF:-1,FUTURA FHD
+http://cattek.in:8880/melque/102030/85482
+#EXTINF:-1,FUTURA HD
+http://cattek.in:8880/melque/102030/68369
+#EXTINF:-1,POLISHOP
+http://cattek.in:8880/melque/102030/85453
+#EXTINF:-1,PRIMEBOX HD
+http://cattek.in:8880/melque/102030/85454
+#EXTINF:-1,REDE CAXIAS TV HD
+http://cattek.in:8880/melque/102030/82036
+#EXTINF:-1,REDE TV FHD H265
+http://cattek.in:8880/melque/102030/68371
+#EXTINF:-1,REDE TV FHD
+http://cattek.in:8880/melque/102030/68372
+#EXTINF:-1,REDE TV HD
+http://cattek.in:8880/melque/102030/68373
+#EXTINF:-1,REDE TV HD
+http://cattek.in:8880/melque/102030/85456
+#EXTINF:-1,REDETV SD
+http://cattek.in:8880/melque/102030/85457
+#EXTINF:-1,TV ARACATI HD
+http://cattek.in:8880/melque/102030/82035
+#EXTINF:-1,TV BRASIL FHD
+http://cattek.in:8880/melque/102030/83207
+#EXTINF:-1,TV BRASIL HD
+http://cattek.in:8880/melque/102030/68374
+#EXTINF:-1,TV BRASIL SD
+http://cattek.in:8880/melque/102030/85461
+#EXTINF:-1,TV CENTRO SUL
+http://cattek.in:8880/melque/102030/82034
+#EXTINF:-1,TV CULTURA FHD
+http://cattek.in:8880/melque/102030/68375
+#EXTINF:-1,TV CULTURA HD
+http://cattek.in:8880/melque/102030/68376
+#EXTINF:-1,TV CÂMARA
+http://cattek.in:8880/melque/102030/85463
+#EXTINF:-1,TV DIARIO FHD
+http://cattek.in:8880/melque/102030/85464
+#EXTINF:-1,TV DIARIO HD
+http://cattek.in:8880/melque/102030/85465
+#EXTINF:-1,TV ESCOLA HD
+http://cattek.in:8880/melque/102030/68379
+#EXTINF:-1,TV GAZETA FHD
+http://cattek.in:8880/melque/102030/85466
+#EXTINF:-1,TV JUSTIÇA
+http://cattek.in:8880/melque/102030/85468
+#EXTINF:-1,TV SENADO
+http://cattek.in:8880/melque/102030/85470
+#EXTINF:-1,VIVA HD
+http://cattek.in:8880/melque/102030/85474
+#EXTINF:-1,VIVA HD
+http://cattek.in:8880/melque/102030/85475
+#EXTINF:-1,BAND BAHIA HD (BR1)
+http://cattek.in:8880/melque/102030/111897
+#EXTINF:-1,BAND BSB HD (BR1)
+http://cattek.in:8880/melque/102030/111891
+#EXTINF:-1,BAND CAMPINAS FHD
+http://cattek.in:8880/melque/102030/30871
+#EXTINF:-1,BAND CAMPINAS HD
+http://cattek.in:8880/melque/102030/68187
+#EXTINF:-1,BAND CAMPINAS HD (BR1)
+http://cattek.in:8880/melque/102030/85677
+#EXTINF:-1,BAND CAMPINAS HD (BR1)
+http://cattek.in:8880/melque/102030/85678
+#EXTINF:-1,BAND CAMPINAS HD (BR1)
+http://cattek.in:8880/melque/102030/111892
+#EXTINF:-1,BAND CAMPINAS SD
+http://cattek.in:8880/melque/102030/68186
+#EXTINF:-1,BAND FHD (BR1)
+http://cattek.in:8880/melque/102030/68189
+#EXTINF:-1,BAND SP FHD H265 (BR1)
+http://cattek.in:8880/melque/102030/68188
+#EXTINF:-1,BAND FHD H265
+http://cattek.in:8880/melque/102030/25296
+#EXTINF:-1,BAND HD (BR1)
+http://cattek.in:8880/melque/102030/68190
+#EXTINF:-1,BAND HD (BR1)
+http://cattek.in:8880/melque/102030/85679
+#EXTINF:-1,BAND HD
+http://cattek.in:8880/melque/102030/25297
+#EXTINF:-1,BAND NORDESTE (BR1)
+http://cattek.in:8880/melque/102030/85680
+#EXTINF:-1,BAND NORDESTE SD (BR1)
+http://cattek.in:8880/melque/102030/85681
+#EXTINF:-1,BAND PR TV TAROBA HD (BR1)
+http://cattek.in:8880/melque/102030/111896
+#EXTINF:-1,BAND RBATV PA (BR1)
+http://cattek.in:8880/melque/102030/85682
+#EXTINF:-1,BAND RECIFE HD (BR1)
+http://cattek.in:8880/melque/102030/85683
+#EXTINF:-1,BAND RJ HD
+http://cattek.in:8880/melque/102030/30872
+#EXTINF:-1,Band RJ HD (BR1)
+http://cattek.in:8880/melque/102030/85685
+#EXTINF:-1,BAND RJ SD (BR1)
+http://cattek.in:8880/melque/102030/85686
+#EXTINF:-1,BAND RS HD (BR1)
+http://cattek.in:8880/melque/102030/111893
+#EXTINF:-1,BAND SERGIPE HD (BR1)
+http://cattek.in:8880/melque/102030/111894
+#EXTINF:-1,BAND SP FHD (BR1)
+http://cattek.in:8880/melque/102030/68191
+#EXTINF:-1,BAND SP FHD
+http://cattek.in:8880/melque/102030/30873
+#EXTINF:-1,BAND SP HD (BR1)
+http://cattek.in:8880/melque/102030/85687
+#EXTINF:-1,BAND SP HD (BR1)
+http://cattek.in:8880/melque/102030/85688
+#EXTINF:-1,BAND SP HD (BR1)
+http://cattek.in:8880/melque/102030/111895
+#EXTINF:-1,BAND SP HD
+http://cattek.in:8880/melque/102030/30874
+#EXTINF:-1,BAND SP SD
+http://cattek.in:8880/melque/102030/30875
+#EXTINF:-1,ANIMAL PLANET FHD
+http://cattek.in:8880/melque/102030/85370
+#EXTINF:-1,ANIMAL PLANET HD
+http://cattek.in:8880/melque/102030/85371
+#EXTINF:-1,ANIMAL PLANET SD
+http://cattek.in:8880/melque/102030/85372
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://cattek.in:8880/melque/102030/85325
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://cattek.in:8880/melque/102030/85326
+#EXTINF:-1,DISCOVERY CHANNEL SD
+http://cattek.in:8880/melque/102030/85328
+#EXTINF:-1,DISCOVERY CHANNEL SD 2
+http://cattek.in:8880/melque/102030/85327
+#EXTINF:-1,DISCOVERY HOME & HEALTH FHD
+http://cattek.in:8880/melque/102030/85329
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+http://cattek.in:8880/melque/102030/85330
+#EXTINF:-1,DISCOVERY HOME & HEALTH SD
+http://cattek.in:8880/melque/102030/85331
+#EXTINF:-1,DISCOVERY SCIENCE FHD
+http://cattek.in:8880/melque/102030/85332
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://cattek.in:8880/melque/102030/85334
+#EXTINF:-1,DISCOVERY SCIENCE SD
+http://cattek.in:8880/melque/102030/85333
+#EXTINF:-1,DISCOVERY THEATER FHD
+http://cattek.in:8880/melque/102030/85335
+#EXTINF:-1,DISCOVERY THEATER HD
+http://cattek.in:8880/melque/102030/85337
+#EXTINF:-1,DISCOVERY THEATER HD 2
+http://cattek.in:8880/melque/102030/85336
+#EXTINF:-1,DISCOVERY TLC FHD
+http://cattek.in:8880/melque/102030/85338
+#EXTINF:-1,DISCOVERY TLC HD
+http://cattek.in:8880/melque/102030/85339
+#EXTINF:-1,DISCOVERY TLC SD
+http://cattek.in:8880/melque/102030/85340
+#EXTINF:-1,DISCOVERY TURBO FHD
+http://cattek.in:8880/melque/102030/85341
+#EXTINF:-1,DISCOVERY TURBO HD
+http://cattek.in:8880/melque/102030/85342
+#EXTINF:-1,DISCOVERY TURBO SD
+http://cattek.in:8880/melque/102030/85343
+#EXTINF:-1,DISCOVERY WORLD FHD
+http://cattek.in:8880/melque/102030/85344
+#EXTINF:-1,DISCOVERY WORLD HD
+http://cattek.in:8880/melque/102030/85345
+#EXTINF:-1,DISCOVERY WORLD SD
+http://cattek.in:8880/melque/102030/85346
+#EXTINF:-1,FISH TV FHD
+http://cattek.in:8880/melque/102030/85347
+#EXTINF:-1,FISH TV HD
+http://cattek.in:8880/melque/102030/85348
+#EXTINF:-1,FISH TV SD
+http://cattek.in:8880/melque/102030/85349
+#EXTINF:-1,H2 FHD
+http://cattek.in:8880/melque/102030/85350
+#EXTINF:-1,H2 HD
+http://cattek.in:8880/melque/102030/85351
+#EXTINF:-1,H2 SD
+http://cattek.in:8880/melque/102030/85352
 #EXTINF:-1,HGTV FHD
-http://lb.kstream.org/aovivo/FHD_HGTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+http://cattek.in:8880/melque/102030/85354
 #EXTINF:-1,HGTV HD
-http://lb.kstream.org/aovivo/HD_HGTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HGTV HD [Alter]
-http://lb.kstream.org/aovivo/HD_HGTV_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,History
-http://lb.kstream.org/aovivo/SD_HISTORY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,History 2
-http://lb.kstream.org/aovivo/SD_H2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,History 2 FHD
-http://lb.kstream.org/aovivo/FHD_H2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,History 2 HD
-http://lb.kstream.org/aovivo/HD_H2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,History 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_H2_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,History FHD
-http://lb.kstream.org/aovivo/FHD_HISTORY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,History HD
-http://lb.kstream.org/aovivo/HD_HISTORY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,History HD [Alter]
-http://lb.kstream.org/aovivo/HD_HISTORY_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Homem Aranha
-http://lb.kstream.org/aovivo/24_HOMEM_ARANHA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,I-Sat
-http://lb.kstream.org/aovivo/SD_ISAT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,I-Sat FHD
-http://lb.kstream.org/aovivo/FHD_ISAT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,I-Sat HD
-http://lb.kstream.org/aovivo/HD_ISAT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ID
-http://lb.kstream.org/aovivo/SD_DISCOVERY_INVESTIGATION/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ID FHD
-http://lb.kstream.org/aovivo/FHD_ID/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ID HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY_INVESTIGATION/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ID HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_INVESTIGATION_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Irmao do Jorel
-http://lb.kstream.org/aovivo/24_IRMAO_JOREL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Jhony Quest
-http://lb.kstream.org/aovivo/24_JHONY_QUEST/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Jogo Aberto
-http://lb.kstream.org/aovivo/HD_JOGO_ABERTO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Jovem Pan Esportes
-http://lb.kstream.org/aovivo/HD_JP_ESPORTES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Jovem Pan News
-http://lb.kstream.org/aovivo/HD_JP_NEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Largados e pelados
-http://lb.kstream.org/aovivo/24_LARGADOS_PELADOS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Lifetime
-http://lb.kstream.org/aovivo/SD_LIFETIME/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Lifetime FHD
-http://lb.kstream.org/aovivo/FHD_LIFETIME/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Lifetime HD
-http://lb.kstream.org/aovivo/HD_LIFETIME/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Lifetime HD [Alter]
-http://lb.kstream.org/aovivo/HD_LIFETIME_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Luluzinha
-http://lb.kstream.org/aovivo/24_LULUZINHA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,MTV
-http://lb.kstream.org/aovivo/SD_MTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,MTV FHD
-http://lb.kstream.org/aovivo/FHD_MTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,MTV HD
-http://lb.kstream.org/aovivo/HD_MTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,MTV HD [Alter]
-http://lb.kstream.org/aovivo/HD_MTV_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Mais Globosat
-http://lb.kstream.org/aovivo/SD_MAIS_GLOBOSAT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Mais Globosat FHD
-http://lb.kstream.org/aovivo/FHD_GLOBOSAT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Mais Globosat HD
-http://lb.kstream.org/aovivo/HD_MAIS_GLOBOSAT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Mais Globosat HD [Alter]
-http://lb.kstream.org/aovivo/HD_MAIS_GLOBOSAT_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Marsha e o Urso
-http://lb.kstream.org/aovivo/24_MARSHA_URSO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Megapix
-http://lb.kstream.org/aovivo/SD_MEGAPIX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Megapix FHD
-http://lb.kstream.org/aovivo/FHD_MEGAPIX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Megapix HD
-http://lb.kstream.org/aovivo/HD_MEGAPIX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Megapix HD [Alter]
-http://lb.kstream.org/aovivo/HD_MEGAPIX_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Meu AmigaoZao
-http://lb.kstream.org/aovivo/24_MEU_AMIGAOZAO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Mickey Mouse
-http://lb.kstream.org/aovivo/24_MICKEY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Morning JP Show
-http://lb.kstream.org/aovivo/HD_JP_MORNING_SHOW/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Multishow
-http://lb.kstream.org/aovivo/SD_MULTISHOW/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Multishow FHD
-http://lb.kstream.org/aovivo/FHD_MULTISHOW/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Multishow HD
-http://lb.kstream.org/aovivo/HD_MULTISHOW/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Multishow HD [Alter]
-http://lb.kstream.org/aovivo/HD_MULTISHOW_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Mundo Bita
-http://lb.kstream.org/aovivo/24_MUNDO_BITA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Music Box Brazil
-http://lb.kstream.org/aovivo/SD_MUSIC_BOX_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Music Box Brazil FHD
-http://lb.kstream.org/aovivo/FHD_MUSICBOX_BRAZIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Music Box Brazil HD
-http://lb.kstream.org/aovivo/HD_MUSIC_BOX_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,NBR
-http://lb.kstream.org/aovivo/HD_NBR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,NHK
-http://lb.kstream.org/aovivo/SD_NHK/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Naruto
-http://lb.kstream.org/aovivo/24_NATURO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,NatGeo Kids
-http://lb.kstream.org/aovivo/SD_NATGEOKIDS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,NatGeo Kids FHD
-http://lb.kstream.org/aovivo/FHD_NAT_GEO_KIDS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,NatGeo Kids HD
-http://lb.kstream.org/aovivo/HD_NATGEOKIDS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,NatGeo Kids HD [Alter]
-http://lb.kstream.org/aovivo/HD_NATGEOKIDS_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Natgeo Wild
-http://lb.kstream.org/aovivo/SD_NAT_GEO_WILD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Natgeo Wild FHD
-http://lb.kstream.org/aovivo/FHD_NAT_GEO_WILD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Natgeo Wild HD
-http://lb.kstream.org/aovivo/HD_NAT_GEO_WILD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Natgeo Wild HD [Alter]
-http://lb.kstream.org/aovivo/HD_NAT_GEO_WILD_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,National Geographic
-http://lb.kstream.org/aovivo/SD_NAT_GEO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,National Geographic FHD
-http://lb.kstream.org/aovivo/FHD_NAT_GEO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,National Geographic HD
-http://lb.kstream.org/aovivo/HD_NAT_GEO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,National Geographic HD [Alter]
-http://lb.kstream.org/aovivo/HD_NAT_GEO_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Nick Jr.
-http://lb.kstream.org/aovivo/SD_NICK_JR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Nick Jr. FHD
-http://lb.kstream.org/aovivo/FHD_NICK_JR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Nick Jr. HD
-http://lb.kstream.org/aovivo/HD_NICK_JR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Nick Jr. HD [Alter]
-http://lb.kstream.org/aovivo/HD_NICK_JR_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Nickelodeon
-http://lb.kstream.org/aovivo/SD_NICKELODEON/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Nickelodeon HD
-http://lb.kstream.org/aovivo/HD_NICKELODEON/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Novo Tempo
-http://lb.kstream.org/aovivo/SD_NOVO_TEMPO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Novo Tempo HD
-http://lb.kstream.org/aovivo/HD_NOVO_TEMPO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Novo Tempo HD [Alter]
-http://lb.kstream.org/aovivo/HD_NOVO_TEMPO_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,O Fantastico Mundo de Bob
-http://lb.kstream.org/aovivo/24_O_FANTASTICO_MUNDO_BOB/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,O Maskara (DESENHO)
-http://lb.kstream.org/aovivo/24_O_MASKARA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Off
-http://lb.kstream.org/aovivo/SD_OFF/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Off FHD
-http://lb.kstream.org/aovivo/FHD_OFF/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Off HD
-http://lb.kstream.org/aovivo/HD_OFF/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Off HD [Alter]
-http://lb.kstream.org/aovivo/HD_OFF_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Os Donos da Bola
-http://lb.kstream.org/aovivo/HD_DONOS_DA_BOLA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Os Flintstones
-http://lb.kstream.org/aovivo/24_OS_FLINTSTONES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Os Padrinhos Magicos
-http://lb.kstream.org/aovivo/24_OS_PADRINHOS_MAGICOS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Os Simpsons
-http://lb.kstream.org/aovivo/24_SIMPSONS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Os Trapalhoes
-http://lb.kstream.org/aovivo/24_TRAPALHOES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Panico Jovem Pan
-http://lb.kstream.org/aovivo/HD_PANICO_JP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Paramount
-http://lb.kstream.org/aovivo/SD_PARAMOUNT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Paramount FHD
-http://lb.kstream.org/aovivo/FHD_PARAMOUNT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Paramount HD
-http://lb.kstream.org/aovivo/HD_PARAMOUNT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Paramount HD [Alter]
-http://lb.kstream.org/aovivo/HD_PARAMOUNT_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Patati Patata
-http://lb.kstream.org/aovivo/24_PATATI_PATATA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Patrulha Canina
-http://lb.kstream.org/aovivo/24_PATRULHA_CANINA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Peppa Pig
-http://lb.kstream.org/aovivo/24_PEPPA_PIG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Pica Pau
-http://lb.kstream.org/aovivo/24_PICA_PAU/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Play TV
-http://lb.kstream.org/aovivo/SD_PLAY_TV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Play TV FHD
-http://lb.kstream.org/aovivo/FHD_PLAYTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Play TV HD
-http://lb.kstream.org/aovivo/HD_PLAYTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Play TV [Alter]
-http://lb.kstream.org/aovivo/HD_PLAYTV_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,PlayKids
-http://lb.kstream.org/aovivo/SD_PLAYKIDS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,PlayKids HD
-http://lb.kstream.org/aovivo/HD_PLAYKIDS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Playboy TV
-http://lb.kstream.org/aovivo/SD_PLAYBOY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Playboy TV FHD
-http://lb.kstream.org/aovivo/FHD_PLAYBOY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Playboy TV HD
-http://lb.kstream.org/aovivo/HD_PLAYBOY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Playboy TV HD [Alter]
-http://lb.kstream.org/aovivo/HD_PLAYBOY_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Polishop TV
-http://lb.kstream.org/aovivo/SD_POLISHOP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Popeye
-http://lb.kstream.org/aovivo/24_POPEYE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 2
-http://lb.kstream.org/aovivo/SD_PFC_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 2 FHD
-http://lb.kstream.org/aovivo/FHD_PFC_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 2 HD
-http://lb.kstream.org/aovivo/HD_PFC_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_2_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 3
-http://lb.kstream.org/aovivo/SD_PFC_3/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 3 FHD
-http://lb.kstream.org/aovivo/FHD_PFC_3/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 3 HD
-http://lb.kstream.org/aovivo/HD_PFC_3/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 3 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_3_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 4
-http://lb.kstream.org/aovivo/SD_PFC_4/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 4 FHD
-http://lb.kstream.org/aovivo/FHD_PFC_4/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 4 HD
-http://lb.kstream.org/aovivo/HD_PFC_4/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 4 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_4_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 5
-http://lb.kstream.org/aovivo/SD_PFC_5/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 5 FHD
-http://lb.kstream.org/aovivo/FHD_PFC_5/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 5 HD
-http://lb.kstream.org/aovivo/HD_PFC_5/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 5 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_5_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 6
-http://lb.kstream.org/aovivo/SD_PFC_6/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 6 FHD
-http://lb.kstream.org/aovivo/FHD_PFC_6/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 6 HD
-http://lb.kstream.org/aovivo/HD_PFC_6/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 6 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_6_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 7 FHD
-http://lb.kstream.org/aovivo/FHD_PFC_7/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 7 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_7_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere Clubes
-http://lb.kstream.org/aovivo/SD_PFC_CLUBES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere Clubes FHD
-http://lb.kstream.org/aovivo/FHD_PFC_CLUBES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere Clubes HD
-http://lb.kstream.org/aovivo/HD_PFC_CLUBES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere Clubes HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_CLUBES_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Primebox Brasil
-http://lb.kstream.org/aovivo/SD_PRIMEBOX_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Primebox Brasil FHD
-http://lb.kstream.org/aovivo/FHD_PRIMEBOX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Primebox Brasil HD
-http://lb.kstream.org/aovivo/HD_PRIMEBOX_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,RIT
-http://lb.kstream.org/aovivo/SD_RIT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record
-http://lb.kstream.org/aovivo/SD_RECORD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record AM
-http://lb.kstream.org/aovivo/SD_RECORD_MA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record AM HD
-http://lb.kstream.org/aovivo/HD_RECORD_MA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record BA
-http://lb.kstream.org/aovivo/SD_RECORD_BA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record BA HD
-http://lb.kstream.org/aovivo/HD_RECORD_BA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record DF
-http://lb.kstream.org/aovivo/SD_RECORD_DF/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record DF HD
-http://lb.kstream.org/aovivo/HD_RECORD_DF/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record ES FHD
-http://lb.kstream.org/aovivo/FHD_RECORD_ES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record ES HD
-http://lb.kstream.org/aovivo/RECORD_ES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record FHD
-http://lb.kstream.org/aovivo/FHD_RECORD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record GO
-http://lb.kstream.org/aovivo/SD_RECORD_GO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record GO FHD
-http://lb.kstream.org/aovivo/FHD_RECORD_GO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record GO HD
-http://lb.kstream.org/aovivo/HD_RECORD_GO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record HD
-http://lb.kstream.org/aovivo/HD_RECORD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record HD [Alter]
-http://lb.kstream.org/aovivo/HD_RECORD_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record MG
-http://lb.kstream.org/aovivo/SD_RECORD_MG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record MG HD
-http://lb.kstream.org/aovivo/HD_RECORD_MG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record News
-http://lb.kstream.org/aovivo/SD_RECORD_NEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record News FHD
-http://lb.kstream.org/aovivo/FHD_RECORDNEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record News HD
-http://lb.kstream.org/aovivo/HD_RECORD_NEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record News HD [Alter]
-http://lb.kstream.org/aovivo/HD_RECORDNEWS_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record PA
-http://lb.kstream.org/aovivo/SD_RECORD_BE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record PA HD
-http://lb.kstream.org/aovivo/HD_RECORD_BE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record PR HD
-http://lb.kstream.org/aovivo/HD_RECORD_PR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record RJ
-http://lb.kstream.org/aovivo/SD_RECORD_RJ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record RJ HD
-http://lb.kstream.org/aovivo/HD_RECORD_RJ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record RS
-http://lb.kstream.org/aovivo/SD_RECORD_RS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record RS HD
-http://lb.kstream.org/aovivo/HD_RECORD_RS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record SP
-http://lb.kstream.org/aovivo/SD_RECORD_SP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record SP HD
-http://lb.kstream.org/aovivo/HD_RECORD_SP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Rede Brasil
-http://lb.kstream.org/aovivo/SD_REDE_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Rede Gospel
-http://lb.kstream.org/aovivo/HD_REDE_GOSPEL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Rede Gospel FHD
-http://lb.kstream.org/aovivo/FHD_REDE_GOSPEL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Rede Super
-http://lb.kstream.org/aovivo/SD_REDE_SUPER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Rede Super FHD
-http://lb.kstream.org/aovivo/FHD_REDE_SUPER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Rede Vida
-http://lb.kstream.org/aovivo/SD_REDE_VIDA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Rede Vida HD
-http://lb.kstream.org/aovivo/HD_REDE_VIDA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Rede Vida HD [Alter]
-http://lb.kstream.org/aovivo/HD_REDE_VIDA_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,RedeTV!
-http://lb.kstream.org/aovivo/SD_REDETV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,RedeTV! FHD
-http://lb.kstream.org/aovivo/FULLHD_REDETV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,RedeTV! HD
-http://lb.kstream.org/aovivo/HD_REDETV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,RedeTV! HD [Alter]
-http://lb.kstream.org/aovivo/HD_REDETV_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Rick and Morty
-http://lb.kstream.org/aovivo/24_RICKY_MORTY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SBT
-http://lb.kstream.org/aovivo/SD_SBT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SBT ES HD
-http://lb.kstream.org/aovivo/HD_SBT_ES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SBT FHD
-http://lb.kstream.org/aovivo/FHD_SBT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SBT HD
-http://lb.kstream.org/aovivo/HD_SBT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SBT HD [Alter]
-http://lb.kstream.org/aovivo/HD_SBT_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SBT MG
-http://lb.kstream.org/aovivo/SD_SBT_MG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SBT MG FHD
-http://lb.kstream.org/aovivo/FHD_SBT_MG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SBT MG HD
-http://lb.kstream.org/aovivo/HD_SBT_MG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SBT RS HD
-http://lb.kstream.org/aovivo/HD_SBT_RS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SBT Rio HD
-http://lb.kstream.org/aovivo/HD_SBT_RJ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SBT TV Cidade Verde
-http://lb.kstream.org/aovivo/SD_SBT_TV_CIDADE_VERDE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SBT TV Jornal Recife
-http://lb.kstream.org/aovivo/SD_JORNAL_RECIFE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SexPrive FHD
-http://lb.kstream.org/aovivo/FHD_SEXPRIVE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SexPrive HD
-http://lb.kstream.org/aovivo/HD_SEXPRIVE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Sextreme
-http://lb.kstream.org/aovivo/SD_SEXTREME/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Sextreme HD
-http://lb.kstream.org/aovivo/HD_SEXTREME/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Sexy Hot
-http://lb.kstream.org/aovivo/SD_SEXYHOT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Sexy Hot HD
-http://lb.kstream.org/aovivo/HD_SEXHOT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Sexyzone HD
-http://lb.kstream.org/aovivo/HD_SEXYZONE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Shoptime
-http://lb.kstream.org/aovivo/HD_SHOPTIME/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Sitio do Pica Pau Amarelo
-http://lb.kstream.org/aovivo/24_SITIO_PICA_PAU_AMARELO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Sony
-http://lb.kstream.org/aovivo/SD_SONY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Sony FHD
-http://lb.kstream.org/aovivo/FHD_SONY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Sony HD
-http://lb.kstream.org/aovivo/HD_SONY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Sony HD [Alter]
-http://lb.kstream.org/aovivo/HD_SONY_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Space
-http://lb.kstream.org/aovivo/SD_SPACE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Space FHD
-http://lb.kstream.org/aovivo/FHD_SPACE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Space HD
-http://lb.kstream.org/aovivo/HD_SPACE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Space HD [Alter]
-http://lb.kstream.org/aovivo/HD_SPACE_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SporTV
-http://lb.kstream.org/aovivo/SD_UDHASKDN_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SporTV 2
-http://lb.kstream.org/aovivo/SD_SPORTV_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SporTV 2 FHD
-http://lb.kstream.org/aovivo/FHD_SPORTV_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SporTV 2 HD
-http://lb.kstream.org/aovivo/HD_SPORTV_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SporTV 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_SPORTV_2_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SporTV 3
-http://lb.kstream.org/aovivo/SD_SPORTV_3/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SporTV 3 FHD
-http://lb.kstream.org/aovivo/FHD_SPORTV_3/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SporTV 3 HD
-http://lb.kstream.org/aovivo/HD_SPORTV_3/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SporTV 3 HD [Alter]
-http://lb.kstream.org/aovivo/HD_SPORTV_3_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SporTV FHD
-http://lb.kstream.org/aovivo/FHD_SPORTV_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SporTV HD
-http://lb.kstream.org/aovivo/HD_SOKASJDH_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SporTV HD [Alter]
-http://lb.kstream.org/aovivo/HD_SPORTV_1_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Studio Universal
-http://lb.kstream.org/aovivo/SD_STUDIO_UNIVERSAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Studio Universal FHD
-http://lb.kstream.org/aovivo/FHD_STUDIO_UNIVERSAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Studio Universal HD
-http://lb.kstream.org/aovivo/HD_STUDIO_UNIVERSAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Studio Universal HD [Alter]
-http://lb.kstream.org/aovivo/HD_STUDIO_UNIVERSAL_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Syfy
-http://lb.kstream.org/aovivo/SD_SYFY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Syfy FHD
-http://lb.kstream.org/aovivo/FHD_SYFY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Syfy HD
-http://lb.kstream.org/aovivo/HD_SYFY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Syfy HD [Alter]
-http://lb.kstream.org/aovivo/HD_SYFY_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TBS
-http://lb.kstream.org/aovivo/SD_TBS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+http://cattek.in:8880/melque/102030/85353
+#EXTINF:-1,HGTV HD
+http://cattek.in:8880/melque/102030/85355
+#EXTINF:-1,HISTORY CHANNEL FHD H265
+http://cattek.in:8880/melque/102030/85356
+#EXTINF:-1,HISTORY CHANNEL HD
+http://cattek.in:8880/melque/102030/85357
+#EXTINF:-1,HISTORY CHANNEL SD
+http://cattek.in:8880/melque/102030/85358
+#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY FHD
+http://cattek.in:8880/melque/102030/85361
+#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY HD
+http://cattek.in:8880/melque/102030/85360
+#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY SD
+http://cattek.in:8880/melque/102030/85359
+#EXTINF:-1,NATGEO WILD FHD
+http://cattek.in:8880/melque/102030/85362
+#EXTINF:-1,NATGEO WILD HD
+http://cattek.in:8880/melque/102030/85363
+#EXTINF:-1,NATGEO WILD SD
+http://cattek.in:8880/melque/102030/85364
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD H265
+http://cattek.in:8880/melque/102030/85365
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://cattek.in:8880/melque/102030/85367
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD 2
+http://cattek.in:8880/melque/102030/85366
+#EXTINF:-1,TRU TV HD
+http://cattek.in:8880/melque/102030/85368
+#EXTINF:-1,BAND SPORTS FHD
+http://cattek.in:8880/melque/102030/85313
+#EXTINF:-1,BAND SPORTS HD
+http://cattek.in:8880/melque/102030/85244
+#EXTINF:-1,BAND SPORTS HD 2
+http://cattek.in:8880/melque/102030/85245
+#EXTINF:-1,BAND SPORTS SD
+http://cattek.in:8880/melque/102030/85243
+#EXTINF:-1,COMBATE FHD H265
+http://cattek.in:8880/melque/102030/85253
+#EXTINF:-1,COMBATE FHD
+http://cattek.in:8880/melque/102030/85246
+#EXTINF:-1,COMBATE HD
+http://cattek.in:8880/melque/102030/85248
+#EXTINF:-1,COMBATE SD
+http://cattek.in:8880/melque/102030/85250
+#EXTINF:-1,ESPN HD
+http://cattek.in:8880/melque/102030/85265
+#EXTINF:-1,ESPN HD 2
+http://cattek.in:8880/melque/102030/85264
+#EXTINF:-1,ESPN SD
+http://cattek.in:8880/melque/102030/85266
+#EXTINF:-1,ESPN 2 FHD
+http://cattek.in:8880/melque/102030/85268
+#EXTINF:-1,ESPN 2 HD
+http://cattek.in:8880/melque/102030/85269
+#EXTINF:-1,ESPN 2 HD 2
+http://cattek.in:8880/melque/102030/85267
+#EXTINF:-1,ESPN BRASIL FHD
+http://cattek.in:8880/melque/102030/85271
+#EXTINF:-1,ESPN BRASIL FHD 2
+http://cattek.in:8880/melque/102030/85270
+#EXTINF:-1,ESPN BRASIL HD
+http://cattek.in:8880/melque/102030/85272
+#EXTINF:-1,ESPN BRASIL SD
+http://cattek.in:8880/melque/102030/85273
+#EXTINF:-1,ESPN BRASIL SD
+http://cattek.in:8880/melque/102030/85274
+#EXTINF:-1,ESPN EXTRA HD
+http://cattek.in:8880/melque/102030/85275
+#EXTINF:-1,ESPN FHD
+http://cattek.in:8880/melque/102030/85277
+#EXTINF:-1,ESPN HD
+http://cattek.in:8880/melque/102030/85278
+#EXTINF:-1,FOX SPORTS FHD H265
+http://cattek.in:8880/melque/102030/85291
+#EXTINF:-1,FOX SPORTS FHD
+http://cattek.in:8880/melque/102030/85292
+#EXTINF:-1,FOX SPORTS SD
+http://cattek.in:8880/melque/102030/85296
+#EXTINF:-1,FOX SPORTS HD
+http://cattek.in:8880/melque/102030/85295
+#EXTINF:-1,FOX SPORT 2 FHD
+http://cattek.in:8880/melque/102030/85286
+#EXTINF:-1,FOX SPORT 2 FHD
+http://cattek.in:8880/melque/102030/85287
+#EXTINF:-1,FOX SPORTS 2 HD
+http://cattek.in:8880/melque/102030/85289
+#EXTINF:-1,FOX SPORTS 2 HD 2
+http://cattek.in:8880/melque/102030/85288
+#EXTINF:-1,FOX SPORTS 2 SD
+http://cattek.in:8880/melque/102030/85290
+#EXTINF:-1,Real Madrid TV SD
+http://cattek.in:8880/melque/102030/85297
+#EXTINF:-1,SPORTV FHD
+http://cattek.in:8880/melque/102030/85310
+#EXTINF:-1,SPORTV HD
+http://cattek.in:8880/melque/102030/85311
+#EXTINF:-1,SPORTV SD
+http://cattek.in:8880/melque/102030/85312
+#EXTINF:-1,SPORTV 2 FHD
+http://cattek.in:8880/melque/102030/85298
+#EXTINF:-1,SPORTV 2 FHD
+http://cattek.in:8880/melque/102030/85299
+#EXTINF:-1,SPORTV 2 HD
+http://cattek.in:8880/melque/102030/85300
+#EXTINF:-1,SPORTV 2 HD
+http://cattek.in:8880/melque/102030/85301
+#EXTINF:-1,SPORTV 2 SD
+http://cattek.in:8880/melque/102030/85302
+#EXTINF:-1,SPORTV 2 SD
+http://cattek.in:8880/melque/102030/85303
+#EXTINF:-1,SPORTV 3 FHD H265
+http://cattek.in:8880/melque/102030/85304
+#EXTINF:-1,SPORTV 3 FHD
+http://cattek.in:8880/melque/102030/85305
+#EXTINF:-1,SPORTV 3 HD
+http://cattek.in:8880/melque/102030/85306
+#EXTINF:-1,SPORTV 3 HD
+http://cattek.in:8880/melque/102030/85307
+#EXTINF:-1,SPORTV 3 SD
+http://cattek.in:8880/melque/102030/85308
+#EXTINF:-1,SPORTV 3 SD
+http://cattek.in:8880/melque/102030/85309
+#EXTINF:-1,RED BULL FHD
+http://cattek.in:8880/melque/102030/113498
+#EXTINF:-1,CAMPEONATO CATARINENSE (JOGO 1)
+http://cattek.in:8880/melque/102030/85115
+#EXTINF:-1,CAMPEONATO CATARINENSE (JOGO2)
+http://cattek.in:8880/melque/102030/85116
+#EXTINF:-1,CAMPEONATO CATARINENSE (JOGO3)
+http://cattek.in:8880/melque/102030/85117
+#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO1)
+http://cattek.in:8880/melque/102030/85254
+#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO 2)
+http://cattek.in:8880/melque/102030/85255
+#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO 3)
+http://cattek.in:8880/melque/102030/85256
+#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO 4)
+http://cattek.in:8880/melque/102030/85257
+#EXTINF:-1,COPA NORDESTE
+http://cattek.in:8880/melque/102030/82199
+#EXTINF:-1,FLU TV
+http://cattek.in:8880/melque/102030/85285
+#EXTINF:-1,FLUTV
+http://cattek.in:8880/melque/102030/80718
+#EXTINF:-1,LIVE FC 01
+http://cattek.in:8880/melque/102030/82204
+#EXTINF:-1,LIVE FC 02
+http://cattek.in:8880/melque/102030/82205
+#EXTINF:-1,LIVE FC 03
+http://cattek.in:8880/melque/102030/82206
+#EXTINF:-1,LIVE FC 04
+http://cattek.in:8880/melque/102030/82207
+#EXTINF:-1,MLB NETWORK
+http://cattek.in:8880/melque/102030/82030
+#EXTINF:-1,RAI ITALIA
+http://cattek.in:8880/melque/102030/82043
+#EXTINF:-1,RAI NEWS 24
+http://cattek.in:8880/melque/102030/82029
+#EXTINF:-1,REAL MADRID TV
+http://cattek.in:8880/melque/102030/82032
+#EXTINF:-1,A&E FHD H265
+http://cattek.in:8880/melque/102030/25473
+#EXTINF:-1,A&E FHD
+http://cattek.in:8880/melque/102030/68303
+#EXTINF:-1,A&E HD
+http://cattek.in:8880/melque/102030/85142
+#EXTINF:-1,A&E SD
+http://cattek.in:8880/melque/102030/85143
+#EXTINF:-1,AMC FHD H265
+http://cattek.in:8880/melque/102030/86023
+#EXTINF:-1,AMC FHD
+http://cattek.in:8880/melque/102030/85145
+#EXTINF:-1,AMC HD
+http://cattek.in:8880/melque/102030/85144
+#EXTINF:-1,AMC SD
+http://cattek.in:8880/melque/102030/85146
+#EXTINF:-1,AXN FHD H265
+http://cattek.in:8880/melque/102030/68308
+#EXTINF:-1,AXN FHD
+http://cattek.in:8880/melque/102030/68309
+#EXTINF:-1,AXN HD
+http://cattek.in:8880/melque/102030/68310
+#EXTINF:-1,AXN SD
+http://cattek.in:8880/melque/102030/85147
+#EXTINF:-1,CINEMAX FHD H265
+http://cattek.in:8880/melque/102030/68311
+#EXTINF:-1,CINEMAX FHD
+http://cattek.in:8880/melque/102030/85148
+#EXTINF:-1,CINEMAX HD
+http://cattek.in:8880/melque/102030/85149
+#EXTINF:-1,CINEMAX SD
+http://cattek.in:8880/melque/102030/85150
+#EXTINF:-1,FILM & ARTS FHD
+http://cattek.in:8880/melque/102030/68455
+#EXTINF:-1,FILM & ARTS HD
+http://cattek.in:8880/melque/102030/68456
+#EXTINF:-1,FOX FHD H265
+http://cattek.in:8880/melque/102030/68317
+#EXTINF:-1,FOX FHD
+http://cattek.in:8880/melque/102030/85153
+#EXTINF:-1,FOX HD
+http://cattek.in:8880/melque/102030/68328
+#EXTINF:-1,FOX SD
+http://cattek.in:8880/melque/102030/85161
+#EXTINF:-1,FOX LIFE FHD H265
+http://cattek.in:8880/melque/102030/68319
+#EXTINF:-1,FOX LIFE FHD
+http://cattek.in:8880/melque/102030/85154
+#EXTINF:-1,FOX LIFE HD
+http://cattek.in:8880/melque/102030/85155
+#EXTINF:-1,FOX LIFE SD
+http://cattek.in:8880/melque/102030/85156
+#EXTINF:-1,FOX PREMIUM 1 FHD H265
+http://cattek.in:8880/melque/102030/68322
+#EXTINF:-1,FOX PREMIUM 1 FHD
+http://cattek.in:8880/melque/102030/68323
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://cattek.in:8880/melque/102030/85157
+#EXTINF:-1,FOX PREMIUM 1 SD
+http://cattek.in:8880/melque/102030/85158
+#EXTINF:-1,FOX PREMIUM 2 FHD H265
+http://cattek.in:8880/melque/102030/68325
+#EXTINF:-1,FOX PREMIUM 2 FHD
+http://cattek.in:8880/melque/102030/68326
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://cattek.in:8880/melque/102030/85159
+#EXTINF:-1,FOX PREMIUM 2 SD
+http://cattek.in:8880/melque/102030/85160
+#EXTINF:-1,FX FHD H265
+http://cattek.in:8880/melque/102030/68329
+#EXTINF:-1,FX FHD
+http://cattek.in:8880/melque/102030/86025
+#EXTINF:-1,FX HD
+http://cattek.in:8880/melque/102030/68331
+#EXTINF:-1,FX SD
+http://cattek.in:8880/melque/102030/85162
+#EXTINF:-1,MEGAPIX FHD H265
+http://cattek.in:8880/melque/102030/68314
+#EXTINF:-1,MEGAPIX FHD
+http://cattek.in:8880/melque/102030/85163
+#EXTINF:-1,MEGAPIX HD
+http://cattek.in:8880/melque/102030/85164
+#EXTINF:-1,MEGAPIX SD
+http://cattek.in:8880/melque/102030/85165
+#EXTINF:-1,PARAMOUNT FHD H265
+http://cattek.in:8880/melque/102030/68365
+#EXTINF:-1,PARAMOUNT FHD
+http://cattek.in:8880/melque/102030/68366
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://cattek.in:8880/melque/102030/85166
+#EXTINF:-1,PARAMOUNT CHANNEL SD
+http://cattek.in:8880/melque/102030/85167
+#EXTINF:-1,PARAMOUNT HD
+http://cattek.in:8880/melque/102030/25496
+#EXTINF:-1,SONY CHANNEL FHD H265
+http://cattek.in:8880/melque/102030/68332
+#EXTINF:-1,SONY CHANNEL FHD
+http://cattek.in:8880/melque/102030/68333
+#EXTINF:-1,SONY FHD
+http://cattek.in:8880/melque/102030/85168
+#EXTINF:-1,SONY HD
+http://cattek.in:8880/melque/102030/68334
+#EXTINF:-1,SONY SD
+http://cattek.in:8880/melque/102030/85169
+#EXTINF:-1,SPACE FHD H265
+http://cattek.in:8880/melque/102030/68335
+#EXTINF:-1,SPACE FHD
+http://cattek.in:8880/melque/102030/68336
+#EXTINF:-1,SPACE HD
+http://cattek.in:8880/melque/102030/85170
+#EXTINF:-1,SPACE SD
+http://cattek.in:8880/melque/102030/85171
+#EXTINF:-1,STUDIO UNIVERSAL FHD H265
+http://cattek.in:8880/melque/102030/68338
+#EXTINF:-1,STUDIO UNIVERSAL FHD
+http://cattek.in:8880/melque/102030/68339
+#EXTINF:-1,STUDIO UNIVERSAL SD
+http://cattek.in:8880/melque/102030/85172
+#EXTINF:-1,SYFY FHD H265
+http://cattek.in:8880/melque/102030/68341
+#EXTINF:-1,SYFY FHD
+http://cattek.in:8880/melque/102030/68342
+#EXTINF:-1,SYFY HD
+http://cattek.in:8880/melque/102030/68343
+#EXTINF:-1,TBS FHD H265
+http://cattek.in:8880/melque/102030/68344
 #EXTINF:-1,TBS FHD
-http://lb.kstream.org/aovivo/FHD_TBS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TBS HD
-http://lb.kstream.org/aovivo/HD_TBS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TBS HD [Alter]
-http://lb.kstream.org/aovivo/HD_TBS_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TCM
-http://lb.kstream.org/aovivo/SD_TCM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+http://cattek.in:8880/melque/102030/68345
+#EXTINF:-1,TCM FHD H265
+http://cattek.in:8880/melque/102030/68347
 #EXTINF:-1,TCM FHD
-http://lb.kstream.org/aovivo/FHD_TCM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+http://cattek.in:8880/melque/102030/68348
 #EXTINF:-1,TCM HD
-http://lb.kstream.org/aovivo/HD_TCM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TCM HD [Alter]
-http://lb.kstream.org/aovivo/HD_TCM_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TLC
-http://lb.kstream.org/aovivo/SD_TLC/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TLC FHD
-http://lb.kstream.org/aovivo/FHD_TLC/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TLC HD
-http://lb.kstream.org/aovivo/HD_TLC/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TLC HD [Alter]
-http://lb.kstream.org/aovivo/HD_TLC_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TNT
-http://lb.kstream.org/aovivo/SD_TNT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+http://cattek.in:8880/melque/102030/68349
+#EXTINF:-1,TCM SD
+http://cattek.in:8880/melque/102030/85173
+#EXTINF:-1,TNT FHD H265
+http://cattek.in:8880/melque/102030/68353
 #EXTINF:-1,TNT FHD
-http://lb.kstream.org/aovivo/FHD_TNT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+http://cattek.in:8880/melque/102030/68354
 #EXTINF:-1,TNT HD
-http://lb.kstream.org/aovivo/HD_TNT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TNT HD [Alter]
-http://lb.kstream.org/aovivo/HD_TNT_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TNT Series
-http://lb.kstream.org/aovivo/SD_TNT_SERIES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TNT Series FHD
-http://lb.kstream.org/aovivo/FHD_TNT_SERIES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TNT Series HD
-http://lb.kstream.org/aovivo/HD_TNT_SERIES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TNT Series HD [Alter]
-http://lb.kstream.org/aovivo/HD_TNT_SERIES_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TV Aparecida
-http://lb.kstream.org/aovivo/SD_TV_APARECIDA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TV Aparecida HD
-http://lb.kstream.org/aovivo/HD_TV_APARECIDA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TV Aparecida HD [Alter]
-http://lb.kstream.org/aovivo/HD_TV_APARECIDA_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TV Brasil
-http://lb.kstream.org/aovivo/SD_TV_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TV Escola
-http://lb.kstream.org/aovivo/HD_TV_ESCOLA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TV Guarulhos (ESPIRITA)
-http://lb.kstream.org/aovivo/HD_TV_GUARULHOS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TV Justica
-http://lb.kstream.org/aovivo/SD_TV_JUSTICA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TV Ra Tim Bum
-http://lb.kstream.org/aovivo/SD_TV_RATIMBUM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TV Ra Tim Bum HD
-http://lb.kstream.org/aovivo/HD_TV_RATIMBUM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TV Seculo 21
-http://lb.kstream.org/aovivo/HD_SECULO_21/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TV Senado
-http://lb.kstream.org/aovivo/HD_TV_SENADO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Action
-http://lb.kstream.org/aovivo/SD_TC_ACTION/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Action FHD
-http://lb.kstream.org/aovivo/FHD_TC_ACTION/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Action FHD [Leg]
-http://lb.kstream.org/aovivo/FHD_TC_ACTION_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Action HD
-http://lb.kstream.org/aovivo/HD_TC_ACTION/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Action HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_ACTION_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Action HD [Leg]
-http://lb.kstream.org/aovivo/HD_TC_ACTION_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Cult
-http://lb.kstream.org/aovivo/SD_TC_CULT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Cult FHD
-http://lb.kstream.org/aovivo/FHD_TC_CULT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Cult FHD [Leg]
-http://lb.kstream.org/aovivo/FHD_TC_CULT_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Cult HD
-http://lb.kstream.org/aovivo/HD_TC_CULT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Cult HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_CULT_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Cult HD [Leg]
-http://lb.kstream.org/aovivo/HD_TC_CULT_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Fun
-http://lb.kstream.org/aovivo/SD_TC_FUN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Fun FHD
-http://lb.kstream.org/aovivo/FHD_TC_FUN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Fun FHD [Leg]
-http://lb.kstream.org/aovivo/FHD_TC_FUN_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Fun HD
-http://lb.kstream.org/aovivo/HD_TC_FUN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Fun HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_FUN_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Fun HD [Leg]
-http://lb.kstream.org/aovivo/HD_TC_FUN_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Pipoca
-http://lb.kstream.org/aovivo/SD_TC_PIPOCA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Pipoca FHD
-http://lb.kstream.org/aovivo/FHD_TC_PIPOCA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Pipoca FHD [Leg]
-http://lb.kstream.org/aovivo/FHD_TC_PIPOCA_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Pipoca HD
-http://lb.kstream.org/aovivo/HD_TC_PIPOCA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Pipoca HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_PIPOCA_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Pipoca HD [Leg]
-http://lb.kstream.org/aovivo/HD_TC_PIPOCA_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Premium
-http://lb.kstream.org/aovivo/SD_TC_PREMIUM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Premium FHD
-http://lb.kstream.org/aovivo/FHD_TC_PREMIUM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Premium FHD [Leg]
-http://lb.kstream.org/aovivo/FHD_TC_PREMIUM_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Premium HD
-http://lb.kstream.org/aovivo/HD_TC_PREMIUM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Premium HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_PREMIUM_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Premium HD [Leg]
-http://lb.kstream.org/aovivo/HD_TC_PREMIUM_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Touch
-http://lb.kstream.org/aovivo/SD_TC_TOUCH/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Touch FHD
-http://lb.kstream.org/aovivo/FHD_TC_TOUCH/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Touch FHD [Leg]
-http://lb.kstream.org/aovivo/FHD_TC_TOUCH_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Touch HD
-http://lb.kstream.org/aovivo/HD_TC_TOUCH/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Touch HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_TOUCH_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Touch HD [Leg]
-http://lb.kstream.org/aovivo/HD_TC_TOUCH_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Timao e Pumba
-http://lb.kstream.org/aovivo/24_TIMAO_PUMBA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Todo Mundo Odeia o Chris
-http://lb.kstream.org/aovivo/24_TMO_CHRIS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Tom e Jerry
-http://lb.kstream.org/aovivo/24_TOM_JERRY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Tooncast
-http://lb.kstream.org/aovivo/SD_TOONCAST/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Tooncast HD
-http://lb.kstream.org/aovivo/HD_TOONCAST/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Tooncast HD [Alter]
-http://lb.kstream.org/aovivo/HD_TOONCAST_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Trutv
-http://lb.kstream.org/aovivo/SD_TRUTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Trutv FHD
-http://lb.kstream.org/aovivo/FHD_TRU_TV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Trutv HD
-http://lb.kstream.org/aovivo/HD_TRUTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Universal TV
-http://lb.kstream.org/aovivo/SD_UNIVERSAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Universal TV FHD
-http://lb.kstream.org/aovivo/FHD_UNIVERSAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Universal TV HD
-http://lb.kstream.org/aovivo/HD_UNIVERSAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Universal TV HD [Alter]
-http://lb.kstream.org/aovivo/HD_UNIVERSAL_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,VH1
-http://lb.kstream.org/aovivo/SD_VH1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+http://cattek.in:8880/melque/102030/68355
+#EXTINF:-1,TNT SD
+http://cattek.in:8880/melque/102030/85133
+#EXTINF:-1,TNT SERIES FHD H265
+http://cattek.in:8880/melque/102030/68356
+#EXTINF:-1,TNT SÉRIES FHD
+http://cattek.in:8880/melque/102030/85134
+#EXTINF:-1,TNT SÉRIES HD
+http://cattek.in:8880/melque/102030/85135
+#EXTINF:-1,TNT SÉRIES SD
+http://cattek.in:8880/melque/102030/85136
+#EXTINF:-1,UNIVERSAL CHANNEL FHD H265
+http://cattek.in:8880/melque/102030/68359
+#EXTINF:-1,UNIVERSAL CHANNEL FHD
+http://cattek.in:8880/melque/102030/85137
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://cattek.in:8880/melque/102030/85138
+#EXTINF:-1,UNIVERSAL CHANNEL SD
+http://cattek.in:8880/melque/102030/85139
+#EXTINF:-1,WARNER CHANNEL FHD H265
+http://cattek.in:8880/melque/102030/68362
+#EXTINF:-1,WARNER CHANNEL FHD H 265
+http://cattek.in:8880/melque/102030/68363
+#EXTINF:-1,WARNER CHANNEL HD
+http://cattek.in:8880/melque/102030/85140
+#EXTINF:-1,WARNER CHANNEL SD
+http://cattek.in:8880/melque/102030/85141
+#EXTINF:-1,WOOHOO FHD
+http://cattek.in:8880/melque/102030/68232
+#EXTINF:-1,WOOHOO FHD H265
+http://cattek.in:8880/melque/102030/68231
+#EXTINF:-1,GLOBO AMAZONAS SD
+http://cattek.in:8880/melque/102030/85373
+#EXTINF:-1,GLOBO AMAZONICA HD
+http://cattek.in:8880/melque/102030/85375
+#EXTINF:-1,GLOBO ANHANGUERA GOIANIA SD
+http://cattek.in:8880/melque/102030/85376
+#EXTINF:-1,GLOBO ASA BRANCA CARUARU
+http://cattek.in:8880/melque/102030/85377
+#EXTINF:-1,GLOBO BAHIA FHD
+http://cattek.in:8880/melque/102030/85379
+#EXTINF:-1,GLOBO TV SUBAE BAHIA SD
+http://cattek.in:8880/melque/102030/85378
+#EXTINF:-1,GLOBO TV TEM BAURU HD
+http://cattek.in:8880/melque/102030/85380
+#EXTINF:-1,GLOBO TV TEM BAURU SD
+http://cattek.in:8880/melque/102030/85381
+#EXTINF:-1,GLOBO TV LIBERAL BELEM HD
+http://cattek.in:8880/melque/102030/85383
+#EXTINF:-1,GLOBO BELEM SD
+http://cattek.in:8880/melque/102030/85382
+#EXTINF:-1,GLOBO BRASILIA FHD H265
+http://cattek.in:8880/melque/102030/111847
+#EXTINF:-1,GLOBO BRASILIA HD
+http://cattek.in:8880/melque/102030/85384
+#EXTINF:-1,GLOBO BRASILIA HD
+http://cattek.in:8880/melque/102030/85385
+#EXTINF:-1,GLOBO BRASILIA HD
+http://cattek.in:8880/melque/102030/111854
+#EXTINF:-1,GLOBO BRASILIA SD
+http://cattek.in:8880/melque/102030/85386
+#EXTINF:-1,GLOBO BRASILIA SD
+http://cattek.in:8880/melque/102030/111837
+#EXTINF:-1,GLOBO INTER TV CABUGI SD
+http://cattek.in:8880/melque/102030/85387
+#EXTINF:-1,GLOBO CENTRO AMERICA CUIABA SD
+http://cattek.in:8880/melque/102030/85388
+#EXTINF:-1,GLOBO CUIABA SD
+http://cattek.in:8880/melque/102030/85389
+#EXTINF:-1,GLOBO EPTV CAMPINAS FHD
+http://cattek.in:8880/melque/102030/85392
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+http://cattek.in:8880/melque/102030/85391
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD
+http://cattek.in:8880/melque/102030/85390
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO FHD
+http://cattek.in:8880/melque/102030/86522
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO HD
+http://cattek.in:8880/melque/102030/86524
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO SD
+http://cattek.in:8880/melque/102030/86523
+#EXTINF:-1,GLOBO NSCTV FLORIANAPOLIS FHD
+http://cattek.in:8880/melque/102030/85394
+#EXTINF:-1,GLOBO NSCTV FLORIANOPOLIS SD
+http://cattek.in:8880/melque/102030/85393
+#EXTINF:-1,GLOBO GOIANIA SD
+http://cattek.in:8880/melque/102030/85395
+#EXTINF:-1,GLOBO HD 2 RJ
+http://cattek.in:8880/melque/102030/85397
+#EXTINF:-1,GLOBO INTERNACIONAL HD
+http://cattek.in:8880/melque/102030/111857
+#EXTINF:-1,GLOBO MANAUS HD
+http://cattek.in:8880/melque/102030/85399
+#EXTINF:-1,GLOBO MANAUS HD
+http://cattek.in:8880/melque/102030/111851
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS FHD
+http://cattek.in:8880/melque/102030/85400
+#EXTINF:-1,GLOBO MINAS FHD H265
+http://cattek.in:8880/melque/102030/111848
+#EXTINF:-1,GLOBO MINAS HD
+http://cattek.in:8880/melque/102030/85401
+#EXTINF:-1,GLOBO MINAS HD
+http://cattek.in:8880/melque/102030/85402
+#EXTINF:-1,GLOBO MINAS HD
+http://cattek.in:8880/melque/102030/111852
+#EXTINF:-1,GLOBO MINAS SD
+http://cattek.in:8880/melque/102030/85403
+#EXTINF:-1,GLOBO MINAS SD
+http://cattek.in:8880/melque/102030/111838
+#EXTINF:-1,GLOBO NORDESTE HD
+http://cattek.in:8880/melque/102030/85406
+#EXTINF:-1,GLOBO NORDESTE HD
+http://cattek.in:8880/melque/102030/85407
+#EXTINF:-1,GLOBO NORDESTE SD
+http://cattek.in:8880/melque/102030/85408
+#EXTINF:-1,GLOBO NORDESTE SD
+http://cattek.in:8880/melque/102030/111839
+#EXTINF:-1,GLOBO NSCTV FLORIANOPOLIS HD
+http://cattek.in:8880/melque/102030/111853
+#EXTINF:-1,GLOBO PARAIBA HD
+http://cattek.in:8880/melque/102030/111846
+#EXTINF:-1,GLOBO PIAUI
+http://cattek.in:8880/melque/102030/85450
+#EXTINF:-1,GLOBO PORTUGUAL SD
+http://cattek.in:8880/melque/102030/111841
+#EXTINF:-1,GLOBO RBS FHD
+http://cattek.in:8880/melque/102030/85411
+#EXTINF:-1,GLOBO RBS HD
+http://cattek.in:8880/melque/102030/85412
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE SD
+http://cattek.in:8880/melque/102030/85413
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE SD
+http://cattek.in:8880/melque/102030/85414
+#EXTINF:-1,GLOBO RIBEIRAO PRETO SD
+http://cattek.in:8880/melque/102030/85416
+#EXTINF:-1,GLOBO RIBEIRÃO PRETO SD
+http://cattek.in:8880/melque/102030/85417
+#EXTINF:-1,GLOBO RIO SUL HD
+http://cattek.in:8880/melque/102030/98712
+#EXTINF:-1,GLOBO RJ FHD
+http://cattek.in:8880/melque/102030/85423
+#EXTINF:-1,GLOBO RJ FHD 3
+http://cattek.in:8880/melque/102030/85420
+#EXTINF:-1,GLOBO RJ HD
+http://cattek.in:8880/melque/102030/85422
+#EXTINF:-1,GLOBO RJ SD
+http://cattek.in:8880/melque/102030/85421
+#EXTINF:-1,GLOBO RPC PARANA HD
+http://cattek.in:8880/melque/102030/85449
+#EXTINF:-1,GLOBO RPC TV CURITIBA HD
+http://cattek.in:8880/melque/102030/85425
+#EXTINF:-1,GLOBO RPC TV HD
+http://cattek.in:8880/melque/102030/85451
+#EXTINF:-1,GLOBO RPC TV FOZ DO IGUAÇU HD 2
+http://cattek.in:8880/melque/102030/85424
+#EXTINF:-1,GLOBO TV TEM S.J DO RIO PRETO SD
+http://cattek.in:8880/melque/102030/85426
+#EXTINF:-1,GLOBO TV SERGIPE SD
+http://cattek.in:8880/melque/102030/86026
+#EXTINF:-1,GLOBO TV TEM SOROCABA
+http://cattek.in:8880/melque/102030/85428
+#EXTINF:-1,GLOBO TV TEM SOROCABA SD
+http://cattek.in:8880/melque/102030/85429
+#EXTINF:-1,GLOBO SP
+http://cattek.in:8880/melque/102030/85430
+#EXTINF:-1,GLOBO SP FHD H265
+http://cattek.in:8880/melque/102030/85431
+#EXTINF:-1,GLOBO SP FHD
+http://cattek.in:8880/melque/102030/111843
+#EXTINF:-1,GLOBO SP FHD H265
+http://cattek.in:8880/melque/102030/111842
+#EXTINF:-1,GLOBO SP HD
+http://cattek.in:8880/melque/102030/85396
+#EXTINF:-1,GLOBO SP HD
+http://cattek.in:8880/melque/102030/85433
+#EXTINF:-1,GLOBO SP HD
+http://cattek.in:8880/melque/102030/85434
+#EXTINF:-1,GLOBO SP HD
+http://cattek.in:8880/melque/102030/111858
+#EXTINF:-1,GLOBO SP SD
+http://cattek.in:8880/melque/102030/85435
+#EXTINF:-1,Globo SP SD
+http://cattek.in:8880/melque/102030/111840
+#EXTINF:-1,GLOBO TRIBUNA SANTOS HD
+http://cattek.in:8880/melque/102030/85436
+#EXTINF:-1,GLOBO TV ASA BRANCA (GLOBO CARUARU-PE) HD
+http://cattek.in:8880/melque/102030/111845
+#EXTINF:-1,GLOBO TV CLUBE ( GLOBO PIAUI) HD
+http://cattek.in:8880/melque/102030/111844
+#EXTINF:-1,GLOBO TV MIRANTE ( GLOBO MARANHAO) HD
+http://cattek.in:8880/melque/102030/111849
+#EXTINF:-1,GLOBO TV MIRANTE (MA) FHD
+http://cattek.in:8880/melque/102030/85437
+#EXTINF:-1,GLOBO TV RIO SUL ( GLOBO INTERIOR RJ)
+http://cattek.in:8880/melque/102030/111850
+#EXTINF:-1,GLOBO TV SERGIPE HD
+http://cattek.in:8880/melque/102030/86027
+#EXTINF:-1,GLOBO TV SUBAE (GLOBO BAHIA) HD
+http://cattek.in:8880/melque/102030/111859
+#EXTINF:-1,GLOBO TV VANGUARDA S.J DOS CAMPOS SD
+http://cattek.in:8880/melque/102030/85438
+#EXTINF:-1,GLOBO VANGUARDA S.J DOS CAMPOS SD
+http://cattek.in:8880/melque/102030/85439
+#EXTINF:-1,GLOBO VERDES MARES FORTALEZA
+http://cattek.in:8880/melque/102030/85441
+#EXTINF:-1,GLOBO VERDES MARES FORTALEZA SD
+http://cattek.in:8880/melque/102030/85442
+#EXTINF:-1,GLOBO VERDES MARES HD
+http://cattek.in:8880/melque/102030/85443
+#EXTINF:-1,GLOBO VERDES MARES SD
+http://cattek.in:8880/melque/102030/85440
+#EXTINF:-1,GLOBO VITORIA ES
+http://cattek.in:8880/melque/102030/111855
+#EXTINF:-1,GLOBO VITORIA ES FHD
+http://cattek.in:8880/melque/102030/111856
+#EXTINF:-1,GLOBO VITORIA ES HD
+http://cattek.in:8880/melque/102030/111836
+#EXTINF:-1,GLOBO VITORIA HD
+http://cattek.in:8880/melque/102030/85444
+#EXTINF:-1,GLOBOTV TRIBUNA SANTOS SD
+http://cattek.in:8880/melque/102030/85446
+#EXTINF:-1,GLOBO TV TEM SOROCABA SD
+http://cattek.in:8880/melque/102030/85448
+#EXTINF:-1,GLOBO INTERTV SERRA MAR SD
+http://cattek.in:8880/melque/102030/118933
+#EXTINF:-1,HBO 2 FHD
+http://cattek.in:8880/melque/102030/68482
+#EXTINF:-1,HBO 2 FHD H265
+http://cattek.in:8880/melque/102030/68481
+#EXTINF:-1,HBO 2 HD
+http://cattek.in:8880/melque/102030/68483
+#EXTINF:-1,HBO CHANNEL FHD H265
+http://cattek.in:8880/melque/102030/68484
+#EXTINF:-1,HBO CHANNEL FHD
+http://cattek.in:8880/melque/102030/68485
+#EXTINF:-1,HBO CHANNEL HD
+http://cattek.in:8880/melque/102030/68486
+#EXTINF:-1,HBO FAMILY FHD H265
+http://cattek.in:8880/melque/102030/68487
+#EXTINF:-1,HBO FAMILY FHD
+http://cattek.in:8880/melque/102030/68488
+#EXTINF:-1,HBO FAMILY HD
+http://cattek.in:8880/melque/102030/68489
+#EXTINF:-1,HBO MUNDI FHD H265
+http://cattek.in:8880/melque/102030/68490
+#EXTINF:-1,HBO MUNDI FHD
+http://cattek.in:8880/melque/102030/68491
+#EXTINF:-1,HBO MUNDI HD
+http://cattek.in:8880/melque/102030/68492
+#EXTINF:-1,HBO POP FHD H265
+http://cattek.in:8880/melque/102030/68493
+#EXTINF:-1,HBO POP FHD
+http://cattek.in:8880/melque/102030/68494
+#EXTINF:-1,HBO POP HD
+http://cattek.in:8880/melque/102030/68495
+#EXTINF:-1,HBO SIGNATURE FHD H265
+http://cattek.in:8880/melque/102030/68496
+#EXTINF:-1,HBO SIGNATURE FHD
+http://cattek.in:8880/melque/102030/68497
+#EXTINF:-1,HBO SIGNATURE HD
+http://cattek.in:8880/melque/102030/68498
+#EXTINF:-1,HBO XTREME FHD H265
+http://cattek.in:8880/melque/102030/68499
+#EXTINF:-1,HBO XTREME FHD
+http://cattek.in:8880/melque/102030/68500
+#EXTINF:-1,HBO XTREME HD
+http://cattek.in:8880/melque/102030/68501
+#EXTINF:-1,HBO+ FHD H265
+http://cattek.in:8880/melque/102030/68503
+#EXTINF:-1,HBO+ FHD H265
+http://cattek.in:8880/melque/102030/68502
+#EXTINF:-1,HBO+ HD
+http://cattek.in:8880/melque/102030/68504
+#EXTINF:-1,BABY TV FHD H265
+http://cattek.in:8880/melque/102030/68192
+#EXTINF:-1,BABY TV FHD
+http://cattek.in:8880/melque/102030/85174
+#EXTINF:-1,BABY TV HD
+http://cattek.in:8880/melque/102030/68194
+#EXTINF:-1,BABY TV SD
+http://cattek.in:8880/melque/102030/85175
+#EXTINF:-1,BOOMBERANG FHD
+http://cattek.in:8880/melque/102030/25189
+#EXTINF:-1,BOOMBERANG HD [ALT]
+http://cattek.in:8880/melque/102030/25188
+#EXTINF:-1,BOOMERANG FHD H265
+http://cattek.in:8880/melque/102030/68195
+#EXTINF:-1,BOOMERANG HD (BR1)
+http://cattek.in:8880/melque/102030/68197
+#EXTINF:-1,BOOMERANG HD
+http://cattek.in:8880/melque/102030/85176
+#EXTINF:-1,BOOMERANG SD
+http://cattek.in:8880/melque/102030/85177
+#EXTINF:-1,CARTOON HD
+http://cattek.in:8880/melque/102030/25206
+#EXTINF:-1,CARTOON NETWORK FHD H265
+http://cattek.in:8880/melque/102030/68218
+#EXTINF:-1,CARTOON NETWORK FHD
+http://cattek.in:8880/melque/102030/85178
+#EXTINF:-1,CARTOON NETWORK HD
+http://cattek.in:8880/melque/102030/68220
+#EXTINF:-1,CARTOON NETWORK HD
+http://cattek.in:8880/melque/102030/85179
+#EXTINF:-1,CARTOON NETWORK SD
+http://cattek.in:8880/melque/102030/85180
+#EXTINF:-1,DISCOVERY KIDS FHD H265
+http://cattek.in:8880/melque/102030/68270
+#EXTINF:-1,DISCOVERY KIDS FHD
+http://cattek.in:8880/melque/102030/85181
+#EXTINF:-1,DISCOVERY KIDS HD
+http://cattek.in:8880/melque/102030/85182
+#EXTINF:-1,DISCOVERY KIDS FHD (FHD1)
+http://cattek.in:8880/melque/102030/25172
+#EXTINF:-1,DISNEY CHANNEL FHD H265 (BR1)
+http://cattek.in:8880/melque/102030/68198
+#EXTINF:-1,DISNEY CHANNEL FHD (BR1)
+http://cattek.in:8880/melque/102030/68199
+#EXTINF:-1,DISNEY CHANNEL HD (BR1)
+http://cattek.in:8880/melque/102030/68200
+#EXTINF:-1,DISNEY CHANNEL HD
+http://cattek.in:8880/melque/102030/85183
+#EXTINF:-1,DISNEY CHANNEL SD
+http://cattek.in:8880/melque/102030/85184
+#EXTINF:-1,DISNEY CHANNEL FHD
+http://cattek.in:8880/melque/102030/25181
+#EXTINF:-1,DISNEY CHANNEL HD
+http://cattek.in:8880/melque/102030/25180
+#EXTINF:-1,DISNEY JR FHD
+http://cattek.in:8880/melque/102030/25182
+#EXTINF:-1,DISNEY JR FHD H265 (BR1)
+http://cattek.in:8880/melque/102030/68201
+#EXTINF:-1,DISNEY JR FHD
+http://cattek.in:8880/melque/102030/85185
+#EXTINF:-1,DISNEY JR HD (BR1)
+http://cattek.in:8880/melque/102030/68203
+#EXTINF:-1,DISNEY JR HD
+http://cattek.in:8880/melque/102030/85186
+#EXTINF:-1,DISNEY JR SD
+http://cattek.in:8880/melque/102030/85187
+#EXTINF:-1,DISNEY JR HD
+http://cattek.in:8880/melque/102030/25178
+#EXTINF:-1,DISNEY XD FHD
+http://cattek.in:8880/melque/102030/25183
+#EXTINF:-1,DISNEY XD FHD H265 (BR1)
+http://cattek.in:8880/melque/102030/68204
+#EXTINF:-1,DISNEY XD FHD (BR1)
+http://cattek.in:8880/melque/102030/68205
+#EXTINF:-1,DISNEY XD HD (BR1)
+http://cattek.in:8880/melque/102030/68206
+#EXTINF:-1,DISNEY XD HD
+http://cattek.in:8880/melque/102030/85188
+#EXTINF:-1,DISNEY XD SD
+http://cattek.in:8880/melque/102030/85189
+#EXTINF:-1,DISNEY XD HD
+http://cattek.in:8880/melque/102030/25179
+#EXTINF:-1,GLOOB FHD H265
+http://cattek.in:8880/melque/102030/68207
+#EXTINF:-1,GLOOB FHD
+http://cattek.in:8880/melque/102030/68208
+#EXTINF:-1,GLOOB HD
+http://cattek.in:8880/melque/102030/68209
+#EXTINF:-1,GLOOB SD
+http://cattek.in:8880/melque/102030/85190
+#EXTINF:-1,GLOOB FHD [ALT]
+http://cattek.in:8880/melque/102030/25203
+#EXTINF:-1,GLOOB HD
+http://cattek.in:8880/melque/102030/25205
+#EXTINF:-1,GLOOBINHO FHD H265
+http://cattek.in:8880/melque/102030/68210
+#EXTINF:-1,GLOOBINHO FHD
+http://cattek.in:8880/melque/102030/68211
+#EXTINF:-1,GLOOBINHO HD
+http://cattek.in:8880/melque/102030/68212
+#EXTINF:-1,KURIAKOS KIDS SD
+http://cattek.in:8880/melque/102030/82197
+#EXTINF:-1,NATGEO KIDS FHD H265
+http://cattek.in:8880/melque/102030/68226
+#EXTINF:-1,NATGEO KIDS FHD
+http://cattek.in:8880/melque/102030/68227
+#EXTINF:-1,NATGEO KIDS HD
+http://cattek.in:8880/melque/102030/25175
+#EXTINF:-1,NATGEO KIDS HD
+http://cattek.in:8880/melque/102030/85191
+#EXTINF:-1,NATGEO KIDS SD
+http://cattek.in:8880/melque/102030/85192
+#EXTINF:-1,NICK JR HD
+http://cattek.in:8880/melque/102030/25197
+#EXTINF:-1,NICKELODEON SD
+http://cattek.in:8880/melque/102030/85193
+#EXTINF:-1,NICK FHD
+http://cattek.in:8880/melque/102030/68222
+#EXTINF:-1,NICK HD
+http://cattek.in:8880/melque/102030/25198
+#EXTINF:-1,NICK JR FHD H265
+http://cattek.in:8880/melque/102030/68223
+#EXTINF:-1,NICK JR FHD
+http://cattek.in:8880/melque/102030/25193
+#EXTINF:-1,NICK JR HD
+http://cattek.in:8880/melque/102030/85194
+#EXTINF:-1,NICK JR SD
+http://cattek.in:8880/melque/102030/85195
+#EXTINF:-1,NICKELODEON FHD
+http://cattek.in:8880/melque/102030/85196
+#EXTINF:-1,NICKELODEON HD
+http://cattek.in:8880/melque/102030/85197
+#EXTINF:-1,NICKELODEON SD
+http://cattek.in:8880/melque/102030/85198
+#EXTINF:-1,NICKLODEON HD
+http://cattek.in:8880/melque/102030/25196
+#EXTINF:-1,PLAYKIDS HD
+http://cattek.in:8880/melque/102030/85199
+#EXTINF:-1,TOONCAST FHD H265
+http://cattek.in:8880/melque/102030/68213
+#EXTINF:-1,TOONCAST FHD
+http://cattek.in:8880/melque/102030/68214
+#EXTINF:-1,TOONCAST FHD
+http://cattek.in:8880/melque/102030/85200
+#EXTINF:-1,TOONCAST SD
+http://cattek.in:8880/melque/102030/25202
+#EXTINF:-1,TV RA TIM BUM FHD
+http://cattek.in:8880/melque/102030/68216
+#EXTINF:-1,TV RA TIM BUM FHD H265
+http://cattek.in:8880/melque/102030/68215
+#EXTINF:-1,TV RA TIM BUM HD
+http://cattek.in:8880/melque/102030/68217
+#EXTINF:-1,ZOOMO FHD
+http://cattek.in:8880/melque/102030/25210
+#EXTINF:-1,ZOOMO HD
+http://cattek.in:8880/melque/102030/25209
+#EXTINF:-1,ZOOMOO FHD
+http://cattek.in:8880/melque/102030/68229
+#EXTINF:-1,ZOOMOO HD
+http://cattek.in:8880/melque/102030/68230
+#EXTINF:-1,ZOOMOO HD
+http://cattek.in:8880/melque/102030/85201
+#EXTINF:-1,DISCOVERY THEATER FHD LEG
+http://cattek.in:8880/melque/102030/30940
+#EXTINF:-1,DISCOVERY THEATER HD LEG
+http://cattek.in:8880/melque/102030/30941
+#EXTINF:-1,FOX PREMIUM 1 HD LEG
+http://cattek.in:8880/melque/102030/30944
+#EXTINF:-1,HBO HD LEG
+http://cattek.in:8880/melque/102030/30932
+#EXTINF:-1,HBO + PLUS HD LEG
+http://cattek.in:8880/melque/102030/30931
+#EXTINF:-1,HBO FHD LEG
+http://cattek.in:8880/melque/102030/30934
+#EXTINF:-1,HBO PLUS + FHD LEG
+http://cattek.in:8880/melque/102030/30935
+#EXTINF:-1,HBO PLUS + HD LEG
+http://cattek.in:8880/melque/102030/30933
+#EXTINF:-1,HBO SIGNATURA HD LEG
+http://cattek.in:8880/melque/102030/30930
+#EXTINF:-1,SYFY FHD LEG
+http://cattek.in:8880/melque/102030/30927
+#EXTINF:-1,SYFY HD LEG
+http://cattek.in:8880/melque/102030/30928
+#EXTINF:-1,TELECINE CULT FHD LEG
+http://cattek.in:8880/melque/102030/30939
+#EXTINF:-1,TELECINE CULT HD LEG
+http://cattek.in:8880/melque/102030/30938
+#EXTINF:-1,TELECINE PREMIUM FHD LEG
+http://cattek.in:8880/melque/102030/30937
+#EXTINF:-1,TELECINE PREMIUM HD LEG
+http://cattek.in:8880/melque/102030/30936
+#EXTINF:-1,UNIVERSAL CHANNEL FHD LEG
+http://cattek.in:8880/melque/102030/30942
+#EXTINF:-1,UNIVERSAL CHANNEL HD LEG
+http://cattek.in:8880/melque/102030/30943
+#EXTINF:-1,WARNER CHANNEL HD LEG
+http://cattek.in:8880/melque/102030/30929
+#EXTINF:-1,WARNER CHHANEL FHD LEG
+http://cattek.in:8880/melque/102030/30926
+#EXTINF:-1,GOSPEL MUSIC TV SD [ALT]
+http://cattek.in:8880/melque/102030/82041
+#EXTINF:-1,MTV FHD H265
+http://cattek.in:8880/melque/102030/68527
+#EXTINF:-1,MTV FHD
+http://cattek.in:8880/melque/102030/68528
+#EXTINF:-1,MTV HD
+http://cattek.in:8880/melque/102030/68529
+#EXTINF:-1,MULTISHOW FHD H265
+http://cattek.in:8880/melque/102030/68531
+#EXTINF:-1,MULTISHOW FHD H265
+http://cattek.in:8880/melque/102030/68530
+#EXTINF:-1,MULTISHOW HD
+http://cattek.in:8880/melque/102030/68532
+#EXTINF:-1,MUSIC BOX BRASIL SD
+http://cattek.in:8880/melque/102030/68533
+#EXTINF:-1,MUSIC BOX BRASIL HD
+http://cattek.in:8880/melque/102030/68534
 #EXTINF:-1,VH1 HD
-http://lb.kstream.org/aovivo/HD_VH1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,VH1 HD [Alter]
-http://lb.kstream.org/aovivo/HD_VH1_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,VH1 Megahits
-http://lb.kstream.org/aovivo/SD_VH1_MEGAHITS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Vasco TV
-http://lb.kstream.org/aovivo/HD_VASCO_TV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Venus
-http://lb.kstream.org/aovivo/SD_VENUS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Venus HD
-http://lb.kstream.org/aovivo/HD_VENUS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Viva
-http://lb.kstream.org/aovivo/SD_VIVA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Viva FHD
-http://lb.kstream.org/aovivo/FHD_VIVA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Viva HD
-http://lb.kstream.org/aovivo/HD_VIVA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Viva HD [Alter]
-http://lb.kstream.org/aovivo/HD_VIVA_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Warner Channel
-http://lb.kstream.org/aovivo/SD_WARNER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Warner Channel FHD
-http://lb.kstream.org/aovivo/FHD_WARNER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Warner Channel HD
-http://lb.kstream.org/aovivo/HD_WARNER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Warner Channel HD [Alter]
-http://lb.kstream.org/aovivo/HD_WARNER_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Woohoo
-http://lb.kstream.org/aovivo/SD_WOOHOO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Woohoo HD
-http://lb.kstream.org/aovivo/HD_WOOHOO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,X-Men
-http://lb.kstream.org/aovivo/24_X_MEN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 1 (CAM)
-http://lb.kstream.org/aovivo/XXX_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 10 (TUSHY RAW)
-http://lb.kstream.org/aovivo/XXX_10/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 11 (BLACKED RAW)
-http://lb.kstream.org/aovivo/XXX_11/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 12 (VIXEN)
-http://lb.kstream.org/aovivo/XXX_12/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 13 (CHILI PORN)
-http://lb.kstream.org/aovivo/XXX_13/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 14 (SIRINA)
-http://lb.kstream.org/aovivo/XXX_14/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 15 (JASMIN)
-http://lb.kstream.org/aovivo/XXX_15/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 16 (GAY)
-http://lb.kstream.org/aovivo/XXX_16/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 17 (GAY)
-http://lb.kstream.org/aovivo/XXX_17/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 2 (CAM)
-http://lb.kstream.org/aovivo/XXX_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 3 (CAM)
-http://lb.kstream.org/aovivo/XXX_ADULT_3/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 4 (DORCEL CLUB)
-http://lb.kstream.org/aovivo/XXX_4/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 5 (LEGAL PORNO)
-http://lb.kstream.org/aovivo/XXX_5/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 6 (FAMILY SINNERS)
-http://lb.kstream.org/aovivo/XXX_6/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 7 (CAM)
-http://lb.kstream.org/aovivo/XXX_7/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 8 (MOFOS)
-http://lb.kstream.org/aovivo/XXX_8/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 9 (HER LIMIT)
-http://lb.kstream.org/aovivo/XXX_9/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Yu-Gi-Oh!
-http://lb.kstream.org/aovivo/24_YUGIOH/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ZooMoo HD
-http://lb.kstream.org/aovivo/HD_ZOOMOO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,[RADIO] 89 FM
-http://lb.kstream.org/aovivo/RADIO_89FM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,[RADIO] 98 FM
-http://lb.kstream.org/aovivo/RADIO_98FM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,[RADIO] Alpha FM
-http://lb.kstream.org/aovivo/RADIO_ALPHAFM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,[RADIO] Cidade
-http://lb.kstream.org/aovivo/RADIO_CIDADE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,[RADIO] Dumont
-http://lb.kstream.org/aovivo/RADIO_DUMONT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,[RADIO] Guaiba
-http://lb.kstream.org/aovivo/RADIO_GUAIBA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,[RADIO] JB
-http://lb.kstream.org/aovivo/RADIO_JB/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,[RADIO] Sociedade
-http://lb.kstream.org/aovivo/RADIO_SOCIEDADE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,[RADIO] Tomorrowland
-http://lb.kstream.org/aovivo/HD_TOMORROWLAND/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,[RADIO] Transcontinental
-http://lb.kstream.org/aovivo/RADIO_TRANSCONTINENTAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,A&E
-http://rec2.distv.net:8100/joao/joao/415
-#EXTINF:-1,AMC
-http://rec2.distv.net:8100/joao/joao/416
-#EXTINF:-1,ANIMAL PLANET
-http://rec2.distv.net:8100/joao/joao/417
-#EXTINF:-1,ARTE 1
-http://rec2.distv.net:8100/joao/joao/418
-#EXTINF:-1,AXN
-http://rec2.distv.net:8100/joao/joao/419
-#EXTINF:-1,BABY TV
-http://rec2.distv.net:8100/joao/joao/423
-#EXTINF:-1,BAND
-http://rec2.distv.net:8100/joao/joao/420
-#EXTINF:-1,BAND NEWS
-http://rec2.distv.net:8100/joao/joao/421
-#EXTINF:-1,BAND SPORTS
-http://rec2.distv.net:8100/joao/joao/422
-#EXTINF:-1,BIS
-http://rec2.distv.net:8100/joao/joao/424
-#EXTINF:-1,BOOMERANG
-http://rec2.distv.net:8100/joao/joao/425
-#EXTINF:-1,BRASILEIRINHAS
-http://rec2.distv.net:8100/joao/joao/607
+http://cattek.in:8880/melque/102030/68535
+#EXTINF:-1,VH1 HD
+http://cattek.in:8880/melque/102030/68536
+#EXTINF:-1,BAND NEWS FHD
+http://cattek.in:8880/melque/102030/85314
+#EXTINF:-1,BAND NEWS HD
+http://cattek.in:8880/melque/102030/85315
+#EXTINF:-1,CNN BRASIL FHD
+http://cattek.in:8880/melque/102030/86481
+#EXTINF:-1,CNN BRASIL HD
+http://cattek.in:8880/melque/102030/85317
+#EXTINF:-1,CNN BRASIL HD
+http://cattek.in:8880/melque/102030/85316
+#EXTINF:-1,GLOBO NEWS FHD
+http://cattek.in:8880/melque/102030/85319
+#EXTINF:-1,GLOBO NEWS HD
+http://cattek.in:8880/melque/102030/85322
+#EXTINF:-1,GLOBO NEWS SD
+http://cattek.in:8880/melque/102030/85320
+#EXTINF:-1,RECORD NEWS HD
+http://cattek.in:8880/melque/102030/85101
+#EXTINF:-1,PREMIERE CLUBES FHD 2
+http://cattek.in:8880/melque/102030/85239
+#EXTINF:-1,PREMIERE CLUBES FHD H265
+http://cattek.in:8880/melque/102030/85238
+#EXTINF:-1,PREMIERE CLUBES HD
+http://cattek.in:8880/melque/102030/85240
+#EXTINF:-1,PREMIERE CLUBES FHD 2
+http://cattek.in:8880/melque/102030/85242
+#EXTINF:-1,PREMIERE CLUBES HD 3
+http://cattek.in:8880/melque/102030/85241
+#EXTINF:-1,PREMIERE 2 FHD
+http://cattek.in:8880/melque/102030/85207
+#EXTINF:-1,PREMIERE 2 FHD 2
+http://cattek.in:8880/melque/102030/85206
+#EXTINF:-1,PREMIERE 2 FHD 3
+http://cattek.in:8880/melque/102030/85205
+#EXTINF:-1,PREMIERE 2 FHD 4
+http://cattek.in:8880/melque/102030/85204
+#EXTINF:-1,PREMIERE 2 SD
+http://cattek.in:8880/melque/102030/85208
+#EXTINF:-1,PREMIERE 2 SD
+http://cattek.in:8880/melque/102030/85209
+#EXTINF:-1,PREMIERE 3 FHD
+http://cattek.in:8880/melque/102030/85213
+#EXTINF:-1,PREMIERE 3 FHD 2
+http://cattek.in:8880/melque/102030/85212
+#EXTINF:-1,PREMIERE 3 FHD 3
+http://cattek.in:8880/melque/102030/85211
+#EXTINF:-1,PREMIERE 3 FHD 4
+http://cattek.in:8880/melque/102030/85210
+#EXTINF:-1,PREMIERE 3 SD
+http://cattek.in:8880/melque/102030/85214
+#EXTINF:-1,PREMIERE 3 SD
+http://cattek.in:8880/melque/102030/85215
+#EXTINF:-1,PREMIERE 4 FHD
+http://cattek.in:8880/melque/102030/85217
+#EXTINF:-1,PREMIERE 4 HD
+http://cattek.in:8880/melque/102030/85216
+#EXTINF:-1,PREMIERE 4 SD
+http://cattek.in:8880/melque/102030/85218
+#EXTINF:-1,PREMIERE 4 SD
+http://cattek.in:8880/melque/102030/85219
+#EXTINF:-1,PREMIERE 5 FHD
+http://cattek.in:8880/melque/102030/85222
+#EXTINF:-1,PREMIERE 5 HD
+http://cattek.in:8880/melque/102030/85223
+#EXTINF:-1,PREMIERE 5 SD
+http://cattek.in:8880/melque/102030/85221
+#EXTINF:-1,PREMIERE 5 SD
+http://cattek.in:8880/melque/102030/85224
+#EXTINF:-1,PREMIERE 5 SD
+http://cattek.in:8880/melque/102030/85225
+#EXTINF:-1,PREMIERE 5 SD 2
+http://cattek.in:8880/melque/102030/85220
+#EXTINF:-1,PREMIERE 6 SD
+http://cattek.in:8880/melque/102030/85228
+#EXTINF:-1,PREMIERE 6 SD 2
+http://cattek.in:8880/melque/102030/85227
+#EXTINF:-1,PREMIERE 6 SD 2
+http://cattek.in:8880/melque/102030/85229
+#EXTINF:-1,PREMIERE 6 SD 3
+http://cattek.in:8880/melque/102030/85226
+#EXTINF:-1,PREMIERE 7 HD
+http://cattek.in:8880/melque/102030/85231
+#EXTINF:-1,PREMIERE 7 HD 2
+http://cattek.in:8880/melque/102030/85230
+#EXTINF:-1,PREMIERE 7 SD
+http://cattek.in:8880/melque/102030/85232
+#EXTINF:-1,PREMIERE 7 SD
+http://cattek.in:8880/melque/102030/85233
+#EXTINF:-1,PREMIERE 8 HD
+http://cattek.in:8880/melque/102030/85234
+#EXTINF:-1,PREMIERE 8 HD
+http://cattek.in:8880/melque/102030/85235
+#EXTINF:-1,PREMIERE 8 SD
+http://cattek.in:8880/melque/102030/85236
+#EXTINF:-1,PREMIERE 8 SD 2
+http://cattek.in:8880/melque/102030/85237
+#EXTINF:-1,RECORD AMAZONAS HD
+http://cattek.in:8880/melque/102030/85084
+#EXTINF:-1,RECORD BAHIA FHD
+http://cattek.in:8880/melque/102030/85085
+#EXTINF:-1,RECORD BAHIA HD
+http://cattek.in:8880/melque/102030/68168
+#EXTINF:-1,RECORD BAHIA SD
+http://cattek.in:8880/melque/102030/85086
+#EXTINF:-1,RECORD BH FHD
+http://cattek.in:8880/melque/102030/68170
+#EXTINF:-1,RECORD BH MINAS HD
+http://cattek.in:8880/melque/102030/111890
+#EXTINF:-1,RECORD BRASILIA HD
+http://cattek.in:8880/melque/102030/85088
+#EXTINF:-1,RECORD CAMPINAS HD
+http://cattek.in:8880/melque/102030/85089
+#EXTINF:-1,RECORD CAMPINAS HD
+http://cattek.in:8880/melque/102030/85090
+#EXTINF:-1,RECORD DF FHD
+http://cattek.in:8880/melque/102030/68171
+#EXTINF:-1,RECORD DF HD
+http://cattek.in:8880/melque/102030/30862
+#EXTINF:-1,RECORD DF SD
+http://cattek.in:8880/melque/102030/85091
+#EXTINF:-1,RECORD ES HD
+http://cattek.in:8880/melque/102030/68172
+#EXTINF:-1,RECORD FHD H265
+http://cattek.in:8880/melque/102030/68173
+#EXTINF:-1,RECORD GO SD
+http://cattek.in:8880/melque/102030/68174
+#EXTINF:-1,RECORD GOIAS HD
+http://cattek.in:8880/melque/102030/68175
+#EXTINF:-1,RECORD GOIAS HD
+http://cattek.in:8880/melque/102030/85094
+#EXTINF:-1,RECORD TV GOIANIA HD 2
+http://cattek.in:8880/melque/102030/85093
+#EXTINF:-1,RECORD HD
+http://cattek.in:8880/melque/102030/85096
+#EXTINF:-1,RECORD ITAPOAN - BAHIA HD
+http://cattek.in:8880/melque/102030/111885
+#EXTINF:-1,RECORD ITAPOAN HD
+http://cattek.in:8880/melque/102030/85097
+#EXTINF:-1,RECORD MANAUS HD
+http://cattek.in:8880/melque/102030/111884
+#EXTINF:-1,RECORD MG FHD H265
+http://cattek.in:8880/melque/102030/68176
+#EXTINF:-1,RECORD MG HD
+http://cattek.in:8880/melque/102030/85098
+#EXTINF:-1,RECORD TV MINAS HD
+http://cattek.in:8880/melque/102030/85099
+#EXTINF:-1,RECORD MINAS
+http://cattek.in:8880/melque/102030/85100
+#EXTINF:-1,RECORD MINAS FHD
+http://cattek.in:8880/melque/102030/68177
+#EXTINF:-1,RECORD MINAS HD
+http://cattek.in:8880/melque/102030/68178
+#EXTINF:-1,RECORD NORDESTE HD
+http://cattek.in:8880/melque/102030/85102
+#EXTINF:-1,RECORD PA FHD
+http://cattek.in:8880/melque/102030/68179
+#EXTINF:-1,RECORD PARÁ HD
+http://cattek.in:8880/melque/102030/85103
+#EXTINF:-1,RECORD RECIFE FHD
+http://cattek.in:8880/melque/102030/85104
+#EXTINF:-1,RECORD RJ HD
+http://cattek.in:8880/melque/102030/85105
+#EXTINF:-1,RECORD RJ FHD
+http://cattek.in:8880/melque/102030/68180
+#EXTINF:-1,RECORD RJ HD
+http://cattek.in:8880/melque/102030/68181
+#EXTINF:-1,RECORD RJ HD
+http://cattek.in:8880/melque/102030/85106
+#EXTINF:-1,RECORD RJ HD
+http://cattek.in:8880/melque/102030/30865
+#EXTINF:-1,RECORD RJ HD
+http://cattek.in:8880/melque/102030/111879
+#EXTINF:-1,RECORD RJ SD 2
+http://cattek.in:8880/melque/102030/85107
+#EXTINF:-1,RECORD RS FHD
+http://cattek.in:8880/melque/102030/68182
+#EXTINF:-1,RECORD RS HD
+http://cattek.in:8880/melque/102030/68183
+#EXTINF:-1,RECORD RS HD
+http://cattek.in:8880/melque/102030/111873
+#EXTINF:-1,RECORD RS SD
+http://cattek.in:8880/melque/102030/85108
+#EXTINF:-1,RECORD S.J RIO PRETO HD
+http://cattek.in:8880/melque/102030/111874
+#EXTINF:-1,RECORD TV LITORAL SANTOS SD
+http://cattek.in:8880/melque/102030/85092
+#EXTINF:-1,RECORD SERGIPE - TV ATALAIA HD
+http://cattek.in:8880/melque/102030/111875
+#EXTINF:-1,RECORD SP FHD
+http://cattek.in:8880/melque/102030/68184
+#EXTINF:-1,RECORD SP FHD
+http://cattek.in:8880/melque/102030/85109
+#EXTINF:-1,RECORD SP FHD H265
+http://cattek.in:8880/melque/102030/111888
+#EXTINF:-1,RECORD SP HD
+http://cattek.in:8880/melque/102030/68185
+#EXTINF:-1,RECORD SP HD
+http://cattek.in:8880/melque/102030/85110
+#EXTINF:-1,RECORD SP HD
+http://cattek.in:8880/melque/102030/85111
+#EXTINF:-1,RECORD SP HD
+http://cattek.in:8880/melque/102030/85113
+#EXTINF:-1,RECORD SP HD
+http://cattek.in:8880/melque/102030/111887
+#EXTINF:-1,RECORD SP SD
+http://cattek.in:8880/melque/102030/85112
+#EXTINF:-1,RECORD TROPICAL
+http://cattek.in:8880/melque/102030/85114
+#EXTINF:-1,RECORD TV BELEM HD
+http://cattek.in:8880/melque/102030/111876
+#EXTINF:-1,RECORD TV GOIANIA HD
+http://cattek.in:8880/melque/102030/111889
+#EXTINF:-1,RECORD TV LITORAL SANTOS HD
+http://cattek.in:8880/melque/102030/111877
+#EXTINF:-1,RECORD TV MINAS HD
+http://cattek.in:8880/melque/102030/111878
+#EXTINF:-1,RECORD TV PARANA HD
+http://cattek.in:8880/melque/102030/111883
+#EXTINF:-1,RECORD TV PARANAIBA UBERLANDIA MG HD
+http://cattek.in:8880/melque/102030/111880
+#EXTINF:-1,RECORD TV SANTA CATARINA HD
+http://cattek.in:8880/melque/102030/111882
+#EXTINF:-1,RECORD TV SD
+http://cattek.in:8880/melque/102030/111886
+#EXTINF:-1,TVB RECORD CAMPINAS HD
+http://cattek.in:8880/melque/102030/111881
+#EXTINF:-1,Boa Vontade TV
+http://cattek.in:8880/melque/102030/85722
+#EXTINF:-1,CANCAO NOVA FHD
+http://cattek.in:8880/melque/102030/68385
+#EXTINF:-1,CANCAO NOVA HD
+http://cattek.in:8880/melque/102030/68386
+#EXTINF:-1,CANCAO NOVA SD
+http://cattek.in:8880/melque/102030/85723
+#EXTINF:-1,CNT HD
+http://cattek.in:8880/melque/102030/68512
+#EXTINF:-1,EVANGELIZAR HD
+http://cattek.in:8880/melque/102030/85724
+#EXTINF:-1,EVANGELIZAR HD
+http://cattek.in:8880/melque/102030/85725
+#EXTINF:-1,GOSPEL MOVIES TELEVISION
+http://cattek.in:8880/melque/102030/85726
+#EXTINF:-1,IMPD
+http://cattek.in:8880/melque/102030/85728
+#EXTINF:-1,NOVO TEMPO HD
+http://cattek.in:8880/melque/102030/68387
+#EXTINF:-1,NOVO TEMPO HD
+http://cattek.in:8880/melque/102030/68388
+#EXTINF:-1,REDE GOSPEL
+http://cattek.in:8880/melque/102030/85729
+#EXTINF:-1,REDE SUPER SD
+http://cattek.in:8880/melque/102030/68370
+#EXTINF:-1,REDE SUPER FHD
+http://cattek.in:8880/melque/102030/85730
+#EXTINF:-1,REDE VIDA FHD
+http://cattek.in:8880/melque/102030/68389
+#EXTINF:-1,REDE VIDA SD
+http://cattek.in:8880/melque/102030/68390
+#EXTINF:-1,REDE VIDA HD
+http://cattek.in:8880/melque/102030/85732
+#EXTINF:-1,TV APARECIDA
+http://cattek.in:8880/melque/102030/85733
+#EXTINF:-1,TV APARECIDA FHD
+http://cattek.in:8880/melque/102030/68391
+#EXTINF:-1,TV APARECIDA HD
+http://cattek.in:8880/melque/102030/68392
+#EXTINF:-1,Tv Assembléia Ceará
+http://cattek.in:8880/melque/102030/85734
+#EXTINF:-1,TV MUNDIAL SD
+http://cattek.in:8880/melque/102030/85735
+#EXTINF:-1,TV PAI ETERNO SD
+http://cattek.in:8880/melque/102030/85736
+#EXTINF:-1,SBT SP FHD H265
+http://cattek.in:8880/melque/102030/25289
+#EXTINF:-1,SBT BSB HD
+http://cattek.in:8880/melque/102030/111864
+#EXTINF:-1,SBT CIDADE VERDE HD
+http://cattek.in:8880/melque/102030/68164
+#EXTINF:-1,SBT CIDADE VERDE PIAUI SD
+http://cattek.in:8880/melque/102030/85071
+#EXTINF:-1,SBT ES FHD
+http://cattek.in:8880/melque/102030/111863
+#EXTINF:-1,SBT ES HD
+http://cattek.in:8880/melque/102030/111869
+#EXTINF:-1,SBT ES SD
+http://cattek.in:8880/melque/102030/111868
+#EXTINF:-1,SBT FHD
+http://cattek.in:8880/melque/102030/68166
+#EXTINF:-1,SBT FHD H265
+http://cattek.in:8880/melque/102030/68165
+#EXTINF:-1,SBT GOIAS HD
+http://cattek.in:8880/melque/102030/85072
+#EXTINF:-1,SBT HD
+http://cattek.in:8880/melque/102030/68167
+#EXTINF:-1,SBT HD
+http://cattek.in:8880/melque/102030/85073
+#EXTINF:-1,SBT MANAUS SD
+http://cattek.in:8880/melque/102030/85076
+#EXTINF:-1,SBT NORDESTE HD
+http://cattek.in:8880/melque/102030/85077
+#EXTINF:-1,SBT PARANA HD
+http://cattek.in:8880/melque/102030/111861
+#EXTINF:-1,SBT RJ FHD
+http://cattek.in:8880/melque/102030/85080
+#EXTINF:-1,SBT RJ HD
+http://cattek.in:8880/melque/102030/111862
+#EXTINF:-1,SBT RS HD
+http://cattek.in:8880/melque/102030/111865
+#EXTINF:-1,SBT SD
+http://cattek.in:8880/melque/102030/85081
+#EXTINF:-1,SBT SP HD
+http://cattek.in:8880/melque/102030/85082
+#EXTINF:-1,SBT SP HD
+http://cattek.in:8880/melque/102030/111866
+#EXTINF:-1,SBT SP HD
+http://cattek.in:8880/melque/102030/25290
+#EXTINF:-1,SBT TV ALTEROSA MG FHD
+http://cattek.in:8880/melque/102030/111870
+#EXTINF:-1,SBT TV ALTEROSA MG HD
+http://cattek.in:8880/melque/102030/111860
+#EXTINF:-1,SBT TV ARATU BAHIA HD
+http://cattek.in:8880/melque/102030/111867
+#EXTINF:-1,SBT TV ARATU BAHIA HD
+http://cattek.in:8880/melque/102030/82198
+#EXTINF:-1,TELECINE ACTION FHD H265
+http://cattek.in:8880/melque/102030/68234
+#EXTINF:-1,TELECINE ACTION FHD
+http://cattek.in:8880/melque/102030/111695
+#EXTINF:-1,TELECINE ACTION HD
+http://cattek.in:8880/melque/102030/85118
+#EXTINF:-1,TELECINE ACTION SD
+http://cattek.in:8880/melque/102030/85119
+#EXTINF:-1,TELECINE CULT FHD H265
+http://cattek.in:8880/melque/102030/68237
+#EXTINF:-1,TELECINE CULT FHD
+http://cattek.in:8880/melque/102030/68238
+#EXTINF:-1,TELECINE CULT HD
+http://cattek.in:8880/melque/102030/68239
+#EXTINF:-1,TELECINE CULT SD
+http://cattek.in:8880/melque/102030/85121
+#EXTINF:-1,TELECINE FUN FHD H265
+http://cattek.in:8880/melque/102030/68240
+#EXTINF:-1,TELECINE FUN FHD
+http://cattek.in:8880/melque/102030/85122
+#EXTINF:-1,TELECINE FUN HD
+http://cattek.in:8880/melque/102030/85123
+#EXTINF:-1,TELECINE FUN SD
+http://cattek.in:8880/melque/102030/85124
+#EXTINF:-1,TELECINE PIPOCA FHD H265
+http://cattek.in:8880/melque/102030/111694
+#EXTINF:-1,TELECINE PIPOCA FHD
+http://cattek.in:8880/melque/102030/85125
+#EXTINF:-1,TELECINE PIPOCA HD
+http://cattek.in:8880/melque/102030/85126
+#EXTINF:-1,TELECINE PIPOCA SD
+http://cattek.in:8880/melque/102030/85127
+#EXTINF:-1,TELECINE PREMIUM FHD H265
+http://cattek.in:8880/melque/102030/68247
+#EXTINF:-1,TELECINE PREMIUM FHD
+http://cattek.in:8880/melque/102030/85128
+#EXTINF:-1,TELECINE PREMIUM HD
+http://cattek.in:8880/melque/102030/85129
+#EXTINF:-1,TELECINE PREMIUM SD
+http://cattek.in:8880/melque/102030/85130
+#EXTINF:-1,TELECINE TOUCH FHD H265
+http://cattek.in:8880/melque/102030/68249
+#EXTINF:-1,TELECINE TOUCH FHD
+http://cattek.in:8880/melque/102030/68251
+#EXTINF:-1,TELECINE TOUCH HD
+http://cattek.in:8880/melque/102030/85131
+#EXTINF:-1,TELECINE TOUCH SD
+http://cattek.in:8880/melque/102030/85132
+#EXTINF:-1,1001 NOITES SD
+http://cattek.in:8880/melque/102030/82196
+#EXTINF:-1,ARTE 1 FHD
+http://cattek.in:8880/melque/102030/68393
+#EXTINF:-1,ARTE 1 HD
+http://cattek.in:8880/melque/102030/68394
+#EXTINF:-1,BIS FHD H265
+http://cattek.in:8880/melque/102030/68395
+#EXTINF:-1,BIS FHD
+http://cattek.in:8880/melque/102030/85689
+#EXTINF:-1,BIS SD
+http://cattek.in:8880/melque/102030/85691
+#EXTINF:-1,BIS HD
+http://cattek.in:8880/melque/102030/85690
+#EXTINF:-1,BLOOMBERG INTERNACIONAL FHD
+http://cattek.in:8880/melque/102030/86245
 #EXTINF:-1,Satellite TV
-http://rec2.distv.net:8100/joao/joao/426
+http://cattek.in:8880/melque/102030/68420
 #EXTINF:-1,Satellite TV
-http://rec2.distv.net:8100/joao/joao/427
-#EXTINF:-1,CARTOON NETWORK
-http://rec2.distv.net:8100/joao/joao/428
-#EXTINF:-1,CINE Satellite TV
-http://rec2.distv.net:8100/joao/joao/535
-#EXTINF:-1,CINE Satellite TV
-http://rec2.distv.net:8100/joao/joao/544
-#EXTINF:-1,CINE Satellite TV
-http://rec2.distv.net:8100/joao/joao/536
-#EXTINF:-1,CINE Satellite TV
-http://rec2.distv.net:8100/joao/joao/537
-#EXTINF:-1,CINE Satellite TV
-http://rec2.distv.net:8100/joao/joao/538
-#EXTINF:-1,CINE Satellite TV
-http://rec2.distv.net:8100/joao/joao/539
-#EXTINF:-1,CINE Satellite TV
-http://rec2.distv.net:8100/joao/joao/540
-#EXTINF:-1,CINE Satellite TV
-http://rec2.distv.net:8100/joao/joao/541
-#EXTINF:-1,CINE Satellite TV
-http://rec2.distv.net:8100/joao/joao/542
-#EXTINF:-1,CINE Satellite TV
-http://rec2.distv.net:8100/joao/joao/543
-#EXTINF:-1,CINEMAX
-http://rec2.distv.net:8100/joao/joao/429
-#EXTINF:-1,CNN BRASIL
-http://rec2.distv.net:8100/joao/joao/432
-#EXTINF:-1,COMBATE
-http://rec2.distv.net:8100/joao/joao/431
-#EXTINF:-1,COMEDY CENTRAL
-http://rec2.distv.net:8100/joao/joao/435
-#EXTINF:-1,CULTURA
-http://rec2.distv.net:8100/joao/joao/436
-#EXTINF:-1,CURTA
-http://rec2.distv.net:8100/joao/joao/437
-#EXTINF:-1,DAZN
-http://rec2.distv.net:8100/joao/joao/606
-#EXTINF:-1,DISCOVERY CHANNEL
-http://rec2.distv.net:8100/joao/joao/438
-#EXTINF:-1,DISCOVERY HOME & HEALTH
-http://rec2.distv.net:8100/joao/joao/439
-#EXTINF:-1,DISCOVERY ID
-http://rec2.distv.net:8100/joao/joao/440
-#EXTINF:-1,DISCOVERY KIDS
-http://rec2.distv.net:8100/joao/joao/441
-#EXTINF:-1,DISCOVERY SCIENCE
-http://rec2.distv.net:8100/joao/joao/442
-#EXTINF:-1,DISCOVERY THEATER
-http://rec2.distv.net:8100/joao/joao/443
-#EXTINF:-1,DISCOVERY TURBO
-http://rec2.distv.net:8100/joao/joao/444
-#EXTINF:-1,DISCOVERY WORLD
-http://rec2.distv.net:8100/joao/joao/445
-#EXTINF:-1,DISNEY CHANNEL
-http://rec2.distv.net:8100/joao/joao/446
-#EXTINF:-1,DISNEY JUNIOR
-http://rec2.distv.net:8100/joao/joao/447
-#EXTINF:-1,DISNEY XD
-http://rec2.distv.net:8100/joao/joao/448
-#EXTINF:-1,E!
-http://rec2.distv.net:8100/joao/joao/449
-#EXTINF:-1,ESPN
-http://rec2.distv.net:8100/joao/joao/450
-#EXTINF:-1,ESPN 2
-http://rec2.distv.net:8100/joao/joao/451
-#EXTINF:-1,ESPN BRASIL
-http://rec2.distv.net:8100/joao/joao/452
-#EXTINF:-1,ESPN EXTRA
-http://rec2.distv.net:8100/joao/joao/453
-#EXTINF:-1,FASHION TV
-http://rec2.distv.net:8100/joao/joao/454
-#EXTINF:-1,FISH TV
-http://rec2.distv.net:8100/joao/joao/455
-#EXTINF:-1,FOOD NETWORK
-http://rec2.distv.net:8100/joao/joao/456
-#EXTINF:-1,FOX
-http://rec2.distv.net:8100/joao/joao/457
-#EXTINF:-1,FOX LIFE
-http://rec2.distv.net:8100/joao/joao/458
-#EXTINF:-1,FOX PREMIUM 1
-http://rec2.distv.net:8100/joao/joao/460
-#EXTINF:-1,FOX PREMIUM 2 https://iptv.live
-http://rec2.distv.net:8100/joao/joao/461
-#EXTINF:-1,FOX SPORTS
-http://rec2.distv.net:8100/joao/joao/462
-#EXTINF:-1,FOX SPORTS 2
-http://rec2.distv.net:8100/joao/joao/463
-#EXTINF:-1,FUTURA
-http://rec2.distv.net:8100/joao/joao/464
-#EXTINF:-1,FX
-http://rec2.distv.net:8100/joao/joao/465
-#EXTINF:-1,GLOBO
-http://rec2.distv.net:8100/joao/joao/466
-#EXTINF:-1,GLOBO NEWS
-http://rec2.distv.net:8100/joao/joao/467
-#EXTINF:-1,GLOOB
-http://rec2.distv.net:8100/joao/joao/468
-#EXTINF:-1,GNT
-http://rec2.distv.net:8100/joao/joao/469
-#EXTINF:-1,H2
-http://rec2.distv.net:8100/joao/joao/480
-#EXTINF:-1,HBO
-http://rec2.distv.net:8100/joao/joao/471
-#EXTINF:-1,HBO 2
-http://rec2.distv.net:8100/joao/joao/472
-#EXTINF:-1,HBO FAMILY
-http://rec2.distv.net:8100/joao/joao/473
-#EXTINF:-1,HBO MUNDI
-http://rec2.distv.net:8100/joao/joao/475
-#EXTINF:-1,HBO PLUS
-http://rec2.distv.net:8100/joao/joao/474
-#EXTINF:-1,HBO POP
-http://rec2.distv.net:8100/joao/joao/476
-#EXTINF:-1,HBO SIGNATURE
-http://rec2.distv.net:8100/joao/joao/478
-#EXTINF:-1,HBO XTREME
-http://rec2.distv.net:8100/joao/joao/477
-#EXTINF:-1,HGTV
-http://rec2.distv.net:8100/joao/joao/481
-#EXTINF:-1,HISTORY
-http://rec2.distv.net:8100/joao/joao/479
-#EXTINF:-1,LIFETIME
-http://rec2.distv.net:8100/joao/joao/482
-#EXTINF:-1,MAIS GLOBOSAT
-http://rec2.distv.net:8100/joao/joao/483
-#EXTINF:-1,MEGAPIX
-http://rec2.distv.net:8100/joao/joao/484
-#EXTINF:-1,MTV
-http://rec2.distv.net:8100/joao/joao/485
-#EXTINF:-1,MTV LIVE
-http://rec2.distv.net:8100/joao/joao/486
-#EXTINF:-1,MULTISHOW
-http://rec2.distv.net:8100/joao/joao/487
-#EXTINF:-1,MUSIC BOX BRASIL
-http://rec2.distv.net:8100/joao/joao/488
-#EXTINF:-1,NATGEO
-http://rec2.distv.net:8100/joao/joao/489
-#EXTINF:-1,NATGEO KIDS
-http://rec2.distv.net:8100/joao/joao/490
-#EXTINF:-1,NATGEO WILD
-http://rec2.distv.net:8100/joao/joao/491
-#EXTINF:-1,NICK
-http://rec2.distv.net:8100/joao/joao/492
-#EXTINF:-1,NICK JUNIOR
-http://rec2.distv.net:8100/joao/joao/493
-#EXTINF:-1,OFF
-http://rec2.distv.net:8100/joao/joao/494
-#EXTINF:-1,PAI ETERNO
-http://rec2.distv.net:8100/joao/joao/495
-#EXTINF:-1,PARAMOUNT
-http://rec2.distv.net:8100/joao/joao/496
-#EXTINF:-1,PREMIERE 2
-http://rec2.distv.net:8100/joao/joao/497
-#EXTINF:-1,PREMIERE 3
-http://rec2.distv.net:8100/joao/joao/498
-#EXTINF:-1,PREMIERE 4
-http://rec2.distv.net:8100/joao/joao/499
-#EXTINF:-1,PREMIERE 5
-http://rec2.distv.net:8100/joao/joao/500
-#EXTINF:-1,PREMIERE 6
-http://rec2.distv.net:8100/joao/joao/501
-#EXTINF:-1,PREMIERE 7
-http://rec2.distv.net:8100/joao/joao/502
-#EXTINF:-1,PREMIERE CLUBES
-http://rec2.distv.net:8100/joao/joao/503
-#EXTINF:-1,PRIME BOX BRAZIL
-http://rec2.distv.net:8100/joao/joao/504
-#EXTINF:-1,REC-GLOBO NORDESTE-1080-H264
-http://rec2.distv.net:8100/joao/joao/600
-#EXTINF:-1,REC-REDE TV-1080-H264
-http://rec2.distv.net:8100/joao/joao/598
-#EXTINF:-1,REC-RIT TV-1080-H264
-http://rec2.distv.net:8100/joao/joao/605
-#EXTINF:-1,REC-TV CLUBE-1080-H264
-http://rec2.distv.net:8100/joao/joao/599
-#EXTINF:-1,REC-TV JORNAL-1080-H264
-http://rec2.distv.net:8100/joao/joao/601
-#EXTINF:-1,REC-TV TRIBUNA-1080-H264
-http://rec2.distv.net:8100/joao/joao/602
-#EXTINF:-1,REC-TV UNIVERSITARIA-1080-H264
-http://rec2.distv.net:8100/joao/joao/603
-#EXTINF:-1,RECORD NEWS
-http://rec2.distv.net:8100/joao/joao/505
-#EXTINF:-1,REDE TV
-http://rec2.distv.net:8100/joao/joao/506
-#EXTINF:-1,SBT
-http://rec2.distv.net:8100/joao/joao/507
-#EXTINF:-1,SEX PRIVE
-http://rec2.distv.net:8100/joao/joao/546
-#EXTINF:-1,SEXY HOT
-http://rec2.distv.net:8100/joao/joao/545
-#EXTINF:-1,SPACE
-http://rec2.distv.net:8100/joao/joao/508
-#EXTINF:-1,SPORTV
-http://rec2.distv.net:8100/joao/joao/509
-#EXTINF:-1,SPORTV 2
-http://rec2.distv.net:8100/joao/joao/510
-#EXTINF:-1,SPORTV 3
-http://rec2.distv.net:8100/joao/joao/511
-#EXTINF:-1,STUDIO UNIVERSAL
-http://rec2.distv.net:8100/joao/joao/512
-#EXTINF:-1,SYFY
-http://rec2.distv.net:8100/joao/joao/513
-#EXTINF:-1,TBS
-http://rec2.distv.net:8100/joao/joao/514
-#EXTINF:-1,TC ACTION
-http://rec2.distv.net:8100/joao/joao/515
-#EXTINF:-1,TC CULT
-http://rec2.distv.net:8100/joao/joao/516
-#EXTINF:-1,TC FUN
-http://rec2.distv.net:8100/joao/joao/517
-#EXTINF:-1,TC PIPOCA
-http://rec2.distv.net:8100/joao/joao/518
-#EXTINF:-1,TC PREMIUM
-http://rec2.distv.net:8100/joao/joao/519
-#EXTINF:-1,TC TOUCH
-http://rec2.distv.net:8100/joao/joao/520
-#EXTINF:-1,TLC
-http://rec2.distv.net:8100/joao/joao/521
-#EXTINF:-1,TNT
-http://rec2.distv.net:8100/joao/joao/522
-#EXTINF:-1,TNT SERIES
-http://rec2.distv.net:8100/joao/joao/523
-#EXTINF:-1,TOONCAST
-http://rec2.distv.net:8100/joao/joao/525
-#EXTINF:-1,TRANNY
-http://rec2.distv.net:8100/joao/joao/608
-#EXTINF:-1,TRAVELBOX
-http://rec2.distv.net:8100/joao/joao/524
-#EXTINF:-1,TV NOVO TEMPO
-http://rec2.distv.net:8100/joao/joao/527
-#EXTINF:-1,TV RA TIM BUM
-http://rec2.distv.net:8100/joao/joao/528
-#EXTINF:-1,UNIVERSAL TV
-http://rec2.distv.net:8100/joao/joao/529
-#EXTINF:-1,VH1
-http://rec2.distv.net:8100/joao/joao/530
-#EXTINF:-1,VIVA
-http://rec2.distv.net:8100/joao/joao/531
-#EXTINF:-1,WARNER CHANNEL
-http://rec2.distv.net:8100/joao/joao/532
-#EXTINF:-1,A FAZENDA
-http://rec2.distv.net:8100/joao/joao/553
-#EXTINF:-1,TV BRASIL
-http://rec2.distv.net:8100/joao/joao/526
-#EXTINF:-1,WOOHOO
-http://rec2.distv.net:8100/joao/joao/533
-#EXTINF:-1,TV ARATU
-http://rec2.distv.net:8100/joao/joao/556
-#EXTINF:-1,TV GRANDE RIO
-http://rec2.distv.net:8100/joao/joao/557
-#EXTINF:-1,ZOOMOO
-http://rec2.distv.net:8100/joao/joao/534
+http://cattek.in:8880/melque/102030/68421
+#EXTINF:-1,Satellite TV
+http://cattek.in:8880/melque/102030/68422
+#EXTINF:-1,CHEF TV FHD H265
+http://cattek.in:8880/melque/102030/68398
+#EXTINF:-1,CHEF TV FHD
+http://cattek.in:8880/melque/102030/68399
+#EXTINF:-1,CHEF TV HD
+http://cattek.in:8880/melque/102030/68400
+#EXTINF:-1,COMEDY CENTRAL FHD H265
+http://cattek.in:8880/melque/102030/68410
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://cattek.in:8880/melque/102030/68411
+#EXTINF:-1,COMEDY CENTRAL HD
+http://cattek.in:8880/melque/102030/85692
+#EXTINF:-1,COMEDY CENTRAL HD [ALT]
+http://cattek.in:8880/melque/102030/25507
+#EXTINF:-1,COMEDY CENTRAL SD
+http://cattek.in:8880/melque/102030/85693
+#EXTINF:-1,CURTA! FHD H265
+http://cattek.in:8880/melque/102030/68414
+#EXTINF:-1,CURTA! FHD
+http://cattek.in:8880/melque/102030/68415
+#EXTINF:-1,CURTA HD
+http://cattek.in:8880/melque/102030/68413
+#EXTINF:-1,CURTA! SD
+http://cattek.in:8880/melque/102030/85694
+#EXTINF:-1,E! FHD H265
+http://cattek.in:8880/melque/102030/68417
+#EXTINF:-1,E! FHD
+http://cattek.in:8880/melque/102030/68418
+#EXTINF:-1,E! FHD
+http://cattek.in:8880/melque/102030/85695
+#EXTINF:-1,E! HD
+http://cattek.in:8880/melque/102030/68419
+#EXTINF:-1,E! HD
+http://cattek.in:8880/melque/102030/85696
+#EXTINF:-1,E! SD
+http://cattek.in:8880/melque/102030/85697
+#EXTINF:-1,FOOD NETWORK FHD H265
+http://cattek.in:8880/melque/102030/68401
+#EXTINF:-1,FOOD NETWORK FHD
+http://cattek.in:8880/melque/102030/68402
+#EXTINF:-1,FOOD NETWORK FHD
+http://cattek.in:8880/melque/102030/85698
+#EXTINF:-1,FOOD NETWORK HD
+http://cattek.in:8880/melque/102030/68403
+#EXTINF:-1,FOOD NETWORK SD
+http://cattek.in:8880/melque/102030/85699
+#EXTINF:-1,GLOBOSAT FHD
+http://cattek.in:8880/melque/102030/85700
+#EXTINF:-1,GLOBOSAT HD
+http://cattek.in:8880/melque/102030/85701
+#EXTINF:-1,GNT FHD H265
+http://cattek.in:8880/melque/102030/68425
+#EXTINF:-1,GNT FHD
+http://cattek.in:8880/melque/102030/68426
+#EXTINF:-1,GNT HD
+http://cattek.in:8880/melque/102030/68427
+#EXTINF:-1,GNT SD
+http://cattek.in:8880/melque/102030/85703
+#EXTINF:-1,GNT SD
+http://cattek.in:8880/melque/102030/85702
+#EXTINF:-1,GNT HD [ALT]
+http://cattek.in:8880/melque/102030/25121
+#EXTINF:-1,LIFETIME FHD H265
+http://cattek.in:8880/melque/102030/68404
+#EXTINF:-1,LIFETIME FHD
+http://cattek.in:8880/melque/102030/68405
+#EXTINF:-1,LIFETIME FHD
+http://cattek.in:8880/melque/102030/85704
+#EXTINF:-1,LIFETIME HD
+http://cattek.in:8880/melque/102030/68406
+#EXTINF:-1,LIFETIME HD
+http://cattek.in:8880/melque/102030/85705
+#EXTINF:-1,LIFETIME SD
+http://cattek.in:8880/melque/102030/85706
+#EXTINF:-1,MAIS GLOBOSAT FHD H265
+http://cattek.in:8880/melque/102030/68407
+#EXTINF:-1,MAIS GLOBOSAT FHD
+http://cattek.in:8880/melque/102030/68408
+#EXTINF:-1,MAIS GLOBOSAT HD
+http://cattek.in:8880/melque/102030/68409
+#EXTINF:-1,MTV LIVE HD
+http://cattek.in:8880/melque/102030/85707
+#EXTINF:-1,MTV SD
+http://cattek.in:8880/melque/102030/85708
+#EXTINF:-1,MULTISHOW HD
+http://cattek.in:8880/melque/102030/85709
+#EXTINF:-1,MULTISHOW SD
+http://cattek.in:8880/melque/102030/85710
+#EXTINF:-1,OFF FHD
+http://cattek.in:8880/melque/102030/85711
+#EXTINF:-1,OFF HD
+http://cattek.in:8880/melque/102030/85712
+#EXTINF:-1,OFF SD
+http://cattek.in:8880/melque/102030/85713
+#EXTINF:-1,POLISHOP TV HD
+http://cattek.in:8880/melque/102030/68431
+#EXTINF:-1,PRIME BOX BRAZIL FHD
+http://cattek.in:8880/melque/102030/68433
+#EXTINF:-1,PRIME BOX BRASIL HD
+http://cattek.in:8880/melque/102030/68432
+#EXTINF:-1,PRIME BOX BRASIL SD
+http://cattek.in:8880/melque/102030/85714
+#EXTINF:-1,SYFY SD
+http://cattek.in:8880/melque/102030/85715
+#EXTINF:-1,TBS SD
+http://cattek.in:8880/melque/102030/85716
+#EXTINF:-1,TRU TV FHD H265
+http://cattek.in:8880/melque/102030/68434
+#EXTINF:-1,TRU TV FHD
+http://cattek.in:8880/melque/102030/68435
+#EXTINF:-1,TRUTV HD
+http://cattek.in:8880/melque/102030/68436
+#EXTINF:-1,VH1 SD
+http://cattek.in:8880/melque/102030/85717
+#EXTINF:-1,VIVA FHD
+http://cattek.in:8880/melque/102030/68382
+#EXTINF:-1,VIVA FHD H265
+http://cattek.in:8880/melque/102030/68381
+#EXTINF:-1,VIVA FHD H265 [ALT]
+http://cattek.in:8880/melque/102030/25156
+#EXTINF:-1,VIVA HD
+http://cattek.in:8880/melque/102030/68383
+#EXTINF:-1,WOOHOO HD
+http://cattek.in:8880/melque/102030/85718
+#EXTINF:-1,WOOHOO SD
+http://cattek.in:8880/melque/102030/85719
+#EXTINF:-1,ZOOMOO SD
+http://cattek.in:8880/melque/102030/85720
+#EXTINF:-1,FASHION TV SD
+http://cattek.in:8880/melque/102030/139007
+#EXTINF:-1,CONMEBOL TV SD (JOGO 1)
+http://cattek.in:8880/melque/102030/109535
+#EXTINF:-1,CONMEBOL TV SD (JOGO 2)
+http://cattek.in:8880/melque/102030/109536
+#EXTINF:-1,CONMEBOL TV SD (JOGO 3)
+http://cattek.in:8880/melque/102030/109537
+#EXTINF:-1,CONMEBOL TV SD (JOGO 4)
+http://cattek.in:8880/melque/102030/109538
+#EXTINF:-1,DAZN 01 HD
+http://cattek.in:8880/melque/102030/85258
+#EXTINF:-1,DAZN 1 ALT
+http://cattek.in:8880/melque/102030/85261
+#EXTINF:-1,DAZN 02 HD
+http://cattek.in:8880/melque/102030/85262
+#EXTINF:-1,DAZN 2 ALT
+http://cattek.in:8880/melque/102030/85259
+#EXTINF:-1,DAZN 03 HD
+http://cattek.in:8880/melque/102030/85260
+#EXTINF:-1,DAZN 3 ALT
+http://cattek.in:8880/melque/102030/111898
+#EXTINF:-1,DAZN 04 HD
+http://cattek.in:8880/melque/102030/85263
+#EXTINF:-1,DAZN 4 ALT
+http://cattek.in:8880/melque/102030/111899
+#EXTINF:-1,EI PLUS SD
+http://cattek.in:8880/melque/102030/85069
+#EXTINF:-1,EI PLUS 1 FHD 2
+http://cattek.in:8880/melque/102030/111900
+#EXTINF:-1,EI PLUS FHD
+http://cattek.in:8880/melque/102030/85068
+#EXTINF:-1,CONMEBOL TV FHD (JOGO 1)
+http://cattek.in:8880/melque/102030/119775
+#EXTINF:-1,CONMEBOL TV HD (JOGO 1)
+http://cattek.in:8880/melque/102030/119777
+#EXTINF:-1,CONMEBOL TV FHD (JOGO 2)
+http://cattek.in:8880/melque/102030/119776
+#EXTINF:-1,CONMEBOL TV HD (JOGO 2)
+http://cattek.in:8880/melque/102030/119778
+#EXTINF:-1,CONMEBOL TV FHD (JOGO 3)
+http://cattek.in:8880/melque/102030/119779
+#EXTINF:-1,CONMEBOL TV HD (JOGO 3)
+http://cattek.in:8880/melque/102030/119780
+#EXTINF:-1,Ei Max Jogo 1
+http://cattek.in:8880/melque/102030/119781
+#EXTINF:-1,Ei Max Jogos02
+http://cattek.in:8880/melque/102030/119782
+#EXTINF:-1,Ei Max Jogos03
+http://cattek.in:8880/melque/102030/119783
+#EXTINF:-1,Ei Max Jogos04
+http://cattek.in:8880/melque/102030/119784
+#EXTINF:-1,RÁDIO ANTENA 1 FM
+http://cattek.in:8880/melque/102030/28783
+#EXTINF:-1,RÁDIO JOVEM PAN FM CAMPINAS
+http://cattek.in:8880/melque/102030/28784
+#EXTINF:-1,RÁDIO MIX FM SP
+http://cattek.in:8880/melque/102030/28785
+#EXTINF:-1,RÁDIO 89FM - A RÁDIO ROCK
+http://cattek.in:8880/melque/102030/28786
+#EXTINF:-1,RÁDIO METROPOLITANA POP
+http://cattek.in:8880/melque/102030/28787
+#EXTINF:-1,RÁDIO SÓ FLASHBACK
+http://cattek.in:8880/melque/102030/28788
+#EXTINF:-1,RÁDIO GAÚCHA ZH
+http://cattek.in:8880/melque/102030/28789
+#EXTINF:-1,RÁDIO GRENAL
+http://cattek.in:8880/melque/102030/28790
+#EXTINF:-1,RÁDIO 92 FM
+http://cattek.in:8880/melque/102030/28791
+#EXTINF:-1,RÁDIO 104 FM
+http://cattek.in:8880/melque/102030/28792
+#EXTINF:-1,RÁDIO CAÍÇARA AM 780
+http://cattek.in:8880/melque/102030/28793
+#EXTINF:-1,RÁDIO SORRISO SERRA GAÚCHA - GRAMADO/RS
+http://cattek.in:8880/melque/102030/28794
+#EXTINF:-1,RÁDIO VIVA
+http://cattek.in:8880/melque/102030/28795
+#EXTINF:-1,RÁDIO POP ROCK FM
+http://cattek.in:8880/melque/102030/28796
+#EXTINF:-1,RÁDIO COLORADO OFICIAL
+http://cattek.in:8880/melque/102030/28797
+#EXTINF:-1,RÁDIO CIDREIRA FM 91.3
+http://cattek.in:8880/melque/102030/28798
+#EXTINF:-1,RÁDIO ANTENA 1 SP
+http://cattek.in:8880/melque/102030/28799
+#EXTINF:-1,RÁDIO JOVEM PAN FM SP
+http://cattek.in:8880/melque/102030/28800
+#EXTINF:-1,RÁDIO METROPOLITANA 98.5 FM
+http://cattek.in:8880/melque/102030/28801
+#EXTINF:-1,RÁDIO MIX FM SP
+http://cattek.in:8880/melque/102030/28802
+#EXTINF:-1,RÁDIO METROPOLITANA SERTANEJO
+http://cattek.in:8880/melque/102030/28803
+#EXTINF:-1,RÁDIO ALPHA FM 101.7
+http://cattek.in:8880/melque/102030/28804
+#EXTINF:-1,RÁDIO JB FM 99.9
+http://cattek.in:8880/melque/102030/28805
+#EXTINF:-1,RÁDIO KISS FM
+http://cattek.in:8880/melque/102030/28806
+#EXTINF:-1,RÁDIO NOVA BRASIL 89.7 SP
+http://cattek.in:8880/melque/102030/28807
+#EXTINF:-1,RÁDIO TUPI AM 1280
+http://cattek.in:8880/melque/102030/28808
+#EXTINF:-1,RÁDIO JOVEM PAN AM
+http://cattek.in:8880/melque/102030/28809
+#EXTINF:-1,RÁDIO CBN SP
+http://cattek.in:8880/melque/102030/28810
+#EXTINF:-1,RÁDIO ANOS 80 FM
+http://cattek.in:8880/melque/102030/28811
+#EXTINF:-1,RÁDIO JOVEM PAN NEWS
+http://cattek.in:8880/melque/102030/28812
+#EXTINF:-1,RÁDIO ENERGIA 97 FM
+http://cattek.in:8880/melque/102030/28813
+#EXTINF:-1,RÁDIO MOTEL
+http://cattek.in:8880/melque/102030/28814
+#EXTINF:-1,RÁDIO ANTENA 1 RJ
+http://cattek.in:8880/melque/102030/28815
+#EXTINF:-1,RÁDIO ITATIAIA FM
+http://cattek.in:8880/melque/102030/28816
+#EXTINF:-1,RÁDIO BAND FM
+http://cattek.in:8880/melque/102030/28817
+#EXTINF:-1,RÁDIO TRANSAMÉRICA POP FM
+http://cattek.in:8880/melque/102030/28818
+#EXTINF:-1,RÁDIO SAUDADE FM
+http://cattek.in:8880/melque/102030/28819
+#EXTINF:-1,RÁDIO MIX FM RJ
+http://cattek.in:8880/melque/102030/28820
+#EXTINF:-1,RÁDIO BOSSA NOVA BRASIL
+http://cattek.in:8880/melque/102030/28821
+#EXTINF:-1,RÁDIO CBN RJ
+http://cattek.in:8880/melque/102030/28822
+#EXTINF:-1,RÁDIO MANIA FM
+http://cattek.in:8880/melque/102030/28823
+#EXTINF:-1,RÁDIO DISNEY FM
+http://cattek.in:8880/melque/102030/28824
+#EXTINF:-1,RÁDIO METROPOLITANA FUNK
+http://cattek.in:8880/melque/102030/28825
+#EXTINF:-1,RÁDIO HUNTER FM - SERTANEJO
+http://cattek.in:8880/melque/102030/28826
+#EXTINF:-1,RÁDIO ATLÂNTIDA FM RS
+http://cattek.in:8880/melque/102030/28827
+#EXTINF:-1,RÁDIO GLOBO RJ
+http://cattek.in:8880/melque/102030/28828
+#EXTINF:-1,RÁDIO NATIVA FM SP
+http://cattek.in:8880/melque/102030/28829
+#EXTINF:-1,RÁDIO CIDADE 102.9 FM
+http://cattek.in:8880/melque/102030/28830
+#EXTINF:-1,RÁDIO JOVEM POP FM
+http://cattek.in:8880/melque/102030/28831
+#EXTINF:-1,RÁDIO CAPITAL
+http://cattek.in:8880/melque/102030/28832
+#EXTINF:-1,RÁDIO BOSSA JAZZ BRASIL
+http://cattek.in:8880/melque/102030/28833
+#EXTINF:-1,RÁDIO ALVORADA FM MG
+http://cattek.in:8880/melque/102030/28834
+#EXTINF:-1,RÁDIO BH FM MG
+http://cattek.in:8880/melque/102030/28835
+#EXTINF:-1,RÁDIO REDE ALELUIA
+http://cattek.in:8880/melque/102030/28836
+#EXTINF:-1,RÁDIO SULAMERICA PARADISO FM
+http://cattek.in:8880/melque/102030/28837
+#EXTINF:-1,RÁDIO TOP FM 104.1 SP
+http://cattek.in:8880/melque/102030/28838
+#EXTINF:-1,RÁDIO GAZETA FM
+http://cattek.in:8880/melque/102030/28839
+#EXTINF:-1,RÁDIO 98FM
+http://cattek.in:8880/melque/102030/28840
+#EXTINF:-1,RÁDIO JOVEM PAM FM MG
+http://cattek.in:8880/melque/102030/28841
+#EXTINF:-1,RÁDIO SERTANEJA RAÍZ
+http://cattek.in:8880/melque/102030/28842
+#EXTINF:-1,RÁDIO ELDORADO FM SP
+http://cattek.in:8880/melque/102030/28843
+#EXTINF:-1,RÁDIO TRANSAMÉRICA POP RJ
+http://cattek.in:8880/melque/102030/28844
+#EXTINF:-1,RÁDIO GFM SALVADOR BH
+http://cattek.in:8880/melque/102030/28845
+#EXTINF:-1,RÁDIO GUAÍBA RS
+http://cattek.in:8880/melque/102030/28846
+#EXTINF:-1,RÁDIO 80'S BEST
+http://cattek.in:8880/melque/102030/28847
+#EXTINF:-1,RÁDIO GOSPEL FM SP
+http://cattek.in:8880/melque/102030/28848
+#EXTINF:-1,RÁDIO NOVA BRASIL 94.3 PE
+http://cattek.in:8880/melque/102030/28849
