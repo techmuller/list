@@ -1,1485 +1,1691 @@
 #EXTM3U
-#EXTINF:-1,3 Palavrinhas
-http://lb.kstream.org/aovivo/24_3_PALAVRINHAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,A Cobrinha azul
-http://lb.kstream.org/aovivo/24_A_COBRINHA_AZUL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,A Familia Dracula
-http://lb.kstream.org/aovivo/24_A_FAMILIA_DRACULA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,A Fazenda 12
-http://lb.kstream.org/aovivo/HD_A_FAZENDA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,A Fazenda 12 [Alter]
-http://lb.kstream.org/aovivo/HD_A_FAZENDA_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,A Mumia
-http://lb.kstream.org/aovivo/24_A_MUMIA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,A Turma da Monica
-http://lb.kstream.org/aovivo/24_A_TURMA_MONICA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,A Turma do Pateta
-http://lb.kstream.org/aovivo/24_A_TURMA_PATETA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,A&E
-http://lb.kstream.org/aovivo/SD_AE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,A&E FHD
-http://lb.kstream.org/aovivo/FHD_AE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,CINE Satellite TV
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178414
+#EXTINF:-1,CINE Satellite TV
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178415
+#EXTINF:-1,CINE Satellite TV
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178416
+#EXTINF:-1,CINE Satellite TV
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178417
+#EXTINF:-1,CINE Satellite TV
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178418
+#EXTINF:-1,CINE Satellite TV
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178419
+#EXTINF:-1,CINE Satellite TV
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178420
+#EXTINF:-1,CINE Satellite TV
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178421
+#EXTINF:-1,CINE Satellite TV
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178422
+#EXTINF:-1,TELECINE ACTION SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178424
+#EXTINF:-1,TC ACTION SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178425
+#EXTINF:-1,TELECINE ACTION HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178426
+#EXTINF:-1,TC ACTION HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178427
+#EXTINF:-1,TELECINE ACTION FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178428
+#EXTINF:-1,TC ACTION FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178429
+#EXTINF:-1,TELECINE CULT SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178430
+#EXTINF:-1,TC CULT SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178431
+#EXTINF:-1,TELECINE CULT HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178432
+#EXTINF:-1,TC CULT HD ALT https://iptv.live
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178433
+#EXTINF:-1,TELECINE CULT FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178434
+#EXTINF:-1,TC CULT FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178435
+#EXTINF:-1,TELECINE FUN SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178436
+#EXTINF:-1,TC FUN SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178437
+#EXTINF:-1,TELECINE FUN HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178438
+#EXTINF:-1,TC FUN HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178439
+#EXTINF:-1,TELECINE FUN FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178440
+#EXTINF:-1,TC FUN FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178441
+#EXTINF:-1,TELECINE PIPOCA SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178442
+#EXTINF:-1,TC PIPOCA SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178443
+#EXTINF:-1,TELECINE PIPOCA HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178444
+#EXTINF:-1,TC PIPOCA HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178445
+#EXTINF:-1,TELECINE PIPOCA FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178446
+#EXTINF:-1,TC PIPOCA FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178447
+#EXTINF:-1,TELECINE PREMIUM SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178448
+#EXTINF:-1,TC PREMIUM SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178449
+#EXTINF:-1,TELECINE PREMIUM HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178450
+#EXTINF:-1,TC PREMIUM HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178451
+#EXTINF:-1,TELECINE PREMIUM FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178452
+#EXTINF:-1,TC PREMIUM FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178453
+#EXTINF:-1,TELECINE TOUCH SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178454
+#EXTINF:-1,TC TOUCH SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178455
+#EXTINF:-1,TELECINE TOUCH HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178456
+#EXTINF:-1,TC TOUCH HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178457
+#EXTINF:-1,TELECINE TOUCH FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178458
+#EXTINF:-1,TC TOUCH FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178459
+#EXTINF:-1,DISCOVERY CHANNEL SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178460
+#EXTINF:-1,DISCOVERY CHANNEL SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178461
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178462
+#EXTINF:-1,DISCOVERY CHANNEL HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178463
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178464
+#EXTINF:-1,DISCOVERY CHANNEL FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178465
+#EXTINF:-1,DISCOVERY SCIENCE SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178466
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178467
+#EXTINF:-1,DISCOVERY SCIENCE HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178468
+#EXTINF:-1,DISCOVERY SCIENCE FHD https://iptv.live
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178469
+#EXTINF:-1,DISCOVERY SCIENCE FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178470
+#EXTINF:-1,DISCOVERY THEATHER SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178471
+#EXTINF:-1,DISCOVERY THEATHER SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178472
+#EXTINF:-1,DISCOVERY THEATHER HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178473
+#EXTINF:-1,DISCOVERY THEATHER HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178474
+#EXTINF:-1,DISCOVERY THEATHER FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178475
+#EXTINF:-1,DISCOVERY THEATHER FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178476
+#EXTINF:-1,DISCOVERY TURBO SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178477
+#EXTINF:-1,DISCOVERY TURBO SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178478
+#EXTINF:-1,DISCOVERY TURBO HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178479
+#EXTINF:-1,DISCOVERY TURBO HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178480
+#EXTINF:-1,DISCOVERY TURBO FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178481
+#EXTINF:-1,DISCOVERY TURBO FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178482
+#EXTINF:-1,DISCOVERY WORLD SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178483
+#EXTINF:-1,DISCOVERY WORLD HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178484
+#EXTINF:-1,DISCOVERY WORLD HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178485
+#EXTINF:-1,DISCOVERY WORLD FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178486
+#EXTINF:-1,DISCOVERY WORLD FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178487
+#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178488
+#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178489
+#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178490
+#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178491
+#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178492
+#EXTINF:-1,DISCOVERY HOME & HEALTH SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178493
+#EXTINF:-1,DISCOVERY HOME & HEALTH SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178494
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178495
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178496
+#EXTINF:-1,DISCOVERY HOME & HEALTH FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178497
+#EXTINF:-1,DISCOVERY HOME & HEALTH FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178498
+#EXTINF:-1,A&E SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178499
 #EXTINF:-1,A&E HD
-http://lb.kstream.org/aovivo/HD_AE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,A&E HD [Alter]
-http://lb.kstream.org/aovivo/HD_AE_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,AMC
-http://lb.kstream.org/aovivo/SD_AMC/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,AMC FHD
-http://lb.kstream.org/aovivo/FHD_AMC/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178500
+#EXTINF:-1,A&E FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178501
+#EXTINF:-1,AMC SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178502
 #EXTINF:-1,AMC HD
-http://lb.kstream.org/aovivo/HD_AMC/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,AMC HD [Alter]
-http://lb.kstream.org/aovivo/HD_AMC_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,AXN
-http://lb.kstream.org/aovivo/SD_AXN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,AXN FHD
-http://lb.kstream.org/aovivo/FHD_AXN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,AXN FHD [Leg] https://iptv.live
-http://lb.kstream.org/aovivo/FHD_AXN_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178503
+#EXTINF:-1,AMC FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178504
+#EXTINF:-1,AXN SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178505
+#EXTINF:-1,AXN SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178506
 #EXTINF:-1,AXN HD
-http://lb.kstream.org/aovivo/HD_AXN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,AXN HD [Alter]
-http://lb.kstream.org/aovivo/HD_AXN_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,AXN HD [Leg]
-http://lb.kstream.org/aovivo/HD_AXN_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Acampamento Lakebottom
-http://lb.kstream.org/aovivo/24_ACAMPAMENTO_LAKEBOTTOM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Aladin (DESENHO)
-http://lb.kstream.org/aovivo/24_ALADIN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Animal Planet
-http://lb.kstream.org/aovivo/SD_ANIMAL_PLANET/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Animal Planet FHD
-http://lb.kstream.org/aovivo/FHD_ANIMAL_PLANET/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Animal Planet HD
-http://lb.kstream.org/aovivo/HD_ANIMAL_PLANET/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Animal Planet HD [Alter]
-http://lb.kstream.org/aovivo/HD_ANIMAL_PLANET_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Arte 1
-http://lb.kstream.org/aovivo/SD_ARTE1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Arte 1 FHD
-http://lb.kstream.org/aovivo/FHD_ARTE_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Arte 1 HD
-http://lb.kstream.org/aovivo/HD_ARTE1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Arte 1 HD [Alter]
-http://lb.kstream.org/aovivo/HD_ARTE1_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,As Aventuras de Jackie Chan
-http://lb.kstream.org/aovivo/24_AS_AVENTURAS_JACKIECHAN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,BIS
-http://lb.kstream.org/aovivo/SD_BIS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,BIS FHD
-http://lb.kstream.org/aovivo/FHD_BIS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,BIS HD
-http://lb.kstream.org/aovivo/HD_BIS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,BIS HD [Alter]
-http://lb.kstream.org/aovivo/HD_BIS_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Baby Shark
-http://lb.kstream.org/aovivo/24_BABY_SHARK/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Baby TV
-http://lb.kstream.org/aovivo/SD_BABYTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Baby TV FHD
-http://lb.kstream.org/aovivo/FHD_BABY_TV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Baby TV HD
-http://lb.kstream.org/aovivo/HD_BABY_TV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band
-http://lb.kstream.org/aovivo/SD_BAND/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band Bahia
-http://lb.kstream.org/aovivo/SD_BAND_BA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band Campinas
-http://lb.kstream.org/aovivo/SD_BAND_CAMPINAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band Campinas HD
-http://lb.kstream.org/aovivo/HD_BAND_CAMPINAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band FHD
-http://lb.kstream.org/aovivo/FHD_BAND/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band HD
-http://lb.kstream.org/aovivo/HD_BAND/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band HD [Alter]
-http://lb.kstream.org/aovivo/HD_BAND_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band Natal HD
-http://lb.kstream.org/aovivo/HD_BAND_NATAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band News
-http://lb.kstream.org/aovivo/SD_BAND_NEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band News FHD
-http://lb.kstream.org/aovivo/FHD_BAND_NEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band News HD
-http://lb.kstream.org/aovivo/HD_BAND_NEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band News HD [Alter]
-http://lb.kstream.org/aovivo/HD_BAND_NEWS_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band Nordeste HD
-http://lb.kstream.org/aovivo/HD_BAND_NORDESTE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band Parana HD https://iptv.live
-http://lb.kstream.org/aovivo/HD_BAND_PA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band RJ
-http://lb.kstream.org/aovivo/SD_BAND_RJ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band RJ FHD
-http://lb.kstream.org/aovivo/FHD_BAND_RJ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band RJ HD
-http://lb.kstream.org/aovivo/HD_BAND_RJ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band RS HD
-http://lb.kstream.org/aovivo/HD_BAND_RS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band SP
-http://lb.kstream.org/aovivo/SD_BAND_SP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band Sports
-http://lb.kstream.org/aovivo/SD_BAND_SPORTS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band Sports FHD
-http://lb.kstream.org/aovivo/FHD_BAND_SPORTS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band Sports HD
-http://lb.kstream.org/aovivo/HD_BAND_SPORTS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Band Sports HD [Alter]
-http://lb.kstream.org/aovivo/HD_BAND_SPORTS_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Ben 10
-http://lb.kstream.org/aovivo/24_BEN_10/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Boa Vontade TV
-http://lb.kstream.org/aovivo/HD_BOA_VONTADE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Bob Esponja
-http://lb.kstream.org/aovivo/24_HORAS_BOB_ESPONJA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Boku no Hero Academia
-http://lb.kstream.org/aovivo/24_BOKU_ACADEMIA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Boomerang
-http://lb.kstream.org/aovivo/SD_BOOMERANG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Boomerang FHD
-http://lb.kstream.org/aovivo/FHD_BOOMERANG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Boomerang HD
-http://lb.kstream.org/aovivo/HD_BOOMERANG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Boomerang HD [Alter]
-http://lb.kstream.org/aovivo/HD_BOOMERANG_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,CNN Brasil
-http://lb.kstream.org/aovivo/SD_CNN_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,CNN Brasil FHD
-http://lb.kstream.org/aovivo/FHD_CNN_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,CNN Brasil HD
-http://lb.kstream.org/aovivo/HD_CNN_BR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,CNN International FHD
-http://lb.kstream.org/aovivo/FHD_CNN_INTERNACIONAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,CNN International HD
-http://lb.kstream.org/aovivo/SD_CNN_INTERNATIONAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,CONMEBOL TV 01
-http://lb.kstream.org/aovivo/SD_CONMEBOL_01/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,CONMEBOL TV 01 HD
-http://lb.kstream.org/aovivo/HD_CONMEBOL_01/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,CONMEBOL TV 02
-http://lb.kstream.org/aovivo/SD_CONMEBOL_02/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,CONMEBOL TV 02 HD
-http://lb.kstream.org/aovivo/HD_CONMEBOL_02/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,CONMEBOL TV 03
-http://lb.kstream.org/aovivo/SD_CONMEBOL_03/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,CONMEBOL TV 03 HD
-http://lb.kstream.org/aovivo/HD_CONMEBOL_03/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,CONMEBOL TV 04
-http://lb.kstream.org/aovivo/SD_CONMEBOL_04/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,CONMEBOL TV 04 HD
-http://lb.kstream.org/aovivo/HD_CONMEBOL_04/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Satellite TV
-http://lb.kstream.org/aovivo/SD_CANAL_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Satellite TV
-http://lb.kstream.org/aovivo/HD_CANAL_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Satellite TV
-http://lb.kstream.org/aovivo/HD_CANAL_BRASIL_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Satellite TV
-http://lb.kstream.org/aovivo/SD_CANAL_DO_BOI/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cancao Nova
-http://lb.kstream.org/aovivo/SD_CANCAO_NOVA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cancao Nova HD
-http://lb.kstream.org/aovivo/HD_CANCAO_NOVA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cartoon Network
-http://lb.kstream.org/aovivo/SD_CARTOON_NETWORK/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cartoon Network FHD
-http://lb.kstream.org/aovivo/FHD_CARTOON_NETWORK/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cartoon Network HD
-http://lb.kstream.org/aovivo/HD_CARTOON_NETWORK/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cartoon Network HD [Alter]
-http://lb.kstream.org/aovivo/HD_CARTOON_NETWORK_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cavaleiro do Zodiaco
-http://lb.kstream.org/aovivo/24_CAVALEIRO_ZODIACO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Caverna do Dragao
-http://lb.kstream.org/aovivo/24_CAVERNA_DRAGAO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Chef TV FHD
-http://lb.kstream.org/aovivo/FHD_CHEFTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Chef TV HD
-http://lb.kstream.org/aovivo/HD_CHEFTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_01/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_02/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_03/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_04/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_05/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_06/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_07/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_08/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_09/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cine Satellite TV
-http://lb.kstream.org/aovivo/HD_CINE_SKY_10/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cinemax
-http://lb.kstream.org/aovivo/SD_CINEMAX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cinemax FHD
-http://lb.kstream.org/aovivo/FHD_CINEMAX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cinemax HD
-http://lb.kstream.org/aovivo/HD_CINEMAX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cinemax HD [Alter]
-http://lb.kstream.org/aovivo/HD_CINEMAX_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Combate
-http://lb.kstream.org/aovivo/SD_COMBATE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Combate FHD
-http://lb.kstream.org/aovivo/FHD_COMBATE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Combate HD
-http://lb.kstream.org/aovivo/HD_COMBATE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Combate HD [Alter]
-http://lb.kstream.org/aovivo/HD_COMBATE_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Comedy Central
-http://lb.kstream.org/aovivo/SD_COMEDY_CENTRAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Comedy Central FHD
-http://lb.kstream.org/aovivo/FHD_COMEDY_CENTRAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Comedy Central HD
-http://lb.kstream.org/aovivo/HD_COMEDY_CENTRAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Comedy Central HD [Alter]
-http://lb.kstream.org/aovivo/HD_COMEDY_CENTRAL_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cultura
-http://lb.kstream.org/aovivo/SD_TV_CULTURA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Cultura HD
-http://lb.kstream.org/aovivo/HD_CULTURA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Curta!
-http://lb.kstream.org/aovivo/SD_CURTA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Curta! HD
-http://lb.kstream.org/aovivo/HD_CURTA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Curta! HD [Alter]
-http://lb.kstream.org/aovivo/HD_CURTA_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,DAZN 1 HD
-http://lb.kstream.org/aovivo/HD_DAZN_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,DAZN 2 HD
-http://lb.kstream.org/aovivo/HD_DAZN_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Daniel Tigre
-http://lb.kstream.org/aovivo/24_DANIEL_TIGRE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Desenhos Biblicos
-http://lb.kstream.org/aovivo/24_DESENHOS_BIBLICOS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Channel
-http://lb.kstream.org/aovivo/SD_DISCOVERY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Channel FHD
-http://lb.kstream.org/aovivo/FHD_DISCOVERY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Channel HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Channel HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Home & Health
-http://lb.kstream.org/aovivo/SD_DISCOVERY_HOMEHEALTH/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Home & Health FHD
-http://lb.kstream.org/aovivo/FHD_DISCOVERY_HOMEHEALTH/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Home & Health HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY_HOMEHEALTH/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Home & Health HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_HOMEHEALTH_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Kids
-http://lb.kstream.org/aovivo/SD_DISCOVERY_KIDS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Kids FHD
-http://lb.kstream.org/aovivo/FHD_DISCOVERY_KIDS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Kids HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY_KIDS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Kids HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_KIDS_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Science
-http://lb.kstream.org/aovivo/SD_DISCOVERY_SCIENCE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Science FHD
-http://lb.kstream.org/aovivo/FHD_DISCOVERY_SCIENCE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Science HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY_SCIENCE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Science HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_SCIENCE_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Theater
-http://lb.kstream.org/aovivo/SD_DISCOVERY_THEATER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Theater FHD
-http://lb.kstream.org/aovivo/FHD_DISCOVERY_THEATER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Theater HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY_THEATER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Theater HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_THEATER_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Turbo
-http://lb.kstream.org/aovivo/SD_DISCOVERY_TURBO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Turbo FHD
-http://lb.kstream.org/aovivo/FHD_DISCOVERY_TURBO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Turbo HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY_TURBO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery Turbo HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_TURBO_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery World
-http://lb.kstream.org/aovivo/SD_DISCOVERY_WORLD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery World FHD
-http://lb.kstream.org/aovivo/FHD_DISCOVERY_WORLD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery World HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY_WORLD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Discovery World HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_WORLD_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Disney Channel
-http://lb.kstream.org/aovivo/SD_DISNEY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Disney Channel FHD
-http://lb.kstream.org/aovivo/FHD_DISNEY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Disney Channel HD
-http://lb.kstream.org/aovivo/HD_DISNEY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Disney Channel HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISNEY_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Disney JR
-http://lb.kstream.org/aovivo/SD_DISNEY_JR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Disney JR FHD
-http://lb.kstream.org/aovivo/FHD_DISNEY_JUNIOR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Disney JR HD
-http://lb.kstream.org/aovivo/HD_DISNEY_JUNIOR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Disney JR HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISNEY_JUNIOR_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Disney XD
-http://lb.kstream.org/aovivo/SD_DISNEY_XD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Disney XD HD
-http://lb.kstream.org/aovivo/HD_DISNEY_XD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Disney XD HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISNEY_XD_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,E!
-http://lb.kstream.org/aovivo/SD_E/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,E! FHD
-http://lb.kstream.org/aovivo/FHD_E/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,E! HD
-http://lb.kstream.org/aovivo/HD_E/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,E! HD [Alter]
-http://lb.kstream.org/aovivo/HD_E_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ESPN
-http://lb.kstream.org/aovivo/SD_ESPN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ESPN 2
-http://lb.kstream.org/aovivo/SD_EEEE_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ESPN 2 FHD
-http://lb.kstream.org/aovivo/FHD_EEEE_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ESPN 2 HD
-http://lb.kstream.org/aovivo/HD_EEEE_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ESPN 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_EEEE_2_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ESPN Brasil
-http://lb.kstream.org/aovivo/SD_HDKASNBSBS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ESPN Brasil FHD
-http://lb.kstream.org/aovivo/FHD_ESPN_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ESPN Brasil HD
-http://lb.kstream.org/aovivo/HD_HDUASBDOM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ESPN Brasil HD [Alter]
-http://lb.kstream.org/aovivo/HD_ESPN_BRASIL_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ESPN Extra
-http://lb.kstream.org/aovivo/SD_ESPN_EXTRA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ESPN Extra HD
-http://lb.kstream.org/aovivo/HD_ESPN_EXTRA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ESPN FHD
-http://lb.kstream.org/aovivo/FHD_ESPN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ESPN HD
-http://lb.kstream.org/aovivo/HD_ESPN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ESPN HD [Alter]
-http://lb.kstream.org/aovivo/HD_ESPN_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Escolinha do Professor Raimundo
-http://lb.kstream.org/aovivo/24_ESCOLINHA_RAIMUNDO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo
-http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 02
-http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 04
-http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_4/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 04 HD
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_4/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 05
-http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_5/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 05 HD
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_5/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 06
-http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_6/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 06 HD
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_6/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 07
-http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_7/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 07 HD
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_7/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 08
-http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_8/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 08 HD
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_8/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 09
-http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_9/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 09 HD
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_9/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 10
-http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_10/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo 10 HD
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_10/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte Interativo HD
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte interativo 02 HD
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte interativo 03
-http://lb.kstream.org/aovivo/SD_EI_PLUS_3/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Esporte interativo 03 HD
-http://lb.kstream.org/aovivo/HD_EI_PLUS_3/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,FX
-http://lb.kstream.org/aovivo/SD_FX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,FX FHD
-http://lb.kstream.org/aovivo/FHD_FX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178507
+#EXTINF:-1,AXN HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178508
+#EXTINF:-1,AXN FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178509
+#EXTINF:-1,AXN FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178510
+#EXTINF:-1,ARTE 1 SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178511
+#EXTINF:-1,ARTE 1 HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178512
+#EXTINF:-1,ARTE 1 HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178513
+#EXTINF:-1,ARTE 1 FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178514
+#EXTINF:-1,CINEMAX SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178515
+#EXTINF:-1,CINEMAX HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178516
+#EXTINF:-1,CINEMAX HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178517
+#EXTINF:-1,CINEMAX FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178518
+#EXTINF:-1,CINEMAX FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178519
+#EXTINF:-1,FOX SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178520
+#EXTINF:-1,FOX SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178521
+#EXTINF:-1,FOX HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178522
+#EXTINF:-1,FOX HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178523
+#EXTINF:-1,FOX FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178524
+#EXTINF:-1,FOX PREMIUM 1 SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178525
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178526
+#EXTINF:-1,FOX PREMIUM 1 HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178527
+#EXTINF:-1,FOX PREMIUM 1 FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178528
+#EXTINF:-1,FOX PREMIUM 1 FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178529
+#EXTINF:-1,FOX PREMIUM 2 SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178530
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178531
+#EXTINF:-1,FOX PREMIUM 2 HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178532
+#EXTINF:-1,FOX PREMIUM 2 FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178533
+#EXTINF:-1,FOX PREMIUM 2 FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178534
+#EXTINF:-1,FX SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178535
+#EXTINF:-1,FX SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178536
 #EXTINF:-1,FX HD
-http://lb.kstream.org/aovivo/HD_FX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,FX HD [Alter]
-http://lb.kstream.org/aovivo/HD_FX_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Faisca e Fumaca
-http://lb.kstream.org/aovivo/24_FAISCA_FUMACA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fish TV
-http://lb.kstream.org/aovivo/SD_FISH_TV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fish TV FHD
-http://lb.kstream.org/aovivo/FHD_FISH_TV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fish TV HD
-http://lb.kstream.org/aovivo/HD_FISH_TV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fish TV HD [Alter]
-http://lb.kstream.org/aovivo/HD_FISH_TV_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,FlaTV
-http://lb.kstream.org/aovivo/HD_FLATV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Flow Podcast
-http://lb.kstream.org/aovivo/HD_FLOW_PODCAST/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Flu TV
-http://lb.kstream.org/aovivo/HD_FLUTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Food Network
-http://lb.kstream.org/aovivo/SD_FOOD_NETWORK/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Food Network FHD
-http://lb.kstream.org/aovivo/FHD_FOOD_NETWORK/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Food Network HD
-http://lb.kstream.org/aovivo/HD_FOOD_NETWORK/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Food Network HD [Alter]
-http://lb.kstream.org/aovivo/HD_FOOD_NETWORK_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox
-http://lb.kstream.org/aovivo/SD_FOX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox FHD
-http://lb.kstream.org/aovivo/FHD_FOX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox FHD [Leg]
-http://lb.kstream.org/aovivo/FHD_FOX_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox HD
-http://lb.kstream.org/aovivo/HD_FOX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox HD [Alter]
-http://lb.kstream.org/aovivo/HD_FOX_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox HD [Leg]
-http://lb.kstream.org/aovivo/HD_FOX_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Life
-http://lb.kstream.org/aovivo/SD_FOX_LIFE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Life FHD
-http://lb.kstream.org/aovivo/FHD_FOX_LIFE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Life HD
-http://lb.kstream.org/aovivo/HD_FOX_LIFE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Life HD [Alter]
-http://lb.kstream.org/aovivo/HD_FOX_LIFE_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Premium 1
-http://lb.kstream.org/aovivo/SD_FOX_PREMIUM_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Premium 1 FHD [Leg]
-http://lb.kstream.org/aovivo/FHD_FOX_PREMIUM_1_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Premium 1 HD
-http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Premium 1 HD [Alter]
-http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Premium 1 HD [Leg]
-http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Premium 2
-http://lb.kstream.org/aovivo/SD_FOX_PREMIUM_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Premium 2 FHD [Leg]
-http://lb.kstream.org/aovivo/FHD_FOX_PREMIUM_2_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Premium 2 HD
-http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Premium 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Premium 2 HD [Leg]
-http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Sports
-http://lb.kstream.org/aovivo/SD_FOX_SPORTS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Sports 2
-http://lb.kstream.org/aovivo/SD_FOX_SPORTS_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Sports 2 FHD
-http://lb.kstream.org/aovivo/FHD_FOX_SPORTS_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Sports 2 HD
-http://lb.kstream.org/aovivo/HD_FOX_SPORTS_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Sports 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_FOX_SPORTS_2_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Sports FHD
-http://lb.kstream.org/aovivo/FHD_FOX_SPORTS_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Sports HD
-http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Fox Sports HD [Alter]
-http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Futura
-http://lb.kstream.org/aovivo/SD_FUTURA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Futura HD
-http://lb.kstream.org/aovivo/HD_FUTURA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,GNT
-http://lb.kstream.org/aovivo/SD_GNT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,GNT FHD
-http://lb.kstream.org/aovivo/FHD_GNT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,GNT HD
-http://lb.kstream.org/aovivo/HD_GNT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,GNT HD [Alter]
-http://lb.kstream.org/aovivo/HD_GNT_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Galinha Pintadinha
-http://lb.kstream.org/aovivo/24_GALINHA_PINTADA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Brasilia
-http://lb.kstream.org/aovivo/SD_GLOBO_BRASILIA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Brasilia HD
-http://lb.kstream.org/aovivo/HD_GLOBO_BRASILIA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo EPTV Campinas
-http://lb.kstream.org/aovivo/SD_GLOBO_EPTV_CAMPINAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo EPTV Campinas HD
-http://lb.kstream.org/aovivo/HD_GLOBO_EPTV_CAMPINAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo EPTV Central
-http://lb.kstream.org/aovivo/SD_GLOBO_SAO_CARLOS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo EPTV Ribeirao
-http://lb.kstream.org/aovivo/SD_GLOBO_RIBEIRAO_PRETO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo EPTV Ribeirao HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RIBEIRAO_PRETO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo EPTV Sul de Minas
-http://lb.kstream.org/aovivo/SD_GLOBO_EPTV_SUL_MINAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Inter TV Cabugi
-http://lb.kstream.org/aovivo/SD_GLOBO_RN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Inter TV Cabugi HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Inter TV Grande Minas FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_GRANDE_MINAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Inter TV Grande Minas HD
-http://lb.kstream.org/aovivo/SD_GLOBO_INTERTV_GRANDE_MINAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Inter TV Serra Mar
-http://lb.kstream.org/aovivo/SD_GLOBO_INTERTV_SERRA_MAR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Minas
-http://lb.kstream.org/aovivo/SD_GLOBO_MINAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Minas FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_MG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Minas HD
-http://lb.kstream.org/aovivo/HD_GLOBO_MINAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo NSC TV Florianopolis
-http://lb.kstream.org/aovivo/SD_GLOBO_SC/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo NSC TV Florianopolis HD
-http://lb.kstream.org/aovivo/HD_GLOBO_SC/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Nordeste
-http://lb.kstream.org/aovivo/SD_GLOBO_NORDESTE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Nordeste FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_NORDESTE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Nordeste HD
-http://lb.kstream.org/aovivo/HD_GLOBO_NORDESTE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Nordeste HD [Alter]
-http://lb.kstream.org/aovivo/HD_GLOBO_NORDESTE_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo RBS POA
-http://lb.kstream.org/aovivo/SD_GLOBO_RBS_POA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo RBS POA FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_RBS_POA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo RBS POA HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RBS_POA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo RPC Curitiba
-http://lb.kstream.org/aovivo/SD_GLOBO_RPC_CURITIBA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo RPC Curitiba HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RPC_CURITIBA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo RPC Paranaense FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_RPC_PARANAENSE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Rede Amazonica Acre HD
-http://lb.kstream.org/aovivo/HD_GLOBO_AMAZONICA_ACRE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Rede Amazonica Manaus HD
-http://lb.kstream.org/aovivo/HD_GLOBO_AMAZONAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Rede Amazonica Rondonia HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RONDONIA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Rede Amazonica Roraima HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RORAIMA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Rio
-http://lb.kstream.org/aovivo/SD_GLOBO_RJ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Rio FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_RJ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Rio HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RJ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo SP
-http://lb.kstream.org/aovivo/SD_GLOBO_SP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo SP FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_SP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo SP HD
-http://lb.kstream.org/aovivo/HD_GLOBO_SP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo SP HD [Alter]
-http://lb.kstream.org/aovivo/HD_GLOBO_SP_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Anhanguera Goiania
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_ANHANGUERA_GO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Asa Branca
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_ASA_BRANCA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Bahia
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_BAHIA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Bahia HD
-http://lb.kstream.org/aovivo/HD_GLOBO_TV_BAHIA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Centro America
-http://lb.kstream.org/aovivo/SD_TV_CENTRO_AMERICA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Centro America FHD
-http://lb.kstream.org/aovivo/FHD_CENTRO_AMERICA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Centro America HD
-http://lb.kstream.org/aovivo/HD_GLOBO_TV_CENTRO_AMERICA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Gazeta ES
-http://lb.kstream.org/aovivo/SD_GAZETA_ES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Gazeta ES HD
-http://lb.kstream.org/aovivo/HD_GAZETA_ES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Integracao
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_INTEGRACAO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Liberal Belem
-http://lb.kstream.org/aovivo/SD_GLOBO_LIBERAL_BELEM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Liberal Belem HD
-http://lb.kstream.org/aovivo/HD_GLOBO_PARA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Mirante Cocais
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_MIRANTE_COCAIS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Mirante Cocais FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_MARANHAO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Mirante Cocais HD
-http://lb.kstream.org/aovivo/HD_GLOBO_MARANHAO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Santa Cruz
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_SANTA_CRUZ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Sergipe
-http://lb.kstream.org/aovivo/SD_GLOBO_SERGIPE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Sergipe FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_SERGIPE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Sergipe HD
-http://lb.kstream.org/aovivo/HD_GLOBO_SERGIPE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV TEM BAURU
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_TEM_BAURU/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV TEM Itapetininga
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_TEM_ITAPETININGA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV TEM S. J. DO RIO PRETO
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_TEM_SJ_RIO_PRETO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV TEM SOROCABA
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_TEM_SOROCABA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Tribuna Santos
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_TRIBUNA_SANTOS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Vanguarda SJC
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_VANGUARDA_SJC/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Vanguarda Taubate
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_VANGUARDA_TAUBATE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Verdes Mares
-http://lb.kstream.org/aovivo/SD_GLOBO_VERDES_MARES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Verdes Mares FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_VERDES_MARES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo TV Verdes Mares HD
-http://lb.kstream.org/aovivo/HD_GLOBO_TV_VERDES_MARES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Tv Cabo Branco
-http://lb.kstream.org/aovivo/SD_GLOBO_CABO_BRANCO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Tv Cabo Branco HD
-http://lb.kstream.org/aovivo/HD_GLOBO_CABO_BRANCO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Globo Tv Clube PI HD
-http://lb.kstream.org/aovivo/HD_GLOBO_PIAUI/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,GloboNews
-http://lb.kstream.org/aovivo/SD_GLOBO_NEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,GloboNews FHD
-http://lb.kstream.org/aovivo/FHD_GLOBONEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,GloboNews HD
-http://lb.kstream.org/aovivo/HD_GLOBONEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,GloboNews HD [Alter]
-http://lb.kstream.org/aovivo/HD_GLOBONEWS_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Gloob
-http://lb.kstream.org/aovivo/SD_GLOOB/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Gloob HD
-http://lb.kstream.org/aovivo/HD_GLOOB/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Gloob HD [Alter]
-http://lb.kstream.org/aovivo/HD_GLOOB_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Gloobinho
-http://lb.kstream.org/aovivo/SD_GLOOBINHO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Gloobinho FHD
-http://lb.kstream.org/aovivo/FHD_GLOOBINHO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Gloobinho HD
-http://lb.kstream.org/aovivo/HD_GLOOBINHO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO
-http://lb.kstream.org/aovivo/SD_HBO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO 2
-http://lb.kstream.org/aovivo/SD_HBO_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO 2 FHD
-http://lb.kstream.org/aovivo/FHD_HBO_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO 2 HD
-http://lb.kstream.org/aovivo/HD_HBO_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_2_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO FHD
-http://lb.kstream.org/aovivo/FHD_HBO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO FHD [Leg]
-http://lb.kstream.org/aovivo/FHD_HBO_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Family
-http://lb.kstream.org/aovivo/SD_HBO_FAMILY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Family FHD
-http://lb.kstream.org/aovivo/FHD_HBO_FAMILLY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Family HD
-http://lb.kstream.org/aovivo/HD_HBO_FAMILY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Family HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_FAMILLY_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO HD
-http://lb.kstream.org/aovivo/HD_HBO_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO HD [Leg]
-http://lb.kstream.org/aovivo/HD_HBO_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Mundi
-http://lb.kstream.org/aovivo/SD_HBO_MUNDI/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Mundi FHD
-http://lb.kstream.org/aovivo/FHD_HBO_MUNDI/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Mundi FHD [Leg]
-http://lb.kstream.org/aovivo/FHD_HBO_MUNDI_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Mundi HD
-http://lb.kstream.org/aovivo/HD_HBO_MUNDI/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Mundi HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_MUNDI_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Mundi HD [Leg]
-http://lb.kstream.org/aovivo/HD_HBO_MUNDI_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO POP
-http://lb.kstream.org/aovivo/SD_HBO_POP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO POP FHD
-http://lb.kstream.org/aovivo/FHD_HBO_POP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO POP FHD [Leg]
-http://lb.kstream.org/aovivo/FHD_HBO_POP_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO POP HD
-http://lb.kstream.org/aovivo/HD_HBO_POP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO POP HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_POP_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO POP HD [Leg]
-http://lb.kstream.org/aovivo/HD_HBO_POP_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Plus
-http://lb.kstream.org/aovivo/SD_HBO_PLUS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Plus FHD
-http://lb.kstream.org/aovivo/FHD_HBO_PLUS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Plus FHD [Leg]
-http://lb.kstream.org/aovivo/FHD_HBO_PLUS_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Plus HD
-http://lb.kstream.org/aovivo/HD_HBO_PLUS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Plus HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_PLUS_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Plus HD [Leg]
-http://lb.kstream.org/aovivo/HD_HBO_PLUS_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Signature
-http://lb.kstream.org/aovivo/SD_HBO_SINGNATURE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Signature FHD
-http://lb.kstream.org/aovivo/FHD_HBO_SIGNATURE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Signature FHD [Leg]
-http://lb.kstream.org/aovivo/FHD_HBO_SIGNATURE_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Signature HD
-http://lb.kstream.org/aovivo/HD_HBO_SIGNATURE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Signature HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_SIGNATURE_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Signature HD [Leg]
-http://lb.kstream.org/aovivo/HD_HBO_SIGNATURE_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Xtreme
-http://lb.kstream.org/aovivo/SD_HBO_XTREME/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Xtreme FHD
-http://lb.kstream.org/aovivo/FHD_HBO_EXTREME/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Xtreme HD
-http://lb.kstream.org/aovivo/HD_HBO_XTREME/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HBO Xtreme HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_XTREME_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HGTV
-http://lb.kstream.org/aovivo/SD_HGTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HGTV FHD
-http://lb.kstream.org/aovivo/FHD_HGTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HGTV HD
-http://lb.kstream.org/aovivo/HD_HGTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,HGTV HD [Alter]
-http://lb.kstream.org/aovivo/HD_HGTV_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,History
-http://lb.kstream.org/aovivo/SD_HISTORY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,History 2
-http://lb.kstream.org/aovivo/SD_H2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,History 2 FHD
-http://lb.kstream.org/aovivo/FHD_H2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,History 2 HD
-http://lb.kstream.org/aovivo/HD_H2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,History 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_H2_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,History FHD
-http://lb.kstream.org/aovivo/FHD_HISTORY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,History HD
-http://lb.kstream.org/aovivo/HD_HISTORY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,History HD [Alter]
-http://lb.kstream.org/aovivo/HD_HISTORY_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Homem Aranha
-http://lb.kstream.org/aovivo/24_HOMEM_ARANHA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,I-Sat
-http://lb.kstream.org/aovivo/SD_ISAT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,I-Sat FHD
-http://lb.kstream.org/aovivo/FHD_ISAT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,I-Sat HD
-http://lb.kstream.org/aovivo/HD_ISAT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ID
-http://lb.kstream.org/aovivo/SD_DISCOVERY_INVESTIGATION/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ID FHD
-http://lb.kstream.org/aovivo/FHD_ID/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ID HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY_INVESTIGATION/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ID HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_INVESTIGATION_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Irmao do Jorel
-http://lb.kstream.org/aovivo/24_IRMAO_JOREL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Jhony Quest
-http://lb.kstream.org/aovivo/24_JHONY_QUEST/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Jogo Aberto
-http://lb.kstream.org/aovivo/HD_JOGO_ABERTO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Jovem Pan Esportes
-http://lb.kstream.org/aovivo/HD_JP_ESPORTES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Jovem Pan News
-http://lb.kstream.org/aovivo/HD_JP_NEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Largados e pelados
-http://lb.kstream.org/aovivo/24_LARGADOS_PELADOS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Lifetime
-http://lb.kstream.org/aovivo/SD_LIFETIME/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Lifetime FHD
-http://lb.kstream.org/aovivo/FHD_LIFETIME/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Lifetime HD
-http://lb.kstream.org/aovivo/HD_LIFETIME/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Lifetime HD [Alter]
-http://lb.kstream.org/aovivo/HD_LIFETIME_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Luluzinha
-http://lb.kstream.org/aovivo/24_LULUZINHA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,MTV
-http://lb.kstream.org/aovivo/SD_MTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,MTV FHD
-http://lb.kstream.org/aovivo/FHD_MTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,MTV HD
-http://lb.kstream.org/aovivo/HD_MTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,MTV HD [Alter]
-http://lb.kstream.org/aovivo/HD_MTV_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Mais Globosat
-http://lb.kstream.org/aovivo/SD_MAIS_GLOBOSAT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Mais Globosat FHD
-http://lb.kstream.org/aovivo/FHD_GLOBOSAT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Mais Globosat HD
-http://lb.kstream.org/aovivo/HD_MAIS_GLOBOSAT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Mais Globosat HD [Alter]
-http://lb.kstream.org/aovivo/HD_MAIS_GLOBOSAT_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Marsha e o Urso
-http://lb.kstream.org/aovivo/24_MARSHA_URSO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Megapix
-http://lb.kstream.org/aovivo/SD_MEGAPIX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Megapix FHD
-http://lb.kstream.org/aovivo/FHD_MEGAPIX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Megapix HD
-http://lb.kstream.org/aovivo/HD_MEGAPIX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Megapix HD [Alter]
-http://lb.kstream.org/aovivo/HD_MEGAPIX_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Meu AmigaoZao
-http://lb.kstream.org/aovivo/24_MEU_AMIGAOZAO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Mickey Mouse
-http://lb.kstream.org/aovivo/24_MICKEY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Morning JP Show
-http://lb.kstream.org/aovivo/HD_JP_MORNING_SHOW/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Multishow
-http://lb.kstream.org/aovivo/SD_MULTISHOW/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Multishow FHD
-http://lb.kstream.org/aovivo/FHD_MULTISHOW/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Multishow HD
-http://lb.kstream.org/aovivo/HD_MULTISHOW/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Multishow HD [Alter]
-http://lb.kstream.org/aovivo/HD_MULTISHOW_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Mundo Bita
-http://lb.kstream.org/aovivo/24_MUNDO_BITA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Music Box Brazil
-http://lb.kstream.org/aovivo/SD_MUSIC_BOX_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Music Box Brazil FHD
-http://lb.kstream.org/aovivo/FHD_MUSICBOX_BRAZIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Music Box Brazil HD
-http://lb.kstream.org/aovivo/HD_MUSIC_BOX_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,NBR
-http://lb.kstream.org/aovivo/HD_NBR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,NHK
-http://lb.kstream.org/aovivo/SD_NHK/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Naruto
-http://lb.kstream.org/aovivo/24_NATURO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,NatGeo Kids
-http://lb.kstream.org/aovivo/SD_NATGEOKIDS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,NatGeo Kids FHD
-http://lb.kstream.org/aovivo/FHD_NAT_GEO_KIDS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,NatGeo Kids HD
-http://lb.kstream.org/aovivo/HD_NATGEOKIDS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,NatGeo Kids HD [Alter]
-http://lb.kstream.org/aovivo/HD_NATGEOKIDS_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Natgeo Wild
-http://lb.kstream.org/aovivo/SD_NAT_GEO_WILD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Natgeo Wild FHD
-http://lb.kstream.org/aovivo/FHD_NAT_GEO_WILD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Natgeo Wild HD
-http://lb.kstream.org/aovivo/HD_NAT_GEO_WILD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Natgeo Wild HD [Alter]
-http://lb.kstream.org/aovivo/HD_NAT_GEO_WILD_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,National Geographic
-http://lb.kstream.org/aovivo/SD_NAT_GEO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,National Geographic FHD
-http://lb.kstream.org/aovivo/FHD_NAT_GEO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,National Geographic HD
-http://lb.kstream.org/aovivo/HD_NAT_GEO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,National Geographic HD [Alter]
-http://lb.kstream.org/aovivo/HD_NAT_GEO_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Nick Jr.
-http://lb.kstream.org/aovivo/SD_NICK_JR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Nick Jr. FHD
-http://lb.kstream.org/aovivo/FHD_NICK_JR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Nick Jr. HD
-http://lb.kstream.org/aovivo/HD_NICK_JR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Nick Jr. HD [Alter]
-http://lb.kstream.org/aovivo/HD_NICK_JR_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Nickelodeon
-http://lb.kstream.org/aovivo/SD_NICKELODEON/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Nickelodeon HD
-http://lb.kstream.org/aovivo/HD_NICKELODEON/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Novo Tempo
-http://lb.kstream.org/aovivo/SD_NOVO_TEMPO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Novo Tempo HD
-http://lb.kstream.org/aovivo/HD_NOVO_TEMPO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Novo Tempo HD [Alter]
-http://lb.kstream.org/aovivo/HD_NOVO_TEMPO_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,O Fantastico Mundo de Bob
-http://lb.kstream.org/aovivo/24_O_FANTASTICO_MUNDO_BOB/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,O Maskara (DESENHO)
-http://lb.kstream.org/aovivo/24_O_MASKARA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Off
-http://lb.kstream.org/aovivo/SD_OFF/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Off FHD
-http://lb.kstream.org/aovivo/FHD_OFF/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Off HD
-http://lb.kstream.org/aovivo/HD_OFF/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Off HD [Alter]
-http://lb.kstream.org/aovivo/HD_OFF_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Os Donos da Bola
-http://lb.kstream.org/aovivo/HD_DONOS_DA_BOLA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Os Flintstones
-http://lb.kstream.org/aovivo/24_OS_FLINTSTONES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Os Padrinhos Magicos
-http://lb.kstream.org/aovivo/24_OS_PADRINHOS_MAGICOS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Os Simpsons
-http://lb.kstream.org/aovivo/24_SIMPSONS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Os Trapalhoes
-http://lb.kstream.org/aovivo/24_TRAPALHOES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Panico Jovem Pan
-http://lb.kstream.org/aovivo/HD_PANICO_JP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Paramount
-http://lb.kstream.org/aovivo/SD_PARAMOUNT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Paramount FHD
-http://lb.kstream.org/aovivo/FHD_PARAMOUNT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Paramount HD
-http://lb.kstream.org/aovivo/HD_PARAMOUNT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Paramount HD [Alter]
-http://lb.kstream.org/aovivo/HD_PARAMOUNT_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Patati Patata
-http://lb.kstream.org/aovivo/24_PATATI_PATATA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Patrulha Canina
-http://lb.kstream.org/aovivo/24_PATRULHA_CANINA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Peppa Pig
-http://lb.kstream.org/aovivo/24_PEPPA_PIG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Pica Pau
-http://lb.kstream.org/aovivo/24_PICA_PAU/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Play TV
-http://lb.kstream.org/aovivo/SD_PLAY_TV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Play TV FHD
-http://lb.kstream.org/aovivo/FHD_PLAYTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Play TV HD
-http://lb.kstream.org/aovivo/HD_PLAYTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Play TV [Alter]
-http://lb.kstream.org/aovivo/HD_PLAYTV_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,PlayKids
-http://lb.kstream.org/aovivo/SD_PLAYKIDS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,PlayKids HD
-http://lb.kstream.org/aovivo/HD_PLAYKIDS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Playboy TV
-http://lb.kstream.org/aovivo/SD_PLAYBOY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Playboy TV FHD
-http://lb.kstream.org/aovivo/FHD_PLAYBOY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Playboy TV HD
-http://lb.kstream.org/aovivo/HD_PLAYBOY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Playboy TV HD [Alter]
-http://lb.kstream.org/aovivo/HD_PLAYBOY_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Polishop TV
-http://lb.kstream.org/aovivo/SD_POLISHOP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Popeye
-http://lb.kstream.org/aovivo/24_POPEYE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 2
-http://lb.kstream.org/aovivo/SD_PFC_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 2 FHD
-http://lb.kstream.org/aovivo/FHD_PFC_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 2 HD
-http://lb.kstream.org/aovivo/HD_PFC_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_2_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 3
-http://lb.kstream.org/aovivo/SD_PFC_3/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 3 FHD
-http://lb.kstream.org/aovivo/FHD_PFC_3/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 3 HD
-http://lb.kstream.org/aovivo/HD_PFC_3/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 3 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_3_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 4
-http://lb.kstream.org/aovivo/SD_PFC_4/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 4 FHD
-http://lb.kstream.org/aovivo/FHD_PFC_4/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 4 HD
-http://lb.kstream.org/aovivo/HD_PFC_4/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 4 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_4_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 5
-http://lb.kstream.org/aovivo/SD_PFC_5/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 5 FHD
-http://lb.kstream.org/aovivo/FHD_PFC_5/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 5 HD
-http://lb.kstream.org/aovivo/HD_PFC_5/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 5 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_5_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 6
-http://lb.kstream.org/aovivo/SD_PFC_6/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 6 FHD
-http://lb.kstream.org/aovivo/FHD_PFC_6/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 6 HD
-http://lb.kstream.org/aovivo/HD_PFC_6/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 6 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_6_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 7 FHD
-http://lb.kstream.org/aovivo/FHD_PFC_7/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere 7 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_7_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere Clubes
-http://lb.kstream.org/aovivo/SD_PFC_CLUBES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere Clubes FHD
-http://lb.kstream.org/aovivo/FHD_PFC_CLUBES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere Clubes HD
-http://lb.kstream.org/aovivo/HD_PFC_CLUBES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Premiere Clubes HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_CLUBES_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Primebox Brasil
-http://lb.kstream.org/aovivo/SD_PRIMEBOX_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Primebox Brasil FHD
-http://lb.kstream.org/aovivo/FHD_PRIMEBOX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Primebox Brasil HD
-http://lb.kstream.org/aovivo/HD_PRIMEBOX_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,RIT
-http://lb.kstream.org/aovivo/SD_RIT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record
-http://lb.kstream.org/aovivo/SD_RECORD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record AM
-http://lb.kstream.org/aovivo/SD_RECORD_MA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record AM HD
-http://lb.kstream.org/aovivo/HD_RECORD_MA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record BA
-http://lb.kstream.org/aovivo/SD_RECORD_BA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record BA HD
-http://lb.kstream.org/aovivo/HD_RECORD_BA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record DF
-http://lb.kstream.org/aovivo/SD_RECORD_DF/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record DF HD
-http://lb.kstream.org/aovivo/HD_RECORD_DF/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record ES FHD
-http://lb.kstream.org/aovivo/FHD_RECORD_ES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record ES HD
-http://lb.kstream.org/aovivo/RECORD_ES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record FHD
-http://lb.kstream.org/aovivo/FHD_RECORD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record GO
-http://lb.kstream.org/aovivo/SD_RECORD_GO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record GO FHD
-http://lb.kstream.org/aovivo/FHD_RECORD_GO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record GO HD
-http://lb.kstream.org/aovivo/HD_RECORD_GO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record HD
-http://lb.kstream.org/aovivo/HD_RECORD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record HD [Alter]
-http://lb.kstream.org/aovivo/HD_RECORD_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record MG
-http://lb.kstream.org/aovivo/SD_RECORD_MG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record MG HD
-http://lb.kstream.org/aovivo/HD_RECORD_MG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record News
-http://lb.kstream.org/aovivo/SD_RECORD_NEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record News FHD
-http://lb.kstream.org/aovivo/FHD_RECORDNEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record News HD
-http://lb.kstream.org/aovivo/HD_RECORD_NEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record News HD [Alter]
-http://lb.kstream.org/aovivo/HD_RECORDNEWS_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record PA
-http://lb.kstream.org/aovivo/SD_RECORD_BE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record PA HD
-http://lb.kstream.org/aovivo/HD_RECORD_BE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record PR HD
-http://lb.kstream.org/aovivo/HD_RECORD_PR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record RJ
-http://lb.kstream.org/aovivo/SD_RECORD_RJ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record RJ HD
-http://lb.kstream.org/aovivo/HD_RECORD_RJ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record RS
-http://lb.kstream.org/aovivo/SD_RECORD_RS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record RS HD
-http://lb.kstream.org/aovivo/HD_RECORD_RS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record SP
-http://lb.kstream.org/aovivo/SD_RECORD_SP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Record SP HD
-http://lb.kstream.org/aovivo/HD_RECORD_SP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Rede Brasil
-http://lb.kstream.org/aovivo/SD_REDE_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Rede Gospel
-http://lb.kstream.org/aovivo/HD_REDE_GOSPEL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Rede Gospel FHD
-http://lb.kstream.org/aovivo/FHD_REDE_GOSPEL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Rede Super
-http://lb.kstream.org/aovivo/SD_REDE_SUPER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Rede Super FHD
-http://lb.kstream.org/aovivo/FHD_REDE_SUPER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Rede Vida
-http://lb.kstream.org/aovivo/SD_REDE_VIDA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Rede Vida HD
-http://lb.kstream.org/aovivo/HD_REDE_VIDA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Rede Vida HD [Alter]
-http://lb.kstream.org/aovivo/HD_REDE_VIDA_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,RedeTV!
-http://lb.kstream.org/aovivo/SD_REDETV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,RedeTV! FHD
-http://lb.kstream.org/aovivo/FULLHD_REDETV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,RedeTV! HD
-http://lb.kstream.org/aovivo/HD_REDETV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,RedeTV! HD [Alter]
-http://lb.kstream.org/aovivo/HD_REDETV_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Rick and Morty
-http://lb.kstream.org/aovivo/24_RICKY_MORTY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SBT
-http://lb.kstream.org/aovivo/SD_SBT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SBT ES HD
-http://lb.kstream.org/aovivo/HD_SBT_ES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SBT FHD
-http://lb.kstream.org/aovivo/FHD_SBT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SBT HD
-http://lb.kstream.org/aovivo/HD_SBT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SBT HD [Alter]
-http://lb.kstream.org/aovivo/HD_SBT_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SBT MG
-http://lb.kstream.org/aovivo/SD_SBT_MG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SBT MG FHD
-http://lb.kstream.org/aovivo/FHD_SBT_MG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SBT MG HD
-http://lb.kstream.org/aovivo/HD_SBT_MG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SBT RS HD
-http://lb.kstream.org/aovivo/HD_SBT_RS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SBT Rio HD
-http://lb.kstream.org/aovivo/HD_SBT_RJ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SBT TV Cidade Verde
-http://lb.kstream.org/aovivo/SD_SBT_TV_CIDADE_VERDE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SBT TV Jornal Recife
-http://lb.kstream.org/aovivo/SD_JORNAL_RECIFE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SexPrive FHD
-http://lb.kstream.org/aovivo/FHD_SEXPRIVE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SexPrive HD
-http://lb.kstream.org/aovivo/HD_SEXPRIVE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Sextreme
-http://lb.kstream.org/aovivo/SD_SEXTREME/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Sextreme HD
-http://lb.kstream.org/aovivo/HD_SEXTREME/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Sexy Hot
-http://lb.kstream.org/aovivo/SD_SEXYHOT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Sexy Hot HD
-http://lb.kstream.org/aovivo/HD_SEXHOT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Sexyzone HD
-http://lb.kstream.org/aovivo/HD_SEXYZONE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Shoptime
-http://lb.kstream.org/aovivo/HD_SHOPTIME/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Sitio do Pica Pau Amarelo
-http://lb.kstream.org/aovivo/24_SITIO_PICA_PAU_AMARELO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Sony
-http://lb.kstream.org/aovivo/SD_SONY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Sony FHD
-http://lb.kstream.org/aovivo/FHD_SONY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Sony HD
-http://lb.kstream.org/aovivo/HD_SONY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Sony HD [Alter]
-http://lb.kstream.org/aovivo/HD_SONY_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Space
-http://lb.kstream.org/aovivo/SD_SPACE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Space FHD
-http://lb.kstream.org/aovivo/FHD_SPACE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Space HD
-http://lb.kstream.org/aovivo/HD_SPACE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Space HD [Alter]
-http://lb.kstream.org/aovivo/HD_SPACE_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SporTV
-http://lb.kstream.org/aovivo/SD_UDHASKDN_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SporTV 2
-http://lb.kstream.org/aovivo/SD_SPORTV_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SporTV 2 FHD
-http://lb.kstream.org/aovivo/FHD_SPORTV_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SporTV 2 HD
-http://lb.kstream.org/aovivo/HD_SPORTV_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SporTV 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_SPORTV_2_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SporTV 3
-http://lb.kstream.org/aovivo/SD_SPORTV_3/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SporTV 3 FHD
-http://lb.kstream.org/aovivo/FHD_SPORTV_3/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SporTV 3 HD
-http://lb.kstream.org/aovivo/HD_SPORTV_3/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SporTV 3 HD [Alter]
-http://lb.kstream.org/aovivo/HD_SPORTV_3_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SporTV FHD
-http://lb.kstream.org/aovivo/FHD_SPORTV_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SporTV HD
-http://lb.kstream.org/aovivo/HD_SOKASJDH_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,SporTV HD [Alter]
-http://lb.kstream.org/aovivo/HD_SPORTV_1_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Studio Universal
-http://lb.kstream.org/aovivo/SD_STUDIO_UNIVERSAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Studio Universal FHD
-http://lb.kstream.org/aovivo/FHD_STUDIO_UNIVERSAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Studio Universal HD
-http://lb.kstream.org/aovivo/HD_STUDIO_UNIVERSAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Studio Universal HD [Alter]
-http://lb.kstream.org/aovivo/HD_STUDIO_UNIVERSAL_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Syfy
-http://lb.kstream.org/aovivo/SD_SYFY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Syfy FHD
-http://lb.kstream.org/aovivo/FHD_SYFY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Syfy HD
-http://lb.kstream.org/aovivo/HD_SYFY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Syfy HD [Alter]
-http://lb.kstream.org/aovivo/HD_SYFY_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TBS
-http://lb.kstream.org/aovivo/SD_TBS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TBS FHD
-http://lb.kstream.org/aovivo/FHD_TBS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TBS HD
-http://lb.kstream.org/aovivo/HD_TBS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TBS HD [Alter]
-http://lb.kstream.org/aovivo/HD_TBS_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TCM
-http://lb.kstream.org/aovivo/SD_TCM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TCM FHD
-http://lb.kstream.org/aovivo/FHD_TCM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TCM HD
-http://lb.kstream.org/aovivo/HD_TCM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TCM HD [Alter]
-http://lb.kstream.org/aovivo/HD_TCM_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TLC
-http://lb.kstream.org/aovivo/SD_TLC/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TLC FHD
-http://lb.kstream.org/aovivo/FHD_TLC/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TLC HD
-http://lb.kstream.org/aovivo/HD_TLC/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TLC HD [Alter]
-http://lb.kstream.org/aovivo/HD_TLC_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TNT
-http://lb.kstream.org/aovivo/SD_TNT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TNT FHD
-http://lb.kstream.org/aovivo/FHD_TNT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178537
+#EXTINF:-1,FX HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178538
+#EXTINF:-1,FX FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178539
+#EXTINF:-1,FX FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178540
+#EXTINF:-1,MEGAPIX SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178541
+#EXTINF:-1,MEGAPIX SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178542
+#EXTINF:-1,MEGAPIX HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178543
+#EXTINF:-1,MEGAPIX HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178544
+#EXTINF:-1,MEGAPIX FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178545
+#EXTINF:-1,MEGAPIX FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178546
+#EXTINF:-1,PARAMOUNT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178547
+#EXTINF:-1,PARAMOUNT SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178548
+#EXTINF:-1,PARAMOUNT HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178549
+#EXTINF:-1,PARAMOUNT CHANNEL HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178550
+#EXTINF:-1,PARAMOUNT CHANNEL FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178551
+#EXTINF:-1,PRIME BOX BRASIL SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178552
+#EXTINF:-1,PRIME BOX BRASIL HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178553
+#EXTINF:-1,PRIME BOX BRASIL FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178554
+#EXTINF:-1,SPACE SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178555
+#EXTINF:-1,SPACE SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178556
+#EXTINF:-1,SPACE HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178557
+#EXTINF:-1,SPACE HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178558
+#EXTINF:-1,SPACE FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178559
+#EXTINF:-1,SPACE FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178560
+#EXTINF:-1,STUDIO UNIVERSAL SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178561
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178562
+#EXTINF:-1,STUDIO UNIVERSAL HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178563
+#EXTINF:-1,STUDIO UNIVERSAL FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178564
+#EXTINF:-1,SONY SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178565
+#EXTINF:-1,SONY HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178566
+#EXTINF:-1,SONY FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178567
+#EXTINF:-1,SYFY SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178568
+#EXTINF:-1,SYFY SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178569
+#EXTINF:-1,SYFY HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178570
+#EXTINF:-1,SYFY HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178571
+#EXTINF:-1,SYFY FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178572
+#EXTINF:-1,TBS SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178573
+#EXTINF:-1,TBS HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178574
+#EXTINF:-1,TBS FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178575
+#EXTINF:-1,TCM SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178576
+#EXTINF:-1,TCM SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178577
+#EXTINF:-1,TCM HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178578
+#EXTINF:-1,TCM FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178579
+#EXTINF:-1,TLC SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178580
+#EXTINF:-1,TLC HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178581
+#EXTINF:-1,TLC FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178582
+#EXTINF:-1,TNT SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178583
+#EXTINF:-1,TNT SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178584
 #EXTINF:-1,TNT HD
-http://lb.kstream.org/aovivo/HD_TNT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TNT HD [Alter]
-http://lb.kstream.org/aovivo/HD_TNT_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TNT Series
-http://lb.kstream.org/aovivo/SD_TNT_SERIES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TNT Series FHD
-http://lb.kstream.org/aovivo/FHD_TNT_SERIES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TNT Series HD
-http://lb.kstream.org/aovivo/HD_TNT_SERIES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TNT Series HD [Alter]
-http://lb.kstream.org/aovivo/HD_TNT_SERIES_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TV Aparecida
-http://lb.kstream.org/aovivo/SD_TV_APARECIDA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TV Aparecida HD
-http://lb.kstream.org/aovivo/HD_TV_APARECIDA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TV Aparecida HD [Alter]
-http://lb.kstream.org/aovivo/HD_TV_APARECIDA_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TV Brasil
-http://lb.kstream.org/aovivo/SD_TV_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TV Escola
-http://lb.kstream.org/aovivo/HD_TV_ESCOLA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TV Guarulhos (ESPIRITA)
-http://lb.kstream.org/aovivo/HD_TV_GUARULHOS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TV Justica
-http://lb.kstream.org/aovivo/SD_TV_JUSTICA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TV Ra Tim Bum
-http://lb.kstream.org/aovivo/SD_TV_RATIMBUM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TV Ra Tim Bum HD
-http://lb.kstream.org/aovivo/HD_TV_RATIMBUM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TV Seculo 21
-http://lb.kstream.org/aovivo/HD_SECULO_21/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,TV Senado
-http://lb.kstream.org/aovivo/HD_TV_SENADO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Action
-http://lb.kstream.org/aovivo/SD_TC_ACTION/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Action FHD
-http://lb.kstream.org/aovivo/FHD_TC_ACTION/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Action FHD [Leg]
-http://lb.kstream.org/aovivo/FHD_TC_ACTION_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Action HD
-http://lb.kstream.org/aovivo/HD_TC_ACTION/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Action HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_ACTION_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Action HD [Leg]
-http://lb.kstream.org/aovivo/HD_TC_ACTION_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Cult
-http://lb.kstream.org/aovivo/SD_TC_CULT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Cult FHD
-http://lb.kstream.org/aovivo/FHD_TC_CULT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Cult FHD [Leg]
-http://lb.kstream.org/aovivo/FHD_TC_CULT_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Cult HD
-http://lb.kstream.org/aovivo/HD_TC_CULT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Cult HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_CULT_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Cult HD [Leg]
-http://lb.kstream.org/aovivo/HD_TC_CULT_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Fun
-http://lb.kstream.org/aovivo/SD_TC_FUN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Fun FHD
-http://lb.kstream.org/aovivo/FHD_TC_FUN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Fun FHD [Leg]
-http://lb.kstream.org/aovivo/FHD_TC_FUN_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Fun HD
-http://lb.kstream.org/aovivo/HD_TC_FUN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Fun HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_FUN_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Fun HD [Leg]
-http://lb.kstream.org/aovivo/HD_TC_FUN_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Pipoca
-http://lb.kstream.org/aovivo/SD_TC_PIPOCA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Pipoca FHD
-http://lb.kstream.org/aovivo/FHD_TC_PIPOCA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Pipoca FHD [Leg]
-http://lb.kstream.org/aovivo/FHD_TC_PIPOCA_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Pipoca HD
-http://lb.kstream.org/aovivo/HD_TC_PIPOCA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Pipoca HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_PIPOCA_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Pipoca HD [Leg]
-http://lb.kstream.org/aovivo/HD_TC_PIPOCA_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Premium
-http://lb.kstream.org/aovivo/SD_TC_PREMIUM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Premium FHD
-http://lb.kstream.org/aovivo/FHD_TC_PREMIUM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Premium FHD [Leg]
-http://lb.kstream.org/aovivo/FHD_TC_PREMIUM_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Premium HD
-http://lb.kstream.org/aovivo/HD_TC_PREMIUM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Premium HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_PREMIUM_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Premium HD [Leg]
-http://lb.kstream.org/aovivo/HD_TC_PREMIUM_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Touch
-http://lb.kstream.org/aovivo/SD_TC_TOUCH/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Touch FHD
-http://lb.kstream.org/aovivo/FHD_TC_TOUCH/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Touch FHD [Leg]
-http://lb.kstream.org/aovivo/FHD_TC_TOUCH_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Touch HD
-http://lb.kstream.org/aovivo/HD_TC_TOUCH/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Touch HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_TOUCH_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Telecine Touch HD [Leg]
-http://lb.kstream.org/aovivo/HD_TC_TOUCH_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Timao e Pumba
-http://lb.kstream.org/aovivo/24_TIMAO_PUMBA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Todo Mundo Odeia o Chris
-http://lb.kstream.org/aovivo/24_TMO_CHRIS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Tom e Jerry
-http://lb.kstream.org/aovivo/24_TOM_JERRY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Tooncast
-http://lb.kstream.org/aovivo/SD_TOONCAST/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Tooncast HD
-http://lb.kstream.org/aovivo/HD_TOONCAST/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Tooncast HD [Alter]
-http://lb.kstream.org/aovivo/HD_TOONCAST_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Trutv
-http://lb.kstream.org/aovivo/SD_TRUTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Trutv FHD
-http://lb.kstream.org/aovivo/FHD_TRU_TV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Trutv HD
-http://lb.kstream.org/aovivo/HD_TRUTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Universal TV
-http://lb.kstream.org/aovivo/SD_UNIVERSAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Universal TV FHD
-http://lb.kstream.org/aovivo/FHD_UNIVERSAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Universal TV HD
-http://lb.kstream.org/aovivo/HD_UNIVERSAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Universal TV HD [Alter]
-http://lb.kstream.org/aovivo/HD_UNIVERSAL_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,VH1
-http://lb.kstream.org/aovivo/SD_VH1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,VH1 HD
-http://lb.kstream.org/aovivo/HD_VH1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,VH1 HD [Alter]
-http://lb.kstream.org/aovivo/HD_VH1_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,VH1 Megahits
-http://lb.kstream.org/aovivo/SD_VH1_MEGAHITS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Vasco TV
-http://lb.kstream.org/aovivo/HD_VASCO_TV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Venus
-http://lb.kstream.org/aovivo/SD_VENUS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Venus HD
-http://lb.kstream.org/aovivo/HD_VENUS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Viva
-http://lb.kstream.org/aovivo/SD_VIVA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Viva FHD
-http://lb.kstream.org/aovivo/FHD_VIVA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Viva HD
-http://lb.kstream.org/aovivo/HD_VIVA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Viva HD [Alter]
-http://lb.kstream.org/aovivo/HD_VIVA_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Warner Channel
-http://lb.kstream.org/aovivo/SD_WARNER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Warner Channel FHD
-http://lb.kstream.org/aovivo/FHD_WARNER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Warner Channel HD
-http://lb.kstream.org/aovivo/HD_WARNER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Warner Channel HD [Alter]
-http://lb.kstream.org/aovivo/HD_WARNER_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Woohoo
-http://lb.kstream.org/aovivo/SD_WOOHOO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Woohoo HD
-http://lb.kstream.org/aovivo/HD_WOOHOO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,X-Men
-http://lb.kstream.org/aovivo/24_X_MEN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 1 (CAM)
-http://lb.kstream.org/aovivo/XXX_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 10 (TUSHY RAW)
-http://lb.kstream.org/aovivo/XXX_10/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 11 (BLACKED RAW)
-http://lb.kstream.org/aovivo/XXX_11/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 12 (VIXEN)
-http://lb.kstream.org/aovivo/XXX_12/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 13 (CHILI PORN)
-http://lb.kstream.org/aovivo/XXX_13/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 14 (SIRINA)
-http://lb.kstream.org/aovivo/XXX_14/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 15 (JASMIN)
-http://lb.kstream.org/aovivo/XXX_15/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 16 (GAY)
-http://lb.kstream.org/aovivo/XXX_16/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 17 (GAY)
-http://lb.kstream.org/aovivo/XXX_17/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 2 (CAM)
-http://lb.kstream.org/aovivo/XXX_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 3 (CAM)
-http://lb.kstream.org/aovivo/XXX_ADULT_3/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 4 (DORCEL CLUB)
-http://lb.kstream.org/aovivo/XXX_4/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 5 (LEGAL PORNO)
-http://lb.kstream.org/aovivo/XXX_5/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 6 (FAMILY SINNERS)
-http://lb.kstream.org/aovivo/XXX_6/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 7 (CAM)
-http://lb.kstream.org/aovivo/XXX_7/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 8 (MOFOS)
-http://lb.kstream.org/aovivo/XXX_8/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,XXX 9 (HER LIMIT)
-http://lb.kstream.org/aovivo/XXX_9/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,Yu-Gi-Oh!
-http://lb.kstream.org/aovivo/24_YUGIOH/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,ZooMoo HD
-http://lb.kstream.org/aovivo/HD_ZOOMOO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,[RADIO] 89 FM
-http://lb.kstream.org/aovivo/RADIO_89FM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,[RADIO] 98 FM
-http://lb.kstream.org/aovivo/RADIO_98FM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,[RADIO] Alpha FM
-http://lb.kstream.org/aovivo/RADIO_ALPHAFM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,[RADIO] Cidade
-http://lb.kstream.org/aovivo/RADIO_CIDADE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,[RADIO] Dumont
-http://lb.kstream.org/aovivo/RADIO_DUMONT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,[RADIO] Guaiba
-http://lb.kstream.org/aovivo/RADIO_GUAIBA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,[RADIO] JB
-http://lb.kstream.org/aovivo/RADIO_JB/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,[RADIO] Sociedade
-http://lb.kstream.org/aovivo/RADIO_SOCIEDADE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,[RADIO] Tomorrowland
-http://lb.kstream.org/aovivo/HD_TOMORROWLAND/video.m3u8?token=991b6671ac25854eca48c99061997bc3
-#EXTINF:-1,[RADIO] Transcontinental
-http://lb.kstream.org/aovivo/RADIO_TRANSCONTINENTAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178585
+#EXTINF:-1,TNT HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178586
+#EXTINF:-1,TNT FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178587
+#EXTINF:-1,TNT FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178588
+#EXTINF:-1,TNT SÉRIES SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178589
+#EXTINF:-1,TNT SERIES SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178590
+#EXTINF:-1,TNT SÉRIES HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178591
+#EXTINF:-1,TNT SERIES HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178592
+#EXTINF:-1,TNT SERIES FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178593
+#EXTINF:-1,UNIVERSAL TV SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178594
+#EXTINF:-1,UNIVERSAL CHANNEL SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178595
+#EXTINF:-1,UNIVERSAL TV HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178596
+#EXTINF:-1,UNIVERSAL CHANNEL HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178597
+#EXTINF:-1,UNIVERSAL CHANNEL FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178598
+#EXTINF:-1,WARNER CHANNEL SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178599
+#EXTINF:-1,WARNER CHANNEL SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178600
+#EXTINF:-1,WARNER CHANNEL HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178601
+#EXTINF:-1,WARNER CHANNEL HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178602
+#EXTINF:-1,WARNER CHANNEL FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178603
+#EXTINF:-1,BAND SPORTS SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178604
+#EXTINF:-1,BAND SPORTS SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178605
+#EXTINF:-1,BAND SPORTS HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178606
+#EXTINF:-1,BAND SPORTS HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178607
+#EXTINF:-1,BAND SPORTS FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178608
+#EXTINF:-1,COMBATE SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178609
+#EXTINF:-1,COMBATE SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178610
+#EXTINF:-1,COMBATE HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178611
+#EXTINF:-1,COMBATE HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178612
+#EXTINF:-1,COMBATE FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178613
+#EXTINF:-1,COMBATE FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178614
+#EXTINF:-1,DAZN SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178615
+#EXTINF:-1,DAZN 1 HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178616
+#EXTINF:-1,EIPLUS 2
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178617
+#EXTINF:-1,ESPORTE INTERATIVO 1 HD (EVENTOS)
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178638
+#EXTINF:-1,ESPORTE INTERATIVO 2 HD (EVENTOS)
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178639
+#EXTINF:-1,REDBULL TV HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178651
+#EXTINF:-1,SPORTV SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178653
+#EXTINF:-1,SPORTV HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178655
+#EXTINF:-1,SPORTV FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178657
+#EXTINF:-1,SPORTV 2 SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178658
+#EXTINF:-1,SPORTV 2 SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178659
+#EXTINF:-1,SPORTV 2 HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178660
+#EXTINF:-1,SPORTV 2 HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178661
+#EXTINF:-1,SPORTV 2 FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178662
+#EXTINF:-1,SPORTV 2 FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178663
+#EXTINF:-1,SPORTV 3 SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178664
+#EXTINF:-1,SPORTV 3 SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178665
+#EXTINF:-1,SPORTV 3 HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178666
+#EXTINF:-1,SPORTV 3 HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178667
+#EXTINF:-1,SPORTV 3 FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178668
+#EXTINF:-1,ANIMAL PLANET SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178669
+#EXTINF:-1,ANIMAL PLANET SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178670
+#EXTINF:-1,ANIMAL PLANET HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178671
+#EXTINF:-1,ANIMAL PLANET HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178672
+#EXTINF:-1,ANIMAL PLANET FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178673
+#EXTINF:-1,ANIMAL PLANET FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178674
+#EXTINF:-1,HGTV SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178675
+#EXTINF:-1,HGTV HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178676
+#EXTINF:-1,HGTV HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178677
+#EXTINF:-1,HGTV FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178678
+#EXTINF:-1,HISTORY SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178679
+#EXTINF:-1,HISTORY SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178680
+#EXTINF:-1,HISTORY HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178681
+#EXTINF:-1,HISTORY HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178682
+#EXTINF:-1,HISTORY FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178683
+#EXTINF:-1,H2 SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178684
+#EXTINF:-1,H2 SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178685
+#EXTINF:-1,H2 HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178686
+#EXTINF:-1,H2 HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178687
+#EXTINF:-1,H2 FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178688
+#EXTINF:-1,NATIONAL GEOGRAPHIC SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178689
+#EXTINF:-1,NATIONAL GEOGRAPHIC SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178690
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178691
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178692
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178693
+#EXTINF:-1,NATGEO WILD SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178694
+#EXTINF:-1,NATGEO WILD SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178695
+#EXTINF:-1,NATGEO WILD HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178696
+#EXTINF:-1,NATGEO WILD HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178697
+#EXTINF:-1,NATGEO WILD FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178698
+#EXTINF:-1,PREMIERE CLUBES SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178699
+#EXTINF:-1,PREMIERE CLUBES SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178700
+#EXTINF:-1,PREMIERE CLUBES HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178701
+#EXTINF:-1,PREMIERE CLUBES HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178702
+#EXTINF:-1,PREMIERE CLUBES FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178703
+#EXTINF:-1,PREMIERE CLUBES FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178704
+#EXTINF:-1,PREMIERE 2 SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178705
+#EXTINF:-1,PREMIERE 2 SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178706
+#EXTINF:-1,PREMIERE 2 HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178707
+#EXTINF:-1,PREMIERE 2 HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178708
+#EXTINF:-1,PREMIERE 2 FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178709
+#EXTINF:-1,PREMIERE 2 FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178710
+#EXTINF:-1,PREMIERE 3 SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178711
+#EXTINF:-1,PREMIERE 3 SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178712
+#EXTINF:-1,PREMIERE 3 HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178713
+#EXTINF:-1,PREMIERE 3 HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178714
+#EXTINF:-1,PREMIERE 3 FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178715
+#EXTINF:-1,PREMIERE 3 FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178716
+#EXTINF:-1,PREMIERE 4 SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178717
+#EXTINF:-1,PREMIERE 4 SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178718
+#EXTINF:-1,PREMIERE 4 HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178719
+#EXTINF:-1,PREMIERE 4 HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178720
+#EXTINF:-1,PREMIERE 4 FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178721
+#EXTINF:-1,PREMIERE 5 SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178722
+#EXTINF:-1,PREMIERE 5 SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178723
+#EXTINF:-1,PREMIERE 5 HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178724
+#EXTINF:-1,PREMIERE 5 HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178725
+#EXTINF:-1,PREMIERE 5 FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178726
+#EXTINF:-1,PREMIERE 6 SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178727
+#EXTINF:-1,PREMIERE 6 HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178728
+#EXTINF:-1,PREMIERE 6 HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178729
+#EXTINF:-1,PREMIERE 6 FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178730
+#EXTINF:-1,PREMIERE 7 HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178731
+#EXTINF:-1,PREMIERE 7 SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178732
+#EXTINF:-1,PREMIERE 7 HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178733
+#EXTINF:-1,PREMIERE 7 FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178734
+#EXTINF:-1,HBO SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178735
+#EXTINF:-1,HBO SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178736
+#EXTINF:-1,HBO HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178737
+#EXTINF:-1,HBO HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178738
+#EXTINF:-1,HBO FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178739
+#EXTINF:-1,HBO FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178740
+#EXTINF:-1,HBO 2 SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178741
+#EXTINF:-1,HBO 2 SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178742
+#EXTINF:-1,HBO 2 HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178743
+#EXTINF:-1,HBO 2 HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178744
+#EXTINF:-1,HBO 2 FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178745
+#EXTINF:-1,HBO 2 FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178746
+#EXTINF:-1,HBO FAMILY SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178747
+#EXTINF:-1,HBO FAMILY SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178748
+#EXTINF:-1,HBO FAMILY HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178749
+#EXTINF:-1,HBO FAMILY HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178750
+#EXTINF:-1,HBO FAMILY FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178751
+#EXTINF:-1,HBO FAMILY FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178752
+#EXTINF:-1,HBO MUNDI SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178753
+#EXTINF:-1,HBO MUNDI HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178754
+#EXTINF:-1,HBO MUNDI HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178755
+#EXTINF:-1,HBO MUNDI FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178756
+#EXTINF:-1,HBO MUNDI FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178757
+#EXTINF:-1,HBO PLUS SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178758
+#EXTINF:-1,HBO PLUS HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178759
+#EXTINF:-1,HBO PLUS FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178760
+#EXTINF:-1,HBO POP SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178761
+#EXTINF:-1,HBO POP SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178762
+#EXTINF:-1,HBO POP HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178763
+#EXTINF:-1,HBO POP HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178764
+#EXTINF:-1,HBO POP FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178765
+#EXTINF:-1,HBO SIGNATURE SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178766
+#EXTINF:-1,HBO SIGNATURE HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178767
+#EXTINF:-1,HBO SIGNATURE HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178768
+#EXTINF:-1,HBO SIGNATURE FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178769
+#EXTINF:-1,HBO SIGNATURE FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178770
+#EXTINF:-1,HBO XTREME SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178771
+#EXTINF:-1,HBO XTREME SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178772
+#EXTINF:-1,HBO XTREME HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178773
+#EXTINF:-1,HBO XTREME HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178774
+#EXTINF:-1,HBO XTREME FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178775
+#EXTINF:-1,HBO XTREME FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178776
+#EXTINF:-1,HBO+ SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178777
+#EXTINF:-1,HBO+ HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178778
+#EXTINF:-1,HBO+ FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178779
+#EXTINF:-1,GLOBO AMAZÔNICA HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178780
+#EXTINF:-1,GLOBO CENTRO AMERICA SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178781
+#EXTINF:-1,GLOBO CENTRO AMERICA HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178782
+#EXTINF:-1,GLOBO CENTRO AMERICA FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178783
+#EXTINF:-1,GLOBO BAHIA SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178784
+#EXTINF:-1,GLOBO TV BAHIA SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178785
+#EXTINF:-1,GLOBO BAHIA HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178786
+#EXTINF:-1,GLOBO TV BAHIA HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178787
+#EXTINF:-1,GLOBO TV BAHIA FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178788
+#EXTINF:-1,GLOBO TV BELEM SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178789
+#EXTINF:-1,GLOBO TV BELEM HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178790
+#EXTINF:-1,GLOBO TV BELEM FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178791
+#EXTINF:-1,GLOBO BRASÍLIA SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178792
+#EXTINF:-1,GLOBO TV BRASILIA SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178793
+#EXTINF:-1,GLOBO BRASÍLIA HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178794
+#EXTINF:-1,GLOBO BRASILIA HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178795
+#EXTINF:-1,GLOBO TV BRASILIA FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178796
+#EXTINF:-1,GLOBO CUAIBÁ SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178797
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178798
+#EXTINF:-1,Globo EPTV CAMPINAS SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178799
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178800
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178801
+#EXTINF:-1,GLOBO EPTV CAMPINAS FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178802
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178803
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178804
+#EXTINF:-1,GLOBO EPTV SÃO CARLOS
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178805
+#EXTINF:-1,GLOBO FORTALEZA SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178806
+#EXTINF:-1,GLOBO FORTALEZA HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178807
+#EXTINF:-1,GLOBO GOIÂNIA - TV ANHANGUERA HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178808
+#EXTINF:-1,GLOBO INTER TV CABUGI HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178809
+#EXTINF:-1,GLOBO MINAS SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178810
+#EXTINF:-1,Globo Minas SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178811
+#EXTINF:-1,GLOBO MINAS HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178812
+#EXTINF:-1,Globo Minas HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178813
+#EXTINF:-1,Globo Minas FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178814
+#EXTINF:-1,GLOBO NEWS SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178815
+#EXTINF:-1,GLOBO NEWS SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178816
+#EXTINF:-1,GLOBO NEWS HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178817
+#EXTINF:-1,GLOBO NEWS HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178818
+#EXTINF:-1,GLOBO NEWS FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178819
+#EXTINF:-1,GLOBO NEWS FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178820
+#EXTINF:-1,GLOBO TV MIRANTE SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178821
+#EXTINF:-1,GLOBO TV MIRANTE HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178822
+#EXTINF:-1,GLOBO TV MIRANTE FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178823
+#EXTINF:-1,GLOBO NORDESTE SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178824
+#EXTINF:-1,GLOBO NORDESTE HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178825
+#EXTINF:-1,GLOBO NORDESTE HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178826
+#EXTINF:-1,GLOBO NORDESTE FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178827
+#EXTINF:-1,GLOBO NSC BLUMENAU HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178828
+#EXTINF:-1,GLOBO NSC JOINVILLE HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178829
+#EXTINF:-1,GLOBO NSC TV HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178830
+#EXTINF:-1,GLOBO RBS TV POA SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178831
+#EXTINF:-1,GLOBO RBS TV POA HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178832
+#EXTINF:-1,GLOBO RBS TV POA FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178833
+#EXTINF:-1,GLOBO RBS TV FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178834
+#EXTINF:-1,GLOBO RBS TV 4K
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178835
+#EXTINF:-1,GLOBO RPC PARANAENSE SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178836
+#EXTINF:-1,GLOBO RPC PARANAENSE HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178837
+#EXTINF:-1,GLOBO RPC PARANAENSE FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178838
+#EXTINF:-1,GLOBO RJ SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178839
+#EXTINF:-1,Globo RJ SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178840
+#EXTINF:-1,GLOBO RJ HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178841
+#EXTINF:-1,Globo RJ HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178842
+#EXTINF:-1,GLOBO RJ FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178843
+#EXTINF:-1,GLOBO RJ FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178844
+#EXTINF:-1,GLOBO RPC CURITIBA SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178845
+#EXTINF:-1,GLOBO RPC CURITIBA HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178846
+#EXTINF:-1,GLOBO RPC MARINGÁ HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178847
+#EXTINF:-1,GLOBO SP SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178848
+#EXTINF:-1,GLOBO SP SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178849
+#EXTINF:-1,GLOBO SP HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178850
+#EXTINF:-1,GLOBO SP HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178851
+#EXTINF:-1,GLOBO SP FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178852
+#EXTINF:-1,GLOBO TV MORENA SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178853
+#EXTINF:-1,GLOBO TV MORENA SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178854
+#EXTINF:-1,GLOBO TV MORENA HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178855
+#EXTINF:-1,GLOBO TV TEM BAURU HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178856
+#EXTINF:-1,GLOBO TV MORENA HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178857
+#EXTINF:-1,GLOBO TV MORENA FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178858
+#EXTINF:-1,GLOBO TV MORENA FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178859
+#EXTINF:-1,GLOBO TV TEM SJRP
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178860
+#EXTINF:-1,GLOBO TV TEM SOROCABA HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178861
+#EXTINF:-1,GLOBO TV TRIBUNA
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178862
+#EXTINF:-1,GLOBO TV VANGUARDA SJC
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178863
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178864
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178865
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178866
+#EXTINF:-1,GLOBO INTER TV CABUGI SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178867
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178868
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178869
+#EXTINF:-1,GLOBO NSC FLORIANOPOLIS SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178870
+#EXTINF:-1,GLOBO NSC FLORIANOPOLIS HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178871
+#EXTINF:-1,GLOBO NSC FLORIANOPOLIS FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178872
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178873
+#EXTINF:-1,GLOBO REDE AMAZONICA MANAUS SD ALT#
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178874
+#EXTINF:-1,GLOBO RPC TV CURITIBA SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178875
+#EXTINF:-1,GLOBO TV ANHANGUERA SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178876
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIÃNIA SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178877
+#EXTINF:-1,GLOBO TV LIBERAL BELEM SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178878
+#EXTINF:-1,GLOBO TV TEM BAURU SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178879
+#EXTINF:-1,GLOBO TV TEM SOROCABA SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178880
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178881
+#EXTINF:-1,GLOBO TV VANGUARDA SÃO JOSE DOS CAMPOS SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178882
+#EXTINF:-1,GLOBO TV VERDES MARES SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178883
+#EXTINF:-1,GLOBO TV VERDES MARES HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178884
+#EXTINF:-1,GLOBO TV VERDES MARES FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178885
+#EXTINF:-1,GLOBOTV ANHANGUERA HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178886
+#EXTINF:-1,GLOBOTV ANHANGUERA FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178887
+#EXTINF:-1,INTER TV DOS VALES SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178888
+#EXTINF:-1,INTER TV DOS VALES FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178889
+#EXTINF:-1,INTER TV GRANDE MINAS SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178890
+#EXTINF:-1,NSC TV BLUMENAU SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178891
+#EXTINF:-1,NSC TV BLUMENAU FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178892
+#EXTINF:-1,TV GAZETA ALAGOAS SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178893
+#EXTINF:-1,TV GAZETA ALAGOAS FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178894
+#EXTINF:-1,TV GAZETA FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178895
+#EXTINF:-1,TV GAZETA SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178896
+#EXTINF:-1,TV GAZETA SUL SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178897
+#EXTINF:-1,TV RIO SUL SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178898
+#EXTINF:-1,TV SANTA CRUZ SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178899
+#EXTINF:-1,TV SANTA CRUZ FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178900
+#EXTINF:-1,TV SERGIPE SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178901
+#EXTINF:-1,TV SERGIPE FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178902
+#EXTINF:-1,TV TEM BAURU HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178903
+#EXTINF:-1,TV TEM BAURU FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178904
+#EXTINF:-1,BAND NEWS SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178905
+#EXTINF:-1,BAND NEWS SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178906
+#EXTINF:-1,BAND NEWS HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178907
+#EXTINF:-1,BAND NEWS HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178908
+#EXTINF:-1,BAND NEWS FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178909
+#EXTINF:-1,CNN BRASIL SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178910
+#EXTINF:-1,CNN BRASIL SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178911
+#EXTINF:-1,CNN BRASIL HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178912
+#EXTINF:-1,CNN BRASIL HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178913
+#EXTINF:-1,CNN BRASIL FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178914
+#EXTINF:-1,CNN BRASIL FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178915
+#EXTINF:-1,CNN ESPANHOL SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178916
+#EXTINF:-1,CNN INTERNACIONAL SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178919
+#EXTINF:-1,CNN INTERNACIONAL HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178920
+#EXTINF:-1,CNN INTERNACIONAL FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178921
+#EXTINF:-1,FOX NEWS HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178923
+#EXTINF:-1,RECORD NEWS SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178925
+#EXTINF:-1,RECORD NEWS SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178926
+#EXTINF:-1,RECORD NEWS HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178927
+#EXTINF:-1,RECORD NEWS FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178928
+#EXTINF:-1,BAND SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178929
+#EXTINF:-1,BAND SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178930
+#EXTINF:-1,BAND HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178931
+#EXTINF:-1,BAND HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178932
+#EXTINF:-1,BAND FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178933
+#EXTINF:-1,Satellite TV
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178934
+#EXTINF:-1,Satellite TV
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178935
+#EXTINF:-1,Satellite TV
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178936
+#EXTINF:-1,RECORD SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178937
+#EXTINF:-1,RECORD SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178938
+#EXTINF:-1,RECORD HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178939
+#EXTINF:-1,Record FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178940
+#EXTINF:-1,RECORD BH HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178941
+#EXTINF:-1,Record BH HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178942
+#EXTINF:-1,RECORD DF HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178943
+#EXTINF:-1,RECORD RS HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178944
+#EXTINF:-1,RECORD SP HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178945
+#EXTINF:-1,REDE VIDA
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178946
+#EXTINF:-1,REDETV!
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178947
+#EXTINF:-1,RIT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178948
+#EXTINF:-1,SBT SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178949
+#EXTINF:-1,SBT SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178950
+#EXTINF:-1,SBT HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178951
+#EXTINF:-1,SBT HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178952
+#EXTINF:-1,SBT FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178953
+#EXTINF:-1,RECORD BA HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178954
+#EXTINF:-1,RECORD BELEM
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178955
+#EXTINF:-1,RECORD DF HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178956
+#EXTINF:-1,RECORD GO HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178958
+#EXTINF:-1,RECORD MINAS SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178959
+#EXTINF:-1,RECORD MINAS HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178960
+#EXTINF:-1,RECORD RJ HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178962
+#EXTINF:-1,RECORD RS SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178963
+#EXTINF:-1,RECORD RS HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178964
+#EXTINF:-1,RECORD SP HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178965
+#EXTINF:-1,REDE TV SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178970
+#EXTINF:-1,REDE TV HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178971
+#EXTINF:-1,REDE TV FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178972
+#EXTINF:-1,TV DIARIO SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178973
+#EXTINF:-1,TV DIARIO HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178974
+#EXTINF:-1,TV DIARIO FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178975
+#EXTINF:-1,TV CÂMARA
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178976
+#EXTINF:-1,TVE
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178977
+#EXTINF:-1,XXX: JASMIN TV
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178978
+#EXTINF:-1,XX: PLAYBOY TV SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178979
+#EXTINF:-1,XXX: PLAYBOY HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178980
+#EXTINF:-1,XX: PLAYBOY HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178981
+#EXTINF:-1,XX: PLAYBOY FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178982
+#EXTINF:-1,CANÇÃO NOVA HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178988
+#EXTINF:-1,CANÇÃO NOVA SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178989
+#EXTINF:-1,NOVO TEMPO HD ²
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178991
+#EXTINF:-1,REDE VIDA
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178993
+#EXTINF:-1,TV APARECIDA SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178994
+#EXTINF:-1,TV APARECIDA ²
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178995
+#EXTINF:-1,TV APARECIDA HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178996
+#EXTINF:-1,TV EVANGELIZAR ES ²
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178997
+#EXTINF:-1,TV NOVO TEMPO SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178998
+#EXTINF:-1,BABY TV SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/178999
+#EXTINF:-1,BABY HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179000
+#EXTINF:-1,BABY FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179001
+#EXTINF:-1,BOOMERANG
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179002
+#EXTINF:-1,BOOMERANG SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179003
+#EXTINF:-1,BOOMERANG HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179004
+#EXTINF:-1,BOOMERANG HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179005
+#EXTINF:-1,BOOMERANG FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179006
+#EXTINF:-1,CARTOON NETWORK SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179007
+#EXTINF:-1,CARTOON NETWORK SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179008
+#EXTINF:-1,CARTOON NETWORK HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179009
+#EXTINF:-1,CARTOON NETWORK HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179010
+#EXTINF:-1,CARTOON NETWORK FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179011
+#EXTINF:-1,DISCOVERY KIDS SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179012
+#EXTINF:-1,DISCOVERY KIDS SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179013
+#EXTINF:-1,DISCOVERY KIDS HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179014
+#EXTINF:-1,DISCOVERY KIDS HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179015
+#EXTINF:-1,DISCOVERY KIDS FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179016
+#EXTINF:-1,DISNEY CHANNEL SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179017
+#EXTINF:-1,DISNEY CHANNEL SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179018
+#EXTINF:-1,DISNEY CHANNEL HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179019
+#EXTINF:-1,DISNEY CHANNEL HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179020
+#EXTINF:-1,DISNEY CHANNEL FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179021
+#EXTINF:-1,DISNEY JUNIOR SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179022
+#EXTINF:-1,DISNEY JUNIOR SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179023
+#EXTINF:-1,DISNEY JUNIOR HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179024
+#EXTINF:-1,DISNEY JR HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179025
+#EXTINF:-1,DISNEY JR FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179026
+#EXTINF:-1,DISNEY XD SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179027
+#EXTINF:-1,DISNEY XD SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179028
+#EXTINF:-1,DISNEY XD HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179029
+#EXTINF:-1,DISNEY XD FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179030
+#EXTINF:-1,GLOOB SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179031
+#EXTINF:-1,GLOOB SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179032
+#EXTINF:-1,GLOOB HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179033
+#EXTINF:-1,GLOOB HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179034
+#EXTINF:-1,GLOOB FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179035
+#EXTINF:-1,GLOOBINHO SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179036
+#EXTINF:-1,GLOOBINHO FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179038
+#EXTINF:-1,NATGEO KIDS SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179039
+#EXTINF:-1,NATGEO KIDS HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179040
+#EXTINF:-1,NATGEO KIDS FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179041
+#EXTINF:-1,NICK JR. SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179042
+#EXTINF:-1,NICK JR SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179043
+#EXTINF:-1,NICK JR. HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179044
+#EXTINF:-1,NICK JR HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179045
+#EXTINF:-1,NICK JR FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179046
+#EXTINF:-1,NICKELODEON SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179047
+#EXTINF:-1,NICKELODEON SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179048
+#EXTINF:-1,NICKELODEON HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179049
+#EXTINF:-1,NICKELODEON HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179050
+#EXTINF:-1,NICKELODEON FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179051
+#EXTINF:-1,PLAY KIDS HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179052
+#EXTINF:-1,TOONCAST SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179053
+#EXTINF:-1,TOONCAST SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179054
+#EXTINF:-1,TOONCAST HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179055
+#EXTINF:-1,TOONCAST FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179056
+#EXTINF:-1,TV RÁ-TIM-BUM SSD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179057
+#EXTINF:-1,TV RA TIM BUM SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179058
+#EXTINF:-1,TV RA TIM BUM HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179059
+#EXTINF:-1,TV RA TIM BUM FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179060
+#EXTINF:-1,ZOOMOO
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179061
+#EXTINF:-1,BIS SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179062
+#EXTINF:-1,BIS SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179063
+#EXTINF:-1,BIS HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179064
+#EXTINF:-1,BIS HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179065
+#EXTINF:-1,BIS FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179066
+#EXTINF:-1,BIS FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179067
+#EXTINF:-1,CURTA! SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179071
+#EXTINF:-1,CURTA! HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179072
+#EXTINF:-1,CURTA! FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179073
+#EXTINF:-1,Satellite TV
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179074
+#EXTINF:-1,Satellite TV
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179075
+#EXTINF:-1,Satellite TV
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179076
+#EXTINF:-1,CANÇÃO NOVA SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179077
+#EXTINF:-1,CANÇÃO NOVA HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179078
+#EXTINF:-1,COMEDY CENTRAL SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179079
+#EXTINF:-1,COMEDY CENTRAL SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179080
+#EXTINF:-1,COMEDY CENTRAL HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179081
+#EXTINF:-1,COMEDY CENTRAL HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179082
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179083
+#EXTINF:-1,COMEDY CENTRAL FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179084
+#EXTINF:-1,E! SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179085
+#EXTINF:-1,E! HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179086
+#EXTINF:-1,E! HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179087
+#EXTINF:-1,E! FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179088
+#EXTINF:-1,FISH TV SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179089
+#EXTINF:-1,FISH TV SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179090
+#EXTINF:-1,FISH TV HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179091
+#EXTINF:-1,FISH TV HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179092
+#EXTINF:-1,FISH TV FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179093
+#EXTINF:-1,FOOD NETWORK SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179094
+#EXTINF:-1,FOOD NETWORK SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179095
+#EXTINF:-1,FOOD NETWORK HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179096
+#EXTINF:-1,FOOD NETWORK HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179097
+#EXTINF:-1,FOOD NETWORK FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179098
+#EXTINF:-1,FOOD NETWORK FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179099
+#EXTINF:-1,FOX LIFE SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179100
+#EXTINF:-1,FOX LIFE SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179101
+#EXTINF:-1,FOX LIFE HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179102
+#EXTINF:-1,FOX LIFE HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179103
+#EXTINF:-1,FOX LIFE FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179104
+#EXTINF:-1,FOX LIFE FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179105
+#EXTINF:-1,FUTURA HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179106
+#EXTINF:-1,GNT SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179107
+#EXTINF:-1,GNT SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179108
+#EXTINF:-1,GNT HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179109
+#EXTINF:-1,GNT HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179110
+#EXTINF:-1,GNT FHD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179111
+#EXTINF:-1,GNT FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179112
+#EXTINF:-1,LIFETIME SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179113
+#EXTINF:-1,LIFETIME SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179114
+#EXTINF:-1,LIFETIME HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179115
+#EXTINF:-1,LIFETIME HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179116
+#EXTINF:-1,LIFETIME FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179117
+#EXTINF:-1,MAIS GLOBOSAT SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179118
+#EXTINF:-1,MAIS GLOBOSAT SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179119
+#EXTINF:-1,MAIS GLOBOSAT HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179120
+#EXTINF:-1,MAIS GLOBOSAT HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179121
+#EXTINF:-1,MAIS GLOBOSAT FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179122
+#EXTINF:-1,MTV SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179123
+#EXTINF:-1,MTV SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179124
+#EXTINF:-1,MTV HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179125
+#EXTINF:-1,MTV HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179126
+#EXTINF:-1,MTV FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179127
+#EXTINF:-1,MULTISHOW SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179128
+#EXTINF:-1,MULTISHOW SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179129
+#EXTINF:-1,MULTISHOW HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179130
+#EXTINF:-1,MULTISHOW HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179131
+#EXTINF:-1,MULTISHOW FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179132
+#EXTINF:-1,MUSIC BOX BRASIL SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179133
+#EXTINF:-1,MUSIC BOX BRASIL HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179134
+#EXTINF:-1,MUSIC BOX BRASIL FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179135
+#EXTINF:-1,OFF SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179136
+#EXTINF:-1,OFF SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179137
+#EXTINF:-1,OFF HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179138
+#EXTINF:-1,OFF HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179139
+#EXTINF:-1,OFF FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179140
+#EXTINF:-1,PLAY TV SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179141
+#EXTINF:-1,PLAY TV HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179142
+#EXTINF:-1,PLAY TV FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179143
+#EXTINF:-1,I SAT SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179144
+#EXTINF:-1,i SAT HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179145
+#EXTINF:-1,i SAT FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179146
+#EXTINF:-1,SHOPTIME SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179147
+#EXTINF:-1,VIVA SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179149
+#EXTINF:-1,VIVA SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179150
+#EXTINF:-1,VIVA HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179151
+#EXTINF:-1,VIVA HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179152
+#EXTINF:-1,VIVA FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179153
+#EXTINF:-1,WOOHOO SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179154
+#EXTINF:-1,WOHOO SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179155
+#EXTINF:-1,WOOHOO HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179156
+#EXTINF:-1,WOHOO FHD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179157
+#EXTINF:-1,24H SCOOBY DOO
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179158
+#EXTINF:-1,24H Popeye
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179159
+#EXTINF:-1,24H CAVALEIRO DO ZODIACO
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179160
+#EXTINF:-1,24H JOSE REI DO EGITO
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179161
+#EXTINF:-1,24H O FANTASTICO MUNDO DE BOBBY
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179162
+#EXTINF:-1,24H O MÁSKARA
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179163
+#EXTINF:-1,24H BIG MOUTH
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179164
+#EXTINF:-1,24H NARUTO CLÁSSICO
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179165
+#EXTINF:-1,24H TOM E JERRY
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179166
+#EXTINF:-1,24H CAVERNA DO DRAGÃO
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179167
+#EXTINF:-1,24H PEPPA PIG
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179168
+#EXTINF:-1,24H JONNY QUEST
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179169
+#EXTINF:-1,24H PATRULHA CANINA
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179170
+#EXTINF:-1,24H GALINHA PINTADINHA
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179171
+#EXTINF:-1,24H PICA PAU
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179172
+#EXTINF:-1,24H HOMEM ARANHA
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179173
+#EXTINF:-1,24H BEN 10
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179174
+#EXTINF:-1,24H CHAVES
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179175
+#EXTINF:-1,24H BOB ESPONJA
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179176
+#EXTINF:-1,24H 3 PALAVRINHAS
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179177
+#EXTINF:-1,24H A COBRINHA AZUL
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179178
+#EXTINF:-1,24H A FAMILIA DRACULA
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179179
+#EXTINF:-1,24H A MUMIA
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179180
+#EXTINF:-1,24H A TURMA DO PATETA
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179181
+#EXTINF:-1,24H ACAMPAMENTO LAKEBOTTOM
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179182
+#EXTINF:-1,24H ALADIN DESENHO ANIMADO
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179183
+#EXTINF:-1,24H AS AVENTURAS DE JACKIE CHAN
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179184
+#EXTINF:-1,24H AS AVENTURAS DE PIGGLEY WINKS
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179185
+#EXTINF:-1,24H AS AVENTURAS DE TINTIM
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179186
+#EXTINF:-1,24H SITIO DO PICA PAU AMARELO
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179187
+#EXTINF:-1,24H A PANTERA COR DE ROSA
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179188
+#EXTINF:-1,24H DRAGON BALL SUPER
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179189
+#EXTINF:-1,24H TIMÃO E PUMBA
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179190
+#EXTINF:-1,24H X-MEN ANTIGO
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179191
+#EXTINF:-1,24H YUGIOH CLÁSSICO
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179192
+#EXTINF:-1,24H MICKEY MOUSE
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179193
+#EXTINF:-1,24H OS VINGADORES DESENHO
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179194
+#EXTINF:-1,24H CAPITÃO TSUBASA
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179195
+#EXTINF:-1,24H CHAPOLIN COLORADO
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179196
+#EXTINF:-1,24H RICK AND MORTY
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179197
+#EXTINF:-1,24H OS SIMPSONS
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179198
+#EXTINF:-1,24H SOUTH PARK
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179199
+#EXTINF:-1,24H LULUZINHA
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179200
+#EXTINF:-1,24H HIGH SCORE GIRL
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179201
+#EXTINF:-1,24H FLASH GORDON
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179202
+#EXTINF:-1,24H MASHA E O URSO
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179203
+#EXTINF:-1,24H MUNDO BITA
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179204
+#EXTINF:-1,24H PATATI PATATA
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179205
+#EXTINF:-1,24H BABY SHARK
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179206
+#EXTINF:-1,24H IRMÃO DO JOREL
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179207
+#EXTINF:-1,24H FAISCA E FUMAÇA
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179208
+#EXTINF:-1,24H A TURMA DA MONICA
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179209
+#EXTINF:-1,24H LOG HORIZON
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179210
+#EXTINF:-1,24H RICK AND MORTY 2
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179211
+#EXTINF:-1,24H SENRAN KAGURA SHINOVI
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179212
+#EXTINF:-1,24H OS PADRINHOS MÁGICOS
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179213
+#EXTINF:-1,24H BEN E HOLLY
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179214
+#EXTINF:-1,24H DANIEL TIGRE
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179215
+#EXTINF:-1,24H DESENHOS BIBLICOS
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179216
+#EXTINF:-1,24H MEU AMIGÃOZÃO
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179217
+#EXTINF:-1,24H HE MAN DESENHO
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179218
+#EXTINF:-1,24H MORTAL KOMBAT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179219
+#EXTINF:-1,A FAZENDA HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179220
+#EXTINF:-1,A FAZENDA SD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179221
+#EXTINF:-1,A FAZENDA HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179222
+#EXTINF:-1,A FAZENDA SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179223
+#EXTINF:-1,Conmebol TV 1 HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179224
+#EXTINF:-1,Conmebol TV 2 HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179225
+#EXTINF:-1,Conmebol TV 3 HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179226
+#EXTINF:-1,Conmebol TV 4 HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179227
+#EXTINF:-1,SBT RS HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179228
+#EXTINF:-1,FULLMETAL ALCHEMIST 24 HORAS AO VIVO
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179230
+#EXTINF:-1,CONMEBOL TV SD (JOGO 1)
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179231
+#EXTINF:-1,CONMEBOL TV SD (JOGO 2)
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179232
+#EXTINF:-1,CONMEBOL TV SD (JOGO 3)
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179233
+#EXTINF:-1,CONMEBOL TV SD (JOGO 4)
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179234
+#EXTINF:-1,CONMEBOL TV FHD (JOGO 1)
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179235
+#EXTINF:-1,CONMEBOL TV FHD (JOGO 2)
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179236
+#EXTINF:-1,CONMEBOL TV HD ALT 2 (JOGO 1)
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179237
+#EXTINF:-1,CONMEBOL TV HD (JOGO 2)
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179238
+#EXTINF:-1,CONMEBOL TV FHD (JOGO 3)
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179239
+#EXTINF:-1,CONMEBOL TV HD ALT (JOGO 3)
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179240
+#EXTINF:-1,A&E FHD H265
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179278
+#EXTINF:-1,AMC FHD H265
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179279
+#EXTINF:-1,Animal Planet FHD H265
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179280
+#EXTINF:-1,AXN FHD H265
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179281
+#EXTINF:-1,Band News FHD H265
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179282
+#EXTINF:-1,BandSports FHD H265
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179283
+#EXTINF:-1,BIS FHD H265
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179284
+#EXTINF:-1,Boomerang FHD H265
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179285
+#EXTINF:-1,Satellite TV
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179286
+#EXTINF:-1,Satellite TV
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179287
+#EXTINF:-1,CartoonNetwork FHD H265
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179288
+#EXTINF:-1,Cinemax FHD H265
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179289
+#EXTINF:-1,Combate FHD H265
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179290
+#EXTINF:-1,Comedy Central FHD H265
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179291
+#EXTINF:-1,Discovery Channel FHD H265
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179292
+#EXTINF:-1,HGTV FHD H265
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179293
+#EXTINF:-1,Discovery Home & Health FHD H265
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179294
+#EXTINF:-1,Discovery Kids FHD H265
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179295
+#EXTINF:-1,Discovery Science FHD H265
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179296
+#EXTINF:-1,Discovery Theater FHD H265
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179297
+#EXTINF:-1,Discovery Turbo FHD H265
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179298
+#EXTINF:-1,Discovery World FHD H265
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179299
+#EXTINF:-1,Disney Channel FHD H265
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179300
+#EXTINF:-1,Disney Junior FHD H265
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179301
+#EXTINF:-1,E! FHD H265
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179302
+#EXTINF:-1,Esporte Interativo HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179322
+#EXTINF:-1,Esporte Interativo HD 2
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179323
+#EXTINF:-1,Esporte Interativo HD 3
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179324
+#EXTINF:-1,Esporte Interativo HD (Multijogos)
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179325
+#EXTINF:-1,Esporte Interativo HD ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179326
+#EXTINF:-1,Esporte Interativo HD ALT 2
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179327
+#EXTINF:-1,Esporte Interativo HD ALT 3
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179328
+#EXTINF:-1,Esporte Interativo HD ALT (Multijogos)
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179329
+#EXTINF:-1,Ei Max Jogo 1
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179330
+#EXTINF:-1,Ei Max Jogos02
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179331
+#EXTINF:-1,Ei Max Jogos03
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179332
+#EXTINF:-1,Ei Max Jogos04
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179333
+#EXTINF:-1,Ei MaxJogo 1 ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179334
+#EXTINF:-1,Ei MaxJogos02 ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179335
+#EXTINF:-1,Ei MaxJogos03 ALT
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179336
+#EXTINF:-1,TELECINE PIPOCA FHD H264 (CANAIS LEGENDADOS)
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179337
+#EXTINF:-1,TELECINE PIPOCA HD (CANAIS LEGENDADOS)
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179338
+#EXTINF:-1,TELECINE PREMIUM FHD H264 (CANAIS LEGENDADOS)
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179339
+#EXTINF:-1,TELECINE PREMIUM HD (CANAIS LEGENDADOS)
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179340
+#EXTINF:-1,TELECINE ACTION FHD H264 (CANAIS LEGENDADOS)
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179341
+#EXTINF:-1,TELECINE ACTION HD (CANAIS LEGENDADOS )
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179342
+#EXTINF:-1,TELECINE TOUCH FHD H264 (CANAIS LEGENDADOS)
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179343
+#EXTINF:-1,TELECINE TOUCH HD ( CANAIS LEGENDADOS)
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179344
+#EXTINF:-1,TELECINE FUN FHD H264 (CANAIS LEGENDADOS)
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179345
+#EXTINF:-1,TELECINE FUN HD H264 (CANAIS LEGENDADOS )
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179346
+#EXTINF:-1,TELECINE CULT FHD H264 (CANAIS LEGENDADOS)
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179347
+#EXTINF:-1,TELECINE CULT HD ( CANAIS LEGENDADOS )
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179348
+#EXTINF:-1,HBO FHD H264 ( CANAIS LEGENDADOS )
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179349
+#EXTINF:-1,HBO HD ( CANAIS LENGENDADOS)
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179350
+#EXTINF:-1,HBO PLUS FHD H264 ( CANAIS LEGENDADOS )
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179351
+#EXTINF:-1,HBO PLUS HD ( CANAIS LEGENDADOS )
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179352
+#EXTINF:-1,HBO SIGNATURE FHD H264 ( CANAIS LEGENDADOS)
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179353
+#EXTINF:-1,HBO SIGNATURE HD ( CANAIS LEGENDADOS )
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179354
+#EXTINF:-1,HBO MUNDI FHD ( CANAIS LEGENDADOS )
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179355
+#EXTINF:-1,HBO MUNDI HD ( CANAIS LEGENDADOS )
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179356
+#EXTINF:-1,HBO POP FHD H264 ( CANAIS LEGENDADOS )
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179357
+#EXTINF:-1,HBO POP HD ( CANAIS LEGENDADOS )
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179358
+#EXTINF:-1,HBO XTREME FHD H264 ( CANAIS LEGENDADOS)
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179359
+#EXTINF:-1,HBO XTREAM HD ( CANAIS LEGENDADOS )
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179360
+#EXTINF:-1,FOX FHD H264 ( CANAIS LEGENDADOS )
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179361
+#EXTINF:-1,FOX HD ( CANAIS LEGENDADOS )
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179362
+#EXTINF:-1,AXN FHD H264 (CANAIS LEGENDADOS)
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179363
+#EXTINF:-1,AXN HD ( CANAIS LEGENDADOS )
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179364
+#EXTINF:-1,FOX PREMIUM 1 FHD H264 ( CANAIS LEGENDADOS )
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179365
+#EXTINF:-1,FOX PREMIUM 1 HD ( CANAIS LEGENDADOS )
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179366
+#EXTINF:-1,FOX PREMIUM 2 FHD H264 ( CANAIS LEGENDADOS)
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179367
+#EXTINF:-1,FOX PREMIUM 2 HD ( CANAIS LEGENDADOS )
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179368
+#EXTINF:-1,CANÇÃO NOVA HD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179369
+#EXTINF:-1,CANÇÃO NOVA SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179370
+#EXTINF:-1,TV APARECIDA SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179371
+#EXTINF:-1,TV NOVO TEMPO SD
+http://fonteangelusiptv.com:8080/jeff123/jeff123/179372
