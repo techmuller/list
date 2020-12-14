@@ -1,1203 +1,1485 @@
 #EXTM3U
-#EXTINF:-1,RECORD RS HD
-http://udq.me:80/live/Zw7tZ/MTAWF/52482.m3u8
-#EXTINF:-1,24HS: AS AVENTURAS DE JACKIE CHAN
-http://udq.me:80/live/Zw7tZ/MTAWF/13225.m3u8
-#EXTINF:-1,24HS: BOB ESPONJA
-http://udq.me:80/live/Zw7tZ/MTAWF/13207.m3u8
-#EXTINF:-1,24HS: CAVALEIROS DOS ZODÍACOS: DOZE CASAS
-http://udq.me:80/live/Zw7tZ/MTAWF/13208.m3u8
-#EXTINF:-1,24HS: CLÁSSICOS DISNEY
-http://udq.me:80/live/Zw7tZ/MTAWF/13209.m3u8
-#EXTINF:-1,24HS: CORAGEM O CÃO CORVADE
-http://udq.me:80/live/Zw7tZ/MTAWF/13210.m3u8
-#EXTINF:-1,24HS: CORRIDA MALUCA
-http://udq.me:80/live/Zw7tZ/MTAWF/13226.m3u8
-#EXTINF:-1,24HS: DOIS HOMENS E MEIO
-http://udq.me:80/live/Zw7tZ/MTAWF/13211.m3u8
-#EXTINF:-1,24HS: DRAGON BALL
-http://udq.me:80/live/Zw7tZ/MTAWF/13212.m3u8
-#EXTINF:-1,24HS: FAMÍLIA DA PESADA
-http://udq.me:80/live/Zw7tZ/MTAWF/13213.m3u8
-#EXTINF:-1,24HS: FORMIGA ATÔMICA
-http://udq.me:80/live/Zw7tZ/MTAWF/13214.m3u8
-#EXTINF:-1,24HS: FUTURAMA
-http://udq.me:80/live/Zw7tZ/MTAWF/13215.m3u8
-#EXTINF:-1,24HS: GALINHA PINTADINHA
-http://udq.me:80/live/Zw7tZ/MTAWF/13216.m3u8
-#EXTINF:-1,24HS: KENAN & KELL
-http://udq.me:80/live/Zw7tZ/MTAWF/13227.m3u8
-#EXTINF:-1,24HS: LULUZINHA
-http://udq.me:80/live/Zw7tZ/MTAWF/13217.m3u8
-#EXTINF:-1,24HS: MICKEY E DONALD
-http://udq.me:80/live/Zw7tZ/MTAWF/13218.m3u8
-#EXTINF:-1,24HS: O MASCARA
-http://udq.me:80/live/Zw7tZ/MTAWF/13228.m3u8
-#EXTINF:-1,24HS: OS TRAPALHÕES
-http://udq.me:80/live/Zw7tZ/MTAWF/13219.m3u8
-#EXTINF:-1,24HS: PEPPA PIG https://iptv.live
-http://udq.me:80/live/Zw7tZ/MTAWF/13220.m3u8
-#EXTINF:-1,24HS: SOUTH PARKS
-http://udq.me:80/live/Zw7tZ/MTAWF/13221.m3u8
-#EXTINF:-1,24HS: THE BIG BANG THEORY
-http://udq.me:80/live/Zw7tZ/MTAWF/13229.m3u8
-#EXTINF:-1,24HS: THUNDERCATS
-http://udq.me:80/live/Zw7tZ/MTAWF/13222.m3u8
-#EXTINF:-1,24HS: TICO E TECO
-http://udq.me:80/live/Zw7tZ/MTAWF/13230.m3u8
-#EXTINF:-1,24HS: TODO MUNDO ODEIA O CHRIS
-http://udq.me:80/live/Zw7tZ/MTAWF/13223.m3u8
-#EXTINF:-1,24HS: UM MALUCO NO PEDAÇO
-http://udq.me:80/live/Zw7tZ/MTAWF/13224.m3u8
-#EXTINF:-1,3 Palavrinhas 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13559.m3u8
-#EXTINF:-1,A FAZENDA
-http://udq.me:80/live/Zw7tZ/MTAWF/69974.m3u8
-#EXTINF:-1,A FAZENDA [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/69973.m3u8
-#EXTINF:-1,A Feiticeira 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13566.m3u8
-#EXTINF:-1,A Grande Familia 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13560.m3u8
+#EXTINF:-1,3 Palavrinhas
+http://lb.kstream.org/aovivo/24_3_PALAVRINHAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,A Cobrinha azul
+http://lb.kstream.org/aovivo/24_A_COBRINHA_AZUL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,A Familia Dracula
+http://lb.kstream.org/aovivo/24_A_FAMILIA_DRACULA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,A Fazenda 12
+http://lb.kstream.org/aovivo/HD_A_FAZENDA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,A Fazenda 12 [Alter]
+http://lb.kstream.org/aovivo/HD_A_FAZENDA_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,A Mumia
+http://lb.kstream.org/aovivo/24_A_MUMIA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,A Turma da Monica
+http://lb.kstream.org/aovivo/24_A_TURMA_MONICA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,A Turma do Pateta
+http://lb.kstream.org/aovivo/24_A_TURMA_PATETA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,A&E
+http://lb.kstream.org/aovivo/SD_AE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,A&E FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22694.m3u8
-#EXTINF:-1,A&E FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52525.m3u8
+http://lb.kstream.org/aovivo/FHD_AE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,A&E HD
-http://udq.me:80/live/Zw7tZ/MTAWF/7035.m3u8
-#EXTINF:-1,A&E SD
-http://udq.me:80/live/Zw7tZ/MTAWF/7034.m3u8
-#EXTINF:-1,ALADDIN 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13482.m3u8
+http://lb.kstream.org/aovivo/HD_AE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,A&E HD [Alter]
+http://lb.kstream.org/aovivo/HD_AE_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,AMC
+http://lb.kstream.org/aovivo/SD_AMC/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,AMC FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22693.m3u8
-#EXTINF:-1,AMC FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52524.m3u8
+http://lb.kstream.org/aovivo/FHD_AMC/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,AMC HD
-http://udq.me:80/live/Zw7tZ/MTAWF/7037.m3u8
-#EXTINF:-1,AMC SD
-http://udq.me:80/live/Zw7tZ/MTAWF/7036.m3u8
-#EXTINF:-1,ANIMAL PLANET FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13093.m3u8
-#EXTINF:-1,ANIMAL PLANET FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52798.m3u8
-#EXTINF:-1,ANIMAL PLANET H265
-http://udq.me:80/live/Zw7tZ/MTAWF/285.m3u8
-#EXTINF:-1,ANIMAL PLANET HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/103715.m3u8
-#EXTINF:-1,ANIMAL PLANET SD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/103716.m3u8
-#EXTINF:-1,ARTE 1 FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13233.m3u8
-#EXTINF:-1,As Meninas Superpoderosas 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13483.m3u8
+http://lb.kstream.org/aovivo/HD_AMC/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,AMC HD [Alter]
+http://lb.kstream.org/aovivo/HD_AMC_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,AXN
+http://lb.kstream.org/aovivo/SD_AXN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,AXN FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22692.m3u8
-#EXTINF:-1,AXN FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52518.m3u8
-#EXTINF:-1,AXN H265
-http://udq.me:80/live/Zw7tZ/MTAWF/288.m3u8
+http://lb.kstream.org/aovivo/FHD_AXN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,AXN FHD [Leg] https://iptv.live
+http://lb.kstream.org/aovivo/FHD_AXN_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,AXN HD
-http://udq.me:80/live/Zw7tZ/MTAWF/7039.m3u8
-#EXTINF:-1,AXN HD LEGENDADO
-http://udq.me:80/live/Zw7tZ/MTAWF/21240.m3u8
-#EXTINF:-1,AXN SD
-http://udq.me:80/live/Zw7tZ/MTAWF/7038.m3u8
-#EXTINF:-1,AXN FHD LEGENDADO
-http://udq.me:80/live/Zw7tZ/MTAWF/21241.m3u8
-#EXTINF:-1,BAND NEWS FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/1506.m3u8
-#EXTINF:-1,BAND NEWS FHD [ALTERNATIVO] https://iptv.live
-http://udq.me:80/live/Zw7tZ/MTAWF/102632.m3u8
-#EXTINF:-1,BAND NEWS H265
-http://udq.me:80/live/Zw7tZ/MTAWF/887.m3u8
-#EXTINF:-1,BAND NEWS HD
-http://udq.me:80/live/Zw7tZ/MTAWF/1504.m3u8
-#EXTINF:-1,BAND NEWS HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102633.m3u8
-#EXTINF:-1,BAND NEWS SD
-http://udq.me:80/live/Zw7tZ/MTAWF/1502.m3u8
-#EXTINF:-1,BAND NEWS SD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102634.m3u8
-#EXTINF:-1,BAND SP FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13184.m3u8
-#EXTINF:-1,BAND SP HD
-http://udq.me:80/live/Zw7tZ/MTAWF/52478.m3u8
-#EXTINF:-1,BAND SPORTS FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/4023.m3u8
-#EXTINF:-1,BAND SPORTS FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52500.m3u8
-#EXTINF:-1,BAND SPORTS H265
-http://udq.me:80/live/Zw7tZ/MTAWF/944.m3u8
-#EXTINF:-1,BAND SPORTS HD
-http://udq.me:80/live/Zw7tZ/MTAWF/4060.m3u8
-#EXTINF:-1,BAND SPORTS HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52494.m3u8
-#EXTINF:-1,BAND SPORTS SD
-http://udq.me:80/live/Zw7tZ/MTAWF/4077.m3u8
-#EXTINF:-1,BEN 10 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13484.m3u8
-#EXTINF:-1,BIS H265
-http://udq.me:80/live/Zw7tZ/MTAWF/974.m3u8
-#EXTINF:-1,Bita e os Animais 24hrs
-http://udq.me:80/live/Zw7tZ/MTAWF/13561.m3u8
-#EXTINF:-1,BOB ESPONJA 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13485.m3u8
-#EXTINF:-1,BOOMERANG FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/12930.m3u8
-#EXTINF:-1,BOOMERANG FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102678.m3u8
-#EXTINF:-1,BOOMERANG HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102679.m3u8
-#EXTINF:-1,BOOMERANG H265
-http://udq.me:80/live/Zw7tZ/MTAWF/985.m3u8
-#EXTINF:-1,BRASILEIRINHAS: A CAMPEA DO ANAL
-http://udq.me:80/live/Zw7tZ/MTAWF/13465.m3u8
-#EXTINF:-1,BRASILEIRINHAS: AGORA E HORA DAS PODEROSAS
-http://udq.me:80/live/Zw7tZ/MTAWF/13466.m3u8
-#EXTINF:-1,BRASILEIRINHAS: AMIGAS DA MINHA IRMA
-http://udq.me:80/live/Zw7tZ/MTAWF/13467.m3u8
-#EXTINF:-1,BRASILEIRINHAS: ASSIM VC ME MATA
-http://udq.me:80/live/Zw7tZ/MTAWF/13468.m3u8
-#EXTINF:-1,BRASILEIRINHAS: BABANDO DE TESAO
-http://udq.me:80/live/Zw7tZ/MTAWF/13469.m3u8
-#EXTINF:-1,BRASILEIRINHAS: BIG MACK
-http://udq.me:80/live/Zw7tZ/MTAWF/13470.m3u8
-#EXTINF:-1,BRASILEIRINHAS: CLUBE PRIVE
-http://udq.me:80/live/Zw7tZ/MTAWF/13471.m3u8
-#EXTINF:-1,BRASILEIRINHAS: DEPOIS DOS 40
-http://udq.me:80/live/Zw7tZ/MTAWF/13472.m3u8
-#EXTINF:-1,BRASILEIRINHAS: ESTRELAS EM BUSCA DO PRAZER
-http://udq.me:80/live/Zw7tZ/MTAWF/13473.m3u8
-#EXTINF:-1,BRASILEIRINHAS: FAZENDO SACANAGEM
-http://udq.me:80/live/Zw7tZ/MTAWF/13474.m3u8
-#EXTINF:-1,Breaking Bad 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13486.m3u8
+http://lb.kstream.org/aovivo/HD_AXN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,AXN HD [Alter]
+http://lb.kstream.org/aovivo/HD_AXN_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,AXN HD [Leg]
+http://lb.kstream.org/aovivo/HD_AXN_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Acampamento Lakebottom
+http://lb.kstream.org/aovivo/24_ACAMPAMENTO_LAKEBOTTOM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Aladin (DESENHO)
+http://lb.kstream.org/aovivo/24_ALADIN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Animal Planet
+http://lb.kstream.org/aovivo/SD_ANIMAL_PLANET/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Animal Planet FHD
+http://lb.kstream.org/aovivo/FHD_ANIMAL_PLANET/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Animal Planet HD
+http://lb.kstream.org/aovivo/HD_ANIMAL_PLANET/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Animal Planet HD [Alter]
+http://lb.kstream.org/aovivo/HD_ANIMAL_PLANET_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Arte 1
+http://lb.kstream.org/aovivo/SD_ARTE1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Arte 1 FHD
+http://lb.kstream.org/aovivo/FHD_ARTE_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Arte 1 HD
+http://lb.kstream.org/aovivo/HD_ARTE1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Arte 1 HD [Alter]
+http://lb.kstream.org/aovivo/HD_ARTE1_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,As Aventuras de Jackie Chan
+http://lb.kstream.org/aovivo/24_AS_AVENTURAS_JACKIECHAN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,BIS
+http://lb.kstream.org/aovivo/SD_BIS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,BIS FHD
+http://lb.kstream.org/aovivo/FHD_BIS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,BIS HD
+http://lb.kstream.org/aovivo/HD_BIS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,BIS HD [Alter]
+http://lb.kstream.org/aovivo/HD_BIS_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Baby Shark
+http://lb.kstream.org/aovivo/24_BABY_SHARK/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Baby TV
+http://lb.kstream.org/aovivo/SD_BABYTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Baby TV FHD
+http://lb.kstream.org/aovivo/FHD_BABY_TV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Baby TV HD
+http://lb.kstream.org/aovivo/HD_BABY_TV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Band
+http://lb.kstream.org/aovivo/SD_BAND/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Band Bahia
+http://lb.kstream.org/aovivo/SD_BAND_BA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Band Campinas
+http://lb.kstream.org/aovivo/SD_BAND_CAMPINAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Band Campinas HD
+http://lb.kstream.org/aovivo/HD_BAND_CAMPINAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Band FHD
+http://lb.kstream.org/aovivo/FHD_BAND/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Band HD
+http://lb.kstream.org/aovivo/HD_BAND/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Band HD [Alter]
+http://lb.kstream.org/aovivo/HD_BAND_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Band Natal HD
+http://lb.kstream.org/aovivo/HD_BAND_NATAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Band News
+http://lb.kstream.org/aovivo/SD_BAND_NEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Band News FHD
+http://lb.kstream.org/aovivo/FHD_BAND_NEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Band News HD
+http://lb.kstream.org/aovivo/HD_BAND_NEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Band News HD [Alter]
+http://lb.kstream.org/aovivo/HD_BAND_NEWS_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Band Nordeste HD
+http://lb.kstream.org/aovivo/HD_BAND_NORDESTE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Band Parana HD https://iptv.live
+http://lb.kstream.org/aovivo/HD_BAND_PA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Band RJ
+http://lb.kstream.org/aovivo/SD_BAND_RJ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Band RJ FHD
+http://lb.kstream.org/aovivo/FHD_BAND_RJ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Band RJ HD
+http://lb.kstream.org/aovivo/HD_BAND_RJ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Band RS HD
+http://lb.kstream.org/aovivo/HD_BAND_RS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Band SP
+http://lb.kstream.org/aovivo/SD_BAND_SP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Band Sports
+http://lb.kstream.org/aovivo/SD_BAND_SPORTS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Band Sports FHD
+http://lb.kstream.org/aovivo/FHD_BAND_SPORTS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Band Sports HD
+http://lb.kstream.org/aovivo/HD_BAND_SPORTS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Band Sports HD [Alter]
+http://lb.kstream.org/aovivo/HD_BAND_SPORTS_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Ben 10
+http://lb.kstream.org/aovivo/24_BEN_10/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Boa Vontade TV
+http://lb.kstream.org/aovivo/HD_BOA_VONTADE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Bob Esponja
+http://lb.kstream.org/aovivo/24_HORAS_BOB_ESPONJA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Boku no Hero Academia
+http://lb.kstream.org/aovivo/24_BOKU_ACADEMIA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Boomerang
+http://lb.kstream.org/aovivo/SD_BOOMERANG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Boomerang FHD
+http://lb.kstream.org/aovivo/FHD_BOOMERANG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Boomerang HD
+http://lb.kstream.org/aovivo/HD_BOOMERANG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Boomerang HD [Alter]
+http://lb.kstream.org/aovivo/HD_BOOMERANG_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,CNN Brasil
+http://lb.kstream.org/aovivo/SD_CNN_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,CNN Brasil FHD
+http://lb.kstream.org/aovivo/FHD_CNN_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,CNN Brasil HD
+http://lb.kstream.org/aovivo/HD_CNN_BR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,CNN International FHD
+http://lb.kstream.org/aovivo/FHD_CNN_INTERNACIONAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,CNN International HD
+http://lb.kstream.org/aovivo/SD_CNN_INTERNATIONAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,CONMEBOL TV 01
+http://lb.kstream.org/aovivo/SD_CONMEBOL_01/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,CONMEBOL TV 01 HD
+http://lb.kstream.org/aovivo/HD_CONMEBOL_01/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,CONMEBOL TV 02
+http://lb.kstream.org/aovivo/SD_CONMEBOL_02/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,CONMEBOL TV 02 HD
+http://lb.kstream.org/aovivo/HD_CONMEBOL_02/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,CONMEBOL TV 03
+http://lb.kstream.org/aovivo/SD_CONMEBOL_03/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,CONMEBOL TV 03 HD
+http://lb.kstream.org/aovivo/HD_CONMEBOL_03/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,CONMEBOL TV 04
+http://lb.kstream.org/aovivo/SD_CONMEBOL_04/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,CONMEBOL TV 04 HD
+http://lb.kstream.org/aovivo/HD_CONMEBOL_04/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,Satellite TV
-http://udq.me:80/live/Zw7tZ/MTAWF/52519.m3u8
+http://lb.kstream.org/aovivo/SD_CANAL_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,Satellite TV
-http://udq.me:80/live/Zw7tZ/MTAWF/1016.m3u8
+http://lb.kstream.org/aovivo/HD_CANAL_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,Satellite TV
-http://udq.me:80/live/Zw7tZ/MTAWF/7041.m3u8
+http://lb.kstream.org/aovivo/HD_CANAL_BRASIL_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,Satellite TV
-http://udq.me:80/live/Zw7tZ/MTAWF/7040.m3u8
-#EXTINF:-1,Satellite TV
-http://udq.me:80/live/Zw7tZ/MTAWF/22690.m3u8
-#EXTINF:-1,Satellite TV
-http://udq.me:80/live/Zw7tZ/MTAWF/52520.m3u8
-#EXTINF:-1,Satellite TV
-http://udq.me:80/live/Zw7tZ/MTAWF/1024.m3u8
-#EXTINF:-1,Satellite TV
-http://udq.me:80/live/Zw7tZ/MTAWF/7043.m3u8
-#EXTINF:-1,Satellite TV
-http://udq.me:80/live/Zw7tZ/MTAWF/7042.m3u8
-#EXTINF:-1,CAO CORAGEM 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13487.m3u8
-#EXTINF:-1,CARTOON NETWORK H265
-http://udq.me:80/live/Zw7tZ/MTAWF/1085.m3u8
-#EXTINF:-1,CARTOON NETWORK FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/12933.m3u8
-#EXTINF:-1,CARTOON NETWORK FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102675.m3u8
-#EXTINF:-1,CARTOON NETWORK HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102676.m3u8
-#EXTINF:-1,CATARINENSE 1
-http://udq.me:80/live/Zw7tZ/MTAWF/52503.m3u8
-#EXTINF:-1,CATARINENSE 2
-http://udq.me:80/live/Zw7tZ/MTAWF/52502.m3u8
-#EXTINF:-1,CATARINENSE 3
-http://udq.me:80/live/Zw7tZ/MTAWF/52504.m3u8
-#EXTINF:-1,CATARINENSE 4
-http://udq.me:80/live/Zw7tZ/MTAWF/52505.m3u8
-#EXTINF:-1,Caverna do Dragão 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13488.m3u8
-#EXTINF:-1,Chapolin Colorado 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13489.m3u8
-#EXTINF:-1,CHAVES 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13490.m3u8
-#EXTINF:-1,CHAVES DESENHO 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13491.m3u8
-#EXTINF:-1,CINE Satellite TV
-http://udq.me:80/live/Zw7tZ/MTAWF/102625.m3u8
-#EXTINF:-1,CINE Satellite TV
-http://udq.me:80/live/Zw7tZ/MTAWF/102620.m3u8
-#EXTINF:-1,CINE Satellite TV
-http://udq.me:80/live/Zw7tZ/MTAWF/102615.m3u8
-#EXTINF:-1,CINE Satellite TV
-http://udq.me:80/live/Zw7tZ/MTAWF/102621.m3u8
-#EXTINF:-1,CINE Satellite TV
-http://udq.me:80/live/Zw7tZ/MTAWF/102616.m3u8
-#EXTINF:-1,CINE Satellite TV
-http://udq.me:80/live/Zw7tZ/MTAWF/102622.m3u8
-#EXTINF:-1,CINE Satellite TV
-http://udq.me:80/live/Zw7tZ/MTAWF/102617.m3u8
-#EXTINF:-1,CINE Satellite TV
-http://udq.me:80/live/Zw7tZ/MTAWF/102623.m3u8
-#EXTINF:-1,CINE Satellite TV
-http://udq.me:80/live/Zw7tZ/MTAWF/102618.m3u8
-#EXTINF:-1,CINE Satellite TV
-http://udq.me:80/live/Zw7tZ/MTAWF/102624.m3u8
-#EXTINF:-1,CINE Satellite TV
-http://udq.me:80/live/Zw7tZ/MTAWF/102619.m3u8
-#EXTINF:-1,CINE Satellite TV
-http://udq.me:80/live/Zw7tZ/MTAWF/102626.m3u8
-#EXTINF:-1,CINEMAX FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22689.m3u8
-#EXTINF:-1,CINEMAX FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52521.m3u8
-#EXTINF:-1,CINEMAX H265
-http://udq.me:80/live/Zw7tZ/MTAWF/1154.m3u8
-#EXTINF:-1,CINEMAX HD
-http://udq.me:80/live/Zw7tZ/MTAWF/7045.m3u8
-#EXTINF:-1,CINEMAX SD
-http://udq.me:80/live/Zw7tZ/MTAWF/7044.m3u8
-#EXTINF:-1,CNN BRASIL FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22586.m3u8
-#EXTINF:-1,CNN Brasil FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/22584.m3u8
-#EXTINF:-1,CNN BRASIL HD
-http://udq.me:80/live/Zw7tZ/MTAWF/22587.m3u8
-#EXTINF:-1,CNN BRASIL HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102627.m3u8
-#EXTINF:-1,CNN BRASIL SD
-http://udq.me:80/live/Zw7tZ/MTAWF/22588.m3u8
-#EXTINF:-1,COMBATE FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/967.m3u8
-#EXTINF:-1,COMBATE FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52509.m3u8
-#EXTINF:-1,COMBATE HD
-http://udq.me:80/live/Zw7tZ/MTAWF/953.m3u8
-#EXTINF:-1,COMBATE HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52497.m3u8
-#EXTINF:-1,COMBATE SD
-http://udq.me:80/live/Zw7tZ/MTAWF/943.m3u8
-#EXTINF:-1,COMBATE SD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52496.m3u8
-#EXTINF:-1,COMEDY CENTRAL FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13236.m3u8
-#EXTINF:-1,COMEDY CENTRAL H265
-http://udq.me:80/live/Zw7tZ/MTAWF/1210.m3u8
-#EXTINF:-1,CONMEBOL 1 FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/70198.m3u8
-#EXTINF:-1,CONMEBOL 1 FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/70202.m3u8
-#EXTINF:-1,CONMEBOL 1 [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/70204.m3u8
-#EXTINF:-1,CONMEBOL 2
-http://udq.me:80/live/Zw7tZ/MTAWF/70199.m3u8
-#EXTINF:-1,CONMEBOL 2 FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/70203.m3u8
-#EXTINF:-1,CONMEBOL 2 [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/70205.m3u8
-#EXTINF:-1,CONMEBOL 3
-http://udq.me:80/live/Zw7tZ/MTAWF/70200.m3u8
-#EXTINF:-1,CONMEBOL 4
-http://udq.me:80/live/Zw7tZ/MTAWF/70201.m3u8
-#EXTINF:-1,COPA NORDESTE 1
-http://udq.me:80/live/Zw7tZ/MTAWF/52506.m3u8
-#EXTINF:-1,COPA NORDESTE 2
-http://udq.me:80/live/Zw7tZ/MTAWF/52510.m3u8
-#EXTINF:-1,COPA NORDESTE 3
-http://udq.me:80/live/Zw7tZ/MTAWF/52511.m3u8
-#EXTINF:-1,COPA NORDESTE 4
-http://udq.me:80/live/Zw7tZ/MTAWF/52512.m3u8
-#EXTINF:-1,DAZN 1
-http://udq.me:80/live/Zw7tZ/MTAWF/976.m3u8
-#EXTINF:-1,DAZN 1 [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52508.m3u8
-#EXTINF:-1,DAZN 2
-http://udq.me:80/live/Zw7tZ/MTAWF/984.m3u8
-#EXTINF:-1,DAZN 2 [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52507.m3u8
-#EXTINF:-1,DAZN 3 HD
-http://udq.me:80/live/Zw7tZ/MTAWF/52490.m3u8
-#EXTINF:-1,DAZN 3 HD
-http://udq.me:80/live/Zw7tZ/MTAWF/13441.m3u8
-#EXTINF:-1,DAZN 4 HD
-http://udq.me:80/live/Zw7tZ/MTAWF/22665.m3u8
-#EXTINF:-1,DAZN 4 HD
-http://udq.me:80/live/Zw7tZ/MTAWF/52489.m3u8
-#EXTINF:-1,Denis o Pimentinha 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13492.m3u8
-#EXTINF:-1,Desenhos Biblicos 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13493.m3u8
-#EXTINF:-1,Desenhos Disney 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13494.m3u8
-#EXTINF:-1,Digimon 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13495.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13128.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/103712.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/103713.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL SD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/103714.m3u8
-#EXTINF:-1,DISCOVERY HOME & HEALTH FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13242.m3u8
-#EXTINF:-1,DISCOVERY INVESTIGATION FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13149.m3u8
-#EXTINF:-1,DISCOVERY KIDS FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/12939.m3u8
-#EXTINF:-1,DISCOVERY KIDS FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102669.m3u8
-#EXTINF:-1,DISCOVERY KIDS HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102670.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13134.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/103707.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/103708.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE SD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/103709.m3u8
-#EXTINF:-1,DISCOVERY THEATER FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13137.m3u8
-#EXTINF:-1,DISCOVERY THEATER FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/103704.m3u8
-#EXTINF:-1,DISCOVERY THEATER HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/103705.m3u8
-#EXTINF:-1,DISCOVERY THEATER SD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/103706.m3u8
-#EXTINF:-1,DISCOVERY WORLD FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13140.m3u8
-#EXTINF:-1,DISCOVERY WORLD FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/103701.m3u8
-#EXTINF:-1,DISCOVERY WORLD HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/103702.m3u8
-#EXTINF:-1,DISCOVERY WORLD SD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/103703.m3u8
-#EXTINF:-1,DISNEY CHANNEL FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/12942.m3u8
-#EXTINF:-1,DISNEY CHANNEL FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102666.m3u8
-#EXTINF:-1,DISNEY CHANNEL HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102667.m3u8
-#EXTINF:-1,DISNEY JR FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/12936.m3u8
-#EXTINF:-1,DISNEY JR FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102672.m3u8
-#EXTINF:-1,DISNEY JR HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102673.m3u8
-#EXTINF:-1,Dois Homens e Meio 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13496.m3u8
-#EXTINF:-1,Doug 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13497.m3u8
-#EXTINF:-1,DRAGON BALL 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13498.m3u8
-#EXTINF:-1,DRAGON BALL SUPER 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13499.m3u8
-#EXTINF:-1,DRAGON BALL Z 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13500.m3u8
+http://lb.kstream.org/aovivo/SD_CANAL_DO_BOI/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Cancao Nova
+http://lb.kstream.org/aovivo/SD_CANCAO_NOVA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Cancao Nova HD
+http://lb.kstream.org/aovivo/HD_CANCAO_NOVA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Cartoon Network
+http://lb.kstream.org/aovivo/SD_CARTOON_NETWORK/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Cartoon Network FHD
+http://lb.kstream.org/aovivo/FHD_CARTOON_NETWORK/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Cartoon Network HD
+http://lb.kstream.org/aovivo/HD_CARTOON_NETWORK/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Cartoon Network HD [Alter]
+http://lb.kstream.org/aovivo/HD_CARTOON_NETWORK_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Cavaleiro do Zodiaco
+http://lb.kstream.org/aovivo/24_CAVALEIRO_ZODIACO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Caverna do Dragao
+http://lb.kstream.org/aovivo/24_CAVERNA_DRAGAO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Chef TV FHD
+http://lb.kstream.org/aovivo/FHD_CHEFTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Chef TV HD
+http://lb.kstream.org/aovivo/HD_CHEFTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Cine Satellite TV
+http://lb.kstream.org/aovivo/HD_CINE_SKY_01/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Cine Satellite TV
+http://lb.kstream.org/aovivo/HD_CINE_SKY_02/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Cine Satellite TV
+http://lb.kstream.org/aovivo/HD_CINE_SKY_03/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Cine Satellite TV
+http://lb.kstream.org/aovivo/HD_CINE_SKY_04/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Cine Satellite TV
+http://lb.kstream.org/aovivo/HD_CINE_SKY_05/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Cine Satellite TV
+http://lb.kstream.org/aovivo/HD_CINE_SKY_06/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Cine Satellite TV
+http://lb.kstream.org/aovivo/HD_CINE_SKY_07/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Cine Satellite TV
+http://lb.kstream.org/aovivo/HD_CINE_SKY_08/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Cine Satellite TV
+http://lb.kstream.org/aovivo/HD_CINE_SKY_09/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Cine Satellite TV
+http://lb.kstream.org/aovivo/HD_CINE_SKY_10/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Cinemax
+http://lb.kstream.org/aovivo/SD_CINEMAX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Cinemax FHD
+http://lb.kstream.org/aovivo/FHD_CINEMAX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Cinemax HD
+http://lb.kstream.org/aovivo/HD_CINEMAX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Cinemax HD [Alter]
+http://lb.kstream.org/aovivo/HD_CINEMAX_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Combate
+http://lb.kstream.org/aovivo/SD_COMBATE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Combate FHD
+http://lb.kstream.org/aovivo/FHD_COMBATE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Combate HD
+http://lb.kstream.org/aovivo/HD_COMBATE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Combate HD [Alter]
+http://lb.kstream.org/aovivo/HD_COMBATE_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Comedy Central
+http://lb.kstream.org/aovivo/SD_COMEDY_CENTRAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Comedy Central FHD
+http://lb.kstream.org/aovivo/FHD_COMEDY_CENTRAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Comedy Central HD
+http://lb.kstream.org/aovivo/HD_COMEDY_CENTRAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Comedy Central HD [Alter]
+http://lb.kstream.org/aovivo/HD_COMEDY_CENTRAL_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Cultura
+http://lb.kstream.org/aovivo/SD_TV_CULTURA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Cultura HD
+http://lb.kstream.org/aovivo/HD_CULTURA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Curta!
+http://lb.kstream.org/aovivo/SD_CURTA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Curta! HD
+http://lb.kstream.org/aovivo/HD_CURTA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Curta! HD [Alter]
+http://lb.kstream.org/aovivo/HD_CURTA_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,DAZN 1 HD
+http://lb.kstream.org/aovivo/HD_DAZN_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,DAZN 2 HD
+http://lb.kstream.org/aovivo/HD_DAZN_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Daniel Tigre
+http://lb.kstream.org/aovivo/24_DANIEL_TIGRE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Desenhos Biblicos
+http://lb.kstream.org/aovivo/24_DESENHOS_BIBLICOS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Discovery Channel
+http://lb.kstream.org/aovivo/SD_DISCOVERY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Discovery Channel FHD
+http://lb.kstream.org/aovivo/FHD_DISCOVERY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Discovery Channel HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Discovery Channel HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISCOVERY_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Discovery Home & Health
+http://lb.kstream.org/aovivo/SD_DISCOVERY_HOMEHEALTH/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Discovery Home & Health FHD
+http://lb.kstream.org/aovivo/FHD_DISCOVERY_HOMEHEALTH/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Discovery Home & Health HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY_HOMEHEALTH/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Discovery Home & Health HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISCOVERY_HOMEHEALTH_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Discovery Kids
+http://lb.kstream.org/aovivo/SD_DISCOVERY_KIDS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Discovery Kids FHD
+http://lb.kstream.org/aovivo/FHD_DISCOVERY_KIDS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Discovery Kids HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY_KIDS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Discovery Kids HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISCOVERY_KIDS_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Discovery Science
+http://lb.kstream.org/aovivo/SD_DISCOVERY_SCIENCE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Discovery Science FHD
+http://lb.kstream.org/aovivo/FHD_DISCOVERY_SCIENCE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Discovery Science HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY_SCIENCE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Discovery Science HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISCOVERY_SCIENCE_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Discovery Theater
+http://lb.kstream.org/aovivo/SD_DISCOVERY_THEATER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Discovery Theater FHD
+http://lb.kstream.org/aovivo/FHD_DISCOVERY_THEATER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Discovery Theater HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY_THEATER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Discovery Theater HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISCOVERY_THEATER_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Discovery Turbo
+http://lb.kstream.org/aovivo/SD_DISCOVERY_TURBO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Discovery Turbo FHD
+http://lb.kstream.org/aovivo/FHD_DISCOVERY_TURBO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Discovery Turbo HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY_TURBO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Discovery Turbo HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISCOVERY_TURBO_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Discovery World
+http://lb.kstream.org/aovivo/SD_DISCOVERY_WORLD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Discovery World FHD
+http://lb.kstream.org/aovivo/FHD_DISCOVERY_WORLD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Discovery World HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY_WORLD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Discovery World HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISCOVERY_WORLD_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Disney Channel
+http://lb.kstream.org/aovivo/SD_DISNEY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Disney Channel FHD
+http://lb.kstream.org/aovivo/FHD_DISNEY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Disney Channel HD
+http://lb.kstream.org/aovivo/HD_DISNEY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Disney Channel HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISNEY_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Disney JR
+http://lb.kstream.org/aovivo/SD_DISNEY_JR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Disney JR FHD
+http://lb.kstream.org/aovivo/FHD_DISNEY_JUNIOR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Disney JR HD
+http://lb.kstream.org/aovivo/HD_DISNEY_JUNIOR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Disney JR HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISNEY_JUNIOR_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Disney XD
+http://lb.kstream.org/aovivo/SD_DISNEY_XD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Disney XD HD
+http://lb.kstream.org/aovivo/HD_DISNEY_XD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Disney XD HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISNEY_XD_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,E!
+http://lb.kstream.org/aovivo/SD_E/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,E! FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13249.m3u8
-#EXTINF:-1,EI PLUS HD
-http://udq.me:80/live/Zw7tZ/MTAWF/102614.m3u8
-#EXTINF:-1,EI PLUS SD
-http://udq.me:80/live/Zw7tZ/MTAWF/4395.m3u8
+http://lb.kstream.org/aovivo/FHD_E/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,E! HD
+http://lb.kstream.org/aovivo/HD_E/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,E! HD [Alter]
+http://lb.kstream.org/aovivo/HD_E_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,ESPN
+http://lb.kstream.org/aovivo/SD_ESPN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,ESPN 2
+http://lb.kstream.org/aovivo/SD_EEEE_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,ESPN 2 FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/4266.m3u8
-#EXTINF:-1,ESPN 2 H265
-http://udq.me:80/live/Zw7tZ/MTAWF/1213.m3u8
+http://lb.kstream.org/aovivo/FHD_EEEE_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,ESPN 2 HD
-http://udq.me:80/live/Zw7tZ/MTAWF/4090.m3u8
-#EXTINF:-1,ESPN 2 SD
-http://udq.me:80/live/Zw7tZ/MTAWF/4089.m3u8
-#EXTINF:-1,ESPN BRASIL FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/4307.m3u8
-#EXTINF:-1,ESPN BRASIL HD
-http://udq.me:80/live/Zw7tZ/MTAWF/4114.m3u8
-#EXTINF:-1,ESPN EXTRA FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/4274.m3u8
-#EXTINF:-1,ESPN EXTRA H265
-http://udq.me:80/live/Zw7tZ/MTAWF/1215.m3u8
-#EXTINF:-1,ESPN EXTRA HD
-http://udq.me:80/live/Zw7tZ/MTAWF/4234.m3u8
-#EXTINF:-1,ESPN EXTRA SD
-http://udq.me:80/live/Zw7tZ/MTAWF/4149.m3u8
+http://lb.kstream.org/aovivo/HD_EEEE_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,ESPN 2 HD [Alter]
+http://lb.kstream.org/aovivo/HD_EEEE_2_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,ESPN Brasil
+http://lb.kstream.org/aovivo/SD_HDKASNBSBS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,ESPN Brasil FHD
+http://lb.kstream.org/aovivo/FHD_ESPN_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,ESPN Brasil HD
+http://lb.kstream.org/aovivo/HD_HDUASBDOM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,ESPN Brasil HD [Alter]
+http://lb.kstream.org/aovivo/HD_ESPN_BRASIL_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,ESPN Extra
+http://lb.kstream.org/aovivo/SD_ESPN_EXTRA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,ESPN Extra HD
+http://lb.kstream.org/aovivo/HD_ESPN_EXTRA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,ESPN FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/4332.m3u8
+http://lb.kstream.org/aovivo/FHD_ESPN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,ESPN HD
-http://udq.me:80/live/Zw7tZ/MTAWF/4252.m3u8
-#EXTINF:-1,ESPN SD
-http://udq.me:80/live/Zw7tZ/MTAWF/4088.m3u8
-#EXTINF:-1,Eu a Patroa e as Crianças 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13501.m3u8
-#EXTINF:-1,FILM & ARTS SD
-http://udq.me:80/live/Zw7tZ/MTAWF/13315.m3u8
-#EXTINF:-1,FISH TV FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/4560.m3u8
-#EXTINF:-1,FOOD NETWORK FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13254.m3u8
-#EXTINF:-1,FOOD NETWORK H265
-http://udq.me:80/live/Zw7tZ/MTAWF/1217.m3u8
-#EXTINF:-1,Formiga Atómica 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13502.m3u8
-#EXTINF:-1,FOX FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22688.m3u8
-#EXTINF:-1,FOX FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52526.m3u8
-#EXTINF:-1,FOX H265
-http://udq.me:80/live/Zw7tZ/MTAWF/1249.m3u8
-#EXTINF:-1,FOX HD
-http://udq.me:80/live/Zw7tZ/MTAWF/7062.m3u8
-#EXTINF:-1,FOX HD LEGENDADO
-http://udq.me:80/live/Zw7tZ/MTAWF/21242.m3u8
-#EXTINF:-1,FOX LIFE FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22687.m3u8
-#EXTINF:-1,FOX LIFE FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52522.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://udq.me:80/live/Zw7tZ/MTAWF/7065.m3u8
-#EXTINF:-1,FOX LIFE SD
-http://udq.me:80/live/Zw7tZ/MTAWF/7064.m3u8
-#EXTINF:-1,FOX PREMIUM 1 H265
-http://udq.me:80/live/Zw7tZ/MTAWF/1282.m3u8
-#EXTINF:-1,FOX PREMIUM 1 HD
-http://udq.me:80/live/Zw7tZ/MTAWF/7078.m3u8
-#EXTINF:-1,FOX PREMIUM 1 SD
-http://udq.me:80/live/Zw7tZ/MTAWF/7079.m3u8
-#EXTINF:-1,FOX PREMIUM 2 FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22686.m3u8
-#EXTINF:-1,FOX PREMIUM 2 FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52529.m3u8
-#EXTINF:-1,FOX PREMIUM 2 H265
-http://udq.me:80/live/Zw7tZ/MTAWF/1293.m3u8
-#EXTINF:-1,FOX PREMIUM 2 HD
-http://udq.me:80/live/Zw7tZ/MTAWF/7081.m3u8
-#EXTINF:-1,FOX PREMIUM 2 SD
-http://udq.me:80/live/Zw7tZ/MTAWF/7080.m3u8
-#EXTINF:-1,FOX SD
-http://udq.me:80/live/Zw7tZ/MTAWF/7063.m3u8
-#EXTINF:-1,FOX FHD LEGENDADO
-http://udq.me:80/live/Zw7tZ/MTAWF/21243.m3u8
-#EXTINF:-1,FOX SPORTS 2 FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/4022.m3u8
-#EXTINF:-1,FOX SPORTS 2 FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52501.m3u8
-#EXTINF:-1,FOX SPORTS 2 HD
-http://udq.me:80/live/Zw7tZ/MTAWF/4030.m3u8
-#EXTINF:-1,FOX SPORTS 2 HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52498.m3u8
-#EXTINF:-1,FOX SPORTS 2 SD
-http://udq.me:80/live/Zw7tZ/MTAWF/4031.m3u8
-#EXTINF:-1,FOX SPORTS 2 SD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52539.m3u8
-#EXTINF:-1,FOX SPORTS FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/4021.m3u8
-#EXTINF:-1,FOX SPORTS FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52499.m3u8
-#EXTINF:-1,FOX SPORTS HD
-http://udq.me:80/live/Zw7tZ/MTAWF/4044.m3u8
-#EXTINF:-1,FOX SPORTS SD
-http://udq.me:80/live/Zw7tZ/MTAWF/4059.m3u8
-#EXTINF:-1,FOX SPORTS SD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52495.m3u8
-#EXTINF:-1,FUTURA
-http://udq.me:80/live/Zw7tZ/MTAWF/52472.m3u8
+http://lb.kstream.org/aovivo/HD_ESPN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,ESPN HD [Alter]
+http://lb.kstream.org/aovivo/HD_ESPN_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Escolinha do Professor Raimundo
+http://lb.kstream.org/aovivo/24_ESCOLINHA_RAIMUNDO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Esporte Interativo
+http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Esporte Interativo 02
+http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Esporte Interativo 04
+http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_4/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Esporte Interativo 04 HD
+http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_4/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Esporte Interativo 05
+http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_5/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Esporte Interativo 05 HD
+http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_5/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Esporte Interativo 06
+http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_6/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Esporte Interativo 06 HD
+http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_6/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Esporte Interativo 07
+http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_7/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Esporte Interativo 07 HD
+http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_7/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Esporte Interativo 08
+http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_8/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Esporte Interativo 08 HD
+http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_8/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Esporte Interativo 09
+http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_9/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Esporte Interativo 09 HD
+http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_9/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Esporte Interativo 10
+http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_10/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Esporte Interativo 10 HD
+http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_10/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Esporte Interativo HD
+http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Esporte interativo 02 HD
+http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Esporte interativo 03
+http://lb.kstream.org/aovivo/SD_EI_PLUS_3/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Esporte interativo 03 HD
+http://lb.kstream.org/aovivo/HD_EI_PLUS_3/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,FX
+http://lb.kstream.org/aovivo/SD_FX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,FX FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22684.m3u8
-#EXTINF:-1,FX FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52527.m3u8
-#EXTINF:-1,FX H265
-http://udq.me:80/live/Zw7tZ/MTAWF/1345.m3u8
+http://lb.kstream.org/aovivo/FHD_FX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,FX HD
-http://udq.me:80/live/Zw7tZ/MTAWF/7083.m3u8
-#EXTINF:-1,FX SD
-http://udq.me:80/live/Zw7tZ/MTAWF/7082.m3u8
-#EXTINF:-1,Galinha Pintadinha 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13503.m3u8
-#EXTINF:-1,GLOBO BRASILIA FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/1542.m3u8
-#EXTINF:-1,GLOBO EPTV CAMPINAS FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13595.m3u8
-#EXTINF:-1,GLOBO EPTV CAMPINAS HD
-http://udq.me:80/live/Zw7tZ/MTAWF/102639.m3u8
-#EXTINF:-1,GLOBO GAZETA SUL ES FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22655.m3u8
-#EXTINF:-1,GLOBO GAZETA SUL ES SD
-http://udq.me:80/live/Zw7tZ/MTAWF/22656.m3u8
-#EXTINF:-1,GLOBO INTER TV ALTO LITORAL FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/3911.m3u8
-#EXTINF:-1,GLOBO INTER TV SERRA MAR FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/3920.m3u8
-#EXTINF:-1,GLOBO MARANHÃO HD
-http://udq.me:80/live/Zw7tZ/MTAWF/22659.m3u8
-#EXTINF:-1,GLOBO NEWS FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/1475.m3u8
-#EXTINF:-1,GLOBO NEWS FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102635.m3u8
-#EXTINF:-1,GLOBO NEWS H265
-http://udq.me:80/live/Zw7tZ/MTAWF/1363.m3u8
-#EXTINF:-1,GLOBO NEWS HD
-http://udq.me:80/live/Zw7tZ/MTAWF/1460.m3u8
-#EXTINF:-1,GLOBO NEWS HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102636.m3u8
-#EXTINF:-1,GLOBO NEWS SD
-http://udq.me:80/live/Zw7tZ/MTAWF/1435.m3u8
-#EXTINF:-1,GLOBO NEWS SD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102637.m3u8
-#EXTINF:-1,GLOBO NORDESTE FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/3809.m3u8
-#EXTINF:-1,GLOBO NSC TV CHAPECO FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/2834.m3u8
-#EXTINF:-1,GLOBO NSC TV JOINVILLE FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/3929.m3u8
-#EXTINF:-1,Globo Paraiba HD
-http://udq.me:80/live/Zw7tZ/MTAWF/22657.m3u8
-#EXTINF:-1,GLOBO PIAUI HD
-http://udq.me:80/live/Zw7tZ/MTAWF/22658.m3u8
-#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/3926.m3u8
-#EXTINF:-1,GLOBO RJ FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/1684.m3u8
-#EXTINF:-1,GLOBO RPC PONTA GROSSA FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/1699.m3u8
-#EXTINF:-1,GLOBO RPC PARANAVAI FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/3244.m3u8
-#EXTINF:-1,GLOBO RPC MARINGA FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/1517.m3u8
-#EXTINF:-1,GLOBO SP FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/1702.m3u8
-#EXTINF:-1,GLOBO TV CABO BRANCO FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/3935.m3u8
-#EXTINF:-1,GLOBO TV CLUBE PIAUI FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/3440.m3u8
-#EXTINF:-1,GLOBO TV GAZETA ALAGOAS FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/3906.m3u8
-#EXTINF:-1,GLOBO TV GAZETA VITÓRIA FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/3764.m3u8
-#EXTINF:-1,GLOBO TV MIRANTE FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/3898.m3u8
-#EXTINF:-1,GLOBO TV RIO SUL FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/3938.m3u8
-#EXTINF:-1,GLOBO TV SERGIPE FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/3767.m3u8
-#EXTINF:-1,GLOOB FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/12946.m3u8
-#EXTINF:-1,GLOOB FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102660.m3u8
-#EXTINF:-1,GLOOB H265
-http://udq.me:80/live/Zw7tZ/MTAWF/1371.m3u8
-#EXTINF:-1,GLOOB HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102661.m3u8
+http://lb.kstream.org/aovivo/HD_FX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,FX HD [Alter]
+http://lb.kstream.org/aovivo/HD_FX_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Faisca e Fumaca
+http://lb.kstream.org/aovivo/24_FAISCA_FUMACA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fish TV
+http://lb.kstream.org/aovivo/SD_FISH_TV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fish TV FHD
+http://lb.kstream.org/aovivo/FHD_FISH_TV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fish TV HD
+http://lb.kstream.org/aovivo/HD_FISH_TV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fish TV HD [Alter]
+http://lb.kstream.org/aovivo/HD_FISH_TV_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,FlaTV
+http://lb.kstream.org/aovivo/HD_FLATV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Flow Podcast
+http://lb.kstream.org/aovivo/HD_FLOW_PODCAST/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Flu TV
+http://lb.kstream.org/aovivo/HD_FLUTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Food Network
+http://lb.kstream.org/aovivo/SD_FOOD_NETWORK/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Food Network FHD
+http://lb.kstream.org/aovivo/FHD_FOOD_NETWORK/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Food Network HD
+http://lb.kstream.org/aovivo/HD_FOOD_NETWORK/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Food Network HD [Alter]
+http://lb.kstream.org/aovivo/HD_FOOD_NETWORK_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fox
+http://lb.kstream.org/aovivo/SD_FOX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fox FHD
+http://lb.kstream.org/aovivo/FHD_FOX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fox FHD [Leg]
+http://lb.kstream.org/aovivo/FHD_FOX_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fox HD
+http://lb.kstream.org/aovivo/HD_FOX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fox HD [Alter]
+http://lb.kstream.org/aovivo/HD_FOX_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fox HD [Leg]
+http://lb.kstream.org/aovivo/HD_FOX_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fox Life
+http://lb.kstream.org/aovivo/SD_FOX_LIFE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fox Life FHD
+http://lb.kstream.org/aovivo/FHD_FOX_LIFE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fox Life HD
+http://lb.kstream.org/aovivo/HD_FOX_LIFE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fox Life HD [Alter]
+http://lb.kstream.org/aovivo/HD_FOX_LIFE_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fox Premium 1
+http://lb.kstream.org/aovivo/SD_FOX_PREMIUM_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fox Premium 1 FHD [Leg]
+http://lb.kstream.org/aovivo/FHD_FOX_PREMIUM_1_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fox Premium 1 HD
+http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fox Premium 1 HD [Alter]
+http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fox Premium 1 HD [Leg]
+http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fox Premium 2
+http://lb.kstream.org/aovivo/SD_FOX_PREMIUM_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fox Premium 2 FHD [Leg]
+http://lb.kstream.org/aovivo/FHD_FOX_PREMIUM_2_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fox Premium 2 HD
+http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fox Premium 2 HD [Alter]
+http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fox Premium 2 HD [Leg]
+http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fox Sports
+http://lb.kstream.org/aovivo/SD_FOX_SPORTS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fox Sports 2
+http://lb.kstream.org/aovivo/SD_FOX_SPORTS_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fox Sports 2 FHD
+http://lb.kstream.org/aovivo/FHD_FOX_SPORTS_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fox Sports 2 HD
+http://lb.kstream.org/aovivo/HD_FOX_SPORTS_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fox Sports 2 HD [Alter]
+http://lb.kstream.org/aovivo/HD_FOX_SPORTS_2_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fox Sports FHD
+http://lb.kstream.org/aovivo/FHD_FOX_SPORTS_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fox Sports HD
+http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Fox Sports HD [Alter]
+http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Futura
+http://lb.kstream.org/aovivo/SD_FUTURA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Futura HD
+http://lb.kstream.org/aovivo/HD_FUTURA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,GNT
+http://lb.kstream.org/aovivo/SD_GNT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,GNT FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13257.m3u8
-#EXTINF:-1,Guardiões da Galaxia 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13504.m3u8
-#EXTINF:-1,H2 FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13143.m3u8
-#EXTINF:-1,H2 FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/103698.m3u8
-#EXTINF:-1,H2 HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/103699.m3u8
-#EXTINF:-1,H2 SD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/103700.m3u8
+http://lb.kstream.org/aovivo/FHD_GNT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,GNT HD
+http://lb.kstream.org/aovivo/HD_GNT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,GNT HD [Alter]
+http://lb.kstream.org/aovivo/HD_GNT_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Galinha Pintadinha
+http://lb.kstream.org/aovivo/24_GALINHA_PINTADA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo Brasilia
+http://lb.kstream.org/aovivo/SD_GLOBO_BRASILIA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo Brasilia HD
+http://lb.kstream.org/aovivo/HD_GLOBO_BRASILIA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo EPTV Campinas
+http://lb.kstream.org/aovivo/SD_GLOBO_EPTV_CAMPINAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo EPTV Campinas HD
+http://lb.kstream.org/aovivo/HD_GLOBO_EPTV_CAMPINAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo EPTV Central
+http://lb.kstream.org/aovivo/SD_GLOBO_SAO_CARLOS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo EPTV Ribeirao
+http://lb.kstream.org/aovivo/SD_GLOBO_RIBEIRAO_PRETO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo EPTV Ribeirao HD
+http://lb.kstream.org/aovivo/HD_GLOBO_RIBEIRAO_PRETO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo EPTV Sul de Minas
+http://lb.kstream.org/aovivo/SD_GLOBO_EPTV_SUL_MINAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo Inter TV Cabugi
+http://lb.kstream.org/aovivo/SD_GLOBO_RN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo Inter TV Cabugi HD
+http://lb.kstream.org/aovivo/HD_GLOBO_RN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo Inter TV Grande Minas FHD
+http://lb.kstream.org/aovivo/FHD_GLOBO_GRANDE_MINAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo Inter TV Grande Minas HD
+http://lb.kstream.org/aovivo/SD_GLOBO_INTERTV_GRANDE_MINAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo Inter TV Serra Mar
+http://lb.kstream.org/aovivo/SD_GLOBO_INTERTV_SERRA_MAR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo Minas
+http://lb.kstream.org/aovivo/SD_GLOBO_MINAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo Minas FHD
+http://lb.kstream.org/aovivo/FHD_GLOBO_MG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo Minas HD
+http://lb.kstream.org/aovivo/HD_GLOBO_MINAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo NSC TV Florianopolis
+http://lb.kstream.org/aovivo/SD_GLOBO_SC/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo NSC TV Florianopolis HD
+http://lb.kstream.org/aovivo/HD_GLOBO_SC/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo Nordeste
+http://lb.kstream.org/aovivo/SD_GLOBO_NORDESTE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo Nordeste FHD
+http://lb.kstream.org/aovivo/FHD_GLOBO_NORDESTE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo Nordeste HD
+http://lb.kstream.org/aovivo/HD_GLOBO_NORDESTE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo Nordeste HD [Alter]
+http://lb.kstream.org/aovivo/HD_GLOBO_NORDESTE_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo RBS POA
+http://lb.kstream.org/aovivo/SD_GLOBO_RBS_POA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo RBS POA FHD
+http://lb.kstream.org/aovivo/FHD_GLOBO_RBS_POA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo RBS POA HD
+http://lb.kstream.org/aovivo/HD_GLOBO_RBS_POA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo RPC Curitiba
+http://lb.kstream.org/aovivo/SD_GLOBO_RPC_CURITIBA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo RPC Curitiba HD
+http://lb.kstream.org/aovivo/HD_GLOBO_RPC_CURITIBA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo RPC Paranaense FHD
+http://lb.kstream.org/aovivo/FHD_GLOBO_RPC_PARANAENSE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo Rede Amazonica Acre HD
+http://lb.kstream.org/aovivo/HD_GLOBO_AMAZONICA_ACRE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo Rede Amazonica Manaus HD
+http://lb.kstream.org/aovivo/HD_GLOBO_AMAZONAS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo Rede Amazonica Rondonia HD
+http://lb.kstream.org/aovivo/HD_GLOBO_RONDONIA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo Rede Amazonica Roraima HD
+http://lb.kstream.org/aovivo/HD_GLOBO_RORAIMA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo Rio
+http://lb.kstream.org/aovivo/SD_GLOBO_RJ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo Rio FHD
+http://lb.kstream.org/aovivo/FHD_GLOBO_RJ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo Rio HD
+http://lb.kstream.org/aovivo/HD_GLOBO_RJ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo SP
+http://lb.kstream.org/aovivo/SD_GLOBO_SP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo SP FHD
+http://lb.kstream.org/aovivo/FHD_GLOBO_SP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo SP HD
+http://lb.kstream.org/aovivo/HD_GLOBO_SP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo SP HD [Alter]
+http://lb.kstream.org/aovivo/HD_GLOBO_SP_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV Anhanguera Goiania
+http://lb.kstream.org/aovivo/SD_GLOBO_TV_ANHANGUERA_GO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV Asa Branca
+http://lb.kstream.org/aovivo/SD_GLOBO_TV_ASA_BRANCA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV Bahia
+http://lb.kstream.org/aovivo/SD_GLOBO_TV_BAHIA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV Bahia HD
+http://lb.kstream.org/aovivo/HD_GLOBO_TV_BAHIA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV Centro America
+http://lb.kstream.org/aovivo/SD_TV_CENTRO_AMERICA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV Centro America FHD
+http://lb.kstream.org/aovivo/FHD_CENTRO_AMERICA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV Centro America HD
+http://lb.kstream.org/aovivo/HD_GLOBO_TV_CENTRO_AMERICA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV Gazeta ES
+http://lb.kstream.org/aovivo/SD_GAZETA_ES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV Gazeta ES HD
+http://lb.kstream.org/aovivo/HD_GAZETA_ES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV Integracao
+http://lb.kstream.org/aovivo/SD_GLOBO_TV_INTEGRACAO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV Liberal Belem
+http://lb.kstream.org/aovivo/SD_GLOBO_LIBERAL_BELEM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV Liberal Belem HD
+http://lb.kstream.org/aovivo/HD_GLOBO_PARA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV Mirante Cocais
+http://lb.kstream.org/aovivo/SD_GLOBO_TV_MIRANTE_COCAIS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV Mirante Cocais FHD
+http://lb.kstream.org/aovivo/FHD_GLOBO_MARANHAO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV Mirante Cocais HD
+http://lb.kstream.org/aovivo/HD_GLOBO_MARANHAO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV Santa Cruz
+http://lb.kstream.org/aovivo/SD_GLOBO_TV_SANTA_CRUZ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV Sergipe
+http://lb.kstream.org/aovivo/SD_GLOBO_SERGIPE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV Sergipe FHD
+http://lb.kstream.org/aovivo/FHD_GLOBO_SERGIPE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV Sergipe HD
+http://lb.kstream.org/aovivo/HD_GLOBO_SERGIPE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV TEM BAURU
+http://lb.kstream.org/aovivo/SD_GLOBO_TV_TEM_BAURU/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV TEM Itapetininga
+http://lb.kstream.org/aovivo/SD_GLOBO_TV_TEM_ITAPETININGA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV TEM S. J. DO RIO PRETO
+http://lb.kstream.org/aovivo/SD_GLOBO_TV_TEM_SJ_RIO_PRETO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV TEM SOROCABA
+http://lb.kstream.org/aovivo/SD_GLOBO_TV_TEM_SOROCABA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV Tribuna Santos
+http://lb.kstream.org/aovivo/SD_GLOBO_TV_TRIBUNA_SANTOS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV Vanguarda SJC
+http://lb.kstream.org/aovivo/SD_GLOBO_TV_VANGUARDA_SJC/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV Vanguarda Taubate
+http://lb.kstream.org/aovivo/SD_GLOBO_TV_VANGUARDA_TAUBATE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV Verdes Mares
+http://lb.kstream.org/aovivo/SD_GLOBO_VERDES_MARES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV Verdes Mares FHD
+http://lb.kstream.org/aovivo/FHD_GLOBO_VERDES_MARES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo TV Verdes Mares HD
+http://lb.kstream.org/aovivo/HD_GLOBO_TV_VERDES_MARES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo Tv Cabo Branco
+http://lb.kstream.org/aovivo/SD_GLOBO_CABO_BRANCO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo Tv Cabo Branco HD
+http://lb.kstream.org/aovivo/HD_GLOBO_CABO_BRANCO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Globo Tv Clube PI HD
+http://lb.kstream.org/aovivo/HD_GLOBO_PIAUI/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,GloboNews
+http://lb.kstream.org/aovivo/SD_GLOBO_NEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,GloboNews FHD
+http://lb.kstream.org/aovivo/FHD_GLOBONEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,GloboNews HD
+http://lb.kstream.org/aovivo/HD_GLOBONEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,GloboNews HD [Alter]
+http://lb.kstream.org/aovivo/HD_GLOBONEWS_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Gloob
+http://lb.kstream.org/aovivo/SD_GLOOB/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Gloob HD
+http://lb.kstream.org/aovivo/HD_GLOOB/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Gloob HD [Alter]
+http://lb.kstream.org/aovivo/HD_GLOOB_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Gloobinho
+http://lb.kstream.org/aovivo/SD_GLOOBINHO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Gloobinho FHD
+http://lb.kstream.org/aovivo/FHD_GLOOBINHO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Gloobinho HD
+http://lb.kstream.org/aovivo/HD_GLOOBINHO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO
+http://lb.kstream.org/aovivo/SD_HBO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO 2
+http://lb.kstream.org/aovivo/SD_HBO_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,HBO 2 FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22683.m3u8
-#EXTINF:-1,HBO 2 FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52530.m3u8
-#EXTINF:-1,HBO 2 H265
-http://udq.me:80/live/Zw7tZ/MTAWF/1389.m3u8
+http://lb.kstream.org/aovivo/FHD_HBO_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,HBO 2 HD
-http://udq.me:80/live/Zw7tZ/MTAWF/7086.m3u8
-#EXTINF:-1,HBO 2 SD
-http://udq.me:80/live/Zw7tZ/MTAWF/7085.m3u8
-#EXTINF:-1,HBO FAMILY FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22682.m3u8
-#EXTINF:-1,HBO FAMILY FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52528.m3u8
-#EXTINF:-1,HBO FAMILY H265
-http://udq.me:80/live/Zw7tZ/MTAWF/1413.m3u8
-#EXTINF:-1,HBO FAMILY HD
-http://udq.me:80/live/Zw7tZ/MTAWF/7113.m3u8
-#EXTINF:-1,HBO FAMILY SD
-http://udq.me:80/live/Zw7tZ/MTAWF/7114.m3u8
+http://lb.kstream.org/aovivo/HD_HBO_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO 2 HD [Alter]
+http://lb.kstream.org/aovivo/HD_HBO_2_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,HBO FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22681.m3u8
-#EXTINF:-1,HBO FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52531.m3u8
-#EXTINF:-1,HBO H265
-http://udq.me:80/live/Zw7tZ/MTAWF/1424.m3u8
+http://lb.kstream.org/aovivo/FHD_HBO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO FHD [Leg]
+http://lb.kstream.org/aovivo/FHD_HBO_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO Family
+http://lb.kstream.org/aovivo/SD_HBO_FAMILY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO Family FHD
+http://lb.kstream.org/aovivo/FHD_HBO_FAMILLY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO Family HD
+http://lb.kstream.org/aovivo/HD_HBO_FAMILY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO Family HD [Alter]
+http://lb.kstream.org/aovivo/HD_HBO_FAMILLY_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,HBO HD
-http://udq.me:80/live/Zw7tZ/MTAWF/7163.m3u8
-#EXTINF:-1,HBO MUNDI FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22678.m3u8
-#EXTINF:-1,HBO MUNDI FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52534.m3u8
-#EXTINF:-1,HBO MUNDI HD
-http://udq.me:80/live/Zw7tZ/MTAWF/7721.m3u8
-#EXTINF:-1,HBO PLUS FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22680.m3u8
-#EXTINF:-1,HBO PLUS H265
-http://udq.me:80/live/Zw7tZ/MTAWF/1434.m3u8
-#EXTINF:-1,HBO PLUS HD
-http://udq.me:80/live/Zw7tZ/MTAWF/7717.m3u8
-#EXTINF:-1,HBO PLUS HD LEGENDADO
-http://udq.me:80/live/Zw7tZ/MTAWF/21246.m3u8
-#EXTINF:-1,HBO PLUS SD
-http://udq.me:80/live/Zw7tZ/MTAWF/7716.m3u8
-#EXTINF:-1,HBO PLUS FHD LEGENDADO
-http://udq.me:80/live/Zw7tZ/MTAWF/21247.m3u8
+http://lb.kstream.org/aovivo/HD_HBO_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO HD [Alter]
+http://lb.kstream.org/aovivo/HD_HBO_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO HD [Leg]
+http://lb.kstream.org/aovivo/HD_HBO_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO Mundi
+http://lb.kstream.org/aovivo/SD_HBO_MUNDI/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO Mundi FHD
+http://lb.kstream.org/aovivo/FHD_HBO_MUNDI/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO Mundi FHD [Leg]
+http://lb.kstream.org/aovivo/FHD_HBO_MUNDI_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO Mundi HD
+http://lb.kstream.org/aovivo/HD_HBO_MUNDI/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO Mundi HD [Alter]
+http://lb.kstream.org/aovivo/HD_HBO_MUNDI_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO Mundi HD [Leg]
+http://lb.kstream.org/aovivo/HD_HBO_MUNDI_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO POP
+http://lb.kstream.org/aovivo/SD_HBO_POP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,HBO POP FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22676.m3u8
+http://lb.kstream.org/aovivo/FHD_HBO_POP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO POP FHD [Leg]
+http://lb.kstream.org/aovivo/FHD_HBO_POP_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,HBO POP HD
-http://udq.me:80/live/Zw7tZ/MTAWF/7725.m3u8
-#EXTINF:-1,HBO POP HD LEGENDADO
-http://udq.me:80/live/Zw7tZ/MTAWF/21264.m3u8
-#EXTINF:-1,HBO POP SD
-http://udq.me:80/live/Zw7tZ/MTAWF/7724.m3u8
-#EXTINF:-1,HBO POP FHD LEGENDADO
-http://udq.me:80/live/Zw7tZ/MTAWF/21265.m3u8
-#EXTINF:-1,HBO SD
-http://udq.me:80/live/Zw7tZ/MTAWF/7084.m3u8
-#EXTINF:-1,HBO FHD LEGENDADO
-http://udq.me:80/live/Zw7tZ/MTAWF/21245.m3u8
-#EXTINF:-1,HBO SIGNATURE FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22679.m3u8
-#EXTINF:-1,HBO SIGNATURE FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52533.m3u8
-#EXTINF:-1,HBO SIGNATURE H265
-http://udq.me:80/live/Zw7tZ/MTAWF/1472.m3u8
-#EXTINF:-1,HBO SIGNATURE HD
-http://udq.me:80/live/Zw7tZ/MTAWF/7718.m3u8
-#EXTINF:-1,HBO SIGNATURE SD
-http://udq.me:80/live/Zw7tZ/MTAWF/7719.m3u8
-#EXTINF:-1,HBO XTREME FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22677.m3u8
-#EXTINF:-1,HBO XTREME FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52535.m3u8
-#EXTINF:-1,HBO XTREME HD
-http://udq.me:80/live/Zw7tZ/MTAWF/7723.m3u8
-#EXTINF:-1,HBO XTREME SD
-http://udq.me:80/live/Zw7tZ/MTAWF/7722.m3u8
-#EXTINF:-1,HBO XTREME FHD LEGENDADO
-http://udq.me:80/live/Zw7tZ/MTAWF/21248.m3u8
-#EXTINF:-1,He-Man 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13505.m3u8
+http://lb.kstream.org/aovivo/HD_HBO_POP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO POP HD [Alter]
+http://lb.kstream.org/aovivo/HD_HBO_POP_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO POP HD [Leg]
+http://lb.kstream.org/aovivo/HD_HBO_POP_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO Plus
+http://lb.kstream.org/aovivo/SD_HBO_PLUS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO Plus FHD
+http://lb.kstream.org/aovivo/FHD_HBO_PLUS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO Plus FHD [Leg]
+http://lb.kstream.org/aovivo/FHD_HBO_PLUS_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO Plus HD
+http://lb.kstream.org/aovivo/HD_HBO_PLUS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO Plus HD [Alter]
+http://lb.kstream.org/aovivo/HD_HBO_PLUS_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO Plus HD [Leg]
+http://lb.kstream.org/aovivo/HD_HBO_PLUS_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO Signature
+http://lb.kstream.org/aovivo/SD_HBO_SINGNATURE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO Signature FHD
+http://lb.kstream.org/aovivo/FHD_HBO_SIGNATURE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO Signature FHD [Leg]
+http://lb.kstream.org/aovivo/FHD_HBO_SIGNATURE_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO Signature HD
+http://lb.kstream.org/aovivo/HD_HBO_SIGNATURE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO Signature HD [Alter]
+http://lb.kstream.org/aovivo/HD_HBO_SIGNATURE_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO Signature HD [Leg]
+http://lb.kstream.org/aovivo/HD_HBO_SIGNATURE_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO Xtreme
+http://lb.kstream.org/aovivo/SD_HBO_XTREME/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO Xtreme FHD
+http://lb.kstream.org/aovivo/FHD_HBO_EXTREME/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO Xtreme HD
+http://lb.kstream.org/aovivo/HD_HBO_XTREME/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HBO Xtreme HD [Alter]
+http://lb.kstream.org/aovivo/HD_HBO_XTREME_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HGTV
+http://lb.kstream.org/aovivo/SD_HGTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,HGTV FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13131.m3u8
-#EXTINF:-1,HGTV FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/103710.m3u8
-#EXTINF:-1,HGTV HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/103711.m3u8
-#EXTINF:-1,Historias Disney 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13507.m3u8
-#EXTINF:-1,HISTORY FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13146.m3u8
-#EXTINF:-1,HISTORY FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/103695.m3u8
-#EXTINF:-1,HISTORY H265
-http://udq.me:80/live/Zw7tZ/MTAWF/1474.m3u8
-#EXTINF:-1,HISTORY HD
-http://udq.me:80/live/Zw7tZ/MTAWF/13145.m3u8
-#EXTINF:-1,HISTORY HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/103696.m3u8
-#EXTINF:-1,HISTORY SD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/103697.m3u8
-#EXTINF:-1,HOMEM ARANHA 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13508.m3u8
-#EXTINF:-1,Homem de Ferro 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13509.m3u8
-#EXTINF:-1,HOMEMS DE PRETO 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13510.m3u8
-#EXTINF:-1,Hércules 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13506.m3u8
-#EXTINF:-1,Incrível Hulk 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13511.m3u8
-#EXTINF:-1,Jack-Chan 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13512.m3u8
-#EXTINF:-1,Jaspion 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13513.m3u8
-#EXTINF:-1,JIRAYA O Incrível Ninja 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13514.m3u8
-#EXTINF:-1,Kenan e Kel 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13515.m3u8
-#EXTINF:-1,LIFETIME FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13260.m3u8
-#EXTINF:-1,Liga da Justica 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13562.m3u8
-#EXTINF:-1,Luluzinha 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13516.m3u8
-#EXTINF:-1,MAIS GLOBOSAT FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13263.m3u8
-#EXTINF:-1,Medabots 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13517.m3u8
-#EXTINF:-1,MegaMan 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13518.m3u8
-#EXTINF:-1,MEGAPIX FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22675.m3u8
-#EXTINF:-1,MEGAPIX HD
-http://udq.me:80/live/Zw7tZ/MTAWF/7727.m3u8
-#EXTINF:-1,MEGAPIX SD
-http://udq.me:80/live/Zw7tZ/MTAWF/7726.m3u8
-#EXTINF:-1,Mortal Kombat 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13519.m3u8
-#EXTINF:-1,24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13520.m3u8
-#EXTINF:-1,MULTISHOW FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13268.m3u8
-#EXTINF:-1,NARUTO 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13521.m3u8
-#EXTINF:-1,Naruto Shippuden DUB 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13522.m3u8
-#EXTINF:-1,NAT GEO FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13155.m3u8
-#EXTINF:-1,NAT GEO FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/103689.m3u8
-#EXTINF:-1,NAT GEO HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/103690.m3u8
-#EXTINF:-1,NAT GEO KIDS FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/12952.m3u8
-#EXTINF:-1,NAT GEO KIDS FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102657.m3u8
-#EXTINF:-1,NAT GEO KIDS HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102658.m3u8
-#EXTINF:-1,NAT GEO SD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/103691.m3u8
-#EXTINF:-1,NAT GEO WILD FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13152.m3u8
-#EXTINF:-1,NAT GEO WILD FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/103692.m3u8
-#EXTINF:-1,NAT GEO WILD HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/103693.m3u8
-#EXTINF:-1,NAT GEO WILD SD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/103694.m3u8
+http://lb.kstream.org/aovivo/FHD_HGTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HGTV HD
+http://lb.kstream.org/aovivo/HD_HGTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,HGTV HD [Alter]
+http://lb.kstream.org/aovivo/HD_HGTV_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,History
+http://lb.kstream.org/aovivo/SD_HISTORY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,History 2
+http://lb.kstream.org/aovivo/SD_H2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,History 2 FHD
+http://lb.kstream.org/aovivo/FHD_H2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,History 2 HD
+http://lb.kstream.org/aovivo/HD_H2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,History 2 HD [Alter]
+http://lb.kstream.org/aovivo/HD_H2_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,History FHD
+http://lb.kstream.org/aovivo/FHD_HISTORY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,History HD
+http://lb.kstream.org/aovivo/HD_HISTORY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,History HD [Alter]
+http://lb.kstream.org/aovivo/HD_HISTORY_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Homem Aranha
+http://lb.kstream.org/aovivo/24_HOMEM_ARANHA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,I-Sat
+http://lb.kstream.org/aovivo/SD_ISAT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,I-Sat FHD
+http://lb.kstream.org/aovivo/FHD_ISAT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,I-Sat HD
+http://lb.kstream.org/aovivo/HD_ISAT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,ID
+http://lb.kstream.org/aovivo/SD_DISCOVERY_INVESTIGATION/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,ID FHD
+http://lb.kstream.org/aovivo/FHD_ID/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,ID HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY_INVESTIGATION/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,ID HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISCOVERY_INVESTIGATION_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Irmao do Jorel
+http://lb.kstream.org/aovivo/24_IRMAO_JOREL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Jhony Quest
+http://lb.kstream.org/aovivo/24_JHONY_QUEST/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Jogo Aberto
+http://lb.kstream.org/aovivo/HD_JOGO_ABERTO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Jovem Pan Esportes
+http://lb.kstream.org/aovivo/HD_JP_ESPORTES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Jovem Pan News
+http://lb.kstream.org/aovivo/HD_JP_NEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Largados e pelados
+http://lb.kstream.org/aovivo/24_LARGADOS_PELADOS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Lifetime
+http://lb.kstream.org/aovivo/SD_LIFETIME/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Lifetime FHD
+http://lb.kstream.org/aovivo/FHD_LIFETIME/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Lifetime HD
+http://lb.kstream.org/aovivo/HD_LIFETIME/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Lifetime HD [Alter]
+http://lb.kstream.org/aovivo/HD_LIFETIME_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Luluzinha
+http://lb.kstream.org/aovivo/24_LULUZINHA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,MTV
+http://lb.kstream.org/aovivo/SD_MTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,MTV FHD
+http://lb.kstream.org/aovivo/FHD_MTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,MTV HD
+http://lb.kstream.org/aovivo/HD_MTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,MTV HD [Alter]
+http://lb.kstream.org/aovivo/HD_MTV_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Mais Globosat
+http://lb.kstream.org/aovivo/SD_MAIS_GLOBOSAT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Mais Globosat FHD
+http://lb.kstream.org/aovivo/FHD_GLOBOSAT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Mais Globosat HD
+http://lb.kstream.org/aovivo/HD_MAIS_GLOBOSAT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Mais Globosat HD [Alter]
+http://lb.kstream.org/aovivo/HD_MAIS_GLOBOSAT_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Marsha e o Urso
+http://lb.kstream.org/aovivo/24_MARSHA_URSO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Megapix
+http://lb.kstream.org/aovivo/SD_MEGAPIX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Megapix FHD
+http://lb.kstream.org/aovivo/FHD_MEGAPIX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Megapix HD
+http://lb.kstream.org/aovivo/HD_MEGAPIX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Megapix HD [Alter]
+http://lb.kstream.org/aovivo/HD_MEGAPIX_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Meu AmigaoZao
+http://lb.kstream.org/aovivo/24_MEU_AMIGAOZAO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Mickey Mouse
+http://lb.kstream.org/aovivo/24_MICKEY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Morning JP Show
+http://lb.kstream.org/aovivo/HD_JP_MORNING_SHOW/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Multishow
+http://lb.kstream.org/aovivo/SD_MULTISHOW/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Multishow FHD
+http://lb.kstream.org/aovivo/FHD_MULTISHOW/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Multishow HD
+http://lb.kstream.org/aovivo/HD_MULTISHOW/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Multishow HD [Alter]
+http://lb.kstream.org/aovivo/HD_MULTISHOW_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Mundo Bita
+http://lb.kstream.org/aovivo/24_MUNDO_BITA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Music Box Brazil
+http://lb.kstream.org/aovivo/SD_MUSIC_BOX_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Music Box Brazil FHD
+http://lb.kstream.org/aovivo/FHD_MUSICBOX_BRAZIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Music Box Brazil HD
+http://lb.kstream.org/aovivo/HD_MUSIC_BOX_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,NBR
+http://lb.kstream.org/aovivo/HD_NBR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,NHK
-http://udq.me:80/live/Zw7tZ/MTAWF/23708.m3u8
-#EXTINF:-1,NICK JR FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/12955.m3u8
-#EXTINF:-1,NICK JR FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102654.m3u8
-#EXTINF:-1,NICK JR HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102655.m3u8
-#EXTINF:-1,NICKELODEON FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/12958.m3u8
-#EXTINF:-1,NICKELODEON FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102651.m3u8
-#EXTINF:-1,NICKELODEON HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102652.m3u8
-#EXTINF:-1,O Fantástico Mundo de Bobby 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13523.m3u8
-#EXTINF:-1,O INSPETOR 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13524.m3u8
-#EXTINF:-1,O MASCARA 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13525.m3u8
-#EXTINF:-1,OFF FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/4460.m3u8
-#EXTINF:-1,OFF FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52491.m3u8
-#EXTINF:-1,OFF HD
-http://udq.me:80/live/Zw7tZ/MTAWF/4459.m3u8
-#EXTINF:-1,OFF HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52492.m3u8
-#EXTINF:-1,OFF SD
-http://udq.me:80/live/Zw7tZ/MTAWF/4458.m3u8
-#EXTINF:-1,OFF SD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52493.m3u8
-#EXTINF:-1,Os Anjinhos - Rugrats 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13526.m3u8
-#EXTINF:-1,OS CAVALEIROS DO ZODIACO 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13527.m3u8
-#EXTINF:-1,OS FLINTSTONES 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13528.m3u8
-#EXTINF:-1,OS SIMPSONS 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13529.m3u8
-#EXTINF:-1,Os Vingadores 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13530.m3u8
-#EXTINF:-1,Papa-Léguas 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13531.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22674.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52537.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL HD
-http://udq.me:80/live/Zw7tZ/MTAWF/13281.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL SD
-http://udq.me:80/live/Zw7tZ/MTAWF/13282.m3u8
-#EXTINF:-1,Peppa Pig 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13532.m3u8
-#EXTINF:-1,PERNALONGA 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13533.m3u8
-#EXTINF:-1,Phineas e Ferb 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13534.m3u8
-#EXTINF:-1,PICA PAU 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13535.m3u8
-#EXTINF:-1,Pink-e-Cerebro 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13536.m3u8
-#EXTINF:-1,PLAYBOY FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/4897.m3u8
-#EXTINF:-1,PLAYBOY HD
-http://udq.me:80/live/Zw7tZ/MTAWF/4899.m3u8
-#EXTINF:-1,PLAYBOY SD
-http://udq.me:80/live/Zw7tZ/MTAWF/4898.m3u8
-#EXTINF:-1,POKEMON 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13537.m3u8
-#EXTINF:-1,Popeye O Marinheiro 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13538.m3u8
-#EXTINF:-1,PREMIERE 2 FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/839.m3u8
-#EXTINF:-1,PREMIERE 2 HD
-http://udq.me:80/live/Zw7tZ/MTAWF/745.m3u8
-#EXTINF:-1,PREMIERE 2 SD
-http://udq.me:80/live/Zw7tZ/MTAWF/744.m3u8
-#EXTINF:-1,PREMIERE 3 FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/840.m3u8
-#EXTINF:-1,PREMIERE 3 HD
-http://udq.me:80/live/Zw7tZ/MTAWF/766.m3u8
-#EXTINF:-1,PREMIERE 3 SD
-http://udq.me:80/live/Zw7tZ/MTAWF/765.m3u8
-#EXTINF:-1,PREMIERE 4 FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/861.m3u8
-#EXTINF:-1,PREMIERE 4 HD
-http://udq.me:80/live/Zw7tZ/MTAWF/781.m3u8
-#EXTINF:-1,PREMIERE 4 SD
-http://udq.me:80/live/Zw7tZ/MTAWF/780.m3u8
-#EXTINF:-1,PREMIERE 5 FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/862.m3u8
-#EXTINF:-1,PREMIERE 5 HD
-http://udq.me:80/live/Zw7tZ/MTAWF/783.m3u8
-#EXTINF:-1,PREMIERE 5 SD
-http://udq.me:80/live/Zw7tZ/MTAWF/782.m3u8
-#EXTINF:-1,PREMIERE 6 FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/864.m3u8
-#EXTINF:-1,PREMIERE 6 HD
-http://udq.me:80/live/Zw7tZ/MTAWF/791.m3u8
-#EXTINF:-1,PREMIERE 6 SD
-http://udq.me:80/live/Zw7tZ/MTAWF/784.m3u8
-#EXTINF:-1,PREMIERE 7 FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/886.m3u8
-#EXTINF:-1,PREMIERE 7 HD
-http://udq.me:80/live/Zw7tZ/MTAWF/836.m3u8
-#EXTINF:-1,PREMIERE 7 SD
-http://udq.me:80/live/Zw7tZ/MTAWF/822.m3u8
-#EXTINF:-1,Premiere Clubes 4K
-http://udq.me:80/live/Zw7tZ/MTAWF/941.m3u8
-#EXTINF:-1,PREMIERE CLUBES FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/914.m3u8
-#EXTINF:-1,PREMIERE FHD H265
-http://udq.me:80/live/Zw7tZ/MTAWF/13724.m3u8
+http://lb.kstream.org/aovivo/SD_NHK/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Naruto
+http://lb.kstream.org/aovivo/24_NATURO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,NatGeo Kids
+http://lb.kstream.org/aovivo/SD_NATGEOKIDS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,NatGeo Kids FHD
+http://lb.kstream.org/aovivo/FHD_NAT_GEO_KIDS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,NatGeo Kids HD
+http://lb.kstream.org/aovivo/HD_NATGEOKIDS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,NatGeo Kids HD [Alter]
+http://lb.kstream.org/aovivo/HD_NATGEOKIDS_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Natgeo Wild
+http://lb.kstream.org/aovivo/SD_NAT_GEO_WILD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Natgeo Wild FHD
+http://lb.kstream.org/aovivo/FHD_NAT_GEO_WILD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Natgeo Wild HD
+http://lb.kstream.org/aovivo/HD_NAT_GEO_WILD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Natgeo Wild HD [Alter]
+http://lb.kstream.org/aovivo/HD_NAT_GEO_WILD_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,National Geographic
+http://lb.kstream.org/aovivo/SD_NAT_GEO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,National Geographic FHD
+http://lb.kstream.org/aovivo/FHD_NAT_GEO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,National Geographic HD
+http://lb.kstream.org/aovivo/HD_NAT_GEO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,National Geographic HD [Alter]
+http://lb.kstream.org/aovivo/HD_NAT_GEO_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Nick Jr.
+http://lb.kstream.org/aovivo/SD_NICK_JR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Nick Jr. FHD
+http://lb.kstream.org/aovivo/FHD_NICK_JR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Nick Jr. HD
+http://lb.kstream.org/aovivo/HD_NICK_JR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Nick Jr. HD [Alter]
+http://lb.kstream.org/aovivo/HD_NICK_JR_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Nickelodeon
+http://lb.kstream.org/aovivo/SD_NICKELODEON/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Nickelodeon HD
+http://lb.kstream.org/aovivo/HD_NICKELODEON/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Novo Tempo
+http://lb.kstream.org/aovivo/SD_NOVO_TEMPO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Novo Tempo HD
+http://lb.kstream.org/aovivo/HD_NOVO_TEMPO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Novo Tempo HD [Alter]
+http://lb.kstream.org/aovivo/HD_NOVO_TEMPO_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,O Fantastico Mundo de Bob
+http://lb.kstream.org/aovivo/24_O_FANTASTICO_MUNDO_BOB/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,O Maskara (DESENHO)
+http://lb.kstream.org/aovivo/24_O_MASKARA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Off
+http://lb.kstream.org/aovivo/SD_OFF/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Off FHD
+http://lb.kstream.org/aovivo/FHD_OFF/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Off HD
+http://lb.kstream.org/aovivo/HD_OFF/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Off HD [Alter]
+http://lb.kstream.org/aovivo/HD_OFF_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Os Donos da Bola
+http://lb.kstream.org/aovivo/HD_DONOS_DA_BOLA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Os Flintstones
+http://lb.kstream.org/aovivo/24_OS_FLINTSTONES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Os Padrinhos Magicos
+http://lb.kstream.org/aovivo/24_OS_PADRINHOS_MAGICOS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Os Simpsons
+http://lb.kstream.org/aovivo/24_SIMPSONS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Os Trapalhoes
+http://lb.kstream.org/aovivo/24_TRAPALHOES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Panico Jovem Pan
+http://lb.kstream.org/aovivo/HD_PANICO_JP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Paramount
+http://lb.kstream.org/aovivo/SD_PARAMOUNT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Paramount FHD
+http://lb.kstream.org/aovivo/FHD_PARAMOUNT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Paramount HD
+http://lb.kstream.org/aovivo/HD_PARAMOUNT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Paramount HD [Alter]
+http://lb.kstream.org/aovivo/HD_PARAMOUNT_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Patati Patata
+http://lb.kstream.org/aovivo/24_PATATI_PATATA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Patrulha Canina
+http://lb.kstream.org/aovivo/24_PATRULHA_CANINA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Peppa Pig
+http://lb.kstream.org/aovivo/24_PEPPA_PIG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Pica Pau
+http://lb.kstream.org/aovivo/24_PICA_PAU/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Play TV
+http://lb.kstream.org/aovivo/SD_PLAY_TV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Play TV FHD
+http://lb.kstream.org/aovivo/FHD_PLAYTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Play TV HD
+http://lb.kstream.org/aovivo/HD_PLAYTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Play TV [Alter]
+http://lb.kstream.org/aovivo/HD_PLAYTV_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,PlayKids
+http://lb.kstream.org/aovivo/SD_PLAYKIDS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,PlayKids HD
+http://lb.kstream.org/aovivo/HD_PLAYKIDS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Playboy TV
+http://lb.kstream.org/aovivo/SD_PLAYBOY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Playboy TV FHD
+http://lb.kstream.org/aovivo/FHD_PLAYBOY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Playboy TV HD
+http://lb.kstream.org/aovivo/HD_PLAYBOY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Playboy TV HD [Alter]
+http://lb.kstream.org/aovivo/HD_PLAYBOY_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Polishop TV
+http://lb.kstream.org/aovivo/SD_POLISHOP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Popeye
+http://lb.kstream.org/aovivo/24_POPEYE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Premiere 2
+http://lb.kstream.org/aovivo/SD_PFC_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Premiere 2 FHD
+http://lb.kstream.org/aovivo/FHD_PFC_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Premiere 2 HD
+http://lb.kstream.org/aovivo/HD_PFC_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Premiere 2 HD [Alter]
+http://lb.kstream.org/aovivo/HD_PFC_2_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Premiere 3
+http://lb.kstream.org/aovivo/SD_PFC_3/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Premiere 3 FHD
+http://lb.kstream.org/aovivo/FHD_PFC_3/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Premiere 3 HD
+http://lb.kstream.org/aovivo/HD_PFC_3/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Premiere 3 HD [Alter]
+http://lb.kstream.org/aovivo/HD_PFC_3_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Premiere 4
+http://lb.kstream.org/aovivo/SD_PFC_4/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Premiere 4 FHD
+http://lb.kstream.org/aovivo/FHD_PFC_4/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Premiere 4 HD
+http://lb.kstream.org/aovivo/HD_PFC_4/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Premiere 4 HD [Alter]
+http://lb.kstream.org/aovivo/HD_PFC_4_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Premiere 5
+http://lb.kstream.org/aovivo/SD_PFC_5/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Premiere 5 FHD
+http://lb.kstream.org/aovivo/FHD_PFC_5/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Premiere 5 HD
+http://lb.kstream.org/aovivo/HD_PFC_5/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Premiere 5 HD [Alter]
+http://lb.kstream.org/aovivo/HD_PFC_5_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Premiere 6
+http://lb.kstream.org/aovivo/SD_PFC_6/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Premiere 6 FHD
+http://lb.kstream.org/aovivo/FHD_PFC_6/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Premiere 6 HD
+http://lb.kstream.org/aovivo/HD_PFC_6/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Premiere 6 HD [Alter]
+http://lb.kstream.org/aovivo/HD_PFC_6_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Premiere 7 FHD
+http://lb.kstream.org/aovivo/FHD_PFC_7/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Premiere 7 HD [Alter]
+http://lb.kstream.org/aovivo/HD_PFC_7_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Premiere Clubes
+http://lb.kstream.org/aovivo/SD_PFC_CLUBES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Premiere Clubes FHD
+http://lb.kstream.org/aovivo/FHD_PFC_CLUBES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,Premiere Clubes HD
-http://udq.me:80/live/Zw7tZ/MTAWF/838.m3u8
-#EXTINF:-1,PREMIERE SD
-http://udq.me:80/live/Zw7tZ/MTAWF/837.m3u8
-#EXTINF:-1,Rambo 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13539.m3u8
-#EXTINF:-1,RBTV ES FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13656.m3u8
-#EXTINF:-1,RECORD PARANAÍBA HD
-http://udq.me:80/live/Zw7tZ/MTAWF/13634.m3u8
-#EXTINF:-1,RECORD BA HD
-http://udq.me:80/live/Zw7tZ/MTAWF/52483.m3u8
-#EXTINF:-1,RECORD CAMPINAS HD
-http://udq.me:80/live/Zw7tZ/MTAWF/22660.m3u8
-#EXTINF:-1,RECORD GOIANIA FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22663.m3u8
-#EXTINF:-1,RECORD GOIANIA HD
-http://udq.me:80/live/Zw7tZ/MTAWF/22664.m3u8
-#EXTINF:-1,RECORD MANAUS HD
-http://udq.me:80/live/Zw7tZ/MTAWF/52488.m3u8
-#EXTINF:-1,RECORD MG HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52484.m3u8
-#EXTINF:-1,RECORD NEWS FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/1508.m3u8
-#EXTINF:-1,RECORD NEWS FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102630.m3u8
-#EXTINF:-1,RECORD NEWS SD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102629.m3u8
-#EXTINF:-1,RECORD PARANA HD
-http://udq.me:80/live/Zw7tZ/MTAWF/22662.m3u8
-#EXTINF:-1,RECORD RJ HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52485.m3u8
-#EXTINF:-1,RECORD SANTA CATARINA HD
-http://udq.me:80/live/Zw7tZ/MTAWF/22661.m3u8
-#EXTINF:-1,RECORD SP FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13165.m3u8
-#EXTINF:-1,RECORD SP FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52481.m3u8
-#EXTINF:-1,RECORD SP HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52486.m3u8
-#EXTINF:-1,RECORD SP SD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52487.m3u8
-#EXTINF:-1,Record SÃO JOSÉ RIO PRETO HD
-http://udq.me:80/live/Zw7tZ/MTAWF/13625.m3u8
-#EXTINF:-1,REDE BRASIL
-http://udq.me:80/live/Zw7tZ/MTAWF/52469.m3u8
-#EXTINF:-1,REDE TV FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13188.m3u8
-#EXTINF:-1,REDE TV FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52475.m3u8
-#EXTINF:-1,REDE TV HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52476.m3u8
-#EXTINF:-1,REDE TV SD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52477.m3u8
+http://lb.kstream.org/aovivo/HD_PFC_CLUBES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Premiere Clubes HD [Alter]
+http://lb.kstream.org/aovivo/HD_PFC_CLUBES_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Primebox Brasil
+http://lb.kstream.org/aovivo/SD_PRIMEBOX_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Primebox Brasil FHD
+http://lb.kstream.org/aovivo/FHD_PRIMEBOX/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Primebox Brasil HD
+http://lb.kstream.org/aovivo/HD_PRIMEBOX_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,RIT
+http://lb.kstream.org/aovivo/SD_RIT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record
+http://lb.kstream.org/aovivo/SD_RECORD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record AM
+http://lb.kstream.org/aovivo/SD_RECORD_MA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record AM HD
+http://lb.kstream.org/aovivo/HD_RECORD_MA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record BA
+http://lb.kstream.org/aovivo/SD_RECORD_BA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record BA HD
+http://lb.kstream.org/aovivo/HD_RECORD_BA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record DF
+http://lb.kstream.org/aovivo/SD_RECORD_DF/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record DF HD
+http://lb.kstream.org/aovivo/HD_RECORD_DF/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record ES FHD
+http://lb.kstream.org/aovivo/FHD_RECORD_ES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record ES HD
+http://lb.kstream.org/aovivo/RECORD_ES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record FHD
+http://lb.kstream.org/aovivo/FHD_RECORD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record GO
+http://lb.kstream.org/aovivo/SD_RECORD_GO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record GO FHD
+http://lb.kstream.org/aovivo/FHD_RECORD_GO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record GO HD
+http://lb.kstream.org/aovivo/HD_RECORD_GO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record HD
+http://lb.kstream.org/aovivo/HD_RECORD/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record HD [Alter]
+http://lb.kstream.org/aovivo/HD_RECORD_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record MG
+http://lb.kstream.org/aovivo/SD_RECORD_MG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record MG HD
+http://lb.kstream.org/aovivo/HD_RECORD_MG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record News
+http://lb.kstream.org/aovivo/SD_RECORD_NEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record News FHD
+http://lb.kstream.org/aovivo/FHD_RECORDNEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record News HD
+http://lb.kstream.org/aovivo/HD_RECORD_NEWS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record News HD [Alter]
+http://lb.kstream.org/aovivo/HD_RECORDNEWS_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record PA
+http://lb.kstream.org/aovivo/SD_RECORD_BE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record PA HD
+http://lb.kstream.org/aovivo/HD_RECORD_BE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record PR HD
+http://lb.kstream.org/aovivo/HD_RECORD_PR/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record RJ
+http://lb.kstream.org/aovivo/SD_RECORD_RJ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record RJ HD
+http://lb.kstream.org/aovivo/HD_RECORD_RJ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record RS
+http://lb.kstream.org/aovivo/SD_RECORD_RS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record RS HD
+http://lb.kstream.org/aovivo/HD_RECORD_RS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record SP
+http://lb.kstream.org/aovivo/SD_RECORD_SP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Record SP HD
+http://lb.kstream.org/aovivo/HD_RECORD_SP/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Rede Brasil
+http://lb.kstream.org/aovivo/SD_REDE_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Rede Gospel
+http://lb.kstream.org/aovivo/HD_REDE_GOSPEL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Rede Gospel FHD
+http://lb.kstream.org/aovivo/FHD_REDE_GOSPEL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Rede Super
+http://lb.kstream.org/aovivo/SD_REDE_SUPER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Rede Super FHD
+http://lb.kstream.org/aovivo/FHD_REDE_SUPER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Rede Vida
+http://lb.kstream.org/aovivo/SD_REDE_VIDA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Rede Vida HD
+http://lb.kstream.org/aovivo/HD_REDE_VIDA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Rede Vida HD [Alter]
+http://lb.kstream.org/aovivo/HD_REDE_VIDA_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,RedeTV!
+http://lb.kstream.org/aovivo/SD_REDETV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,RedeTV! FHD
+http://lb.kstream.org/aovivo/FULLHD_REDETV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,RedeTV! HD
+http://lb.kstream.org/aovivo/HD_REDETV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,RedeTV! HD [Alter]
+http://lb.kstream.org/aovivo/HD_REDETV_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Rick and Morty
+http://lb.kstream.org/aovivo/24_RICKY_MORTY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,SBT
+http://lb.kstream.org/aovivo/SD_SBT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,SBT ES HD
+http://lb.kstream.org/aovivo/HD_SBT_ES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,SBT FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13180.m3u8
-#EXTINF:-1,SBT HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52479.m3u8
-#EXTINF:-1,SBT SD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52480.m3u8
-#EXTINF:-1,Scooby-Doo 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13540.m3u8
-#EXTINF:-1,SEXTREME SD
-http://udq.me:80/live/Zw7tZ/MTAWF/4855.m3u8
-#EXTINF:-1,SEXY HOT SD
-http://udq.me:80/live/Zw7tZ/MTAWF/4884.m3u8
-#EXTINF:-1,Smallville 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13541.m3u8
-#EXTINF:-1,Sobrenatural 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13542.m3u8
-#EXTINF:-1,South Park 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13543.m3u8
-#EXTINF:-1,SPACE FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22672.m3u8
-#EXTINF:-1,SPACE FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52540.m3u8
-#EXTINF:-1,SPACE HD
-http://udq.me:80/live/Zw7tZ/MTAWF/13286.m3u8
-#EXTINF:-1,SPACE SD
-http://udq.me:80/live/Zw7tZ/MTAWF/13287.m3u8
-#EXTINF:-1,SPORTV 2 FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/4020.m3u8
-#EXTINF:-1,SPORTV 3 FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/4019.m3u8
-#EXTINF:-1,SPORTV FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/4018.m3u8
-#EXTINF:-1,Steven Universe 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13544.m3u8
-#EXTINF:-1,STUDIO UNIVERSAL FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22671.m3u8
-#EXTINF:-1,STUDIO UNIVERSAL FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52543.m3u8
-#EXTINF:-1,STUDIO UNIVERSAL HD
-http://udq.me:80/live/Zw7tZ/MTAWF/13288.m3u8
-#EXTINF:-1,STUDIO UNIVERSAL SD
-http://udq.me:80/live/Zw7tZ/MTAWF/13289.m3u8
-#EXTINF:-1,Super Choque 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13565.m3u8
-#EXTINF:-1,Superman 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13545.m3u8
-#EXTINF:-1,SYFY FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22673.m3u8
-#EXTINF:-1,SYFY FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52538.m3u8
-#EXTINF:-1,SYFY HD
-http://udq.me:80/live/Zw7tZ/MTAWF/13284.m3u8
-#EXTINF:-1,SYFY SD
-http://udq.me:80/live/Zw7tZ/MTAWF/13285.m3u8
-#EXTINF:-1,TARTARUGAS NINJAS 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13546.m3u8
+http://lb.kstream.org/aovivo/FHD_SBT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,SBT HD
+http://lb.kstream.org/aovivo/HD_SBT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,SBT HD [Alter]
+http://lb.kstream.org/aovivo/HD_SBT_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,SBT MG
+http://lb.kstream.org/aovivo/SD_SBT_MG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,SBT MG FHD
+http://lb.kstream.org/aovivo/FHD_SBT_MG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,SBT MG HD
+http://lb.kstream.org/aovivo/HD_SBT_MG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,SBT RS HD
+http://lb.kstream.org/aovivo/HD_SBT_RS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,SBT Rio HD
+http://lb.kstream.org/aovivo/HD_SBT_RJ/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,SBT TV Cidade Verde
+http://lb.kstream.org/aovivo/SD_SBT_TV_CIDADE_VERDE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,SBT TV Jornal Recife
+http://lb.kstream.org/aovivo/SD_JORNAL_RECIFE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,SexPrive FHD
+http://lb.kstream.org/aovivo/FHD_SEXPRIVE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,SexPrive HD
+http://lb.kstream.org/aovivo/HD_SEXPRIVE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Sextreme
+http://lb.kstream.org/aovivo/SD_SEXTREME/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Sextreme HD
+http://lb.kstream.org/aovivo/HD_SEXTREME/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Sexy Hot
+http://lb.kstream.org/aovivo/SD_SEXYHOT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Sexy Hot HD
+http://lb.kstream.org/aovivo/HD_SEXHOT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Sexyzone HD
+http://lb.kstream.org/aovivo/HD_SEXYZONE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Shoptime
+http://lb.kstream.org/aovivo/HD_SHOPTIME/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Sitio do Pica Pau Amarelo
+http://lb.kstream.org/aovivo/24_SITIO_PICA_PAU_AMARELO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Sony
+http://lb.kstream.org/aovivo/SD_SONY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Sony FHD
+http://lb.kstream.org/aovivo/FHD_SONY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Sony HD
+http://lb.kstream.org/aovivo/HD_SONY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Sony HD [Alter]
+http://lb.kstream.org/aovivo/HD_SONY_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Space
+http://lb.kstream.org/aovivo/SD_SPACE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Space FHD
+http://lb.kstream.org/aovivo/FHD_SPACE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Space HD
+http://lb.kstream.org/aovivo/HD_SPACE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Space HD [Alter]
+http://lb.kstream.org/aovivo/HD_SPACE_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,SporTV
+http://lb.kstream.org/aovivo/SD_UDHASKDN_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,SporTV 2
+http://lb.kstream.org/aovivo/SD_SPORTV_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,SporTV 2 FHD
+http://lb.kstream.org/aovivo/FHD_SPORTV_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,SporTV 2 HD
+http://lb.kstream.org/aovivo/HD_SPORTV_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,SporTV 2 HD [Alter]
+http://lb.kstream.org/aovivo/HD_SPORTV_2_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,SporTV 3
+http://lb.kstream.org/aovivo/SD_SPORTV_3/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,SporTV 3 FHD
+http://lb.kstream.org/aovivo/FHD_SPORTV_3/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,SporTV 3 HD
+http://lb.kstream.org/aovivo/HD_SPORTV_3/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,SporTV 3 HD [Alter]
+http://lb.kstream.org/aovivo/HD_SPORTV_3_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,SporTV FHD
+http://lb.kstream.org/aovivo/FHD_SPORTV_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,SporTV HD
+http://lb.kstream.org/aovivo/HD_SOKASJDH_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,SporTV HD [Alter]
+http://lb.kstream.org/aovivo/HD_SPORTV_1_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Studio Universal
+http://lb.kstream.org/aovivo/SD_STUDIO_UNIVERSAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Studio Universal FHD
+http://lb.kstream.org/aovivo/FHD_STUDIO_UNIVERSAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Studio Universal HD
+http://lb.kstream.org/aovivo/HD_STUDIO_UNIVERSAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Studio Universal HD [Alter]
+http://lb.kstream.org/aovivo/HD_STUDIO_UNIVERSAL_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Syfy
+http://lb.kstream.org/aovivo/SD_SYFY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Syfy FHD
+http://lb.kstream.org/aovivo/FHD_SYFY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Syfy HD
+http://lb.kstream.org/aovivo/HD_SYFY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Syfy HD [Alter]
+http://lb.kstream.org/aovivo/HD_SYFY_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,TBS
+http://lb.kstream.org/aovivo/SD_TBS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,TBS FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22670.m3u8
-#EXTINF:-1,TBS FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52541.m3u8
+http://lb.kstream.org/aovivo/FHD_TBS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,TBS HD
-http://udq.me:80/live/Zw7tZ/MTAWF/13291.m3u8
-#EXTINF:-1,TBS SD
-http://udq.me:80/live/Zw7tZ/MTAWF/13290.m3u8
-#EXTINF:-1,TCM SD
-http://udq.me:80/live/Zw7tZ/MTAWF/13292.m3u8
-#EXTINF:-1,TELECINE ACTION FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22802.m3u8
-#EXTINF:-1,TELECINE ACTION FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52517.m3u8
-#EXTINF:-1,TELECINE ACTION HD
-http://udq.me:80/live/Zw7tZ/MTAWF/13296.m3u8
-#EXTINF:-1,TELECINE ACTION HD LEGENDADO
-http://udq.me:80/live/Zw7tZ/MTAWF/21250.m3u8
-#EXTINF:-1,TELECINE ACTION SD
-http://udq.me:80/live/Zw7tZ/MTAWF/13295.m3u8
-#EXTINF:-1,TELECINE ACTION FHD LEGENDADO
-http://udq.me:80/live/Zw7tZ/MTAWF/21251.m3u8
-#EXTINF:-1,TELECINE CULT FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22801.m3u8
-#EXTINF:-1,TELECINE CULT FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52516.m3u8
-#EXTINF:-1,TELECINE CULT HD
-http://udq.me:80/live/Zw7tZ/MTAWF/13298.m3u8
-#EXTINF:-1,TELECINE CULT SD
-http://udq.me:80/live/Zw7tZ/MTAWF/13297.m3u8
-#EXTINF:-1,TELECINE FUN FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22803.m3u8
-#EXTINF:-1,TELECINE FUN FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52515.m3u8
-#EXTINF:-1,TELECINE FUN HD
-http://udq.me:80/live/Zw7tZ/MTAWF/13299.m3u8
-#EXTINF:-1,TELECINE FUN HD LEGENDADO
-http://udq.me:80/live/Zw7tZ/MTAWF/21252.m3u8
-#EXTINF:-1,TELECINE FUN SD
-http://udq.me:80/live/Zw7tZ/MTAWF/13300.m3u8
-#EXTINF:-1,TELECINE FUN FHD LEGENDADO
-http://udq.me:80/live/Zw7tZ/MTAWF/21253.m3u8
-#EXTINF:-1,TELECINE PIPOCA FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22804.m3u8
-#EXTINF:-1,TELECINE PIPOCA FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52523.m3u8
-#EXTINF:-1,TELECINE PIPOCA HD
-http://udq.me:80/live/Zw7tZ/MTAWF/13302.m3u8
-#EXTINF:-1,TELECINE PIPOCA HD LEGENDADO
-http://udq.me:80/live/Zw7tZ/MTAWF/21254.m3u8
-#EXTINF:-1,TELECINE PIPOCA SD
-http://udq.me:80/live/Zw7tZ/MTAWF/13301.m3u8
-#EXTINF:-1,TELECINE PIPOCA FHD LEGENDADO
-http://udq.me:80/live/Zw7tZ/MTAWF/21255.m3u8
-#EXTINF:-1,TELECINE PREMIUM FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22805.m3u8
-#EXTINF:-1,TELECINE PREMIUM FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52514.m3u8
-#EXTINF:-1,TELECINE PREMIUM HD
-http://udq.me:80/live/Zw7tZ/MTAWF/13304.m3u8
-#EXTINF:-1,TELECINE PREMIUM SD
-http://udq.me:80/live/Zw7tZ/MTAWF/13303.m3u8
-#EXTINF:-1,TELECINE PREMIUM FHD LEGENDADO
-http://udq.me:80/live/Zw7tZ/MTAWF/21257.m3u8
-#EXTINF:-1,TELECINE TOUCH FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22806.m3u8
-#EXTINF:-1,TELECINE TOUCH FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52513.m3u8
-#EXTINF:-1,TELECINE TOUCH HD
-http://udq.me:80/live/Zw7tZ/MTAWF/13305.m3u8
-#EXTINF:-1,TELECINE TOUCH HD LEGENDADO
-http://udq.me:80/live/Zw7tZ/MTAWF/21258.m3u8
-#EXTINF:-1,TELECINE TOUCH SD
-http://udq.me:80/live/Zw7tZ/MTAWF/13306.m3u8
-#EXTINF:-1,TELECINE TOUCH FHD LEGENDADO
-http://udq.me:80/live/Zw7tZ/MTAWF/21259.m3u8
-#EXTINF:-1,TERRA VIVA HD
-http://udq.me:80/live/Zw7tZ/MTAWF/52467.m3u8
-#EXTINF:-1,Thundercats 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13547.m3u8
-#EXTINF:-1,TIMAO E PUMBA 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13548.m3u8
+http://lb.kstream.org/aovivo/HD_TBS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,TBS HD [Alter]
+http://lb.kstream.org/aovivo/HD_TBS_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,TCM
+http://lb.kstream.org/aovivo/SD_TCM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,TCM FHD
+http://lb.kstream.org/aovivo/FHD_TCM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,TCM HD
+http://lb.kstream.org/aovivo/HD_TCM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,TCM HD [Alter]
+http://lb.kstream.org/aovivo/HD_TCM_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,TLC
+http://lb.kstream.org/aovivo/SD_TLC/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,TLC FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13271.m3u8
+http://lb.kstream.org/aovivo/FHD_TLC/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,TLC HD
+http://lb.kstream.org/aovivo/HD_TLC/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,TLC HD [Alter]
+http://lb.kstream.org/aovivo/HD_TLC_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,TNT
+http://lb.kstream.org/aovivo/SD_TNT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,TNT FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22669.m3u8
-#EXTINF:-1,TNT FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52544.m3u8
+http://lb.kstream.org/aovivo/FHD_TNT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
 #EXTINF:-1,TNT HD
-http://udq.me:80/live/Zw7tZ/MTAWF/13308.m3u8
-#EXTINF:-1,TNT SD
-http://udq.me:80/live/Zw7tZ/MTAWF/13307.m3u8
-#EXTINF:-1,TNT SERIES FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22668.m3u8
-#EXTINF:-1,TNT SERIES FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52546.m3u8
-#EXTINF:-1,TNT SERIES HD
-http://udq.me:80/live/Zw7tZ/MTAWF/13310.m3u8
-#EXTINF:-1,TNT SERIES SD
-http://udq.me:80/live/Zw7tZ/MTAWF/13309.m3u8
-#EXTINF:-1,TODO MUNDO ODEIA O CHRIS 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13549.m3u8
-#EXTINF:-1,Tom & Jerry 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13550.m3u8
-#EXTINF:-1,TOONCAST HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102648.m3u8
-#EXTINF:-1,Tres Espias Demais 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13551.m3u8
-#EXTINF:-1,TV CAMERA
-http://udq.me:80/live/Zw7tZ/MTAWF/52465.m3u8
-#EXTINF:-1,TV CULTURA FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13191.m3u8
-#EXTINF:-1,TV CULTURA HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52473.m3u8
-#EXTINF:-1,TV CULTURA SD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52474.m3u8
-#EXTINF:-1,TV ESCOLA
-http://udq.me:80/live/Zw7tZ/MTAWF/52470.m3u8
-#EXTINF:-1,TV EVAGILIZAR
-http://udq.me:80/live/Zw7tZ/MTAWF/13688.m3u8
-#EXTINF:-1,TV GAZETA SP FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13200.m3u8
-#EXTINF:-1,TV GAZETA SP HD
-http://udq.me:80/live/Zw7tZ/MTAWF/52468.m3u8
-#EXTINF:-1,TV GAZETA SP HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102638.m3u8
-#EXTINF:-1,TV JUSTIÇA
-http://udq.me:80/live/Zw7tZ/MTAWF/102640.m3u8
-#EXTINF:-1,TV JUSTIÇA [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52466.m3u8
-#EXTINF:-1,TV RA TIM BUM FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/12965.m3u8
-#EXTINF:-1,TV RA TIM BUM HD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/102644.m3u8
-#EXTINF:-1,TV SENADO [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52464.m3u8
-#EXTINF:-1,TV VITORIA ES FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/13636.m3u8
-#EXTINF:-1,UM MALUCO NO PEDAÇO 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13552.m3u8
-#EXTINF:-1,Uma Família da Pesada 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13553.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22667.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52545.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://udq.me:80/live/Zw7tZ/MTAWF/13312.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL SD
-http://udq.me:80/live/Zw7tZ/MTAWF/13311.m3u8
-#EXTINF:-1,Ursinhos Carinhos 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13554.m3u8
-#EXTINF:-1,VAI QUE COLA 24HRS
-http://udq.me:80/live/Zw7tZ/MTAWF/13563.m3u8
-#EXTINF:-1,Vai Que Cola 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13564.m3u8
-#EXTINF:-1,VENUS SD
-http://udq.me:80/live/Zw7tZ/MTAWF/4900.m3u8
-#EXTINF:-1,VIVA FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13277.m3u8
-#EXTINF:-1,WARNER CHANNEL HD
-http://udq.me:80/live/Zw7tZ/MTAWF/13314.m3u8
-#EXTINF:-1,WARNER CHANNEL SD
-http://udq.me:80/live/Zw7tZ/MTAWF/13313.m3u8
-#EXTINF:-1,WARNER FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/22666.m3u8
-#EXTINF:-1,WARNER FHD [ALTERNATIVO]
-http://udq.me:80/live/Zw7tZ/MTAWF/52542.m3u8
-#EXTINF:-1,WOOHOO FHD
-http://udq.me:80/live/Zw7tZ/MTAWF/13280.m3u8
-#EXTINF:-1,X-MAN 24HS
-http://udq.me:80/live/Zw7tZ/MTAWF/13555.m3u8
-#EXTINF:-1,Xena 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13556.m3u8
-#EXTINF:-1,XXX BLUE HUSTLER
-http://udq.me:80/live/Zw7tZ/MTAWF/13434.m3u8
-#EXTINF:-1,XXX BRAZZERS EUROPE
-http://udq.me:80/live/Zw7tZ/MTAWF/13435.m3u8
-#EXTINF:-1,XXX CANDY
-http://udq.me:80/live/Zw7tZ/MTAWF/13436.m3u8
-#EXTINF:-1,XXX CENTOXCENTO
-http://udq.me:80/live/Zw7tZ/MTAWF/13419.m3u8
-#EXTINF:-1,XXX DORCEL TV
-http://udq.me:80/live/Zw7tZ/MTAWF/13420.m3u8
-#EXTINF:-1,XXX EROXX
-http://udq.me:80/live/Zw7tZ/MTAWF/13421.m3u8
-#EXTINF:-1,XXX PASSION
-http://udq.me:80/live/Zw7tZ/MTAWF/13422.m3u8
-#EXTINF:-1,XXX PENTHOUSE BLACK
-http://udq.me:80/live/Zw7tZ/MTAWF/13423.m3u8
-#EXTINF:-1,XXX PENTHOUSE QUICKIES
-http://udq.me:80/live/Zw7tZ/MTAWF/13424.m3u8
-#EXTINF:-1,XXX PINK-O
-http://udq.me:80/live/Zw7tZ/MTAWF/13425.m3u8
-#EXTINF:-1,XXX PRIVATE HD
-http://udq.me:80/live/Zw7tZ/MTAWF/13426.m3u8
-#EXTINF:-1,XXX REDLIGHT
-http://udq.me:80/live/Zw7tZ/MTAWF/13427.m3u8
-#EXTINF:-1,XXX RUSNOCH
-http://udq.me:80/live/Zw7tZ/MTAWF/13428.m3u8
-#EXTINF:-1,XXX SCT
-http://udq.me:80/live/Zw7tZ/MTAWF/13429.m3u8
-#EXTINF:-1,XXX SEXT6SENSO
-http://udq.me:80/live/Zw7tZ/MTAWF/13430.m3u8
-#EXTINF:-1,XXX SEXTREME
-http://udq.me:80/live/Zw7tZ/MTAWF/13431.m3u8
-#EXTINF:-1,XXX SHALUN TV
-http://udq.me:80/live/Zw7tZ/MTAWF/13432.m3u8
-#EXTINF:-1,XXX VIVID RED
-http://udq.me:80/live/Zw7tZ/MTAWF/13433.m3u8
-#EXTINF:-1,YU-GI-OH 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13557.m3u8
-#EXTINF:-1,YU-YU-Hakusho 24hs
-http://udq.me:80/live/Zw7tZ/MTAWF/13558.m3u8
+http://lb.kstream.org/aovivo/HD_TNT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,TNT HD [Alter]
+http://lb.kstream.org/aovivo/HD_TNT_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,TNT Series
+http://lb.kstream.org/aovivo/SD_TNT_SERIES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,TNT Series FHD
+http://lb.kstream.org/aovivo/FHD_TNT_SERIES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,TNT Series HD
+http://lb.kstream.org/aovivo/HD_TNT_SERIES/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,TNT Series HD [Alter]
+http://lb.kstream.org/aovivo/HD_TNT_SERIES_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,TV Aparecida
+http://lb.kstream.org/aovivo/SD_TV_APARECIDA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,TV Aparecida HD
+http://lb.kstream.org/aovivo/HD_TV_APARECIDA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,TV Aparecida HD [Alter]
+http://lb.kstream.org/aovivo/HD_TV_APARECIDA_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,TV Brasil
+http://lb.kstream.org/aovivo/SD_TV_BRASIL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,TV Escola
+http://lb.kstream.org/aovivo/HD_TV_ESCOLA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,TV Guarulhos (ESPIRITA)
+http://lb.kstream.org/aovivo/HD_TV_GUARULHOS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,TV Justica
+http://lb.kstream.org/aovivo/SD_TV_JUSTICA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,TV Ra Tim Bum
+http://lb.kstream.org/aovivo/SD_TV_RATIMBUM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,TV Ra Tim Bum HD
+http://lb.kstream.org/aovivo/HD_TV_RATIMBUM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,TV Seculo 21
+http://lb.kstream.org/aovivo/HD_SECULO_21/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,TV Senado
+http://lb.kstream.org/aovivo/HD_TV_SENADO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Action
+http://lb.kstream.org/aovivo/SD_TC_ACTION/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Action FHD
+http://lb.kstream.org/aovivo/FHD_TC_ACTION/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Action FHD [Leg]
+http://lb.kstream.org/aovivo/FHD_TC_ACTION_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Action HD
+http://lb.kstream.org/aovivo/HD_TC_ACTION/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Action HD [Alter]
+http://lb.kstream.org/aovivo/HD_TC_ACTION_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Action HD [Leg]
+http://lb.kstream.org/aovivo/HD_TC_ACTION_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Cult
+http://lb.kstream.org/aovivo/SD_TC_CULT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Cult FHD
+http://lb.kstream.org/aovivo/FHD_TC_CULT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Cult FHD [Leg]
+http://lb.kstream.org/aovivo/FHD_TC_CULT_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Cult HD
+http://lb.kstream.org/aovivo/HD_TC_CULT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Cult HD [Alter]
+http://lb.kstream.org/aovivo/HD_TC_CULT_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Cult HD [Leg]
+http://lb.kstream.org/aovivo/HD_TC_CULT_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Fun
+http://lb.kstream.org/aovivo/SD_TC_FUN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Fun FHD
+http://lb.kstream.org/aovivo/FHD_TC_FUN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Fun FHD [Leg]
+http://lb.kstream.org/aovivo/FHD_TC_FUN_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Fun HD
+http://lb.kstream.org/aovivo/HD_TC_FUN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Fun HD [Alter]
+http://lb.kstream.org/aovivo/HD_TC_FUN_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Fun HD [Leg]
+http://lb.kstream.org/aovivo/HD_TC_FUN_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Pipoca
+http://lb.kstream.org/aovivo/SD_TC_PIPOCA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Pipoca FHD
+http://lb.kstream.org/aovivo/FHD_TC_PIPOCA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Pipoca FHD [Leg]
+http://lb.kstream.org/aovivo/FHD_TC_PIPOCA_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Pipoca HD
+http://lb.kstream.org/aovivo/HD_TC_PIPOCA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Pipoca HD [Alter]
+http://lb.kstream.org/aovivo/HD_TC_PIPOCA_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Pipoca HD [Leg]
+http://lb.kstream.org/aovivo/HD_TC_PIPOCA_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Premium
+http://lb.kstream.org/aovivo/SD_TC_PREMIUM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Premium FHD
+http://lb.kstream.org/aovivo/FHD_TC_PREMIUM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Premium FHD [Leg]
+http://lb.kstream.org/aovivo/FHD_TC_PREMIUM_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Premium HD
+http://lb.kstream.org/aovivo/HD_TC_PREMIUM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Premium HD [Alter]
+http://lb.kstream.org/aovivo/HD_TC_PREMIUM_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Premium HD [Leg]
+http://lb.kstream.org/aovivo/HD_TC_PREMIUM_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Touch
+http://lb.kstream.org/aovivo/SD_TC_TOUCH/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Touch FHD
+http://lb.kstream.org/aovivo/FHD_TC_TOUCH/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Touch FHD [Leg]
+http://lb.kstream.org/aovivo/FHD_TC_TOUCH_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Touch HD
+http://lb.kstream.org/aovivo/HD_TC_TOUCH/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Touch HD [Alter]
+http://lb.kstream.org/aovivo/HD_TC_TOUCH_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Telecine Touch HD [Leg]
+http://lb.kstream.org/aovivo/HD_TC_TOUCH_LEG/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Timao e Pumba
+http://lb.kstream.org/aovivo/24_TIMAO_PUMBA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Todo Mundo Odeia o Chris
+http://lb.kstream.org/aovivo/24_TMO_CHRIS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Tom e Jerry
+http://lb.kstream.org/aovivo/24_TOM_JERRY/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Tooncast
+http://lb.kstream.org/aovivo/SD_TOONCAST/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Tooncast HD
+http://lb.kstream.org/aovivo/HD_TOONCAST/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Tooncast HD [Alter]
+http://lb.kstream.org/aovivo/HD_TOONCAST_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Trutv
+http://lb.kstream.org/aovivo/SD_TRUTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Trutv FHD
+http://lb.kstream.org/aovivo/FHD_TRU_TV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Trutv HD
+http://lb.kstream.org/aovivo/HD_TRUTV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Universal TV
+http://lb.kstream.org/aovivo/SD_UNIVERSAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Universal TV FHD
+http://lb.kstream.org/aovivo/FHD_UNIVERSAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Universal TV HD
+http://lb.kstream.org/aovivo/HD_UNIVERSAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Universal TV HD [Alter]
+http://lb.kstream.org/aovivo/HD_UNIVERSAL_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,VH1
+http://lb.kstream.org/aovivo/SD_VH1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,VH1 HD
+http://lb.kstream.org/aovivo/HD_VH1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,VH1 HD [Alter]
+http://lb.kstream.org/aovivo/HD_VH1_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,VH1 Megahits
+http://lb.kstream.org/aovivo/SD_VH1_MEGAHITS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Vasco TV
+http://lb.kstream.org/aovivo/HD_VASCO_TV/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Venus
+http://lb.kstream.org/aovivo/SD_VENUS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Venus HD
+http://lb.kstream.org/aovivo/HD_VENUS/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Viva
+http://lb.kstream.org/aovivo/SD_VIVA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Viva FHD
+http://lb.kstream.org/aovivo/FHD_VIVA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Viva HD
+http://lb.kstream.org/aovivo/HD_VIVA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Viva HD [Alter]
+http://lb.kstream.org/aovivo/HD_VIVA_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Warner Channel
+http://lb.kstream.org/aovivo/SD_WARNER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Warner Channel FHD
+http://lb.kstream.org/aovivo/FHD_WARNER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Warner Channel HD
+http://lb.kstream.org/aovivo/HD_WARNER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Warner Channel HD [Alter]
+http://lb.kstream.org/aovivo/HD_WARNER_ALTER/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Woohoo
+http://lb.kstream.org/aovivo/SD_WOOHOO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Woohoo HD
+http://lb.kstream.org/aovivo/HD_WOOHOO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,X-Men
+http://lb.kstream.org/aovivo/24_X_MEN/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,XXX 1 (CAM)
+http://lb.kstream.org/aovivo/XXX_1/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,XXX 10 (TUSHY RAW)
+http://lb.kstream.org/aovivo/XXX_10/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,XXX 11 (BLACKED RAW)
+http://lb.kstream.org/aovivo/XXX_11/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,XXX 12 (VIXEN)
+http://lb.kstream.org/aovivo/XXX_12/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,XXX 13 (CHILI PORN)
+http://lb.kstream.org/aovivo/XXX_13/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,XXX 14 (SIRINA)
+http://lb.kstream.org/aovivo/XXX_14/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,XXX 15 (JASMIN)
+http://lb.kstream.org/aovivo/XXX_15/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,XXX 16 (GAY)
+http://lb.kstream.org/aovivo/XXX_16/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,XXX 17 (GAY)
+http://lb.kstream.org/aovivo/XXX_17/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,XXX 2 (CAM)
+http://lb.kstream.org/aovivo/XXX_2/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,XXX 3 (CAM)
+http://lb.kstream.org/aovivo/XXX_ADULT_3/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,XXX 4 (DORCEL CLUB)
+http://lb.kstream.org/aovivo/XXX_4/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,XXX 5 (LEGAL PORNO)
+http://lb.kstream.org/aovivo/XXX_5/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,XXX 6 (FAMILY SINNERS)
+http://lb.kstream.org/aovivo/XXX_6/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,XXX 7 (CAM)
+http://lb.kstream.org/aovivo/XXX_7/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,XXX 8 (MOFOS)
+http://lb.kstream.org/aovivo/XXX_8/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,XXX 9 (HER LIMIT)
+http://lb.kstream.org/aovivo/XXX_9/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,Yu-Gi-Oh!
+http://lb.kstream.org/aovivo/24_YUGIOH/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,ZooMoo HD
+http://lb.kstream.org/aovivo/HD_ZOOMOO/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,[RADIO] 89 FM
+http://lb.kstream.org/aovivo/RADIO_89FM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,[RADIO] 98 FM
+http://lb.kstream.org/aovivo/RADIO_98FM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,[RADIO] Alpha FM
+http://lb.kstream.org/aovivo/RADIO_ALPHAFM/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,[RADIO] Cidade
+http://lb.kstream.org/aovivo/RADIO_CIDADE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,[RADIO] Dumont
+http://lb.kstream.org/aovivo/RADIO_DUMONT/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,[RADIO] Guaiba
+http://lb.kstream.org/aovivo/RADIO_GUAIBA/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,[RADIO] JB
+http://lb.kstream.org/aovivo/RADIO_JB/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,[RADIO] Sociedade
+http://lb.kstream.org/aovivo/RADIO_SOCIEDADE/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,[RADIO] Tomorrowland
+http://lb.kstream.org/aovivo/HD_TOMORROWLAND/video.m3u8?token=991b6671ac25854eca48c99061997bc3
+#EXTINF:-1,[RADIO] Transcontinental
+http://lb.kstream.org/aovivo/RADIO_TRANSCONTINENTAL/video.m3u8?token=991b6671ac25854eca48c99061997bc3
