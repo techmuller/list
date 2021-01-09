@@ -1,329 +1,2515 @@
 #EXTM3U
+#EXTINF:-1,SP: Rádio Antena 1 FM 94.7
+http://cdn.swux.us:80/nivaldo123/nivaldo321/87716
+#EXTINF:-1,SP: Rádio Arena FM 106
+http://cdn.swux.us:80/nivaldo123/nivaldo321/89537
+#EXTINF:-1,A&E FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139100
+#EXTINF:-1,A&E FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83335
+#EXTINF:-1,A&E FHD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140814
+#EXTINF:-1,A&E HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83185
 #EXTINF:-1,A&E SD
-http://granipflix.com:8080/israel/12345/1360
-#EXTINF:-1,AMC SD
-http://granipflix.com:8080/israel/12345/1361
-#EXTINF:-1,ANIMAL PLANET SD
-http://granipflix.com:8080/israel/12345/1362
-#EXTINF:-1,ARTE 1 SD
-http://granipflix.com:8080/israel/12345/1363
-#EXTINF:-1,AXN SD
-http://granipflix.com:8080/israel/12345/1364
-#EXTINF:-1,BABY TV SD
-http://granipflix.com:8080/israel/12345/1365
-#EXTINF:-1,BAND CAMPINAS SD
-http://granipflix.com:8080/israel/12345/1366
-#EXTINF:-1,BAND NEWS SD
-http://granipflix.com:8080/israel/12345/1367
-#EXTINF:-1,BAND SP SD
-http://granipflix.com:8080/israel/12345/1369
-#EXTINF:-1,BAND SPORTS SD
-http://granipflix.com:8080/israel/12345/1370
-#EXTINF:-1,BIS SD
-http://granipflix.com:8080/israel/12345/1371
-#EXTINF:-1,BOOMERANG SD
-http://granipflix.com:8080/israel/12345/1372
-#EXTINF:-1,Satellite TV
-http://granipflix.com:8080/israel/12345/1373
-#EXTINF:-1,Satellite TV
-http://granipflix.com:8080/israel/12345/22871
-#EXTINF:-1,CANCAO NOVA SD
-http://granipflix.com:8080/israel/12345/8454
-#EXTINF:-1,CARTOON NETWORK SD
-http://granipflix.com:8080/israel/12345/1374
-#EXTINF:-1,CINEMAX SD
-http://granipflix.com:8080/israel/12345/1375
-#EXTINF:-1,CNN BRASIL SD
-http://granipflix.com:8080/israel/12345/16343
-#EXTINF:-1,CNN Espanhol SD https://iptv.live
-http://granipflix.com:8080/israel/12345/29252
-#EXTINF:-1,CNN Internacional SD
-http://granipflix.com:8080/israel/12345/29255
-#EXTINF:-1,COMBATE SD
-http://granipflix.com:8080/israel/12345/1377
-#EXTINF:-1,COMEDY CENTRAL SD
-http://granipflix.com:8080/israel/12345/1378
-#EXTINF:-1,CONMEBOL TV 1
-http://granipflix.com:8080/israel/12345/28442
-#EXTINF:-1,CONMEBOL TV 2
-http://granipflix.com:8080/israel/12345/28441
-#EXTINF:-1,CONMEBOL TV 3
-http://granipflix.com:8080/israel/12345/28443
-#EXTINF:-1,CONMEBOL TV 4
-http://granipflix.com:8080/israel/12345/28444
-#EXTINF:-1,COPA CATARINENSE 2 SD
-http://granipflix.com:8080/israel/12345/29243
-#EXTINF:-1,COPA CATARINENSE SD
-http://granipflix.com:8080/israel/12345/29242
-#EXTINF:-1,COPA DO NORDESTE 2 SD
-http://granipflix.com:8080/israel/12345/29247
-#EXTINF:-1,COPA DO NORDESTE SD
-http://granipflix.com:8080/israel/12345/29246
-#EXTINF:-1,CURTA! SD
-http://granipflix.com:8080/israel/12345/1380
-#EXTINF:-1,DISCOVERY CHANNEL SD
-http://granipflix.com:8080/israel/12345/1381
-#EXTINF:-1,DISCOVERY HOME & HEALTH SD
-http://granipflix.com:8080/israel/12345/1383
-#EXTINF:-1,DISCOVERY KIDS SD
-http://granipflix.com:8080/israel/12345/1384
-#EXTINF:-1,DISCOVERY SCIENCE SD
-http://granipflix.com:8080/israel/12345/1385
-#EXTINF:-1,DISCOVERY THEATER SD
-http://granipflix.com:8080/israel/12345/1386
-#EXTINF:-1,DISCOVERY TLC SD
-http://granipflix.com:8080/israel/12345/1387
-#EXTINF:-1,DISCOVERY TURBO SD
-http://granipflix.com:8080/israel/12345/1388
-#EXTINF:-1,DISCOVERY WORLD SD
-http://granipflix.com:8080/israel/12345/1389
-#EXTINF:-1,DISNEY CHANNEL SD
-http://granipflix.com:8080/israel/12345/1390
-#EXTINF:-1,DISNEY JR SD
-http://granipflix.com:8080/israel/12345/1391
-#EXTINF:-1,DISNEY XD SD
-http://granipflix.com:8080/israel/12345/1392
-#EXTINF:-1,E! SD
-http://granipflix.com:8080/israel/12345/1393
-#EXTINF:-1,EIPLUS 3 SD
-http://granipflix.com:8080/israel/12345/29736
-#EXTINF:-1,EIPLUS 4 SD
-http://granipflix.com:8080/israel/12345/29738
-#EXTINF:-1,EIPLUS 5 SD
-http://granipflix.com:8080/israel/12345/29740
-#EXTINF:-1,EIPLUS 6 SD
-http://granipflix.com:8080/israel/12345/29742
-#EXTINF:-1,ESPN BRASIL SD
-http://granipflix.com:8080/israel/12345/1395
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83521
+#EXTINF:-1,Agro Brasil TV
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140985
+#EXTINF:-1,Agro+ FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140951
+#EXTINF:-1,AgroCanal HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140815
+#EXTINF:-1,Alexandre Pires e Seu Jorge [Live Irmãos]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136185
+#EXTINF:-1,Alexandre Pires [Live do Nego Véio]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136186
+#EXTINF:-1,All Sports
+http://cdn.swux.us:80/nivaldo123/nivaldo321/84739
+#EXTINF:-1,AMC
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83522
+#EXTINF:-1,AMC FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136797
+#EXTINF:-1,AMC FHD H.265 [d]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83336
+#EXTINF:-1,AMC HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83186
+#EXTINF:-1,AMC HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140816
+#EXTINF:-1,Animal Planet https://iptv.live
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83523
+#EXTINF:-1,Animal Planet FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/87312
+#EXTINF:-1,Animal Planet FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83368
+#EXTINF:-1,Animal Planet HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83187
+#EXTINF:-1,Animal Planet HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140817
+#EXTINF:-1,Arte 1 HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140818
+#EXTINF:-1,AXN
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83524
+#EXTINF:-1,AXN FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136792
+#EXTINF:-1,AXN FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83369
+#EXTINF:-1,AXN FHD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140819
+#EXTINF:-1,AXN FHD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83797
+#EXTINF:-1,AXN HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83188
+#EXTINF:-1,AXN HD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83798
+#EXTINF:-1,B&M + Wesley Safadão [Live 19-09-2020]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133622
+#EXTINF:-1,Baby TV HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140820
+#EXTINF:-1,BabyTV
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83525
+#EXTINF:-1,BAND Bahia
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83526
+#EXTINF:-1,BAND Brasilia HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83439
+#EXTINF:-1,BAND Campinas HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83440
+#EXTINF:-1,BAND News
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83528
+#EXTINF:-1,BAND News FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139115
+#EXTINF:-1,BAND News FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83370
+#EXTINF:-1,BAND News HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83308
+#EXTINF:-1,BAND News HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140821
+#EXTINF:-1,BAND Parana - TV Taroba HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83494
+#EXTINF:-1,BAND RJ FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83437
+#EXTINF:-1,BAND RJ HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83441
+#EXTINF:-1,BAND RS HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83442
+#EXTINF:-1,BAND SC HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140822
+#EXTINF:-1,BAND Sergipe HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83443
+#EXTINF:-1,BAND SP
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83527
+#EXTINF:-1,BAND SP FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140651
+#EXTINF:-1,BAND SP FHD H.265 ³
+http://cdn.swux.us:80/nivaldo123/nivaldo321/85978
+#EXTINF:-1,BAND SP HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83444
+#EXTINF:-1,BAND SP HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140823
+#EXTINF:-1,BAND Sports
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83529
+#EXTINF:-1,BAND Sports FHD https://iptv.live
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83806
+#EXTINF:-1,BAND Sports FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83371
+#EXTINF:-1,BAND Sports HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83189
+#EXTINF:-1,BAND Sports HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140824
+#EXTINF:-1,BAND TV Capixaba HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83519
+#EXTINF:-1,BAND TV Goiania FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83425
+#EXTINF:-1,BAND TV Goiania HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83271
+#EXTINF:-1,Batman - Trilogia
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133415
+#EXTINF:-1,BIS
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83530
+#EXTINF:-1,BIS FHD H.265 [d]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83337
+#EXTINF:-1,BIS HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83190
+#EXTINF:-1,BIS HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140825
+#EXTINF:-1,Boomerang
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83531
+#EXTINF:-1,Boomerang FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126104
+#EXTINF:-1,Boomerang FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83372
+#EXTINF:-1,Boomerang HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140826
+#EXTINF:-1,Bruno e Marrone [Live 16-05-2020]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133620
+#EXTINF:-1,Bruno e Marrone [Live 3 sem propagandas]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133624
+#EXTINF:-1,Bruno e Marrone [Live 4 sem propagandas]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133621
+#EXTINF:-1,Leonardo e Bruno e Marrone]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136196
+#EXTINF:-1,Campeonato Catarinense [Jogo 1]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83295
+#EXTINF:-1,Campeonato Catarinense [Jogo 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83296
+#EXTINF:-1,Campeonato Catarinense [Jogo 3]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83297
+#EXTINF:-1,Campeonato Catarinense [Jogo 4]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83298
+#EXTINF:-1,Canal 26 Argentina HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/70449
+#EXTINF:-1,Canal Brasil
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83532
+#EXTINF:-1,Canal Brasil FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83373
+#EXTINF:-1,Canal do Boi
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83533
+#EXTINF:-1,Canal do Boi HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140827
+#EXTINF:-1,Canal Sony
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83534
+#EXTINF:-1,Canal Sony FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136801
+#EXTINF:-1,Canal Sony FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83374
+#EXTINF:-1,Canal Sony HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83191
+#EXTINF:-1,Canal Sony HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140910
+#EXTINF:-1,Canção Nova
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83535
+#EXTINF:-1,Canção Nova ES FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140945
+#EXTINF:-1,Canção Nova ES HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140946
+#EXTINF:-1,Canção Nova HD ES
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140944
+#EXTINF:-1,Canção Nova HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/86137
+#EXTINF:-1,Canção Nova HD ³
+http://cdn.swux.us:80/nivaldo123/nivaldo321/87702
+#EXTINF:-1,Cartoon Network
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83536
+#EXTINF:-1,Cartoon Network FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126105
+#EXTINF:-1,Cartoon Network FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83375
+#EXTINF:-1,Cartoon Network HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83192
+#EXTINF:-1,Cartoon Network HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140828
+#EXTINF:-1,CGTN
+http://cdn.swux.us:80/nivaldo123/nivaldo321/84743
+#EXTINF:-1,Cine Brasil HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140829
+#EXTINF:-1,Cine Sky 01 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83314
+#EXTINF:-1,Cine Sky 02 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83315
+#EXTINF:-1,Cine Sky 03 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83316
+#EXTINF:-1,Cine Sky 04 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83317
+#EXTINF:-1,Cine Sky 05 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83318
+#EXTINF:-1,Cine Sky 06 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83877
+#EXTINF:-1,Cine Sky 07 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/84773
+#EXTINF:-1,Cine Sky 08 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/84885
+#EXTINF:-1,Cine Sky 09 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/86437
+#EXTINF:-1,Cine Sky 10 FHD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/86438
+#EXTINF:-1,Cine Sky 11 FHD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/86439
+#EXTINF:-1,Cine Sky 12 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/86440
+#EXTINF:-1,Cine Sky 13 FHD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/86441
+#EXTINF:-1,Cine Sky 14 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/86442
+#EXTINF:-1,Cine Sky 15 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/86443
+#EXTINF:-1,Cinemax
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83537
+#EXTINF:-1,Cinemax FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136798
+#EXTINF:-1,Cinemax FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83338
+#EXTINF:-1,Cinemax HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83193
+#EXTINF:-1,Cinemax HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140830
+#EXTINF:-1,CNN Brasil
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83669
+#EXTINF:-1,CNN Brasil FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83436
+#EXTINF:-1,CNN Brasil HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83306
+#EXTINF:-1,CNN Brasil HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140831
+#EXTINF:-1,CNN Brasil HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83609
+#EXTINF:-1,CNNe FHD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140832
+#EXTINF:-1,CNNi FHD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140833
+#EXTINF:-1,CNT ES
+http://cdn.swux.us:80/nivaldo123/nivaldo321/86694
+#EXTINF:-1,CNT ES FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/86692
+#EXTINF:-1,CNT ES HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/86693
+#EXTINF:-1,Combate
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83538
+#EXTINF:-1,Combate 4K ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140436
+#EXTINF:-1,Combate FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83821
+#EXTINF:-1,Combate FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83376
+#EXTINF:-1,Combate FHD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140834
+#EXTINF:-1,Combate HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83194
+#EXTINF:-1,Comedy Central
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83539
+#EXTINF:-1,Comedy Central FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139107
+#EXTINF:-1,Comedy Central FHD H.265 [d]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83339
+#EXTINF:-1,Comedy Central HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83195
+#EXTINF:-1,Comedy Central HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140835
+#EXTINF:-1,Conmebol TV 01 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83866
+#EXTINF:-1,Conmebol TV 01 HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83865
+#EXTINF:-1,Conmebol TV 01 SD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83864
+#EXTINF:-1,Conmebol TV 02 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83869
+#EXTINF:-1,Conmebol TV 02 HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83868
+#EXTINF:-1,Conmebol TV 02 SD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83867
+#EXTINF:-1,Conmebol TV 03 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/86706
+#EXTINF:-1,Conmebol TV 03 HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/86707
+#EXTINF:-1,Conmebol TV 03 SD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83870
+#EXTINF:-1,Conmebol TV 04 SD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83871
+#EXTINF:-1,Copa do Nordeste [Jogo 1]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83299
+#EXTINF:-1,Copa do Nordeste [Jogo 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83300
+#EXTINF:-1,Copa do Nordeste [Jogo 3]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83301
+#EXTINF:-1,Copa do Nordeste [Jogo 4]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83302
+#EXTINF:-1,Copa do Nordeste [Jogo 5]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83303
+#EXTINF:-1,Copa do Nordeste [Jogo 6]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83304
+#EXTINF:-1,Cultura HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140836
+#EXTINF:-1,Curta!
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83540
+#EXTINF:-1,DAZN 01
+http://cdn.swux.us:80/nivaldo123/nivaldo321/137158
+#EXTINF:-1,DAZN 01 [Alternativo ²]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140443
+#EXTINF:-1,DAZN 01 [alternativo]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83888
+#EXTINF:-1,DAZN 02
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83446
+#EXTINF:-1,DAZN 02 [Alternativo ²]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140444
+#EXTINF:-1,DAZN 02 [alternativo]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/87705
+#EXTINF:-1,DAZN 03
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83447
+#EXTINF:-1,DAZN 03 [alternativo]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139042
+#EXTINF:-1,DAZN 03 [Alternativo ²]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140445
+#EXTINF:-1,DAZN 04
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83448
+#EXTINF:-1,DAZN 04 [Alternativo ²]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140446
+#EXTINF:-1,DC Comics 01
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83876
+#EXTINF:-1,DC Comics 02
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83885
+#EXTINF:-1,Discovery Channel
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83541
+#EXTINF:-1,Discovery Channel FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/87316
+#EXTINF:-1,Discovery Channel FHD H.265 [d]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83340
+#EXTINF:-1,Discovery Channel HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83196
+#EXTINF:-1,Discovery Channel HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140837
+#EXTINF:-1,Discovery Home & Health
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83542
+#EXTINF:-1,Discovery Home & Health FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/87315
+#EXTINF:-1,Discovery Home & Health FHD H.265 [d]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83341
+#EXTINF:-1,Discovery Home & Health HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83198
+#EXTINF:-1,Discovery Home & Health HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140838
+#EXTINF:-1,Discovery ID
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83578
+#EXTINF:-1,Discovery ID FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126101
+#EXTINF:-1,Discovery ID FHD H.265 [d]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83355
+#EXTINF:-1,Discovery ID HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83230
+#EXTINF:-1,Discovery ID HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140839
+#EXTINF:-1,Discovery Kids
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83543
+#EXTINF:-1,Discovery Kids FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126106
+#EXTINF:-1,Discovery Kids FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83378
+#EXTINF:-1,Discovery Kids HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83199
+#EXTINF:-1,Discovery Kids HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140840
+#EXTINF:-1,Discovery Science FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126102
+#EXTINF:-1,Discovery Science FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83379
+#EXTINF:-1,Discovery Science HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83200
+#EXTINF:-1,Discovery Science HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140841
+#EXTINF:-1,Discovery Theater FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126103
+#EXTINF:-1,Discovery Theater FHD H.265 [d]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83342
+#EXTINF:-1,Discovery Theater HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83201
+#EXTINF:-1,Discovery Theater HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140842
+#EXTINF:-1,Discovery Turbo
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83544
+#EXTINF:-1,Discovery Turbo FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126100
+#EXTINF:-1,Discovery Turbo FHD H.265 [d]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83343
+#EXTINF:-1,Discovery Turbo HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83202
+#EXTINF:-1,Discovery Turbo HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140843
+#EXTINF:-1,Discovery World FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/87310
+#EXTINF:-1,Discovery World FHD H.265 [d]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83344
+#EXTINF:-1,Discovery World HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83203
+#EXTINF:-1,Discovery World HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140844
+#EXTINF:-1,Disney
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83545
+#EXTINF:-1,Disney Channel FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126107
+#EXTINF:-1,Disney Channel FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83380
+#EXTINF:-1,Disney Channel HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83204
+#EXTINF:-1,Disney Channel HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140845
+#EXTINF:-1,Disney Channel HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140607
+#EXTINF:-1,Disney Clássico 01
+http://cdn.swux.us:80/nivaldo123/nivaldo321/89549
+#EXTINF:-1,Disney Clássico 02
+http://cdn.swux.us:80/nivaldo123/nivaldo321/89550
+#EXTINF:-1,Disney JR HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140846
+#EXTINF:-1,Disney Junior
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83546
+#EXTINF:-1,Disney Junior FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126108
+#EXTINF:-1,Disney Junior FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83381
+#EXTINF:-1,Disney Junior HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83205
+#EXTINF:-1,Disney Junior HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140605
+#EXTINF:-1,Disney XD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83547
+#EXTINF:-1,Disney XD HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140606
+#EXTINF:-1,DOG TV FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83818
+#EXTINF:-1,DOG TV HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83804
+#EXTINF:-1,E!
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83548
+#EXTINF:-1,E! FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139113
+#EXTINF:-1,E! FHD H.265 [d]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83345
+#EXTINF:-1,E! HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83206
+#EXTINF:-1,E! HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140847
+#EXTINF:-1,Eduardo Costa [Aqui em Uberlândia]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136588
+#EXTINF:-1,Eduardo Costa [Especial Dia dos Namorados]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136587
+#EXTINF:-1,EI HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140848
+#EXTINF:-1,Ei Plus HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83453
+#EXTINF:-1,Ei Plus Jogos 1
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83449
+#EXTINF:-1,Ei Plus Jogos 2
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83450
+#EXTINF:-1,Ei Plus Jogos 3
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83451
+#EXTINF:-1,Ei Plus Jogos 4
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83452
+#EXTINF:-1,ES: Real Madrid TV
+http://cdn.swux.us:80/nivaldo123/nivaldo321/75083
+#EXTINF:-1,ESPN 2 HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83207
+#EXTINF:-1,ESPN 4K FHDR²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142007
+#EXTINF:-1,ESPN Brasil
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83554
+#EXTINF:-1,ESPN Brasil FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83809
+#EXTINF:-1,ESPN Brasil FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83385
+#EXTINF:-1,ESPN Brasil HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83208
+#EXTINF:-1,ESPN Brasil HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140849
+#EXTINF:-1,ESPN Extra FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83810
+#EXTINF:-1,ESPN Extra FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83382
 #EXTINF:-1,ESPN EXTRA HD
-http://granipflix.com:8080/israel/12345/9047
-#EXTINF:-1,ESPN EXTRA SD
-http://granipflix.com:8080/israel/12345/9046
-#EXTINF:-1,ESPN SD
-http://granipflix.com:8080/israel/12345/1396
-#EXTINF:-1,ESPORTE INTERATIVO SD
-http://granipflix.com:8080/israel/12345/29240
-#EXTINF:-1,Film & Arts SD
-http://granipflix.com:8080/israel/12345/22869
-#EXTINF:-1,FISH TV SD
-http://granipflix.com:8080/israel/12345/1398
-#EXTINF:-1,FOOD NETWORK SD https://iptv.live
-http://granipflix.com:8080/israel/12345/1399
-#EXTINF:-1,FOX LIFE SD
-http://granipflix.com:8080/israel/12345/1400
-#EXTINF:-1,FOX PREMIUM 1 SD
-http://granipflix.com:8080/israel/12345/1401
-#EXTINF:-1,FOX PREMIUM 2 SD
-http://granipflix.com:8080/israel/12345/1402
-#EXTINF:-1,FOX SD
-http://granipflix.com:8080/israel/12345/1403
-#EXTINF:-1,FOX SPORTS 2 SD
-http://granipflix.com:8080/israel/12345/1404
-#EXTINF:-1,FOX SPORTS SD
-http://granipflix.com:8080/israel/12345/1405
-#EXTINF:-1,FX SD
-http://granipflix.com:8080/israel/12345/1407
-#EXTINF:-1,GLOBO AMAZONAS SD
-http://granipflix.com:8080/israel/12345/1408
-#EXTINF:-1,GLOBO ANHANGUERA GOIANIA SD
-http://granipflix.com:8080/israel/12345/1409
-#EXTINF:-1,GLOBO BRASILIA SD
-http://granipflix.com:8080/israel/12345/4526
-#EXTINF:-1,GLOBO CUIABA SD
-http://granipflix.com:8080/israel/12345/1411
-#EXTINF:-1,Globo EPTV Araraquara SD
-http://granipflix.com:8080/israel/12345/22878
-#EXTINF:-1,GLOBO EPTV CAMPINAS SD
-http://granipflix.com:8080/israel/12345/1412
-#EXTINF:-1,GLOBO NEWS SD
-http://granipflix.com:8080/israel/12345/1417
-#EXTINF:-1,GLOBO NORDESTE SD
-http://granipflix.com:8080/israel/12345/1418
-#EXTINF:-1,Globo NSC Joinville SD
-http://granipflix.com:8080/israel/12345/22867
-#EXTINF:-1,GLOBO RBS PORTO ALEGRE SD
-http://granipflix.com:8080/israel/12345/1419
-#EXTINF:-1,Globo Rede Amazonica SD
-http://granipflix.com:8080/israel/12345/22879
-#EXTINF:-1,GLOBO RIBEIRAO PRETO SD
-http://granipflix.com:8080/israel/12345/1420
-#EXTINF:-1,GLOBO RJ SD
-http://granipflix.com:8080/israel/12345/1422
-#EXTINF:-1,Globo RPC Maringa SD
-http://granipflix.com:8080/israel/12345/22866
-#EXTINF:-1,GLOBO RPC TV CURITIBA SD
-http://granipflix.com:8080/israel/12345/1423
-#EXTINF:-1,GLOBO RPC TV PARANAVAI SD
-http://granipflix.com:8080/israel/12345/15460
-#EXTINF:-1,GLOBO SP SD
-http://granipflix.com:8080/israel/12345/1424
-#EXTINF:-1,GLOBO TV BAHIA SD
-http://granipflix.com:8080/israel/12345/1425
-#EXTINF:-1,GLOBO TV BELEM SD
-http://granipflix.com:8080/israel/12345/1426
-#EXTINF:-1,GLOBO TV TEM S.J. RIO PRETO SD
-http://granipflix.com:8080/israel/12345/19800
-#EXTINF:-1,GLOBO TV TEM SOROCABA SD
-http://granipflix.com:8080/israel/12345/1428
-#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD
-http://granipflix.com:8080/israel/12345/1429
-#EXTINF:-1,GLOBO TV VANGUARDA S. J. CAMPOS SD
-http://granipflix.com:8080/israel/12345/26050
-#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA SD
-http://granipflix.com:8080/israel/12345/1431
-#EXTINF:-1,GLOBOSAT SD
-http://granipflix.com:8080/israel/12345/1433
-#EXTINF:-1,GLOOB SD
-http://granipflix.com:8080/israel/12345/1434
-#EXTINF:-1,GLOOBINHO SD
-http://granipflix.com:8080/israel/12345/15461
-#EXTINF:-1,GNT SD
-http://granipflix.com:8080/israel/12345/1435
-#EXTINF:-1,H2 SD
-http://granipflix.com:8080/israel/12345/1436
-#EXTINF:-1,HBO 2 SD
-http://granipflix.com:8080/israel/12345/1437
-#EXTINF:-1,HBO FAMILY SD
-http://granipflix.com:8080/israel/12345/1438
-#EXTINF:-1,HBO MUNDI SD
-http://granipflix.com:8080/israel/12345/1446
-#EXTINF:-1,HBO PLUS SD
-http://granipflix.com:8080/israel/12345/1439
-#EXTINF:-1,HBO POP SD
-http://granipflix.com:8080/israel/12345/1447
-#EXTINF:-1,HBO SD
-http://granipflix.com:8080/israel/12345/1440
-#EXTINF:-1,HBO SIGNATURE SD
-http://granipflix.com:8080/israel/12345/1441
-#EXTINF:-1,HBO XTREME SD
-http://granipflix.com:8080/israel/12345/1445
-#EXTINF:-1,HGTV SD
-http://granipflix.com:8080/israel/12345/1382
-#EXTINF:-1,HISTORY CHANNEL SD
-http://granipflix.com:8080/israel/12345/1442
-#EXTINF:-1,ID INVESTIGACAO DISCOVERY SD
-http://granipflix.com:8080/israel/12345/1443
-#EXTINF:-1,LIFETIME SD
-http://granipflix.com:8080/israel/12345/1444
-#EXTINF:-1,M20 MUSIC
-http://granipflix.com:8080/israel/12345/3765
-#EXTINF:-1,MEGAPIX SD
-http://granipflix.com:8080/israel/12345/1448
-#EXTINF:-1,MTV SD
-http://granipflix.com:8080/israel/12345/1449
-#EXTINF:-1,MULTISHOW SD
-http://granipflix.com:8080/israel/12345/1450
-#EXTINF:-1,MUSIC BOX BRAZIL SD
-http://granipflix.com:8080/israel/12345/1451
-#EXTINF:-1,NATGEO KIDS SD
-http://granipflix.com:8080/israel/12345/1452
-#EXTINF:-1,NATGEO WILD SD
-http://granipflix.com:8080/israel/12345/1453
-#EXTINF:-1,NATIONAL GEOGRAPHIC SD
-http://granipflix.com:8080/israel/12345/1454
-#EXTINF:-1,NICK JR SD
-http://granipflix.com:8080/israel/12345/1455
-#EXTINF:-1,OFF SD
-http://granipflix.com:8080/israel/12345/1458
-#EXTINF:-1,PARAMOUNT CHANNEL SD
-http://granipflix.com:8080/israel/12345/1459
-#EXTINF:-1,Polishop TV SD
-http://granipflix.com:8080/israel/12345/22870
-#EXTINF:-1,PREMIERE 2 SD
-http://granipflix.com:8080/israel/12345/1462
-#EXTINF:-1,PREMIERE 3 SD
-http://granipflix.com:8080/israel/12345/1463
-#EXTINF:-1,PREMIERE 4 SD
-http://granipflix.com:8080/israel/12345/1464
-#EXTINF:-1,PREMIERE 5 SD
-http://granipflix.com:8080/israel/12345/1465
-#EXTINF:-1,PREMIERE 6 SD
-http://granipflix.com:8080/israel/12345/1466
-#EXTINF:-1,PREMIERE 7 SD
-http://granipflix.com:8080/israel/12345/1467
-#EXTINF:-1,PREMIERE CLUBES SD
-http://granipflix.com:8080/israel/12345/1469
-#EXTINF:-1,PRIME BOX BRASIL SD
-http://granipflix.com:8080/israel/12345/15312
-#EXTINF:-1,RECORD DF SD
-http://granipflix.com:8080/israel/12345/1472
-#EXTINF:-1,RECORD NEWS SD
-http://granipflix.com:8080/israel/12345/1475
-#EXTINF:-1,RECORD RJ SD
-http://granipflix.com:8080/israel/12345/1737
-#EXTINF:-1,RECORD SP SD
-http://granipflix.com:8080/israel/12345/1476
-#EXTINF:-1,REDE SECULO 21 SD
-http://granipflix.com:8080/israel/12345/21262
-#EXTINF:-1,REDE SUPER SD
-http://granipflix.com:8080/israel/12345/5747
-#EXTINF:-1,REDE TV SD
-http://granipflix.com:8080/israel/12345/1478
-#EXTINF:-1,RETRO MUSIC TV
-http://granipflix.com:8080/israel/12345/3768
-#EXTINF:-1,RIT TV SD
-http://granipflix.com:8080/israel/12345/5708
-#EXTINF:-1,SBT SD
-http://granipflix.com:8080/israel/12345/1480
-#EXTINF:-1,SONY SD
-http://granipflix.com:8080/israel/12345/1481
-#EXTINF:-1,SPACE SD
-http://granipflix.com:8080/israel/12345/1482
-#EXTINF:-1,SPORTV 2 SD
-http://granipflix.com:8080/israel/12345/1483
-#EXTINF:-1,SPORTV 3 SD
-http://granipflix.com:8080/israel/12345/1484
-#EXTINF:-1,SPORTV SD
-http://granipflix.com:8080/israel/12345/1485
-#EXTINF:-1,STUDIO UNIVERSAL SD
-http://granipflix.com:8080/israel/12345/1486
-#EXTINF:-1,SYFY SD
-http://granipflix.com:8080/israel/12345/1487
-#EXTINF:-1,TBS SD
-http://granipflix.com:8080/israel/12345/1488
-#EXTINF:-1,TCM SD
-http://granipflix.com:8080/israel/12345/1489
-#EXTINF:-1,TELECINE ACTION SD
-http://granipflix.com:8080/israel/12345/1490
-#EXTINF:-1,TELECINE CULT SD
-http://granipflix.com:8080/israel/12345/1491
-#EXTINF:-1,TELECINE FUN SD
-http://granipflix.com:8080/israel/12345/1492
-#EXTINF:-1,TELECINE PIPOCA SD
-http://granipflix.com:8080/israel/12345/1493
-#EXTINF:-1,TELECINE PREMIUM SD
-http://granipflix.com:8080/israel/12345/1494
-#EXTINF:-1,TELECINE TOUCH SD
-http://granipflix.com:8080/israel/12345/1495
-#EXTINF:-1,TNT SD
-http://granipflix.com:8080/israel/12345/1496
-#EXTINF:-1,TNT SERIES SD
-http://granipflix.com:8080/israel/12345/1497
-#EXTINF:-1,TOONCAST SD
-http://granipflix.com:8080/israel/12345/1498
-#EXTINF:-1,TRUTV SD
-http://granipflix.com:8080/israel/12345/4689
-#EXTINF:-1,TV ARACATI SD
-http://granipflix.com:8080/israel/12345/4723
-#EXTINF:-1,TV ATALAIA SERGIPE SD
-http://granipflix.com:8080/israel/12345/27469
-#EXTINF:-1,TV EVANGELIZAR SD
-http://granipflix.com:8080/israel/12345/27468
-#EXTINF:-1,TV GAZETA SD
-http://granipflix.com:8080/israel/12345/1499
-#EXTINF:-1,TV GIDEOES SD
-http://granipflix.com:8080/israel/12345/5748
-#EXTINF:-1,TV MUNDIAL
-http://granipflix.com:8080/israel/12345/1705
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83210
+#EXTINF:-1,ESPN Extra HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140850
+#EXTINF:-1,ESPN Extra HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140609
+#EXTINF:-1,ESPN FHD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140851
+#EXTINF:-1,ESPN HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140742
+#EXTINF:-1,ESPN1
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83552
+#EXTINF:-1,ESPN1 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83807
+#EXTINF:-1,ESPN1 FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83383
+#EXTINF:-1,ESPN1 HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83209
+#EXTINF:-1,ESPN2
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83553
+#EXTINF:-1,ESPN2 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83808
+#EXTINF:-1,ESPN2 FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83384
+#EXTINF:-1,ESPN2 HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140852
+#EXTINF:-1,ESPN2 HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140608
+#EXTINF:-1,Fashion TV HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140853
+#EXTINF:-1,Film & Art FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139104
+#EXTINF:-1,Film & Arts
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83555
+#EXTINF:-1,Film & Arts HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140703
+#EXTINF:-1,Film & Arts HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140854
+#EXTINF:-1,Fish TV
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83556
+#EXTINF:-1,Fish TV HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140855
+#EXTINF:-1,FishTV FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83386
+#EXTINF:-1,Food Network
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83557
+#EXTINF:-1,FOOD NETWORK FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139641
+#EXTINF:-1,Food Network FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83387
+#EXTINF:-1,Food Network FHD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140856
+#EXTINF:-1,Food Network HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83211
+#EXTINF:-1,FOX
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83558
+#EXTINF:-1,FOX FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136793
+#EXTINF:-1,Fox FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83346
+#EXTINF:-1,FOX FHD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83795
+#EXTINF:-1,FOX HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83212
+#EXTINF:-1,FOX HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140857
+#EXTINF:-1,FOX HD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83796
+#EXTINF:-1,Fox Life
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83559
+#EXTINF:-1,FOX Life FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136794
+#EXTINF:-1,FOX Life HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83213
+#EXTINF:-1,FOX Life HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140858
+#EXTINF:-1,FOX News HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140859
+#EXTINF:-1,FOX Premium 1 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136795
+#EXTINF:-1,Fox Premium 1 FHD H.265 [d]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83347
+#EXTINF:-1,FOX Premium 1 FHD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83799
+#EXTINF:-1,Fox Premium 1 HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83214
+#EXTINF:-1,FOX Premium 1 HD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83800
+#EXTINF:-1,FOX Premium 2 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136796
+#EXTINF:-1,Fox Premium 2 FHD H.265 [d]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83348
+#EXTINF:-1,FOX Premium 2 FHD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83801
+#EXTINF:-1,Fox Premium 2 HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83215
+#EXTINF:-1,FOX Premium 2 HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140861
+#EXTINF:-1,FOX Premium 2 HD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83802
+#EXTINF:-1,FOX Premium HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140860
+#EXTINF:-1,FOX Sports 1
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83560
+#EXTINF:-1,FOX Sports 1 4K ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140441
+#EXTINF:-1,FOX Sports 1 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83811
+#EXTINF:-1,FOX Sports 1 FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83388
+#EXTINF:-1,FOX Sports 1 HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83217
+#EXTINF:-1,FOX Sports 1 HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140862
+#EXTINF:-1,FOX Sports 2
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83561
+#EXTINF:-1,FOX Sports 2 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83812
+#EXTINF:-1,FOX Sports 2 FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83389
+#EXTINF:-1,FOX Sports 2 HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83216
+#EXTINF:-1,FOX Sports 2 HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140863
+#EXTINF:-1,Furacao Play TV
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83331
+#EXTINF:-1,Futebol Ao Vivo HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83334
+#EXTINF:-1,Futebol Serie D
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139592
+#EXTINF:-1,Futura
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83562
+#EXTINF:-1,FX
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83563
+#EXTINF:-1,FX FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136799
+#EXTINF:-1,FX FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83390
+#EXTINF:-1,FX HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83218
+#EXTINF:-1,FX HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140864
+#EXTINF:-1,Globo 4K
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140589
+#EXTINF:-1,Globo Araxa MG FHD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/127908
+#EXTINF:-1,Globo Araxa MG HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/127909
+#EXTINF:-1,Globo Bahia
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83644
+#EXTINF:-1,Globo Bahia - TV Subae HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83482
+#EXTINF:-1,Globo Bahia FHD [Salvador]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/132027
+#EXTINF:-1,Globo Bahia FHD ³
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126246
+#EXTINF:-1,Globo Bahia HD [Salvador]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/132028
+#EXTINF:-1,Globo Brasilia
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83564
+#EXTINF:-1,Globo Brasilia FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83432
+#EXTINF:-1,Globo Brasilia FHD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139711
+#EXTINF:-1,Globo Brasilia HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83455
+#EXTINF:-1,Globo Brasilia HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139710
+#EXTINF:-1,Globo Caruaru - TV Asa Branca HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83509
+#EXTINF:-1,Globo Centro America FHD³
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126231
+#EXTINF:-1,Globo EPTV Campinas
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83550
+#EXTINF:-1,Globo EPTV Campinas FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83504
+#EXTINF:-1,Globo EPTV Campinas FHD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140592
+#EXTINF:-1,Globo EPTV Campinas FHD ³
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126232
+#EXTINF:-1,Globo EPTV Campinas HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83503
+#EXTINF:-1,Globo EPTV Ribeirao Preto
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83551
+#EXTINF:-1,Globo EPTV Ribeirao Preto FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83434
+#EXTINF:-1,Globo EPTV Ribeirao Preto HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83514
+#EXTINF:-1,Globo EPTV Sul de Minas FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83515
+#EXTINF:-1,Globo EPTV Sul de Minas HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83516
+#EXTINF:-1,Globo EPTV Sul de Minas FHD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139719
+#EXTINF:-1,Globo EPTV São Carlos
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83549
+#EXTINF:-1,Globo Inter TV Grande Minas HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139714
+#EXTINF:-1,Globo Internacional HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83458
+#EXTINF:-1,Globo Maranhao - TV Mirante HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83498
+#EXTINF:-1,Globo Minas
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83565
+#EXTINF:-1,Globo Minas FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83431
+#EXTINF:-1,Globo Minas FHD³
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126235
+#EXTINF:-1,Globo Minas HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83491
+#EXTINF:-1,Globo Minas HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139713
+#EXTINF:-1,Globo Natal HD³
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126236
+#EXTINF:-1,Globo News
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83566
+#EXTINF:-1,Globo News FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139102
+#EXTINF:-1,Globo News FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83391
+#EXTINF:-1,Globo News HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83219
+#EXTINF:-1,Globo News HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140865
+#EXTINF:-1,Globo Nordeste
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83567
+#EXTINF:-1,Globo Paraiba HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83505
+#EXTINF:-1,Globo Piaui - TV Clube HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83508
+#EXTINF:-1,Globo Porto Velho HD ³
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126239
+#EXTINF:-1,Globo RJ
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83568
+#EXTINF:-1,Globo RJ FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83502
+#EXTINF:-1,Globo RJ FHD ³
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126242
+#EXTINF:-1,Globo RJ HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83459
+#EXTINF:-1,Globo RJ HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140866
+#EXTINF:-1,Globo RJ HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139712
+#EXTINF:-1,Globo RJ Interior - TV Rio Sul HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83499
+#EXTINF:-1,Globo RPC HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140867
+#EXTINF:-1,Globo Sergipe HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83460
+#EXTINF:-1,Globo SP
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83569
+#EXTINF:-1,Globo SP FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83510
+#EXTINF:-1,Globo SP FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83433
+#EXTINF:-1,Globo SP FHD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140437
+#EXTINF:-1,Globo SP FHD ³
+http://cdn.swux.us:80/nivaldo123/nivaldo321/123174
+#EXTINF:-1,Globo SP HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83461
+#EXTINF:-1,Globo SP HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140868
+#EXTINF:-1,Globo TV Anhanguera
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83642
+#EXTINF:-1,Globo TV Anhanguera FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126245
+#EXTINF:-1,Globo TV Anhanguera FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83424
+#EXTINF:-1,Globo TV Anhanguera HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83270
+#EXTINF:-1,Globo TV Gazeta ES HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139075
+#EXTINF:-1,Globo TV Grande Rio FHD ³
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126247
+#EXTINF:-1,Globo TV Integração Araxá HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139716
+#EXTINF:-1,Globo TV Liberal Belem
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83649
+#EXTINF:-1,Globo TV Liberal Belem FHD ³
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126248
+#EXTINF:-1,Globo TV Liberal Belem HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83506
+#EXTINF:-1,Globo TV Morena HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126249
+#EXTINF:-1,Globo TV Rio Sul FHD ³
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126250
+#EXTINF:-1,Globo TV Santa Cruz - TV Bahia HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83481
+#EXTINF:-1,Globo TV Santa Cruz HD ³
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126251
+#EXTINF:-1,Globo TV Tem Sao Jose do Rio Preto
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83653
+#EXTINF:-1,Globo TV Tem Sorocaba
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83654
+#EXTINF:-1,Globo TV Tem Sorocaba HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139718
+#EXTINF:-1,Globo TV Tribuna Santos
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83655
+#EXTINF:-1,Globo TV Verdes Mares 4K FHDR²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142006
+#EXTINF:-1,Globo TV Verdes Mares Cariri HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139717
+#EXTINF:-1,Globo TV Verdes Mares FHD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140869
+#EXTINF:-1,Globo TV Verdes Mares FHD ³
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126253
+#EXTINF:-1,Globo TV Verdes Mares Fortaleza
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83657
+#EXTINF:-1,Globo TV Verdes Mares HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83507
+#EXTINF:-1,Globo Vitoria ES
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83456
+#EXTINF:-1,Globo Vitoria ES FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83457
+#EXTINF:-1,Globo Vitoria ES HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83512
+#EXTINF:-1,Gloob
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83570
+#EXTINF:-1,Gloob FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126109
+#EXTINF:-1,Gloob FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83392
+#EXTINF:-1,Gloob HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83221
+#EXTINF:-1,Gloob HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140870
+#EXTINF:-1,GNT
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83571
+#EXTINF:-1,GNT FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139111
+#EXTINF:-1,GNT FHD H265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140812
+#EXTINF:-1,GNT HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83222
+#EXTINF:-1,GNT HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140871
+#EXTINF:-1,Golf Channel FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83820
+#EXTINF:-1,Golf Channel HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83305
+#EXTINF:-1,Gusttavo Lima [Buteco em BH]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136189
+#EXTINF:-1,Gusttavo Lima [Buteco Em Casa 1]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136192
+#EXTINF:-1,Gusttavo Lima [Embaixador no Agronegócio]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136188
+#EXTINF:-1,Gusttavo Lima [Especial São João]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136191
+#EXTINF:-1,Gusttavo Lima [Festa do Peão Barretos]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136190
+#EXTINF:-1,Gusttavo Lima [YouTube Music]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136187
+#EXTINF:-1,Daniel e Leonardo [Live Buteco em Casa 3]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133628
+#EXTINF:-1,Harry Potter 01
+http://cdn.swux.us:80/nivaldo123/nivaldo321/123176
+#EXTINF:-1,Harry Potter 02
+http://cdn.swux.us:80/nivaldo123/nivaldo321/123175
+#EXTINF:-1,HBO Familly FHD H.265 [d]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83350
+#EXTINF:-1,HBO Family
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83573
+#EXTINF:-1,HBO Family FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140710
+#EXTINF:-1,HBO Family HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83224
+#EXTINF:-1,HBO Family HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140873
+#EXTINF:-1,HBO FHD H.265 [d]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83351
+#EXTINF:-1,HBO FHD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83783
+#EXTINF:-1,HBO HD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83784
+#EXTINF:-1,HBO Mundi
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83582
+#EXTINF:-1,HBO Mundi FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140736
+#EXTINF:-1,HBO Mundi FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83397
+#EXTINF:-1,HBO Mundi FHD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83789
+#EXTINF:-1,HBO Mundi HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83232
+#EXTINF:-1,HBO Mundi HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140875
+#EXTINF:-1,HBO Mundi HD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83790
+#EXTINF:-1,HBO POP
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140948
+#EXTINF:-1,HBO Pop FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140737
+#EXTINF:-1,HBO POP FHD H.265 [d]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83356
+#EXTINF:-1,HBO Pop FHD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83791
+#EXTINF:-1,HBO POP HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83234
+#EXTINF:-1,HBO Pop HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140876
+#EXTINF:-1,HBO Pop HD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83792
+#EXTINF:-1,HBO Signature
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83575
+#EXTINF:-1,HBO Signature FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140735
+#EXTINF:-1,HBO Signature FHD H.265 [d]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83353
+#EXTINF:-1,HBO Signature FHD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83787
+#EXTINF:-1,HBO Signature HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83227
+#EXTINF:-1,HBO Signature HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140877
+#EXTINF:-1,HBO Signature HD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83788
+#EXTINF:-1,HBO Xtreme
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140947
+#EXTINF:-1,HBO Xtreme FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140732
+#EXTINF:-1,HBO Xtreme FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83398
+#EXTINF:-1,HBO Xtreme FHD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140731
+#EXTINF:-1,HBO Xtreme HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83233
+#EXTINF:-1,HBO Xtreme HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140878
+#EXTINF:-1,HBO Xtreme HD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140730
+#EXTINF:-1,HBO+
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83574
+#EXTINF:-1,HBO+ FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140734
+#EXTINF:-1,HBO+ FHD H.265 [d]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83352
+#EXTINF:-1,HBO+ FHD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83785
+#EXTINF:-1,HBO+ HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83226
+#EXTINF:-1,HBO+ HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140879
+#EXTINF:-1,HBO+ HD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83786
+#EXTINF:-1,HBO1
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83572
+#EXTINF:-1,HBO1 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140708
+#EXTINF:-1,HBO1 HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83225
+#EXTINF:-1,HBO1 HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140874
+#EXTINF:-1,HBO2
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83576
+#EXTINF:-1,HBO2 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140733
+#EXTINF:-1,HBO2 FHD H.265 [d]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83354
+#EXTINF:-1,HBO2 HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83223
+#EXTINF:-1,HBO2 HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140880
+#EXTINF:-1,Henrique e Juliano [Live Liberdade Provisória]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133623
+#EXTINF:-1,HGTV FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139110
+#EXTINF:-1,HGTV FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83377
+#EXTINF:-1,HGTV HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83197
+#EXTINF:-1,History
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83663
+#EXTINF:-1,History 2
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83577
+#EXTINF:-1,History 2 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/87314
+#EXTINF:-1,History 2 FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83394
+#EXTINF:-1,History 2 FHD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140872
+#EXTINF:-1,History 2 HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83228
+#EXTINF:-1,History FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83819
+#EXTINF:-1,History FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83393
+#EXTINF:-1,History HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83229
+#EXTINF:-1,History HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140881
+#EXTINF:-1,Igreja Evangélica Cristo Vive
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62530
+#EXTINF:-1,Inter TV Cabo Frio HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83501
+#EXTINF:-1,Inter TV Cabugi
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83579
+#EXTINF:-1,Jogos Mortais 01
+http://cdn.swux.us:80/nivaldo123/nivaldo321/123177
+#EXTINF:-1,Jogos Mortais 02
+http://cdn.swux.us:80/nivaldo123/nivaldo321/123178
+#EXTINF:-1,Jogos Vorazes - Quadrilogia
+http://cdn.swux.us:80/nivaldo123/nivaldo321/123179
+#EXTINF:-1,John Wick - Trilogia
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133418
+#EXTINF:-1,Jorge e Mateus [Na Praia Hotel]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136193
+#EXTINF:-1,Jorge e Mateus [Pelo Amor de Deus]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136194
+#EXTINF:-1,Jorge e Mateus [Sunset]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136195
+#EXTINF:-1,Leonardo e Eduardo Costa [Cabaré]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136589
+#EXTINF:-1,Leonardo e Luiza e Maurílio [Aqui em Uberlândia]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136592
+#EXTINF:-1,Leonardo e Zé Felipe [Pai e Filho]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136590
+#EXTINF:-1,Bebo e Choro]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136591
+#EXTINF:-1,Lifetime
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83580
+#EXTINF:-1,Lifetime FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/87309
+#EXTINF:-1,Lifetime FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83395
+#EXTINF:-1,Lifetime HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83231
+#EXTINF:-1,Lifetime HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140882
+#EXTINF:-1,Live Ao Vivo
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83307
+#EXTINF:-1,LOADING
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83668
+#EXTINF:-1,Loading FHD³
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140954
+#EXTINF:-1,Loading HD³
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140952
+#EXTINF:-1,Loading ³
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140953
+#EXTINF:-1,Love Nature FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83435
+#EXTINF:-1,Maiara e Maraisa [Aqui em Casa 1]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136201
+#EXTINF:-1,Maiara e Maraisa [Aqui em Casa 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136202
+#EXTINF:-1,Maiara e Maraisa [Aqui na Fazenda]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136198
+#EXTINF:-1,Maiara e Maraisa [Drive-In Na Terra]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136200
+#EXTINF:-1,Maiara e Maraisa [Fun Live]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136199
+#EXTINF:-1,Maiara e Maraisa [Workshow]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136197
+#EXTINF:-1,Mais na Tela
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83581
+#EXTINF:-1,Mais na Tela FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83396
+#EXTINF:-1,Mais na Tela HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83220
+#EXTINF:-1,MAIS Na Tela HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140883
+#EXTINF:-1,Marilia Mendonça [Lado B]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136206
+#EXTINF:-1,Marilia Mendonça [Live Local]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136205
+#EXTINF:-1,Marilia Mendonça [Todos os Cantos]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136204
+#EXTINF:-1,Marilia Mendonça [Workshow]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136203
+#EXTINF:-1,Marvel 01
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83171
+#EXTINF:-1,Marvel 02
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83184
+#EXTINF:-1,Marvel 03
+http://cdn.swux.us:80/nivaldo123/nivaldo321/87696
+#EXTINF:-1,Marvel 04
+http://cdn.swux.us:80/nivaldo123/nivaldo321/89551
+#EXTINF:-1,Maze Runner - Trilogia
+http://cdn.swux.us:80/nivaldo123/nivaldo321/123180
+#EXTINF:-1,MegaPix
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83585
+#EXTINF:-1,MegaPix FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136800
+#EXTINF:-1,Megapix FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83399
+#EXTINF:-1,Megapix HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83235
+#EXTINF:-1,Megapix HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140884
+#EXTINF:-1,Mosaico Premiere FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/87324
+#EXTINF:-1,Mosaico Premiere HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/87325
+#EXTINF:-1,MTV
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83586
+#EXTINF:-1,MTV FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139103
+#EXTINF:-1,MTV FHD H.265 [d]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83357
+#EXTINF:-1,MTV HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83236
+#EXTINF:-1,MTV HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140885
+#EXTINF:-1,MTV Live HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140886
+#EXTINF:-1,Multishow
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83587
+#EXTINF:-1,Multishow 4K ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140530
+#EXTINF:-1,Multishow FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139109
+#EXTINF:-1,Multishow FHD H.265 [d]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83358
+#EXTINF:-1,Multishow HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83237
+#EXTINF:-1,Multishow HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140887
+#EXTINF:-1,Music Box Brazil
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83588
+#EXTINF:-1,Music Box Brazil HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83589
+#EXTINF:-1,NatGeo Kids
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83590
+#EXTINF:-1,NatGeo Kids FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126111
+#EXTINF:-1,NatGeo Kids FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83401
+#EXTINF:-1,NatGeo Kids HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83239
+#EXTINF:-1,NatGeo Kids HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140888
+#EXTINF:-1,NatGeo Wild
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83591
+#EXTINF:-1,NatGeo Wild FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/87311
+#EXTINF:-1,NatGeo Wild FHD H.265 [d]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83359
+#EXTINF:-1,NatGeo Wild HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83240
+#EXTINF:-1,National Geographic
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83592
+#EXTINF:-1,National Geographic FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/87313
+#EXTINF:-1,National Geographic FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83400
+#EXTINF:-1,National Geographic HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83238
+#EXTINF:-1,NHK
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83593
+#EXTINF:-1,Nick Jr
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83594
+#EXTINF:-1,Nick JR FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126113
+#EXTINF:-1,Nick Jr FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83403
+#EXTINF:-1,Nick Jr HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83242
+#EXTINF:-1,Nick JR HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140890
+#EXTINF:-1,Nickelodeon
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83595
+#EXTINF:-1,Nickelodeon FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126112
+#EXTINF:-1,Nickelodeon FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83402
+#EXTINF:-1,Nickelodeon HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83241
+#EXTINF:-1,Nickelodeon HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140889
+#EXTINF:-1,NSC Blumenau FHD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139715
+#EXTINF:-1,NSC Blumenau HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83489
+#EXTINF:-1,NSC Florianópolis FHD ³
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126238
+#EXTINF:-1,NSC Florianópolis HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83500
+#EXTINF:-1,NSC Florianópolis HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140891
+#EXTINF:-1,O Hobbit - Trilogia
+http://cdn.swux.us:80/nivaldo123/nivaldo321/123181
+#EXTINF:-1,O Senhor dos Aneis - Trilogia
+http://cdn.swux.us:80/nivaldo123/nivaldo321/123182
+#EXTINF:-1,OFF
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83596
+#EXTINF:-1,OFF FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139108
+#EXTINF:-1,OFF FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83404
+#EXTINF:-1,OFF HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83243
+#EXTINF:-1,OFF HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140892
+#EXTINF:-1,One Football 01
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139467
+#EXTINF:-1,One Football 02
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139472
+#EXTINF:-1,Paramount
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83597
+#EXTINF:-1,Paramount FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136802
+#EXTINF:-1,Paramount FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83360
+#EXTINF:-1,Paramount HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83244
+#EXTINF:-1,Paramount HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140893
+#EXTINF:-1,Play Kids
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83672
+#EXTINF:-1,Play Kids HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140610
+#EXTINF:-1,PlayTV
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83599
+#EXTINF:-1,PLUTOTV - Cine Sucessos
+http://cdn.swux.us:80/nivaldo123/nivaldo321/138971
+#EXTINF:-1,Polishop HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140894
+#EXTINF:-1,PolishopTV
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83600
+#EXTINF:-1,PR: Radio Paiquere 91.7 fm
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140987
+#EXTINF:-1,PR: Radio Paiquere 98.9 fm
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140988
+#EXTINF:-1,Premiere 01 Clubes
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83601
+#EXTINF:-1,Premiere 01 Clubes FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83813
+#EXTINF:-1,Premiere 01 Clubes FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83405
+#EXTINF:-1,Premiere 01 Clubes HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83251
+#EXTINF:-1,Premiere 01 Clubes HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140424
+#EXTINF:-1,Premiere 02
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83602
+#EXTINF:-1,Premiere 02 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/87323
+#EXTINF:-1,Premiere 02 FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83406
+#EXTINF:-1,Premiere 03 FHD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140896
+#EXTINF:-1,Premiere 02 HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83245
+#EXTINF:-1,Premiere 02 HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140425
+#EXTINF:-1,Premiere 03
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83603
+#EXTINF:-1,Premiere 03 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/87322
+#EXTINF:-1,Premiere 03 FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83407
+#EXTINF:-1,Premiere 02 FHD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140897
+#EXTINF:-1,Premiere 03 HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83246
+#EXTINF:-1,Premiere 03 HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140426
+#EXTINF:-1,Premiere 04
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83604
+#EXTINF:-1,Premiere 04 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/87321
+#EXTINF:-1,Premiere 04 FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83408
+#EXTINF:-1,Premiere 04 FHD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140898
+#EXTINF:-1,Premiere 04 HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83247
+#EXTINF:-1,Premiere 04 HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140427
+#EXTINF:-1,Premiere 05
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83605
+#EXTINF:-1,Premiere 05 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/87320
+#EXTINF:-1,Premiere 05 FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83409
+#EXTINF:-1,Premiere 05 FHD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140899
+#EXTINF:-1,Premiere 05 HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83248
+#EXTINF:-1,Premiere 05 HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140428
+#EXTINF:-1,Premiere 06
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83606
+#EXTINF:-1,Premiere 06 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/87319
+#EXTINF:-1,Premiere 06 FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83410
+#EXTINF:-1,Premiere 06 FHD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140900
+#EXTINF:-1,Premiere 06 HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83249
+#EXTINF:-1,Premiere 07
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83607
+#EXTINF:-1,Premiere 07 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/87318
+#EXTINF:-1,Premiere 07 FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83411
+#EXTINF:-1,Premiere 07 FHD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140901
+#EXTINF:-1,Premiere 07 HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83250
+#EXTINF:-1,Premiere 08
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83608
+#EXTINF:-1,Premiere 08 FHD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140902
+#EXTINF:-1,Premiere 09
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140729
+#EXTINF:-1,Premiere Clubes FHD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140895
+#EXTINF:-1,Prime Box Brazil
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83610
+#EXTINF:-1,Radio Arena
+http://cdn.swux.us:80/nivaldo123/nivaldo321/89536
+#EXTINF:-1,Radio Morphy FM
+http://cdn.swux.us:80/nivaldo123/nivaldo321/123052
+#EXTINF:-1,RAI Internacional FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83817
+#EXTINF:-1,RAI Internacional HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83803
+#EXTINF:-1,Raça Negra e Alexandre Pires [Live Gigantes do Samba]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/134985
+#EXTINF:-1,Raça Negra e Amigos em Casa [Live 21-04-2020]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/134986
+#EXTINF:-1,RBS TV Caxias FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83438
+#EXTINF:-1,RBS TV Caxias HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83333
+#EXTINF:-1,RBS TV Pelotas FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/86690
+#EXTINF:-1,RBS TV Pelotas HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/86691
+#EXTINF:-1,RBS TV Porto Alegre
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83611
+#EXTINF:-1,RBS TV Porto Alegre FHD ³
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126240
+#EXTINF:-1,RBS TV Porto Alegre HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83462
+#EXTINF:-1,RBS TV Santa Maria
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83805
+#EXTINF:-1,Record BA HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140593
+#EXTINF:-1,Record Belem HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140603
+#EXTINF:-1,Record Brasilia HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83463
+#EXTINF:-1,Record Brasilia HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140594
+#EXTINF:-1,Record Campinas HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83488
+#EXTINF:-1,Record ES - TV Vitoria
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83485
+#EXTINF:-1,Record ES TV - Vitoria FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83486
+#EXTINF:-1,Record ES TV - Vitoria HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83487
+#EXTINF:-1,Record GO HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140604
+#EXTINF:-1,Record Itapoan Bahia
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83520
+#EXTINF:-1,Record Itapoan Bahia HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140595
+#EXTINF:-1,Record MA HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140596
+#EXTINF:-1,Record Manaus HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83518
+#EXTINF:-1,Record MG HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83329
+#EXTINF:-1,Record News
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83612
+#EXTINF:-1,Record News FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139116
+#EXTINF:-1,Record News HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83309
+#EXTINF:-1,Record News HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140597
+#EXTINF:-1,Record PA HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140598
+#EXTINF:-1,Record RJ HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83472
+#EXTINF:-1,Record RJ HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140599
+#EXTINF:-1,Record RS HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83465
+#EXTINF:-1,Record RS HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140600
+#EXTINF:-1,Record Sao Jose Rio Preto HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83466
+#EXTINF:-1,Record SC HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140903
+#EXTINF:-1,Record Sergipe - Tv Atalaia HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83467
+#EXTINF:-1,Record SP FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83430
+#EXTINF:-1,Record SP HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83468
+#EXTINF:-1,Record SP HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140601
+#EXTINF:-1,Record TV
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83613
+#EXTINF:-1,Record TV Bahia - TV Cabralia HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83478
+#EXTINF:-1,Record TV Belem HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83469
+#EXTINF:-1,Record TV Goiania FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83412
+#EXTINF:-1,Record TV Goiania HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83252
+#EXTINF:-1,Record TV Litoral HD Santos
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83470
+#EXTINF:-1,Record TV Minas HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83471
+#EXTINF:-1,Record TV Parana HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83496
+#EXTINF:-1,Record TV Paranaíba HD - Uberlandia
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83480
+#EXTINF:-1,Record TV POA HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140602
+#EXTINF:-1,Record TV Santa Catarina HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83490
+#EXTINF:-1,Red Bull TV FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/70206
+#EXTINF:-1,Rede Amazonica Manaus
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83614
+#EXTINF:-1,Rede Amazonica Manaus HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83497
+#EXTINF:-1,Rede Brasil
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83615
+#EXTINF:-1,Rede Brasil²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136812
+#EXTINF:-1,Rede Gospel TV
+http://cdn.swux.us:80/nivaldo123/nivaldo321/35921
+#EXTINF:-1,Rede Minas HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83312
+#EXTINF:-1,Rede Super ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140350
+#EXTINF:-1,Rede TV
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83616
+#EXTINF:-1,Rede TV ES
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140943
+#EXTINF:-1,Rede TV ES FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/86695
+#EXTINF:-1,Rede TV ES HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/86696
+#EXTINF:-1,Rede TV FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140652
+#EXTINF:-1,Rede TV HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83253
+#EXTINF:-1,Rede TV HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140904
+#EXTINF:-1,Rede TV TO³
+http://cdn.swux.us:80/nivaldo123/nivaldo321/87699
+#EXTINF:-1,Rede Vida
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83617
+#EXTINF:-1,Rede Vida HD²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/86138
+#EXTINF:-1,RedeTV FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83413
+#EXTINF:-1,RPC Curitiba
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83618
+#EXTINF:-1,RPC Curitiba FHD ³
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126244
+#EXTINF:-1,RPC Foz do Iguaçu FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/86704
+#EXTINF:-1,RPC Foz do Iguaçu HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/86705
+#EXTINF:-1,RPC Parana HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83493
+#EXTINF:-1,Santuário de Fátima²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/80635
+#EXTINF:-1,SBT
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83619
+#EXTINF:-1,SBT 4K ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140440
+#EXTINF:-1,SBT Bahia - TV Aratu HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83477
+#EXTINF:-1,SBT Brasilia HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83473
+#EXTINF:-1,SBT ES
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83483
+#EXTINF:-1,SBT ES FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83464
+#EXTINF:-1,SBT ES HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140739
+#EXTINF:-1,SBT HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140905
+#EXTINF:-1,SBT MG - TV Alterosa HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83492
+#EXTINF:-1,SBT MG - TV Alterosa FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83511
+#EXTINF:-1,SBT Parana HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83495
+#EXTINF:-1,SBT Rede Massa HD²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/137138
+#EXTINF:-1,SBT RJ FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83517
+#EXTINF:-1,SBT RJ HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83513
+#EXTINF:-1,SBT RS HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83474
+#EXTINF:-1,SBT Sergipe - TV Aperiper HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83475
+#EXTINF:-1,SBT SP FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140653
+#EXTINF:-1,SBT SP HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83476
+#EXTINF:-1,SBT TV Serra Dourada FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83426
+#EXTINF:-1,SBT TV Serra Dourada HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83273
+#EXTINF:-1,Sesc TV HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140906
+#EXTINF:-1,Shoptime HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140909
+#EXTINF:-1,Simone e Simaria [Live das Coleguinhas 1]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136208
+#EXTINF:-1,Simone e Simaria [Live das Coleguinhas 2 Libras]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136210
+#EXTINF:-1,Simone e Simaria [Live das Coleguinhas 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136209
+#EXTINF:-1,Simone e Simaria [Pocket Show]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136207
+#EXTINF:-1,Live Junina]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136211
+#EXTINF:-1,Smithsonian HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83310
+#EXTINF:-1,SP: 89 FM A Rádio Rock
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140289
+#EXTINF:-1,SP: energia 97
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140287
+#EXTINF:-1,SP: Rádio Metropolitana FM 98.5
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140290
+#EXTINF:-1,Space
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83622
+#EXTINF:-1,Space FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136803
+#EXTINF:-1,Space FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83361
+#EXTINF:-1,Space HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83254
+#EXTINF:-1,Space HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140911
+#EXTINF:-1,SporTV 1
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83623
+#EXTINF:-1,SporTV 1 4K ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140439
+#EXTINF:-1,SporTV 1 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83814
+#EXTINF:-1,SporTV 1 FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83416
+#EXTINF:-1,Sportv 1 FHD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140912
+#EXTINF:-1,SporTV 1 HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83257
+#EXTINF:-1,SporTV 1 HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140422
+#EXTINF:-1,SporTV 2
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83624
+#EXTINF:-1,SporTV 2 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83815
+#EXTINF:-1,SporTV 2 FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83414
+#EXTINF:-1,Sportv 2 FHD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140913
+#EXTINF:-1,SporTV 2 HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83255
+#EXTINF:-1,SporTV 2 HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140423
+#EXTINF:-1,SporTV 3
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83625
+#EXTINF:-1,SporTV 3 FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83816
+#EXTINF:-1,SporTV 3 FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83415
+#EXTINF:-1,Sportv 3 FHD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140914
+#EXTINF:-1,SporTV 3 HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83256
+#EXTINF:-1,SporTV 3 HD ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140429
+#EXTINF:-1,Studio Universal
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83626
+#EXTINF:-1,Studio Universal FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136804
+#EXTINF:-1,Studio Universal FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83417
+#EXTINF:-1,Studio Universal HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83258
+#EXTINF:-1,Syfy
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83627
+#EXTINF:-1,SyFy FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139106
+#EXTINF:-1,SYFY FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83418
+#EXTINF:-1,SYFY HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83259
+#EXTINF:-1,Só Pra Contrariar [Especial 30 Anos]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136184
+#EXTINF:-1,Só Pra Contrariar [Session 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136183
+#EXTINF:-1,TBS
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83628
+#EXTINF:-1,TBS FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139105
+#EXTINF:-1,TBS FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83419
+#EXTINF:-1,TBS HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83260
+#EXTINF:-1,TBS HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140915
+#EXTINF:-1,TCM
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83629
+#EXTINF:-1,TCM HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140916
+#EXTINF:-1,TCM Play
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133315
+#EXTINF:-1,Telecine Action
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83630
+#EXTINF:-1,Telecine Action FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83824
+#EXTINF:-1,Telecine Action FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83420
+#EXTINF:-1,Telecine Action FHD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83775
+#EXTINF:-1,Telecine Action HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83261
+#EXTINF:-1,Telecine Action HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140917
+#EXTINF:-1,Telecine Action HD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83776
+#EXTINF:-1,Telecine Cult
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83631
+#EXTINF:-1,Telecine Cult FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83828
+#EXTINF:-1,Telecine Cult FHD H.265 [d]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83362
+#EXTINF:-1,Telecine Cult FHD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83781
+#EXTINF:-1,Telecine Cult HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83262
+#EXTINF:-1,Telecine Cult HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140918
+#EXTINF:-1,Telecine Cult HD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83782
+#EXTINF:-1,Telecine Fun
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83632
+#EXTINF:-1,Telecine Fun FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83827
+#EXTINF:-1,Telecine Fun FHD H.265 [d]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83363
+#EXTINF:-1,Telecine Fun FHD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83779
+#EXTINF:-1,Telecine Fun HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83263
+#EXTINF:-1,Telecine Fun HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140919
+#EXTINF:-1,Telecine Fun HD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83780
+#EXTINF:-1,Telecine Pipoca
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83633
+#EXTINF:-1,Telecine Pipoca FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83826
+#EXTINF:-1,Telecine Pipoca FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83421
+#EXTINF:-1,Telecine Pipoca FHD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83771
+#EXTINF:-1,Telecine Pipoca HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83264
+#EXTINF:-1,Telecine Pipoca HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140920
+#EXTINF:-1,Telecine Pipoca HD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83772
+#EXTINF:-1,Telecine Premium
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83634
+#EXTINF:-1,Telecine Premium FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83823
+#EXTINF:-1,Telecine Premium FHD H.265 [d]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83364
+#EXTINF:-1,Telecine Premium FHD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83773
+#EXTINF:-1,Telecine Premium HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83265
+#EXTINF:-1,Telecine Premium HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140921
+#EXTINF:-1,Telecine Premium HD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83774
+#EXTINF:-1,Telecine Touch
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83635
+#EXTINF:-1,Telecine Touch FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83825
+#EXTINF:-1,Telecine Touch FHD H.265 [d]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83365
+#EXTINF:-1,Telecine Touch FHD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83777
+#EXTINF:-1,Telecine Touch HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83266
+#EXTINF:-1,Telecine Touch HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140922
+#EXTINF:-1,Telecine Touch HD [leg]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83778
+#EXTINF:-1,Terra Viva
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83636
+#EXTINF:-1,TLC
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83637
+#EXTINF:-1,TLC FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/87317
+#EXTINF:-1,TLC FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83422
+#EXTINF:-1,TLC HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83267
+#EXTINF:-1,TLC HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140923
+#EXTINF:-1,TNT
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83638
+#EXTINF:-1,TNT FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83822
+#EXTINF:-1,TNT FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83423
+#EXTINF:-1,TNT HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83268
+#EXTINF:-1,TNT HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140924
+#EXTINF:-1,TNT Series
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83639
+#EXTINF:-1,TNT Series FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136806
+#EXTINF:-1,TNT Series FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83366
+#EXTINF:-1,TNT Series HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83269
+#EXTINF:-1,TNT Series HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140925
+#EXTINF:-1,Tooncast
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83640
+#EXTINF:-1,Tooncast FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126116
+#EXTINF:-1,Tooncast HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140942
+#EXTINF:-1,Tooncast HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140926
+#EXTINF:-1,Trio Parada Dura e Cesar Menotti [Na Fazenda do Ratinho]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136594
+#EXTINF:-1,Trio Parada Dura [A Última Live - Especial Parrerito]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136595
+#EXTINF:-1,TruTV
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83641
+#EXTINF:-1,TruTV HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140927
+#EXTINF:-1,TV Aparecida
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83643
+#EXTINF:-1,TV Aparecida HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140928
+#EXTINF:-1,TV Brasil HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/132026
+#EXTINF:-1,TV Brasil HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140929
+#EXTINF:-1,TV Brasil Web³
+http://cdn.swux.us:80/nivaldo123/nivaldo321/87706
+#EXTINF:-1,TV Camara
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83645
+#EXTINF:-1,TV Camara HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140930
+#EXTINF:-1,TV Centro America Cuiaba
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83646
+#EXTINF:-1,TV Cultura
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83647
+#EXTINF:-1,TV Cultura ES
+http://cdn.swux.us:80/nivaldo123/nivaldo321/86703
+#EXTINF:-1,TV Cultura ES FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140949
+#EXTINF:-1,TV Cultura ES HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/86702
+#EXTINF:-1,TV Cultura HD ³
+http://cdn.swux.us:80/nivaldo123/nivaldo321/87707
+#EXTINF:-1,TV Cultura PA
+http://cdn.swux.us:80/nivaldo123/nivaldo321/87735
+#EXTINF:-1,TV Diario CE FHD³
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140986
+#EXTINF:-1,TV Diario HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83313
+#EXTINF:-1,TV Diário do Sertão HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/141025
+#EXTINF:-1,Tv Escola
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83671
+#EXTINF:-1,TV Escola HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140931
+#EXTINF:-1,TV Evangelizar
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83673
+#EXTINF:-1,TV Gazeta HD SP
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83454
+#EXTINF:-1,TV Globinho FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126110
+#EXTINF:-1,TV Globinho HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83666
+#EXTINF:-1,TV Justica
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83648
+#EXTINF:-1,TV Justiça HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140932
+#EXTINF:-1,TV Leão De Juda ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136814
+#EXTINF:-1,TV Marajoara³
+http://cdn.swux.us:80/nivaldo123/nivaldo321/87711
+#EXTINF:-1,TV Morena Ponta Pora HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83479
+#EXTINF:-1,TV Morphy
+http://cdn.swux.us:80/nivaldo123/nivaldo321/122975
 #EXTINF:-1,TV Novo Tempo
-http://granipflix.com:8080/israel/12345/6454
-#EXTINF:-1,UNIVERSAL CHANNEL SD
-http://granipflix.com:8080/israel/12345/1500
-#EXTINF:-1,VH1 SD
-http://granipflix.com:8080/israel/12345/1501
-#EXTINF:-1,VIVA SD
-http://granipflix.com:8080/israel/12345/1502
-#EXTINF:-1,WARNER CHANNEL SD
-http://granipflix.com:8080/israel/12345/1503
-#EXTINF:-1,WOOHOO SD
-http://granipflix.com:8080/israel/12345/1504
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83665
+#EXTINF:-1,TV Novo Tempo HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83311
+#EXTINF:-1,TV Novo Tempo HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140933
+#EXTINF:-1,TV Pai Eterno ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140612
+#EXTINF:-1,TV Ra tim bum
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83650
+#EXTINF:-1,TV Ra Tim Bum HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83272
+#EXTINF:-1,TV RÁ Tim Bum HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140934
+#EXTINF:-1,TV Senado
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83651
+#EXTINF:-1,TV Senado HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140935
+#EXTINF:-1,TV Tem Bauru
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83652
+#EXTINF:-1,TV Universal²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/63027
+#EXTINF:-1,TV Vanguarda S.J. dos Campos
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83656
+#EXTINF:-1,TV Vanguarda S.J. dos Campos FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140740
+#EXTINF:-1,TV Vanguarda S.J. dos Campos HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140741
+#EXTINF:-1,TV5 Monde HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/81094
+#EXTINF:-1,Universal Channel TV HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140936
+#EXTINF:-1,Universal Channel TV
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83664
+#EXTINF:-1,Universal Channel TV FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136805
+#EXTINF:-1,Universal Channel TV FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83427
+#EXTINF:-1,Universal Channel TV HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83274
+#EXTINF:-1,Univesp TV
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83670
+#EXTINF:-1,VH1 FHD H.265 [d]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83367
+#EXTINF:-1,VH1 HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83275
+#EXTINF:-1,VH1 Megahits FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140940
+#EXTINF:-1,VH1 [Italia]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136711
+#EXTINF:-1,VillaMix em Casa [Só Modão]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136593
+#EXTINF:-1,Viva
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83659
+#EXTINF:-1,Viva FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/139114
+#EXTINF:-1,Viva FHD ³
+http://cdn.swux.us:80/nivaldo123/nivaldo321/86135
+#EXTINF:-1,Viva HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83276
+#EXTINF:-1,Warner Channel
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83660
+#EXTINF:-1,Warner Channel FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136807
+#EXTINF:-1,Warner Channel FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83428
+#EXTINF:-1,Warner Channel HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83277
+#EXTINF:-1,Warner Channel HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140938
+#EXTINF:-1,Web Radio Jesus a Luz do Mundo
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133444
+#EXTINF:-1,Wesley Safadão e Raça Negra [Skol Sunset]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136182
+#EXTINF:-1,WooHoo
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83661
+#EXTINF:-1,WooHoo FHD H.265
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83429
+#EXTINF:-1,WooHoo HD [Alt]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140939
+#EXTINF:-1,X-Men 01
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133416
+#EXTINF:-1,X-Men 02
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133417
+#EXTINF:-1,Xand Avião e os Barões da Pisadinha [Live Oficial]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/136181
+#EXTINF:-1,ZooMoo
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83662
+#EXTINF:-1,ZooMoo FHD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126114
+#EXTINF:-1,ZooMoo HD
+http://cdn.swux.us:80/nivaldo123/nivaldo321/126115
+#EXTINF:-1,Zé Neto e Cristiano [Live Barretão]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133627
+#EXTINF:-1,Zé Neto e Cristiano [Live Barzinho Aleatório]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133625
+#EXTINF:-1,Zé Neto e Cristiano [Live Dia da Cerveja]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133626
+#EXTINF:-1,[24hs] A Grande Familia - 01
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133411
+#EXTINF:-1,[24hs] A Grande Familia - 02
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133412
+#EXTINF:-1,[24hs] Chapolin 01
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62975
+#EXTINF:-1,[24hs] Chapolin 02
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83681
+#EXTINF:-1,[24hs] Chaves 01
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133414
+#EXTINF:-1,[24hs] Chaves 02
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83682
+#EXTINF:-1,[24hs] Friends - 01º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/89538
+#EXTINF:-1,[24hs] Friends - 02º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/89539
+#EXTINF:-1,[24hs] Friends - 03º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/89540
+#EXTINF:-1,[24hs] Friends - 04º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/89541
+#EXTINF:-1,[24hs] Friends - 05º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/89542
+#EXTINF:-1,[24hs] Friends - 06º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/89543
+#EXTINF:-1,[24hs] Friends - 07º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/89544
+#EXTINF:-1,[24hs] Friends - 08º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/89545
+#EXTINF:-1,[24hs] Friends - 09º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/89546
+#EXTINF:-1,[24hs] Friends - 10º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/89547
+#EXTINF:-1,[24HS] Porta dos Fundos 01
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140705
+#EXTINF:-1,[24HS] Porta dos Fundos 02
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140813
+#EXTINF:-1,[24hs] Rick And Morty - 01º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/137991
+#EXTINF:-1,[24hs] Rick And Morty - 02º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/137992
+#EXTINF:-1,[24hs] Rick And Morty - 03º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/137993
+#EXTINF:-1,[24hs] Rick And Morty - 04º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133413
+#EXTINF:-1,[24hs] Smallville - 01º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133433
+#EXTINF:-1,[24hs] Smallville - 02º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133435
+#EXTINF:-1,[24hs] Smallville - 03º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133436
+#EXTINF:-1,[24hs] Smallville - 04º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133437
+#EXTINF:-1,[24hs] Smallville - 05º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133438
+#EXTINF:-1,[24hs] Smallville - 06º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133439
+#EXTINF:-1,[24hs] Smallville - 07º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133440
+#EXTINF:-1,[24hs] Smallville - 08º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133441
+#EXTINF:-1,[24hs] Smallville - 09º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133442
+#EXTINF:-1,[24hs] Smallville - 10º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133443
+#EXTINF:-1,[24hs] Supernatural - 01º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133419
+#EXTINF:-1,[24hs] Supernatural - 02º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133420
+#EXTINF:-1,[24hs] Supernatural - 03º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133421
+#EXTINF:-1,[24hs] Supernatural - 04º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133422
+#EXTINF:-1,[24hs] Supernatural - 05º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133423
+#EXTINF:-1,[24hs] Supernatural - 06º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133424
+#EXTINF:-1,[24hs] Supernatural - 07º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133425
+#EXTINF:-1,[24hs] Supernatural - 08º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133426
+#EXTINF:-1,[24hs] Supernatural - 09º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133427
+#EXTINF:-1,[24hs] Supernatural - 10º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133428
+#EXTINF:-1,[24hs] Supernatural - 11º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133429
+#EXTINF:-1,[24hs] Supernatural - 12º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133430
+#EXTINF:-1,[24hs] Supernatural - 13º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133431
+#EXTINF:-1,[24hs] Supernatural - 14º Temporada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/133432
+#EXTINF:-1,[24HS] Thiago Ventura
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140704
+#EXTINF:-1,[24H] 3 Palavrinhas 02
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83751
+#EXTINF:-1,[24H] A Casa do Mickey Mouse
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140984
+#EXTINF:-1,[24H] A Feiticeira
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83758
+#EXTINF:-1,[24H] A Mansão Foster
+http://cdn.swux.us:80/nivaldo123/nivaldo321/544
+#EXTINF:-1,[24H] Aladdin
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83674
+#EXTINF:-1,[24H] Apenas um Show
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62978
+#EXTINF:-1,[24H] As Meninas Superpoderosas
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83675
+#EXTINF:-1,[24H] Auto da Comparecida
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62998
+#EXTINF:-1,[24H] BEN 10 - 01
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140811
+#EXTINF:-1,[24H] BEN 10 - 02
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62972
+#EXTINF:-1,[24H] Bita e os Animais
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83753
+#EXTINF:-1,[24H] Bob Esponja 01
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140950
+#EXTINF:-1,[24H] Bob Esponja 02
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83677
+#EXTINF:-1,[24H] Bob o Trem
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62983
+#EXTINF:-1,[24H] Bob Zoom
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62965
+#EXTINF:-1,[24H] Booba
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62952
+#EXTINF:-1,[24H] Breaking Bad
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83678
+#EXTINF:-1,[24H] Caillou
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62956
+#EXTINF:-1,[24H] Cascão A Turma da Monica
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62964
+#EXTINF:-1,[24H] Caverna do Dragão
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62995
+#EXTINF:-1,[24H] Caverna do Dragão
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83680
+#EXTINF:-1,[24H] Chaves Desenho
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83683
+#EXTINF:-1,[24H] Coragem o Cão Covarde
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62987
+#EXTINF:-1,[24H] Corrida Maluca
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62974
+#EXTINF:-1,[24H] Corrida Maluca
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83759
+#EXTINF:-1,[24H] Cão Coragem
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83679
+#EXTINF:-1,[24H] Denis - O Pimentinha
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83684
+#EXTINF:-1,[24H] Desenhos Disney
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83686
+#EXTINF:-1,[24H] Digimon
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83687
+#EXTINF:-1,[24H] Dois Homens e Meio
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83688
+#EXTINF:-1,[24H] Dora Aventureira 01
+http://cdn.swux.us:80/nivaldo123/nivaldo321/140789
+#EXTINF:-1,[24H] Dora Aventureira 02
+http://cdn.swux.us:80/nivaldo123/nivaldo321/89548
+#EXTINF:-1,[24H] Doug
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83689
+#EXTINF:-1,[24H] Dragon Ball
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83690
+#EXTINF:-1,[24H] Dragon Ball Super
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83692
+#EXTINF:-1,[24H] Dragon Ball Z
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83691
+#EXTINF:-1,[24H] Em Busca do Vale Encantado
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62985
+#EXTINF:-1,[24H] Escolinha do Professor Raimundo
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62951
+#EXTINF:-1,[24H] Eu a Patroa e as Crianças
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62986
+#EXTINF:-1,[24H] Eu a Patroa e as Crianças
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83693
+#EXTINF:-1,[24H] Formiga Atômica
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83694
+#EXTINF:-1,[24H] Galinha Pintadinha
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83695
+#EXTINF:-1,[24H] Galo e a Pata
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62968
+#EXTINF:-1,[24H] Garfield
+http://cdn.swux.us:80/nivaldo123/nivaldo321/70685
+#EXTINF:-1,[24H] Guardiões da Galaxia
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83696
+#EXTINF:-1,[24H] Guardiões da Galáxia
+http://cdn.swux.us:80/nivaldo123/nivaldo321/8121
+#EXTINF:-1,[24H] He-Man
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83697
+#EXTINF:-1,[24H] Historias Disney
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83699
+#EXTINF:-1,[24H] Homem de Ferro 01
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83701
+#EXTINF:-1,[24H] Homens de Preto
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83702
+#EXTINF:-1,[24H] Hércules
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83698
+#EXTINF:-1,[24H] Incrível Hulk
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83703
+#EXTINF:-1,[24H] Irmão do Jorel
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62994
+#EXTINF:-1,[24H] Jacarelvis
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62984
+#EXTINF:-1,[24H] Jack-Chan
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83704
+#EXTINF:-1,[24H] Jackass
+http://cdn.swux.us:80/nivaldo123/nivaldo321/70699
+#EXTINF:-1,[24H] Jaspion
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83705
+#EXTINF:-1,[24H] Jiraya - O Incrível Ninja
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83706
+#EXTINF:-1,[24H] Johnny Test
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62996
+#EXTINF:-1,[24H] Josie e as Gatinhas do Espaço
+http://cdn.swux.us:80/nivaldo123/nivaldo321/14238
+#EXTINF:-1,[24H] Kenan e Kel
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83707
+#EXTINF:-1,[24H] Larva Chiclete
+http://cdn.swux.us:80/nivaldo123/nivaldo321/63003
+#EXTINF:-1,[24H] Leo O-Caminhão
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62981
+#EXTINF:-1,[24H] Liga da Justica
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83754
+#EXTINF:-1,[24H] Looney Tunes
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62988
+#EXTINF:-1,[24H] Luluzinha
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62997
+#EXTINF:-1,[24H] Luluzinha
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83708
+#EXTINF:-1,[24H] Masha e o Urso
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62993
+#EXTINF:-1,[24H] Medabots
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83709
+#EXTINF:-1,[24H] MegaMan
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83710
+#EXTINF:-1,[24H] Moranguinho
+http://cdn.swux.us:80/nivaldo123/nivaldo321/63005
+#EXTINF:-1,[24H] Mortal Kombat
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83711
+#EXTINF:-1,[24H]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83712
+#EXTINF:-1,[24H] Naruto
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83713
+#EXTINF:-1,[24H] Naruto Shippuden [Dublado]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83714
+#EXTINF:-1,[24H] O Fantástico Mundo de Bobby
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83715
+#EXTINF:-1,[24H] O Fantástico Mundo de Bobby
+http://cdn.swux.us:80/nivaldo123/nivaldo321/14212
+#EXTINF:-1,[24H] O Inspetor
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83716
+#EXTINF:-1,[24H] O Maskara
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83717
+#EXTINF:-1,[24H] Oggy e as Baratas
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62955
+#EXTINF:-1,[24H] Os Anjinhos - Rugrats
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83718
+#EXTINF:-1,[24H] Os Cavaleiros do Zodiaco
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83719
+#EXTINF:-1,[24H] Os Flinstones
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83720
+#EXTINF:-1,[24H] Os Patos
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62992
+#EXTINF:-1,[24H] Os Simpsons
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83721
+#EXTINF:-1,[24H] Os Trapalhões
+http://cdn.swux.us:80/nivaldo123/nivaldo321/263
+#EXTINF:-1,[24H] Os Vingadores
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83722
+#EXTINF:-1,[24H] Pantera Cor de Rosa
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62990
+#EXTINF:-1,[24H] Papa-Léguas
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83723
+#EXTINF:-1,[24H] Patati e Patata [anime]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62979
+#EXTINF:-1,[24H] Patati-Patata
+http://cdn.swux.us:80/nivaldo123/nivaldo321/264
+#EXTINF:-1,[24H] Pato Donald
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62991
+#EXTINF:-1,[24H] Peppa Pig
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83724
+#EXTINF:-1,[24H] Peppa Pig
+http://cdn.swux.us:80/nivaldo123/nivaldo321/8114
+#EXTINF:-1,[24H] Pequena Sereia
+http://cdn.swux.us:80/nivaldo123/nivaldo321/8116
+#EXTINF:-1,[24H] Pernalonga
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83725
+#EXTINF:-1,[24H] Phineas e Ferb
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83726
+#EXTINF:-1,[24H] Pica Pau
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62973
+#EXTINF:-1,[24H] Pica Pau
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83727
+#EXTINF:-1,[24H] Pink-e-Cerebro
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83728
+#EXTINF:-1,[24H] Pintinho Amarelinho
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62963
+#EXTINF:-1,[24H] PJ Masks
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62958
+#EXTINF:-1,[24H] Pokemon
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83729
+#EXTINF:-1,[24H] Popeye - O Marinheiro
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83730
+#EXTINF:-1,[24H] Popeye 1940
+http://cdn.swux.us:80/nivaldo123/nivaldo321/141023
+#EXTINF:-1,[24H] Princesa e o Dragão
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62982
+#EXTINF:-1,[24H] Rambo
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83731
+#EXTINF:-1,[24H] Reino Gelado
+http://cdn.swux.us:80/nivaldo123/nivaldo321/63001
+#EXTINF:-1,[24H] Rimas de Berçário
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62966
+#EXTINF:-1,[24H] Roda do Ônibus
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62967
+#EXTINF:-1,[24H] Sakura Card
+http://cdn.swux.us:80/nivaldo123/nivaldo321/280
+#EXTINF:-1,[24H] Samurai Warriors
+http://cdn.swux.us:80/nivaldo123/nivaldo321/269
+#EXTINF:-1,[24H] Samurai X
+http://cdn.swux.us:80/nivaldo123/nivaldo321/16194
+#EXTINF:-1,[24H] Sapo Não Lava o Pé
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62976
+#EXTINF:-1,[24H] Scooby-Doo
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83732
+#EXTINF:-1,[24H] Shaman King
+http://cdn.swux.us:80/nivaldo123/nivaldo321/270
+#EXTINF:-1,[24H] Shera
+http://cdn.swux.us:80/nivaldo123/nivaldo321/63002
+#EXTINF:-1,[24H] Shinzo
+http://cdn.swux.us:80/nivaldo123/nivaldo321/281
+#EXTINF:-1,[24H] Show da Luna
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62957
+#EXTINF:-1,[24H] Shurato
+http://cdn.swux.us:80/nivaldo123/nivaldo321/271
+#EXTINF:-1,[24H] Silver Hawks
+http://cdn.swux.us:80/nivaldo123/nivaldo321/272
+#EXTINF:-1,[24H] Simon
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62980
+#EXTINF:-1,[24H] Sitio do Pica-Pau Amarelo
+http://cdn.swux.us:80/nivaldo123/nivaldo321/63000
+#EXTINF:-1,[24H] Smallville
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83733
+#EXTINF:-1,[24H] Sobrenatural
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83734
+#EXTINF:-1,[24H] South Park
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83735
+#EXTINF:-1,[24H] Space Goofs
+http://cdn.swux.us:80/nivaldo123/nivaldo321/14249
+#EXTINF:-1,[24H] Speed-Racer
+http://cdn.swux.us:80/nivaldo123/nivaldo321/265
+#EXTINF:-1,[24H] Steven Universe
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83736
+#EXTINF:-1,[24H] Super Choque
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83757
+#EXTINF:-1,[24H] Super Galo
+http://cdn.swux.us:80/nivaldo123/nivaldo321/8124
+#EXTINF:-1,[24H] Super Mario Bros
+http://cdn.swux.us:80/nivaldo123/nivaldo321/273
+#EXTINF:-1,[24H] Superman
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83737
+#EXTINF:-1,[24H] Tartarugas Ninjas
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83738
+#EXTINF:-1,[24H] Team-Galaxy
+http://cdn.swux.us:80/nivaldo123/nivaldo321/266
+#EXTINF:-1,[24H] Thundercats
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83739
+#EXTINF:-1,[24H] Timao e Pubma
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83740
+#EXTINF:-1,[24H] Timão e Pumba
+http://cdn.swux.us:80/nivaldo123/nivaldo321/274
+#EXTINF:-1,[24H] Todo Mundo Odeia o Chris
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83741
+#EXTINF:-1,[24H] Tom & Jerry
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83742
+#EXTINF:-1,[24H] Tom e Jerry
+http://cdn.swux.us:80/nivaldo123/nivaldo321/15415
+#EXTINF:-1,[24H] Três Espiãs Demais
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83743
+#EXTINF:-1,[24H] Turma do Pateta
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62989
+#EXTINF:-1,[24H] Ultraman
+http://cdn.swux.us:80/nivaldo123/nivaldo321/267
+#EXTINF:-1,[24H] Um Maluco no Pedaço
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83744
+#EXTINF:-1,[24H] Um Maluco no Pedaço
+http://cdn.swux.us:80/nivaldo123/nivaldo321/14359
+#EXTINF:-1,[24H] Uma Família da Pesada
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83745
+#EXTINF:-1,[24H] Ursinhos Carinhos
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83746
+#EXTINF:-1,[24H] Vai que Cola
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83755
+#EXTINF:-1,[24H] Wally Gator
+http://cdn.swux.us:80/nivaldo123/nivaldo321/276
+#EXTINF:-1,[24H] X-Man
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83747
+#EXTINF:-1,[24H] Xena
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83748
+#EXTINF:-1,[24H] Xuxa só para Baixinhos
+http://cdn.swux.us:80/nivaldo123/nivaldo321/62953
+#EXTINF:-1,[24H] YU-YU-Hakusho
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83750
+#EXTINF:-1,[24H] Zatch Bell
+http://cdn.swux.us:80/nivaldo123/nivaldo321/279
+#EXTINF:-1,[24H] Zé Buscapé
+http://cdn.swux.us:80/nivaldo123/nivaldo321/278
+#EXTINF:-1,[24H]Homem Aranha
+http://cdn.swux.us:80/nivaldo123/nivaldo321/83700
+#EXTINF:-1,[tokusatsu] Black Kamen Rider
+http://cdn.swux.us:80/nivaldo123/nivaldo321/122541
+#EXTINF:-1,[tokusatsu] JIRAYA
+http://cdn.swux.us:80/nivaldo123/nivaldo321/122179
+#EXTINF:-1,CNN Brasil 4K FHDR²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142009
+#EXTINF:-1,WooHoo HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142120
+#EXTINF:-1,Conmebol TV 01 4K ²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/141401
+#EXTINF:-1,A&E HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142027
+#EXTINF:-1,Agromais HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142028
+#EXTINF:-1,AMC HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142029
+#EXTINF:-1,Animal Planet HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142030
+#EXTINF:-1,Arte 1 HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142031
+#EXTINF:-1,AXN HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142032
+#EXTINF:-1,BAND News HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142033
+#EXTINF:-1,BAND SC HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142034
+#EXTINF:-1,BAND Sports HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142035
+#EXTINF:-1,BIS HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142036
+#EXTINF:-1,Boomerang HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142037
+#EXTINF:-1,Canal Brasil HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142038
+#EXTINF:-1,Cartoon Network HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142039
+#EXTINF:-1,Cinemax HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142040
+#EXTINF:-1,Combate HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142041
+#EXTINF:-1,Comedy Central HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142042
+#EXTINF:-1,Cultura HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142043
+#EXTINF:-1,Discovery Channel HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142044
+#EXTINF:-1,Discovery Home & Health HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142045
+#EXTINF:-1,Discovery ID HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142046
+#EXTINF:-1,Discovery Kids HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142047
+#EXTINF:-1,Discovery Science HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142048
+#EXTINF:-1,Discovery Theater HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142049
+#EXTINF:-1,Discovery Turbo HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142050
+#EXTINF:-1,Discovery World HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142051
+#EXTINF:-1,Disney HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142052
+#EXTINF:-1,Disney JR HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142053
+#EXTINF:-1,E! HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142054
+#EXTINF:-1,ESPN Brasil HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142055
+#EXTINF:-1,ESPN Extra HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142056
+#EXTINF:-1,ESPN1 HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142057
+#EXTINF:-1,ESPN2 HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142058
+#EXTINF:-1,Fashion TV HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142059
+#EXTINF:-1,Film & Arts HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142060
+#EXTINF:-1,Food Network HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142061
+#EXTINF:-1,FOX Channel HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142062
+#EXTINF:-1,FOX Life HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142063
+#EXTINF:-1,FOX Premium 1 HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142064
+#EXTINF:-1,FOX Premium 2 HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142065
+#EXTINF:-1,FOX Sports 1 HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142066
+#EXTINF:-1,FOX Sports 2 HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142067
+#EXTINF:-1,FX HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142068
+#EXTINF:-1,Globo News HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142069
+#EXTINF:-1,Futura HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142070
+#EXTINF:-1,Gloob HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142071
+#EXTINF:-1,GNT HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142072
+#EXTINF:-1,H2 HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142073
+#EXTINF:-1,HBO Family HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142074
+#EXTINF:-1,HBO1 HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142075
+#EXTINF:-1,HBO Mundi HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142076
+#EXTINF:-1,HBO Pop HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142077
+#EXTINF:-1,HBO Signature HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142078
+#EXTINF:-1,HBO Xtreme HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142079
+#EXTINF:-1,HBO+ HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142080
+#EXTINF:-1,HBO2 HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142081
+#EXTINF:-1,History HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142082
+#EXTINF:-1,Lifetime HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142083
+#EXTINF:-1,Mais Na Tela HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142084
+#EXTINF:-1,Megapix HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142085
+#EXTINF:-1,MTV HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142086
+#EXTINF:-1,MTV Live HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142087
+#EXTINF:-1,Multishow HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142088
+#EXTINF:-1,Natgeo Kids HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142089
+#EXTINF:-1,Nickelodeon HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142090
+#EXTINF:-1,Nick Jr HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142091
+#EXTINF:-1,NSC Florianópolis HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142092
+#EXTINF:-1,OFF HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142093
+#EXTINF:-1,Paramount HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142094
+#EXTINF:-1,Premiere Clubes HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142096
+#EXTINF:-1,Premiere 2 HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142097
+#EXTINF:-1,Premiere 3 HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142098
+#EXTINF:-1,Premiere 4 HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142099
+#EXTINF:-1,Premiere 5 HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142100
+#EXTINF:-1,SBT HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142101
+#EXTINF:-1,Canal Sony HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142102
+#EXTINF:-1,Space HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142103
+#EXTINF:-1,SporTV 1 HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142104
+#EXTINF:-1,SporTV 2 HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142105
+#EXTINF:-1,SporTV 3 HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142106
+#EXTINF:-1,TBS HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142107
+#EXTINF:-1,Telecine Action HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142108
+#EXTINF:-1,Telecine Cult HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142109
+#EXTINF:-1,Telecine Fun HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142110
+#EXTINF:-1,Telecine Pipoca HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142111
+#EXTINF:-1,Telecine Premium HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142112
+#EXTINF:-1,Telecine Touch HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142113
+#EXTINF:-1,TLC HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142114
+#EXTINF:-1,TNT HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142115
+#EXTINF:-1,TNT Series HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142116
+#EXTINF:-1,TV Rá Tim Bum HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142117
+#EXTINF:-1,Universal Channel TV HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142118
+#EXTINF:-1,Warner Channel HD [Alt 2]
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142119
+#EXTINF:-1,[24H] Homem de Ferro 02
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142121
+#EXTINF:-1,[24H] Homem de Ferro 1994
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142122
+#EXTINF:-1,PREMIERE CLUBES HD 4K²
+http://cdn.swux.us:80/nivaldo123/nivaldo321/142008
